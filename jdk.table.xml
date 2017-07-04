@@ -1,0 +1,480 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/.virtualenvs/default" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/.virtualenvs/default/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/default/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/default/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/default/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/-1209183867" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.6 (ssh://ubuntu@192.168.0.252:22/home/ubuntu/af-env/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="ssh://ubuntu@192.168.0.252:22/home/ubuntu/af-env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-544179370/739382075" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-544179370/2101603314" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-544179370/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-544179370/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-544179370/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-544179370/-1030190350" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-544179370/-1043637930" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/-544179370" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="192.168.0.252" PORT="22" USERNAME="ubuntu" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/home/ubuntu/af-env/bin/python" HELPERS_PATH="/home/ubuntu/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.6">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-544179370/739382075" remote-root="/home/ubuntu/af-env/src/codis-master" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-544179370/2101603314" remote-root="/home/ubuntu/af-env/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-544179370/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-544179370/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-544179370/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-544179370/-1030190350" remote-root="/home/ubuntu/af-env/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/-544179370/-1043637930" remote-root="/home/ubuntu/af-env/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.6 (ssh://ubuntu@121.41.0.11:22/home/ubuntu/af-env/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="ssh://ubuntu@121.41.0.11:22/home/ubuntu/af-env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/493556727/739382075" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/493556727/2101603314" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/493556727/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/493556727/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/493556727/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/493556727/-1030190350" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/493556727/-1043637930" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/493556727/ipaynow-1.0.0-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm50/remote_sources/493556727/ipaynow-1.0.0-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/493556727" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="121.41.0.11" PORT="22" USERNAME="ubuntu" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/home/ubuntu/af-env/bin/python" HELPERS_PATH="/home/ubuntu/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.6">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/493556727/739382075" remote-root="/home/ubuntu/af-env/src/codis-master" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/493556727/2101603314" remote-root="/home/ubuntu/af-env/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/493556727/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/493556727/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/493556727/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/493556727/-1030190350" remote-root="/home/ubuntu/af-env/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/493556727/-1043637930" remote-root="/home/ubuntu/af-env/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/493556727/ipaynow-1.0.0-py2.7.egg" remote-root="/home/ubuntu/af-env/local/lib/python2.7/site-packages/ipaynow-1.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm50/remote_sources/493556727/ipaynow-1.0.0-py2.7.egg" remote-root="/home/ubuntu/af-env/lib/python2.7/site-packages/ipaynow-1.0.0-py2.7.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 virtualenv at ~/.pyenv/versions/nodeshot" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="$USER_HOME$/.pyenv/versions/nodeshot/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/nodeshot/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/nodeshot/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-mac" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/nodeshot/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/1694883011" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.6 (ssh://ubuntu@121.41.6.238:22/home/ubuntu/af-env/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="ssh://ubuntu@121.41.6.238:22/home/ubuntu/af-env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2034491794/ipaynow-1.0.0-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2034491794/ipaynow-1.0.0-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2034491794/2101603314" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2034491794/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2034491794/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2034491794/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2034491794/-1030190350" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2034491794/-1043637930" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-2034491794/ipaynow-1.0.0-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-2034491794/ipaynow-1.0.0-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-2034491794/2101603314" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-2034491794/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-2034491794/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-2034491794/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-2034491794/-1030190350" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-2034491794/-1043637930" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-2034491794" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="121.41.6.238" PORT="22" USERNAME="ubuntu" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/home/ubuntu/af-env/bin/python" HELPERS_PATH="/home/ubuntu/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.6">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-2034491794/ipaynow-1.0.0-py2.7.egg" remote-root="/home/ubuntu/af-env/local/lib/python2.7/site-packages/ipaynow-1.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-2034491794/ipaynow-1.0.0-py2.7.egg" remote-root="/home/ubuntu/af-env/lib/python2.7/site-packages/ipaynow-1.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-2034491794/2101603314" remote-root="/home/ubuntu/af-env/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-2034491794/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-2034491794/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-2034491794/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-2034491794/-1030190350" remote-root="/home/ubuntu/af-env/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/-2034491794/-1043637930" remote-root="/home/ubuntu/af-env/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-2034491794/ipaynow-1.0.0-py2.7.egg" remote-root="/home/ubuntu/af-env/local/lib/python2.7/site-packages/ipaynow-1.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-2034491794/ipaynow-1.0.0-py2.7.egg" remote-root="/home/ubuntu/af-env/lib/python2.7/site-packages/ipaynow-1.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-2034491794/2101603314" remote-root="/home/ubuntu/af-env/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-2034491794/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-2034491794/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-2034491794/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-2034491794/-1030190350" remote-root="/home/ubuntu/af-env/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-2034491794/-1043637930" remote-root="/home/ubuntu/af-env/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2034491794/ipaynow-1.0.0-py2.7.egg" remote-root="/home/ubuntu/af-env/local/lib/python2.7/site-packages/ipaynow-1.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2034491794/ipaynow-1.0.0-py2.7.egg" remote-root="/home/ubuntu/af-env/lib/python2.7/site-packages/ipaynow-1.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2034491794/2101603314" remote-root="/home/ubuntu/af-env/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2034491794/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2034491794/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2034491794/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2034491794/-1030190350" remote-root="/home/ubuntu/af-env/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2034491794/-1043637930" remote-root="/home/ubuntu/af-env/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-2034491794/1126102419" remote-root="/home/ubuntu/af-env/lib/python2.7/si" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-2034491794/ipaynow-1.0.0-py2.7.egg" remote-root="/home/ubuntu/af-env/local/lib/python2.7/site-packages/ipaynow-1.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-2034491794/ipaynow-1.0.0-py2.7.egg" remote-root="/home/ubuntu/af-env/lib/python2.7/site-packages/ipaynow-1.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-2034491794/2101603314" remote-root="/home/ubuntu/af-env/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-2034491794/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-2034491794/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-2034491794/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-2034491794/-1030190350" remote-root="/home/ubuntu/af-env/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-2034491794/-1043637930" remote-root="/home/ubuntu/af-env/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 virtualenv at ~/.pyenv/versions/lower-django" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="$USER_HOME$/.pyenv/versions/lower-django/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/lower-django/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/lower-django/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-mac" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/lower-django/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-205607368" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Kahlua" />
+      <type value="Lua SDK" />
+      <homePath value="" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/IDLua/stdlibrary" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="LuaJ" />
+      <type value="Lua SDK" />
+      <homePath value="" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/IDLua/stdlibrary" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.6 virtualenv at ~/.pyenv/versions/sluck" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="$USER_HOME$/.pyenv/versions/sluck/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/sluck/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/sluck/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-mac" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/sluck/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/16270531" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 virtualenv at ~/.pyenv/versions/oscar" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="$USER_HOME$/.pyenv/versions/oscar/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/oscar/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/oscar/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-mac" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/oscar/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/1726873719" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 virtualenv at ~/.pyenv/versions/hug" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="$USER_HOME$/.pyenv/versions/hug/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/hug/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/358071725" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/workspace/throne_api" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 virtualenv at ~/.pyenv/versions/sikr" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="$USER_HOME$/.pyenv/versions/sikr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/sikr/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/1865402850" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 virtualenv at ~/.pyenv/versions/throne_api" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="$USER_HOME$/.pyenv/versions/throne_api/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/throne_api/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-1842760484" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 (~/.pyenv/versions/2.7.11/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="$USER_HOME$/.pyenv/versions/2.7.11/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-mac" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/2.7.11/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/1463673836" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.6 (ssh://ubuntu@121.40.29.144:22/home/ubuntu/af-env/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="ssh://ubuntu@121.40.29.144:22/home/ubuntu/af-env/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="121.40.29.144" PORT="22" USERNAME="ubuntu" PRIVATE_KEY_FILE="$USER_HOME$/Dropbox/ssh/id_rsa" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/home/ubuntu/af-env/bin/python2.7" HELPERS_PATH="/home/ubuntu/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 virtualenv at ~/.pyenv/versions/casino" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="$USER_HOME$/.pyenv/versions/casino/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.pyenv/versions/casino/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-2019979734" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
