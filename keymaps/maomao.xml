@@ -1,5 +1,9 @@
 <keymap version="1" name="maomao" parent="Mac OS X 10.5+">
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
@@ -20,8 +24,12 @@
   <action id="EditorDuplicate" />
   <action id="EditorSplitLine" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="FindNext" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
@@ -94,5 +102,6 @@
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
 </keymap>
