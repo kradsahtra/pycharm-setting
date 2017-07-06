@@ -78,6 +78,12 @@
         <mark key="." line="211" column="27" />
         <mark key="^" line="211" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckyweb/templates/op/OrderDetail.html" timestamp="1499326208257">
+        <mark key="[" line="135" column="75" />
+        <mark key="]" line="135" column="79" />
+        <mark key="." line="135" column="79" />
+        <mark key="^" line="135" column="79" />
+      </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/tools/ban_user_by_pay_id.py" timestamp="1496802802729">
         <mark key="'" line="1" column="37" />
         <mark key="[" line="1" column="0" />
@@ -290,11 +296,11 @@
         <mark key="." line="23" column="58" />
         <mark key="^" line="23" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499311080982">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="31" />
-        <mark key="^" line="0" column="31" />
-        <mark key="." line="0" column="31" />
+      <file name="/Dummy.txt" timestamp="1499326265832">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/tools/syncdb.py" timestamp="1499241551283">
         <mark key="'" line="16" column="25" />
@@ -466,16 +472,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">X0FXQVJEX0NSRURJVF9VTklUID0gMTAK</text>
+      <register name="0" type="4">
+        <text encoding="base64">PCU9IGluZm8ucmVjZWlwdF9hZGRyZXNzLnBob25lICU+</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJldHVybiBwYXkK</text>
@@ -508,7 +514,7 @@
         <text encoding="base64">ICAgIHF1YW50aXR5ID0gb3JtLkNvbHVtbihvcm0uSW50ZWdlcikK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2FkbWluL2x1Y2t5L2c=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -562,8 +568,8 @@
         <entry>152</entry>
         <entry>49</entry>
         <entry>319</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2FkbWluL2x1Y2t5L2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
