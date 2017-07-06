@@ -39,11 +39,11 @@
         <mark key="." line="23" column="62" />
         <mark key="^" line="23" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice-id/luckyplatform/settings_online.py" timestamp="1499063051890">
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckyplatform/settings_online.py" timestamp="1499338583549">
         <mark key="'" line="90" column="0" />
-        <mark key="[" line="67" column="20" />
-        <mark key="]" line="67" column="21" />
-        <mark key="." line="67" column="21" />
+        <mark key="[" line="66" column="10" />
+        <mark key="]" line="66" column="13" />
+        <mark key="." line="66" column="13" />
         <mark key="^" line="66" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckyplatform/env_settings.py" timestamp="1499063073402">
@@ -202,9 +202,6 @@
         <mark key="." line="12" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/sluck-heka/lucky.toml" timestamp="1499334948072" />
-      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/coda_pay.py" timestamp="1499322979300">
-        <mark key="'" line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/luckyas/README.md" timestamp="1499237921416">
         <mark key="'" line="27" column="21" />
         <mark key="[" line="99" column="80" />
@@ -319,7 +316,7 @@
         <mark key="." line="23" column="58" />
         <mark key="^" line="23" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499335719516">
+      <file name="/Dummy.txt" timestamp="1499338586295">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="26" />
@@ -491,11 +488,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/workspace/luckyas/admin/models/lucky_account_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwYXlfdHlwZXNbUGF5VHlwZS5IVUFXRUlfRVBBWS52YWx1ZV0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBY2NvdW50TG9ja2VkRXhjZXB0aW9uXD4=</text>
