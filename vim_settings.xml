@@ -60,6 +60,13 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="38" column="66" />
       </file>
+      <file name="$USER_HOME$/workspace/luckyas/admin/models/lucky_account_model.py" timestamp="1499333468583">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/tools/daily_popular.py" timestamp="1498015115805">
         <mark key="'" line="64" column="15" />
         <mark key="[" line="65" column="0" />
@@ -120,6 +127,12 @@
         <mark key="]" line="70" column="26" />
         <mark key="." line="70" column="26" />
         <mark key="^" line="70" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/luckyas/admin/controllers/lucky_account_handler.py" timestamp="1499333854384">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckyapi/logic/recharge_card.py" timestamp="1496805712059">
         <mark key="'" line="41" column="4" />
@@ -332,10 +345,10 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyas/admin/models/lucky_pay_model.py" timestamp="1499313232785">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="8" />
+      <file name="$USER_HOME$/workspace/luckyas/admin/models/lucky_pay_model.py" timestamp="1499333231828">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="19" column="23" />
         <mark key="." line="16" column="17" />
         <mark key="^" line="15" column="38" />
       </file>
@@ -346,7 +359,7 @@
         <mark key="^" line="226" column="19" />
         <mark key="." line="226" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyas/admin/views/lucky_pay_view.py" timestamp="1499332884758">
+      <file name="$USER_HOME$/workspace/luckyas/admin/views/lucky_pay_view.py" timestamp="1499333001787">
         <mark key="'" line="33" column="23" />
         <mark key="[" line="33" column="26" />
         <mark key="]" line="34" column="23" />
@@ -369,12 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="55" filename="$USER_HOME$/workspace/luckyservice-id/tools/api_stats.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/workspace/luckyservice-id/tools/api_stats.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/luckyservice-id/tools/api_stats.py" />
-      <jump line="154" column="0" filename="$USER_HOME$/workspace/luckyservice-id/tools/api_stats.py" />
-      <jump line="20" column="35" filename="$USER_HOME$/workspace/luckyservice-id/tools/check_pay.py" />
-      <jump line="22" column="35" filename="$USER_HOME$/workspace/luckyservice-id/tools/daily_order.py" />
       <jump line="86" column="19" filename="$USER_HOME$/workspace/luckyservice-id/tools/daily_order.py" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/luckyservice-id/tools/daily_order.py" />
       <jump line="16" column="35" filename="$USER_HOME$/workspace/luckyservice-id/tools/daily_popular.py" />
@@ -469,49 +476,55 @@
       <jump line="8" column="51" filename="$USER_HOME$/workspace/luckyas/common/utils/decorators.py" />
       <jump line="50" column="12" filename="$USER_HOME$/workspace/luckyas/common/utils/decorators.py" />
       <jump line="33" column="23" filename="$USER_HOME$/workspace/luckyas/admin/views/lucky_pay_view.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/luckyas/admin/models/lucky_account_model.py" />
+      <jump line="11" column="30" filename="$USER_HOME$/workspace/luckyas/admin/models/lucky_pay_model.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/luckyas/admin/models/lucky_account_model.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/luckyas/admin/models/lucky_pay_model.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/luckyas/admin/models/lucky_account_model.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/luckyas/admin/models/lucky_account_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>anggiaulima</text>
+        <text>pass</text>
       </register>
       <register name="-" type="4">
-        <text>anggiaulima</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBY2NvdW50TG9ja2VkRXhjZXB0aW9uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ25hbWUnOiAnQmFuayBUcmFuc2ZlciBBJywKICAgICAgICAgICAgICAgICdwaG9uZSc6ICdMaW5lOiBhbmdnaWF1bGltYScsCiAgICAgICAgICAgICAgICAnaW1nJzogJ2h0dHA6Ly9wLjF5dWFuLWdvdS5jb20vQmFua1RyYW5zZmVyX0EucG5nJwogICAgICAgICAgICB9LAo=</text>
+      <register name="0" type="4">
+        <text>LuckyAccount</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBqd3RfdG9rZW4gPSBjcmVhdGVfand0X3Rva2VuKGFjY291bnQudXNlcl9pZCkK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIGFjY291bnQgPSBjcmVhdGVfYWNjb3VudCh1c2VybmFtZSwgcGFzc3dvcmQpCiAgICAgICAgZXhjZXB0IHBlZXdlZS5JbnRlZ3JpdHlFcnJvciBhcyBlOgogICAgICAgICAgICByYWlzZSBmYWxjb24uSFRUUEludGVybmFsU2VydmVyRXJyb3IoCiAgICAgICAgICAgICAgICAiRGF0YWJhc2UgZXJyb3IiLAogICAgICAgICAgICAgICAgc3RyKGUpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VybmFtZSA9IHBhcmFtcy5nZXQoJ3VzZXJuYW1lJykK</text>
+        <text encoding="base64">ICAgIF9fdGFibGVuYW1lX18gPSAiYWNjb3VudCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZWQoJ3Bhc3N3b3JkJyk6IEFsbChzdHIsIExlbmd0aChtaW49NiwgbWF4PTIwKSksCg==</text>
+        <text encoding="base64">ICAgIHN0YXR1cyA9IG9ybS5Db2x1bW4ob3JtLkludGVnZXIsIGRlZmF1bHQ9MCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlzX3ZpcnR1YWwgPSBvcm0uQ29sdW1uKG9ybS5Cb29sZWFuLCBkZWZhdWx0PUZhbHNlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4dGVuZCA9IG9ybS5Db2x1bW4ob3JtLlRFWFQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGNhbl9hY2NvdW50X2JldChyZXEsIHJlcywgcmVzb3VyY2UsIHBhcmFtcyk6CiAgICB1c2VyX2lkID0gcmVxLmNvbnRleHQuZ2V0KCd1c2VyX2lkJykKICAgIHRvZGF5X2Ftb3VudCA9IGdldF90b2RheV9hbW91bnQodXNlcl9pZCkgb3IgMAogICAgaWYgaW50KHRvZGF5X2Ftb3VudCkgPiBzZXR0aW5ncy5EQUlMWV9NQVhfQkVUX0FNT1VOVDoKICAgICAgICByYWlzZSBSaXNrRXhjZXB0aW9uKCdyZWFjaGVkIGxpbWl0JykKICAgIGlmIGNoZWNrX3VzZXJfbG9jayh1c2VyX2lkKSBvciBjaGVja19iYW5rZXJfbG9jayh1c2VyX2lkKToKICAgICAgICByYWlzZSBBY2NvdW50TG9ja2VkRXhjZXB0aW9uKCdhY2NvdW50IGxvY2tlZCcpCg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZWRfYXQgPSBvcm0uQ29sdW1uKG9ybS5EQVRFVElNRSkKICAgIHVwZGF0ZWRfYXQgPSBvcm0uQ29sdW1uKG9ybS5EQVRFVElNRSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZWQoJ3Bhc3N3b3JkJyk6IEFsbChzdHIsIExlbmd0aChtaW49NiwgbWF4PTIwKSksCg==</text>
+        <text encoding="base64">ICAgIGNyZWRpdCA9IG9ybS5Db2x1bW4ob3JtLkludGVnZXIsIGRlZmF1bHQ9MCkgICAgICAjIOi0puaIt+enr+WIhgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
