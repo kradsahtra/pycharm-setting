@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1499330747523">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/luckyas/common/utils/authentication.py" timestamp="1499225635520">
         <mark key="'" line="15" column="15" />
         <mark key="[" line="15" column="15" />
@@ -158,12 +161,12 @@
         <mark key="." line="108" column="20" />
         <mark key="^" line="107" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyas/admin/routes.py" timestamp="1499329675574">
+      <file name="$USER_HOME$/workspace/luckyas/admin/routes.py" timestamp="1499330367923">
         <mark key="'" line="7" column="29" />
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="10" column="66" />
-        <mark key="." line="10" column="66" />
-        <mark key="^" line="10" column="66" />
+        <mark key="[" line="11" column="50" />
+        <mark key="]" line="11" column="67" />
+        <mark key="." line="11" column="67" />
+        <mark key="^" line="11" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/recharge_card.py" timestamp="1497861461076">
         <mark key="'" line="9" column="6" />
@@ -269,6 +272,9 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="23" />
       </file>
+      <file name="/Django Console" timestamp="1499330699681">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/tools/daily_order.py" timestamp="1498015092932">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="82" column="4" />
@@ -337,12 +343,12 @@
         <mark key="^" line="226" column="19" />
         <mark key="." line="226" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyas/admin/views/lucky_pay_view.py" timestamp="1499329428972">
+      <file name="$USER_HOME$/workspace/luckyas/admin/views/lucky_pay_view.py" timestamp="1499330499593">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="27" />
-        <mark key="^" line="23" column="27" />
-        <mark key="." line="23" column="27" />
+        <mark key="[" line="47" column="22" />
+        <mark key="]" line="47" column="32" />
+        <mark key="^" line="47" column="32" />
+        <mark key="." line="47" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/utils/exceptions.py" timestamp="1496649822743">
         <mark key="'" line="12" column="20" />
@@ -462,20 +468,20 @@
       <jump line="50" column="12" filename="$USER_HOME$/workspace/luckyas/common/utils/decorators.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>username</text>
       </register>
       <register name="-" type="4">
-        <text>AccountLockedException</text>
+        <text>username</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBY2NvdW50TG9ja2VkRXhjZXB0aW9uXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>get_pay_by_id</text>
+        <text>BatchGetUIDByPayID</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZWQoJ3Bhc3N3b3JkJyk6IEFsbChzdHIsIExlbmd0aChtaW49NiwgbWF4PTIwKSksCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -484,25 +490,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGNhbl9hY2NvdW50X2JldChyZXEsIHJlcywgcmVzb3VyY2UsIHBhcmFtcyk6CiAgICB1c2VyX2lkID0gcmVxLmNvbnRleHQuZ2V0KCd1c2VyX2lkJykKICAgIHRvZGF5X2Ftb3VudCA9IGdldF90b2RheV9hbW91bnQodXNlcl9pZCkgb3IgMAogICAgaWYgaW50KHRvZGF5X2Ftb3VudCkgPiBzZXR0aW5ncy5EQUlMWV9NQVhfQkVUX0FNT1VOVDoKICAgICAgICByYWlzZSBSaXNrRXhjZXB0aW9uKCdyZWFjaGVkIGxpbWl0JykKICAgIGlmIGNoZWNrX3VzZXJfbG9jayh1c2VyX2lkKSBvciBjaGVja19iYW5rZXJfbG9jayh1c2VyX2lkKToKICAgICAgICByYWlzZSBBY2NvdW50TG9ja2VkRXhjZXB0aW9uKCdhY2NvdW50IGxvY2tlZCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZWQoJ3Bhc3N3b3JkJyk6IEFsbChzdHIsIExlbmd0aChtaW49NiwgbWF4PTIwKSksCg==</text>
+        <text encoding="base64">ZGVmIGNhbl9hY2NvdW50X2JldChyZXEsIHJlcywgcmVzb3VyY2UsIHBhcmFtcyk6CiAgICB1c2VyX2lkID0gcmVxLmNvbnRleHQuZ2V0KCd1c2VyX2lkJykKICAgIHRvZGF5X2Ftb3VudCA9IGdldF90b2RheV9hbW91bnQodXNlcl9pZCkgb3IgMAogICAgaWYgaW50KHRvZGF5X2Ftb3VudCkgPiBzZXR0aW5ncy5EQUlMWV9NQVhfQkVUX0FNT1VOVDoKICAgICAgICByYWlzZSBSaXNrRXhjZXB0aW9uKCdyZWFjaGVkIGxpbWl0JykKICAgIGlmIGNoZWNrX3VzZXJfbG9jayh1c2VyX2lkKSBvciBjaGVja19iYW5rZXJfbG9jayh1c2VyX2lkKToKICAgICAgICByYWlzZSBBY2NvdW50TG9ja2VkRXhjZXB0aW9uKCdhY2NvdW50IGxvY2tlZCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqd3RfdG9rZW4gPSBjcmVhdGVfand0X3Rva2VuKGFjY291bnQudXNlcl9pZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZWQoJ3Bhc3N3b3JkJyk6IEFsbChzdHIsIExlbmd0aChtaW49NiwgbWF4PTIwKSksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgZXhjZXB0IHBlZXdlZS5JbnRlZ3JpdHlFcnJvciBhcyBlOgogICAgICAgICAgICByYWlzZSBmYWxjb24uSFRUUEludGVybmFsU2VydmVyRXJyb3IoCiAgICAgICAgICAgICAgICAiRGF0YWJhc2UgZXJyb3IiLAogICAgICAgICAgICAgICAgc3RyKGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBqd3RfdG9rZW4gPSBjcmVhdGVfand0X3Rva2VuKGFjY291bnQudXNlcl9pZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudCA9IGNyZWF0ZV9hY2NvdW50KHVzZXJuYW1lLCBwYXNzd29yZCkK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgZXhjZXB0IHBlZXdlZS5JbnRlZ3JpdHlFcnJvciBhcyBlOgogICAgICAgICAgICByYWlzZSBmYWxjb24uSFRUUEludGVybmFsU2VydmVyRXJyb3IoCiAgICAgICAgICAgICAgICAiRGF0YWJhc2UgZXJyb3IiLAogICAgICAgICAgICAgICAgc3RyKGUpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzd29yZCA9IHBhcmFtcy5nZXQoJ3Bhc3N3b3JkJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudCA9IGNyZWF0ZV9hY2NvdW50KHVzZXJuYW1lLCBwYXNzd29yZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzd29yZCA9IHBhcmFtcy5nZXQoJ3Bhc3N3b3JkJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
