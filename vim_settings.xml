@@ -10,9 +10,6 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="15" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1499224452029">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/luckyas/admin/controllers/account_handler.py" timestamp="1499226010225">
         <mark key="'" line="17" column="35" />
         <mark key="[" line="24" column="14" />
@@ -46,9 +43,6 @@
         <mark key="]" line="68" column="21" />
         <mark key="^" line="67" column="13" />
         <mark key="." line="68" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/luckyas/hall/controllers/account_handler.py" timestamp="1499158006715">
-        <mark key="'" line="135" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/common/utils/exceptions.py" timestamp="1499225968119">
         <mark key="'" line="38" column="58" />
@@ -225,9 +219,6 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice-id/tools/parse_xml.py" timestamp="1498016189482">
-        <mark key="'" line="44" column="8" />
-      </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/tools/new_weekly_popular.py" timestamp="1498016167265">
         <mark key="'" line="116" column="15" />
         <mark key="[" line="116" column="0" />
@@ -242,8 +233,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1499157639295">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" timestamp="1499311072763">
+        <mark key="'" line="31" column="4" />
+        <mark key="[" line="290" column="12" />
+        <mark key="]" line="290" column="12" />
+        <mark key="." line="290" column="12" />
+        <mark key="^" line="290" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/tools/daily_order.py" timestamp="1498015092932">
         <mark key="'" line="14" column="0" />
@@ -266,7 +261,7 @@
         <mark key="." line="23" column="58" />
         <mark key="^" line="23" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499238075603">
+      <file name="/Dummy.txt" timestamp="1499311080982">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="31" />
@@ -323,18 +318,14 @@
         <mark key="^" line="707" column="19" />
         <mark key="." line="708" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/credit/db/credit.py" timestamp="1499048452953">
-        <mark key="'" line="224" column="49" />
-      </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/order_v2.py" timestamp="1498548505084">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/timer/handler.py" timestamp="1499310943707" />
     </filemarks>
     <jumps>
-      <jump line="162" column="25" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/virtual/virtual_buy.py" />
-      <jump line="147" column="39" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/virtual/virtual_buy.py" />
       <jump line="22" column="32" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/virtual/virtual_buy.py" />
       <jump line="167" column="4" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/virtual/virtual_buy.py" />
       <jump line="181" column="19" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/virtual/virtual_buy.py" />
@@ -433,58 +424,63 @@
       <jump line="65" column="9" filename="$USER_HOME$/workspace/luckyas/settings.py" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/luckyas/settings.py" />
       <jump line="66" column="18" filename="$USER_HOME$/workspace/luckyas/settings.py" />
+      <jump line="145" column="4" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" />
+      <jump line="31" column="4" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/admin</text>
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>/admin</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYXNpbm9cPg==</text>
+        <text encoding="base64">XDxTRUxGX1JFQ0hBUkdFX0NBUkRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">REFUQUJBU0UgPSB7CiAgICAnRU5HSU5FJzogJ215c3FsJywKICAgICdOQU1FJzogJ2x1Y2t5YXMnLAogICAgJ0hPU1QnOiAnbG9jYWxob3N0JywKICAgICdQT1JUJzogMzMwNiwKICAgICdVU0VSJzogJ3Jvb3QnLAogICAgJ1BBU1NXT1JEJzogJzEyMzQ1NicsCn0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmCg==</text>
+      <register name="1" type="4">
+        <text>{
+            'name': 'Coda',
+            'phone': '06-7342332232339899899'
+        },</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJ1bigiL2hvbWUvdWJ1bnR1Ly5weWVudi9iaW4vcHllbnYgZ2xvYmFsIDMuNS4xIikK</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2x1Y2t5YXNfd29ya2VyJzogWyc1NC4xNjkuMTM2LjIwNycsIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHJ1bigiL2hvbWUvdWJ1bnR1Ly5weWVudi9iaW4vcHllbnYgZ2xvYmFsIDMuNS4xIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2x1Y2t5YXNfc2xvdF9hcGknOiBbJzU0LjE2OS4xMzYuMjA3JywgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2x1Y2t5YXNfd29ya2VyJzogWyc1NC4xNjkuMTM2LjIwNycsIF0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2x1Y2t5YXNfcm91bGV0dGVfYXBpJzogWyc1NC4xNjkuMTM2LjIwNycsIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2x1Y2t5YXNfc2xvdF9hcGknOiBbJzU0LjE2OS4xMzYuMjA3JywgXSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24udXRpbHMubG9ncyBpbXBvcnQgQVBJX0xPR0dFUgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2x1Y2t5YXNfcm91bGV0dGVfYXBpJzogWyc1NC4xNjkuMTM2LjIwNycsIF0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBUElfTE9HR0VSLmRlYnVnKHJlcXVlc3QuY29udGV4dCkK</text>
+        <text encoding="base64">ZnJvbSBjb21tb24udXRpbHMubG9ncyBpbXBvcnQgQVBJX0xPR0dFUgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBUElfTE9HR0VSLmRlYnVnKHJlcXVlc3QuY29udGV4dCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0xPVCA9ICdzbG90JwpST1VMRVRURSA9ICdyb3VsZXR0ZScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYXNpbm9cPg==</last-search>
+      <last-search encoding="base64">XDxTRUxGX1JFQ0hBUkdFX0NBUkRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYXNpbm9cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxTRUxGX1JFQ0hBUkdFX0NBUkRcPg==</last-pattern>
       <last-replace>72</last-replace>
       <last-substitute>191</last-substitute>
       <last-dir>1</last-dir>
@@ -492,7 +488,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY2NvdW50X2xpc3RcPg==</entry>
         <entry encoding="base64">XDxsYXN0X3RzXD4=</entry>
         <entry encoding="base64">XDxzaXplXD4=</entry>
         <entry encoding="base64">XDxub3dcPg==</entry>
@@ -512,6 +507,7 @@
         <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry encoding="base64">XDxIVFRQXzQ2Mlw+</entry>
         <entry encoding="base64">XDxjYXNpbm9cPg==</entry>
+        <entry encoding="base64">XDxTRUxGX1JFQ0hBUkdFX0NBUkRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
