@@ -132,8 +132,8 @@
         <mark key="." line="1071" column="21" />
         <mark key="^" line="1071" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/mimo_pay.py" timestamp="1497601190933">
-        <mark key="'" line="154" column="12" />
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/mimo_pay.py" timestamp="1499323014389">
+        <mark key="'" line="68" column="31" />
         <mark key="[" line="18" column="18" />
         <mark key="]" line="18" column="21" />
         <mark key="." line="18" column="21" />
@@ -174,6 +174,9 @@
         <mark key="^" line="12" column="56" />
         <mark key="." line="12" column="56" />
       </file>
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/coda_pay.py" timestamp="1499322979300">
+        <mark key="'" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/luckyas/README.md" timestamp="1499237921416">
         <mark key="'" line="27" column="21" />
         <mark key="[" line="99" column="80" />
@@ -213,6 +216,12 @@
         <mark key="." line="134" column="0" />
         <mark key="^" line="18" column="50" />
       </file>
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/self_recharge_card.py" timestamp="1499323129913">
+        <mark key="'" line="34" column="65" />
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/tools/ban_recharge_card.py" timestamp="1496805055713">
         <mark key="'" line="44" column="26" />
         <mark key="[" line="38" column="10" />
@@ -248,12 +257,17 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" timestamp="1499311072763">
-        <mark key="'" line="31" column="4" />
-        <mark key="[" line="290" column="12" />
-        <mark key="]" line="290" column="12" />
-        <mark key="." line="290" column="12" />
-        <mark key="^" line="290" column="12" />
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" timestamp="1499323618895">
+        <mark key="'" line="12" column="6" />
+        <mark key="[" line="292" column="43" />
+        <mark key="]" line="292" column="43" />
+        <mark key="." line="292" column="43" />
+        <mark key="^" line="288" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/bluepay.py" timestamp="1499323126649">
+        <mark key="'" line="76" column="63" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/tools/daily_order.py" timestamp="1498015092932">
         <mark key="'" line="14" column="0" />
@@ -321,10 +335,6 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyas/common/utils/logs.py" timestamp="1499237272091">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="9" />
-      </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/tools/stats_campaign.py" timestamp="1498026868747">
         <mark key="'" line="226" column="19" />
         <mark key="[" line="226" column="4" />
@@ -353,16 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/bluepay.py" />
-      <jump line="118" column="63" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/doku.py" />
-      <jump line="75" column="63" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/bluepay.py" />
-      <jump line="42" column="9" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/doku.py" />
-      <jump line="36" column="40" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/doku.py" />
-      <jump line="40" column="7" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/doku.py" />
-      <jump line="74" column="15" filename="$USER_HOME$/workspace/luckyservice-id/luckyplatform/settings_online.py" />
-      <jump line="21" column="11" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/mimo_pay.py" />
-      <jump line="173" column="42" filename="$USER_HOME$/workspace/luckyservice-id/luckyplatform/env_settings.py" />
-      <jump line="54" column="40" filename="$USER_HOME$/workspace/luckyservice-id/luckyplatform/env_settings.py" />
       <jump line="154" column="12" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/mimo_pay.py" />
       <jump line="178" column="23" filename="$USER_HOME$/workspace/luckyservice-id/luckyplatform/env_settings.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/luckyservice-id/luckyplatform/env_settings.py" />
@@ -453,19 +453,29 @@
       <jump line="38" column="38" filename="$USER_HOME$/workspace/luckyas/common/store/db_driver.py" />
       <jump line="34" column="4" filename="$USER_HOME$/workspace/luckyas/common/store/db_driver.py" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/luckyas/admin/models/lucky_pay_model.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/coda_pay.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/mimo_pay.py" />
+      <jump line="147" column="12" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/mimo_pay.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/mimo_pay.py" />
+      <jump line="36" column="36" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/mimo_pay.py" />
+      <jump line="68" column="31" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/mimo_pay.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/bluepay.py" />
+      <jump line="76" column="63" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/bluepay.py" />
+      <jump line="34" column="65" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/self_recharge_card.py" />
+      <jump line="12" column="6" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwYXkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>admin</text>
+        <text>self</text>
       </register>
-      <register name="0" type="4">
-        <text>Pay</text>
+      <register name="0" type="2">
+        <text encoding="base64">X0FXQVJEX0NSRURJVF9VTklUID0gMTAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJldHVybiBwYXkK</text>
@@ -502,9 +512,9 @@
       </register>
     </registers>
     <search>
-      <last-search>admin</last-search>
+      <last-search>self</last-search>
       <last-offset />
-      <last-pattern>admin</last-pattern>
+      <last-pattern>self</last-pattern>
       <last-replace>lucky</last-replace>
       <last-substitute>admin</last-substitute>
       <last-dir>1</last-dir>
@@ -512,8 +522,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaXplXD4=</entry>
-        <entry encoding="base64">XDxub3dcPg==</entry>
         <entry encoding="base64">XDxidXlfb25lXD4=</entry>
         <entry encoding="base64">XDxtb25pdG9yX2FjdGl2aXR5XD4=</entry>
         <entry encoding="base64">XDxfQ09MRF9NSU5cPg==</entry>
@@ -521,7 +529,6 @@
         <entry encoding="base64">XDxoYXNfdmlydHVhbF9hY2NvdW50X2luXD4=</entry>
         <entry encoding="base64">XDxidXlcPg==</entry>
         <entry encoding="base64">XDxCTFVFUEFZX1NES19NT0dQTEFZXD4=</entry>
-        <entry encoding="base64">XDxfQVdBUkRfQ1JFRElUX1VOSVRcPg==</entry>
         <entry encoding="base64">XDxkb2t1X2NoYW5uZWxcPg==</entry>
         <entry encoding="base64">XDxNSU1PX1RIUkVFXD4=</entry>
         <entry encoding="base64">XDxDT0RBX1BBWVw+</entry>
@@ -532,6 +539,9 @@
         <entry encoding="base64">XDxjYXNpbm9cPg==</entry>
         <entry encoding="base64">XDxTRUxGX1JFQ0hBUkdFX0NBUkRcPg==</entry>
         <entry>admin</entry>
+        <entry encoding="base64">XDxfRVhDSEFOR0VfUkFUSU9cPg==</entry>
+        <entry encoding="base64">XDxfQVdBUkRfQ1JFRElUX1VOSVRcPg==</entry>
+        <entry>self</entry>
       </history-search>
       <history-cmd>
         <entry>516</entry>
