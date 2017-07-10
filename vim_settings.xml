@@ -19,12 +19,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyas/admin/controllers/account_handler.py" timestamp="1499226010225">
-        <mark key="'" line="17" column="35" />
-        <mark key="[" line="24" column="14" />
-        <mark key="]" line="24" column="41" />
-        <mark key="^" line="17" column="40" />
-        <mark key="." line="24" column="14" />
+      <file name="$USER_HOME$/workspace/luckyas/admin/controllers/account_handler.py" timestamp="1499654983160">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="18" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/admin_app.py" timestamp="1499242551636">
         <mark key="'" line="12" column="0" />
@@ -53,12 +52,12 @@
         <mark key="^" line="67" column="13" />
         <mark key="." line="68" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyas/common/utils/exceptions.py" timestamp="1499329995180">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="38" column="65" />
-        <mark key="]" line="38" column="66" />
-        <mark key="^" line="10" column="35" />
-        <mark key="." line="38" column="66" />
+      <file name="$USER_HOME$/workspace/luckyas/common/utils/exceptions.py" timestamp="1499655023117">
+        <mark key="'" line="37" column="7" />
+        <mark key="[" line="37" column="6" />
+        <mark key="]" line="37" column="32" />
+        <mark key="^" line="42" column="30" />
+        <mark key="." line="44" column="73" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/admin/models/lucky_account_model.py" timestamp="1499333468583">
         <mark key="'" line="7" column="0" />
@@ -147,12 +146,11 @@
         <mark key="." line="55" column="3" />
         <mark key="^" line="55" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyas/admin/views/account_view.py" timestamp="1499328806787">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="33" />
-        <mark key="^" line="11" column="39" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/workspace/luckyas/admin/views/account_view.py" timestamp="1499655025797">
+        <mark key="[" line="50" column="45" />
+        <mark key="]" line="50" column="45" />
+        <mark key="^" line="50" column="45" />
+        <mark key="." line="50" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/test_settings.py" timestamp="1499312737726">
         <mark key="[" line="22" column="0" />
@@ -201,7 +199,6 @@
         <mark key="^" line="12" column="56" />
         <mark key="." line="12" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/sluck-heka/lucky.toml" timestamp="1499334948072" />
       <file name="$USER_HOME$/workspace/luckyas/README.md" timestamp="1499237921416">
         <mark key="'" line="27" column="21" />
         <mark key="[" line="99" column="80" />
@@ -386,7 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="19" filename="$USER_HOME$/workspace/luckyservice-id/tools/daily_order.py" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/luckyservice-id/tools/daily_order.py" />
       <jump line="16" column="35" filename="$USER_HOME$/workspace/luckyservice-id/tools/daily_popular.py" />
       <jump line="64" column="15" filename="$USER_HOME$/workspace/luckyservice-id/tools/daily_popular.py" />
@@ -486,49 +482,50 @@
       <jump line="3" column="0" filename="$USER_HOME$/workspace/luckyas/admin/models/lucky_pay_model.py" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/luckyas/admin/models/lucky_account_model.py" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/luckyas/admin/models/lucky_account_model.py" />
+      <jump line="36" column="7" filename="$USER_HOME$/workspace/luckyas/common/utils/exceptions.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>open</text>
+        <text>AccountNotApprovedException</text>
       </register>
       <register name="-" type="4">
-        <text>open</text>
+        <text encoding="base64">YWNjb3VudCA9IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBY2NvdW50TG9ja2VkRXhjZXB0aW9uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIHBsYXRmb3JtID09ICdhbmRyb2lkJyBhbmQgMTM2IDw9IGludCh2ZXJzaW9uX2NvZGUpIGFuZCBsb2NhbGUgPT0gJ2lkJzoKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAjIHBheV90eXBlc1tQYXlUeXBlLkhVQVdFSV9FUEFZLnZhbHVlXSwKICAgICAgICAgICAgcGF5X3R5cGVzW1BheVR5cGUuU0VMRl9SRUNIQVJHRV9DQVJELnZhbHVlXSwKICAgICAgICAgICAgcGF5X3R5cGVzW1BheVR5cGUuTUlNT19JTkRPU0FULnZhbHVlXSwKICAgICAgICAgICAgIyBwYXlfdHlwZXNbUGF5VHlwZS5NSU1PX1RIUkVFLnZhbHVlXSwKICAgICAgICAgICAgIyBwYXlfdHlwZXNbUGF5VHlwZS5NSU1PX1hMLnZhbHVlXSwKICAgICAgICAgICAgIyBwYXlfdHlwZXNbUGF5VHlwZS5NSU1PX1RFTEtPTVNFTC52YWx1ZV0sCiAgICAgICAgICAgIHBheV90eXBlc1tQYXlUeXBlLkNPREFfUEFZLnZhbHVlXSwKICAgICAgICAgICAgcGF5X3R5cGVzW1BheVR5cGUuRE9LVV9WSVNBLnZhbHVlXSwKICAgICAgICAgICAgcGF5X3R5cGVzW1BheVR5cGUuRE9LVV9XQUxMRVQudmFsdWVdLAogICAgICAgICAgICBwYXlfdHlwZXNbUGF5VHlwZS5NSU1PX0JDQS52YWx1ZV0sCiAgICAgICAgICAgIHBheV90eXBlc1tQYXlUeXBlLkJMVUVQQVlfU0RLX01PR1BMQVkudmFsdWVdLAogICAgICAgICAgICBwYXlfdHlwZXNbUGF5VHlwZS5CTFVFUEFZX1NES19HQU1FX09OLnZhbHVlXSwKICAgICAgICAgICAgcGF5X3R5cGVzW1BheVR5cGUuQkxVRVBBWV9TREtfQ09OVkVOTklFTkNFX1NUT1JFLnZhbHVlXSwKICAgICAgICAgICAgcGF5X3R5cGVzW1BheVR5cGUuQkxVRVBBWV9TREtfQVRNLnZhbHVlXSwKICAgICAgICBdCg==</text>
+      <register name="0" type="4">
+        <text>AccountNotApprovedException</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwYXlfdHlwZXNbUGF5VHlwZS5IVUFXRUlfRVBBWS52YWx1ZV0sCg==</text>
+        <text encoding="base64">ICAgIGlmIGFjY291bnQgYW5kIG5vdCBhY2NvdW50LmlzX2FwcHJvdmVkOgogICAgICAgIHJhaXNlIEFjY291bnROb3RBcHByb3ZlZEV4Y2VwdGlvbigpCiAgICByZXR1cm4gYWNjb3VudAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwYXlfdHlwZXNbUGF5VHlwZS5NSU1PX1RFTEtPTVNFTC52YWx1ZV0sCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBhY2NvdW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwYXlfdHlwZXNbUGF5VHlwZS5NSU1PX1hMLnZhbHVlXSwK</text>
+        <text encoding="base64">ICAgIGlmIGFjY291bnQgYW5kIG5vdCBhY2NvdW50LmlzX2FwcHJvdmVkOgogICAgICAgIHJhaXNlIEFjY291bnROb3RBcHByb3ZlZEV4Y2VwdGlvbigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwYXlfdHlwZXNbUGF5VHlwZS5NSU1PX1RIUkVFLnZhbHVlXSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF5X3R5cGVzW1BheVR5cGUuU0VMRl9SRUNIQVJHRV9DQVJELnZhbHVlXSwK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBwYXlfdHlwZXNbUGF5VHlwZS5IVUFXRUlfRVBBWS52YWx1ZV0sCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBwYXlfdHlwZXNbUGF5VHlwZS5NSU1PX1RFTEtPTVNFTC52YWx1ZV0sCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBwYXlfdHlwZXNbUGF5VHlwZS5NSU1PX1hMLnZhbHVlXSwK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwYXlfdHlwZXNbUGF5VHlwZS5NSU1PX1RIUkVFLnZhbHVlXSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF5X3R5cGVzW1BheVR5cGUuU0VMRl9SRUNIQVJHRV9DQVJELnZhbHVlXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwYXlfdHlwZXNbUGF5VHlwZS5IVUFXRUlfRVBBWS52YWx1ZV0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
