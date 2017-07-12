@@ -23,12 +23,12 @@
         <mark key="^" line="27" column="38" />
         <mark key="." line="27" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyas/admin/views/lucky_version_view.py" timestamp="1499828551095">
+      <file name="$USER_HOME$/workspace/luckyas/admin/views/lucky_version_view.py" timestamp="1499829995378">
         <mark key="'" line="44" column="8" />
-        <mark key="[" line="33" column="45" />
-        <mark key="]" line="33" column="45" />
-        <mark key="." line="33" column="45" />
-        <mark key="^" line="33" column="45" />
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+        <mark key="^" line="14" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/admin/controllers/account_handler.py" timestamp="1499654983160">
         <mark key="[" line="19" column="0" />
@@ -286,7 +286,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyas/admin/models/lucky_version_model.py" timestamp="1499828338838">
+      <file name="$USER_HOME$/workspace/luckyas/admin/models/lucky_version_model.py" timestamp="1499830334800">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="17" />
         <mark key="^" line="20" column="32" />
@@ -319,7 +319,7 @@
         <mark key="." line="23" column="58" />
         <mark key="^" line="23" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499763214150">
+      <file name="/Dummy.txt" timestamp="1499830799731">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
@@ -390,15 +390,15 @@
         <mark key="^" line="707" column="19" />
         <mark key="." line="708" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyas/admin/controllers/lucky_version_handler.py" timestamp="1499827809224">
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="21" column="36" />
-        <mark key="^" line="21" column="36" />
+      <file name="$USER_HOME$/workspace/luckyas/admin/controllers/lucky_version_handler.py" timestamp="1499830532888">
+        <mark key="'" line="8" column="15" />
+        <mark key="[" line="21" column="70" />
+        <mark key="]" line="21" column="74" />
+        <mark key="." line="21" column="74" />
+        <mark key="^" line="21" column="74" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="0" filename="$USER_HOME$/workspace/luckyservice-id/luckyplatform/settings_online.py" />
       <jump line="6" column="44" filename="$USER_HOME$/workspace/luckyservice-id/tools/api_stats.py" />
       <jump line="283" column="46" filename="$USER_HOME$/workspace/luckyservice-id/tools/stats_user.py" />
       <jump line="224" column="49" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/credit/db/credit.py" />
@@ -498,19 +498,20 @@
       <jump line="51" column="0" filename="$USER_HOME$/workspace/luckyas/common/utils/exceptions.py" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/luckyas/common/utils/exceptions.py" />
       <jump line="40" column="0" filename="$USER_HOME$/workspace/luckyas/tools/syncdb.py" />
+      <jump line="8" column="15" filename="$USER_HOME$/workspace/luckyas/admin/controllers/lucky_version_handler.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhZG1pbi5tb2RlbHMuYWNjb3VudF9tb2RlbCBpbXBvcnQgQWNjb3VudApmcm9tIGFkbWluLm1vZGVscy5sdWNreV92ZXJzaW9uX21vZGVsIGltcG9ydCBTZW5zb3JTd2l0Y2gK</text>
+      <register name="&quot;" type="4">
+        <text>and []</text>
       </register>
       <register name="-" type="4">
-        <text>LuckyAccountNotFoundException</text>
+        <text>and []</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIVFRQXzQ3MFw+</text>
       </register>
       <register name="0" type="4">
-        <text>PlatformNotSupportException</text>
+        <text>PlatformType</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBhZG1pbi5tb2RlbHMuYWNjb3VudF9tb2RlbCBpbXBvcnQgQWNjb3VudApmcm9tIGFkbWluLm1vZGVscy5sdWNreV92ZXJzaW9uX21vZGVsIGltcG9ydCBTZW5zb3JTd2l0Y2gK</text>
