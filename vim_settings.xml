@@ -3,17 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/social/db/share.py" timestamp="1499912961111">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="51" />
-      </file>
       <file name="$USER_HOME$/workspace/luckyas/common/utils/authentication.py" timestamp="1499225635520">
         <mark key="'" line="15" column="15" />
         <mark key="[" line="15" column="15" />
         <mark key="]" line="15" column="15" />
         <mark key="^" line="12" column="27" />
         <mark key="." line="15" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/recommend.py" timestamp="1499931370224">
+        <mark key="'" line="41" column="16" />
       </file>
       <file name="/a.dummy" timestamp="1499827879051">
         <mark key="[" line="0" column="0" />
@@ -60,16 +58,24 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice-id/luckyplatform/env_settings.py" timestamp="1499915919658">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckyplatform/env_settings.py" timestamp="1499930406990">
+        <mark key="'" line="69" column="0" />
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice-id/luckyplatform/settings.py" timestamp="1499912685110">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/sensor/sensor_db.py" timestamp="1499930587262">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/show.py" timestamp="1499931337199">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckyplatform/settings.py" timestamp="1499930363168">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/common/utils/exceptions.py" timestamp="1499828547271">
         <mark key="'" line="12" column="0" />
@@ -84,6 +90,10 @@
         <mark key="]" line="6" column="30" />
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/social/model/share.py" timestamp="1499930314914">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/tools/daily_popular.py" timestamp="1498015115805">
         <mark key="'" line="64" column="15" />
@@ -178,11 +188,6 @@
         <mark key="]" line="50" column="45" />
         <mark key="^" line="50" column="45" />
         <mark key="." line="50" column="45" />
-      </file>
-      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/account/model/account.py" timestamp="1499912357933">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/test_settings.py" timestamp="1499312737726">
         <mark key="[" line="22" column="0" />
@@ -279,12 +284,12 @@
         <mark key="." line="169" column="11" />
         <mark key="^" line="169" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/sensor/sensor_handler.py" timestamp="1499915578882">
-        <mark key="'" line="5" column="2" />
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="20" />
-        <mark key="^" line="13" column="37" />
-        <mark key="." line="13" column="37" />
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/sensor/sensor_handler.py" timestamp="1499931275213">
+        <mark key="'" line="32" column="39" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="32" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/account/db/account.py" timestamp="1496974966227">
         <mark key="'" line="221" column="39" />
@@ -314,9 +319,6 @@
         <mark key="." line="293" column="52" />
         <mark key="^" line="293" column="55" />
       </file>
-      <file name="/Django Console" timestamp="1499914837294">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/tools/daily_order.py" timestamp="1498015092932">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="82" column="4" />
@@ -324,11 +326,8 @@
         <mark key="." line="82" column="4" />
         <mark key="^" line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/activity.py" timestamp="1499915900025">
-        <mark key="'" line="216" column="0" />
-        <mark key="[" line="342" column="0" />
-        <mark key="]" line="342" column="0" />
-        <mark key="." line="342" column="0" />
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/activity.py" timestamp="1499931411586">
+        <mark key="'" line="66" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/tools/create_recharge_cards.py" timestamp="1496657198174">
         <mark key="'" line="0" column="0" />
@@ -337,7 +336,7 @@
         <mark key="." line="23" column="58" />
         <mark key="^" line="23" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499915983479">
+      <file name="/Dummy.txt" timestamp="1499931441130">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
@@ -388,12 +387,10 @@
         <mark key="." line="82" column="38" />
         <mark key="^" line="82" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/utils/api.py" timestamp="1499915842533">
-        <mark key="'" line="145" column="4" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="55" />
-        <mark key="." line="142" column="0" />
-        <mark key="^" line="145" column="20" />
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/utils/api.py" timestamp="1499931209818">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/tools/stats_campaign.py" timestamp="1498026868747">
         <mark key="'" line="226" column="19" />
@@ -423,11 +420,11 @@
         <mark key="^" line="707" column="19" />
         <mark key="." line="708" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/sensor/sensor_model.py" timestamp="1499912897116">
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/sensor/sensor_model.py" timestamp="1499930319461">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="17" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
         <mark key="^" line="9" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/admin/controllers/lucky_version_handler.py" timestamp="1499830532888">
@@ -439,20 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="14" filename="$USER_HOME$/workspace/luckyas/admin/controllers/account_handler.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/luckyas/admin/controllers/account_handler.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/luckyas/admin/controllers/account_handler.py" />
-      <jump line="23" column="4" filename="$USER_HOME$/workspace/luckyas/admin/controllers/account_handler.py" />
-      <jump line="77" column="7" filename="$USER_HOME$/workspace/luckyas/admin/views/account_view.py" />
-      <jump line="12" column="21" filename="$USER_HOME$/workspace/luckyas/common/utils/authentication.py" />
-      <jump line="15" column="15" filename="$USER_HOME$/workspace/luckyas/common/utils/authentication.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/luckyas/admin/controllers/account_handler.py" />
-      <jump line="37" column="58" filename="$USER_HOME$/workspace/luckyas/common/utils/exceptions.py" />
-      <jump line="17" column="35" filename="$USER_HOME$/workspace/luckyas/admin/controllers/account_handler.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/workspace/luckyas/admin/views/account_view.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/luckyas/admin/views/account_view.py" />
-      <jump line="39" column="14" filename="$USER_HOME$/workspace/luckyas/tools/syncdb.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/luckyas/tools/syncdb.py" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/luckyas/settings.py" />
       <jump line="11" column="25" filename="$USER_HOME$/workspace/luckyas/tools/syncdb.py" />
       <jump line="63" column="0" filename="$USER_HOME$/workspace/luckyas/admin/views/account_view.py" />
@@ -539,69 +522,79 @@
       <jump line="21" column="12" filename="$USER_HOME$/workspace/luckyas/admin/views/lucky_account_view.py" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/luckyas/admin/views/lucky_account_view.py" />
       <jump line="7" column="17" filename="$USER_HOME$/workspace/luckyas/admin/controllers/lucky_account_handler.py" />
+      <jump line="2" column="7" filename="$USER_HOME$/workspace/luckyservice-id/luckyplatform/settings.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/luckyservice-id/luckyplatform/env_settings.py" />
+      <jump line="138" column="37" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/utils/api.py" />
+      <jump line="129" column="6" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/utils/api.py" />
+      <jump line="31" column="39" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/sensor/sensor_handler.py" />
+      <jump line="56" column="10" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/utils/api.py" />
+      <jump line="14" column="18" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/utils/api.py" />
+      <jump line="54" column="4" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/utils/api.py" />
+      <jump line="59" column="13" filename="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/show.py" />
+      <jump line="98" column="13" filename="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/show.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/show.py" />
+      <jump line="43" column="16" filename="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/recommend.py" />
+      <jump line="124" column="18" filename="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/activity.py" />
+      <jump line="66" column="8" filename="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/activity.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>, filter_apples, filter_gp</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>, filter_apples, filter_gp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpb3Nfc2Vuc29yXD4=</text>
+        <text encoding="base64">XDxmaWx0ZXJfZ3BcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICgnL2Jhbl9hY2NvdW50X2J5X3VpZCcsIGx1Y2t5X2FjY291bnRfdmlldy5CYW5MdWNreUFjY291bnQoKSksCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBsdWNreWNvbW1vbi51dGlscy5hcGkgaW1wb3J0IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgTHVja3lBY2NvdW50Tm90Rm91bmRFeGNlcHRpb24oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnID0ge3VzZXJfaWQ6IGFjY291bnQuc3RhdHVzfQo=</text>
+        <text encoding="base64">ZGVmIGdldF9jb3VudHJ5KGlwLCBsb2NhbGU9Tm9uZSk6CiAgICBjb3VudHJ5ID0gIiIKICAgIGdlbyA9IGdlb2xpdGUyLmxvb2t1cChpcCkKICAgIGlmIGdlbzoKICAgICAgICBjb3VudHJ5ID0gZ2VvLmNvdW50cnkKICAgIGlmIG5vdCBjb3VudHJ5IGFuZCBsb2NhbGU6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBsYW5nLCBjdHkgPSByZS5zcGxpdChyJ1stX10nLCBsb2NhbGUpCiAgICAgICAgICAgIGNvdW50cnkgPSBjdHkKICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHBhc3MKICAgIHJldHVybiBjb3VudHJ5IG9yIERFRkFVTFRfQ09VTlRSWQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnID0geydtc2cnOiAnc3VjY2Vzc2Z1bGx5IHVuYmFubmVkJ30K</text>
+        <text encoding="base64">ZGVmIGZpbHRlcl9hcHBsZXMocmVxdWVzdCwgaXRlbV9saXN0KToKICAgIHRyYWNrcyA9IHBhcnNlX3AocmVxdWVzdC5HRVQuZ2V0KCdwJykpCiAgICBjaG4gPSB0cmFja3MuZ2V0KCdjaG4nLCBOb25lKQogICAgY3ZjID0gaW50KHRyYWNrcy5nZXQoJ2N2YycsIDApKQogICAgaWYgY2huID09ICdxZ19pb3MnOgogICAgICAgIGlvc19zZW5zb3IgPSBnZXRfc2Vuc29yX3N0YXR1cygnaW9zJywgaW50KGN2YykpCiAgICAgICAgaWYgaW9zX3NlbnNvcjoKICAgICAgICAgICAgIyBmaWx0ZXIgYXBwbGUgZ29vZHMKICAgICAgICAgICAgZmlsdGVyX2xpc3QgPSBbXQogICAgICAgICAgICBmb3IgaXRlbSBpbiBpdGVtX2xpc3Q6CiAgICAgICAgICAgICAgICBpZiBpdGVtLmdldCgnZ2lkJykgbm90IGluIHNldHRpbmdzLkFQUExFX1RJRFM6CiAgICAgICAgICAgICAgICAgICAgZmlsdGVyX2xpc3QuYXBwZW5kKGl0ZW0pCiAgICAgICAgICAgIHJldHVybiBmaWx0ZXJfbGlzdAogICAgcmV0dXJuIGl0ZW1fbGlzdAoKCmRlZiBmaWx0ZXJfZ3AocmVxdWVzdCwgaXRlbV9saXN0KToKICAgIHAgPSBwYXJzZV9wKHJlcXVlc3QuR0VULmdldCgncCcpKQogICAgZ3Bfc2Vuc29yID0gZ2V0X3NlbnNvcl9zdGF0dXMoJ2FuZHJvaWQnLCBpbnQocC5nZXQoJ2N2YycsIDApKSkKICAgIGlmIHAuZ2V0KCdtYXJrZXQnKSA9PSAnZ3AnIGFuZCBncF9zZW5zb3I6CiAgICAgICAgZmlsdGVyX2xpc3QgPSBbXQogICAgICAgIGZvciBpdGVtIGluIGl0ZW1fbGlzdDoKICAgICAgICAgICAgaWYgaW50KGl0ZW0uZ2V0KCdnaWQnKSkgaW4gc2V0dGluZ3MuR1BfQUxMT1dFRF9USURTOgogICAgICAgICAgICAgICAgZmlsdGVyX2xpc3QuYXBwZW5kKGl0ZW0pCiAgICAgICAgcmV0dXJuIGZpbHRlcl9saXN0CiAgICByZXR1cm4gaXRlbV9saXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdF9kaWN0W3VzZXJfaWRdID0gYWNjb3VudC5zdGF0dXMK</text>
+        <text encoding="base64">aW1wb3J0IHJhdmVuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1zZyA9IHsnbXNnJzogJ3N1Y2Nlc3NmdWxseSB1bmJhbm5lZCd9Cg==</text>
+        <text encoding="base64">ZnJvbSBsdWNreWNvbW1vbi5hY2NvdW50Lm1vZGVsIGltcG9ydCBvcm0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1zZyA9IHsnbXNnJzogJ3N1Y2Nlc3NmdWxseSBiYW5lZCd9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgTHVja3lBY2NvdW50Tm90Rm91bmRFeGNlcHRpb24oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIEx1Y2t5QWNjb3VudE5vdEZvdW5kRXhjZXB0aW9uKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXNnID0ge3VzZXJfaWQ6IGFjY291bnQuc3RhdHVzfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpb3Nfc2Vuc29yXD4=</last-search>
+      <last-search encoding="base64">XDxmaWx0ZXJfZ3BcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpb3Nfc2Vuc29yXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmaWx0ZXJfZ3BcPg==</last-pattern>
       <last-replace>lucky</last-replace>
       <last-substitute>admin</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYXNfdmlydHVhbF9hY2NvdW50X2luXD4=</entry>
-        <entry encoding="base64">XDxidXlcPg==</entry>
-        <entry encoding="base64">XDxCTFVFUEFZX1NES19NT0dQTEFZXD4=</entry>
-        <entry encoding="base64">XDxkb2t1X2NoYW5uZWxcPg==</entry>
         <entry encoding="base64">XDxNSU1PX1RIUkVFXD4=</entry>
         <entry encoding="base64">XDxDT0RBX1BBWVw+</entry>
         <entry encoding="base64">XDxtYWlsX3NlbmRlclw+</entry>
@@ -618,6 +611,10 @@
         <entry encoding="base64">XDxBY2NvdW50TG9ja2VkRXhjZXB0aW9uXD4=</entry>
         <entry encoding="base64">XDxIVFRQXzQ3MFw+</entry>
         <entry encoding="base64">XDxpb3Nfc2Vuc29yXD4=</entry>
+        <entry encoding="base64">XDxyYXZlblw+</entry>
+        <entry encoding="base64">XDxnZW9saXRlMlw+</entry>
+        <entry encoding="base64">XDxnZXRfY291bnRyeVw+</entry>
+        <entry encoding="base64">XDxmaWx0ZXJfZ3BcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>516</entry>
