@@ -285,11 +285,8 @@
         <mark key="^" line="169" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/sensor/sensor_handler.py" timestamp="1499931275213">
-        <mark key="'" line="32" column="39" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="32" />
-        <mark key="^" line="7" column="10" />
-        <mark key="." line="1" column="0" />
+        <mark key="'" line="33" column="39" />
+        <mark key="^" line="8" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/account/db/account.py" timestamp="1496974966227">
         <mark key="'" line="221" column="39" />
@@ -381,11 +378,12 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="15" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/preset.py" timestamp="1499913263612">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="63" />
-        <mark key="." line="82" column="38" />
-        <mark key="^" line="82" column="38" />
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/preset.py" timestamp="1499932614406">
+        <mark key="'" line="75" column="16" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="63" />
+        <mark key="." line="79" column="38" />
+        <mark key="^" line="79" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/utils/api.py" timestamp="1499931209818">
         <mark key="[" line="53" column="0" />
@@ -436,7 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/luckyas/settings.py" />
       <jump line="11" column="25" filename="$USER_HOME$/workspace/luckyas/tools/syncdb.py" />
       <jump line="63" column="0" filename="$USER_HOME$/workspace/luckyas/admin/views/account_view.py" />
       <jump line="22" column="22" filename="$USER_HOME$/workspace/luckyas/admin/views/account_view.py" />
@@ -536,6 +533,7 @@
       <jump line="43" column="16" filename="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/recommend.py" />
       <jump line="124" column="18" filename="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/activity.py" />
       <jump line="66" column="8" filename="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/activity.py" />
+      <jump line="78" column="16" filename="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/preset.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -545,7 +543,7 @@
         <text>, filter_apples, filter_gp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWx0ZXJfZ3BcPg==</text>
+        <text encoding="base64">XDxnZXRfc2Vuc29yX3N0YXR1c1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
@@ -585,9 +583,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWx0ZXJfZ3BcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRfc2Vuc29yX3N0YXR1c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWx0ZXJfZ3BcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfc2Vuc29yX3N0YXR1c1w+</last-pattern>
       <last-replace>lucky</last-replace>
       <last-substitute>admin</last-substitute>
       <last-dir>1</last-dir>
@@ -595,7 +593,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNSU1PX1RIUkVFXD4=</entry>
         <entry encoding="base64">XDxDT0RBX1BBWVw+</entry>
         <entry encoding="base64">XDxtYWlsX3NlbmRlclw+</entry>
         <entry encoding="base64">XDxUT09MX01BSUxfU0VOREVSXD4=</entry>
@@ -615,6 +612,7 @@
         <entry encoding="base64">XDxnZW9saXRlMlw+</entry>
         <entry encoding="base64">XDxnZXRfY291bnRyeVw+</entry>
         <entry encoding="base64">XDxmaWx0ZXJfZ3BcPg==</entry>
+        <entry encoding="base64">XDxnZXRfc2Vuc29yX3N0YXR1c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>516</entry>
