@@ -316,12 +316,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyas/admin/models/lucky_version_model.py" timestamp="1500262777294">
+      <file name="$USER_HOME$/workspace/luckyas/admin/models/lucky_version_model.py" timestamp="1500265505646">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="23" column="16" />
-        <mark key="^" line="32" column="47" />
-        <mark key="." line="32" column="47" />
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="32" column="48" />
+        <mark key="^" line="32" column="48" />
+        <mark key="." line="32" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" timestamp="1500262370912">
         <mark key="'" line="95" column="9" />
@@ -353,12 +353,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyas/tools/syncdb.py" timestamp="1500262829473">
+      <file name="$USER_HOME$/workspace/luckyas/tools/syncdb.py" timestamp="1500265409487">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="40" column="19" />
-        <mark key="]" line="40" column="19" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="48" />
         <mark key="^" line="40" column="19" />
-        <mark key="." line="40" column="19" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/virtual/virtual_buy.py" timestamp="1496980235783">
         <mark key="'" line="184" column="15" />
@@ -548,8 +548,8 @@
       <jump line="29" column="0" filename="$USER_HOME$/workspace/luckyas/tools/syncdb.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PayTypeList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBhZG1pbi5tb2RlbHMubHVja3lfcGF5X21vZGVsIGltcG9ydCBQYXlUeXBlCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -561,22 +561,22 @@
         <text>PayTypeList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhZG1pbi5tb2RlbHMubHVja3lfcGF5X21vZGVsIGltcG9ydCBQYXlUeXBlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgUGF5Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y2xhc3MgUGF5Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXR1cyA9IHBlZXdlZS5JbnRlZ2VyRmllbGQoKQogICAgcHJpY2UgPSBwZWV3ZWUuRmxvYXRGaWVsZCgpCiAgICBhY3Rpdml0eV9pZCA9IHBlZXdlZS5DaGFyRmllbGQoKQogICAgcXVhbnRpdHkgPSBwZWV3ZWUuSW50ZWdlckZpZWxkKCkKICAgIGV4dGVuZCA9IHBlZXdlZS5UZXh0RmllbGQoKQogICAgY3JlYXRlZF9hdCA9IHBlZXdlZS5EYXRlVGltZUZpZWxkKCkKICAgIHVwZGF0ZWRfYXQgPSBwZWV3ZWUuRGF0ZVRpbWVGaWVsZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN0YXR1cyA9IHBlZXdlZS5JbnRlZ2VyRmllbGQoKQogICAgcHJpY2UgPSBwZWV3ZWUuRmxvYXRGaWVsZCgpCiAgICBhY3Rpdml0eV9pZCA9IHBlZXdlZS5DaGFyRmllbGQoKQogICAgcXVhbnRpdHkgPSBwZWV3ZWUuSW50ZWdlckZpZWxkKCkKICAgIGV4dGVuZCA9IHBlZXdlZS5UZXh0RmllbGQoKQogICAgY3JlYXRlZF9hdCA9IHBlZXdlZS5EYXRlVGltZUZpZWxkKCkKICAgIHVwZGF0ZWRfYXQgPSBwZWV3ZWUuRGF0ZVRpbWVGaWVsZCgpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -585,10 +585,10 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMVUNLWV9EQi5jb21taXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
