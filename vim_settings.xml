@@ -379,16 +379,16 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyas/admin/controllers/lucky_pay_handler.py" timestamp="1499329167346">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="16" />
-        <mark key="^" line="5" column="10" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/workspace/luckyas/admin/controllers/lucky_pay_handler.py" timestamp="1500267764184">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+        <mark key="." line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyas/admin/models/lucky_pay_model.py" timestamp="1500266966549">
+      <file name="$USER_HOME$/workspace/luckyas/admin/models/lucky_pay_model.py" timestamp="1500267380094">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
+        <mark key="[" line="22" column="6" />
+        <mark key="]" line="22" column="12" />
         <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/preset.py" timestamp="1499932614406">
@@ -550,7 +550,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBheV90eXBlID0gcGVld2VlLkludGVnZXJGaWVsZCgpCg==</text>
+        <text encoding="base64">ICAgIHBheV90eXBlX29iamVjdC5wYXlfdHlwZSA9IHBheV90eXBlCg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -559,37 +559,37 @@
         <text encoding="base64">XDxTRUxGX1JFQ0hBUkdFX0NBUkRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>pay_type</text>
+        <text>PayType</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBheV90eXBlID0gcGVld2VlLkludGVnZXJGaWVsZCgpCg==</text>
+        <text encoding="base64">ICAgIHBheV90eXBlX29iamVjdC5wYXlfdHlwZSA9IHBheV90eXBlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVzZXJfaWQgPSBwZWV3ZWUuQmlnSW50ZWdlckZpZWxkKCkK</text>
+        <text encoding="base64">ZGVmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBhZG1pbi5tb2RlbHMubHVja3lfcGF5X21vZGVsIGltcG9ydCBQYXlUeXBlCg==</text>
+        <text encoding="base64">ICAgIHBheV90eXBlID0gcGVld2VlLkludGVnZXJGaWVsZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZXJfaWQgPSBwZWV3ZWUuQmlnSW50ZWdlckZpZWxkKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgUGF5Cg==</text>
+        <text encoding="base64">ZnJvbSBhZG1pbi5tb2RlbHMubHVja3lfcGF5X21vZGVsIGltcG9ydCBQYXlUeXBlCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXR1cyA9IHBlZXdlZS5JbnRlZ2VyRmllbGQoKQogICAgcHJpY2UgPSBwZWV3ZWUuRmxvYXRGaWVsZCgpCiAgICBhY3Rpdml0eV9pZCA9IHBlZXdlZS5DaGFyRmllbGQoKQogICAgcXVhbnRpdHkgPSBwZWV3ZWUuSW50ZWdlckZpZWxkKCkKICAgIGV4dGVuZCA9IHBlZXdlZS5UZXh0RmllbGQoKQogICAgY3JlYXRlZF9hdCA9IHBlZXdlZS5EYXRlVGltZUZpZWxkKCkKICAgIHVwZGF0ZWRfYXQgPSBwZWV3ZWUuRGF0ZVRpbWVGaWVsZCgpCg==</text>
+        <text encoding="base64">Y2xhc3MgUGF5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN0YXR1cyA9IHBlZXdlZS5JbnRlZ2VyRmllbGQoKQogICAgcHJpY2UgPSBwZWV3ZWUuRmxvYXRGaWVsZCgpCiAgICBhY3Rpdml0eV9pZCA9IHBlZXdlZS5DaGFyRmllbGQoKQogICAgcXVhbnRpdHkgPSBwZWV3ZWUuSW50ZWdlckZpZWxkKCkKICAgIGV4dGVuZCA9IHBlZXdlZS5UZXh0RmllbGQoKQogICAgY3JlYXRlZF9hdCA9IHBlZXdlZS5EYXRlVGltZUZpZWxkKCkKICAgIHVwZGF0ZWRfYXQgPSBwZWV3ZWUuRGF0ZVRpbWVGaWVsZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
