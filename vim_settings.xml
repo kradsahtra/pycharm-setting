@@ -26,12 +26,12 @@
         <mark key="." line="47" column="23" />
         <mark key="^" line="47" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyas/admin/views/lucky_version_view.py" timestamp="1500282539720">
-        <mark key="'" line="61" column="28" />
-        <mark key="[" line="60" column="48" />
-        <mark key="]" line="60" column="48" />
-        <mark key="." line="60" column="48" />
-        <mark key="^" line="60" column="48" />
+      <file name="$USER_HOME$/workspace/luckyas/admin/views/lucky_version_view.py" timestamp="1500537720706">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="43" column="47" />
+        <mark key="]" line="43" column="46" />
+        <mark key="." line="43" column="46" />
+        <mark key="^" line="43" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/admin/controllers/account_handler.py" timestamp="1499654983160">
         <mark key="[" line="19" column="0" />
@@ -307,8 +307,8 @@
         <mark key="." line="336" column="34" />
         <mark key="^" line="339" column="12" />
       </file>
-      <file name="/Django Console" timestamp="1500277469012">
-        <mark key="[" line="0" column="5" />
+      <file name="/Django Console" timestamp="1500537474508">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -497,7 +497,6 @@
       <jump line="297" column="32" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/luckyas/admin/controllers/lucky_version_handler.py" />
       <jump line="8" column="7" filename="$USER_HOME$/workspace/luckyas/admin/controllers/lucky_version_handler.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/luckyas/admin/views/lucky_version_view.py" />
       <jump line="47" column="19" filename="$USER_HOME$/workspace/luckyas/admin/views/lucky_version_view.py" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/luckyas/admin/views/lucky_version_view.py" />
       <jump line="80" column="13" filename="$USER_HOME$/workspace/luckyas/admin/views/lucky_version_view.py" />
@@ -522,13 +521,14 @@
       <jump line="236" column="20" filename="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/transaction.py" />
       <jump line="309" column="6" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" />
       <jump line="336" column="6" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/luckyas/admin/views/lucky_version_view.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>filtered_available_pay_types</text>
+        <text>Length(max=255)</text>
       </register>
       <register name="-" type="4">
-        <text>filtered_available_pay_types</text>
+        <text>Length(max=255)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIVFRQXzQ3MVw+</text>
