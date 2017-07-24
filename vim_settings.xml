@@ -203,11 +203,12 @@
         <mark key="." line="23" column="59" />
         <mark key="^" line="23" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/doku.py" timestamp="1500892199687">
-        <mark key="[" line="96" column="19" />
-        <mark key="]" line="96" column="20" />
-        <mark key="." line="96" column="19" />
-        <mark key="^" line="96" column="18" />
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/doku.py" timestamp="1500894251538">
+        <mark key="'" line="4" column="35" />
+        <mark key="[" line="40" column="30" />
+        <mark key="]" line="40" column="53" />
+        <mark key="." line="40" column="30" />
+        <mark key="^" line="40" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/recharge_card.py" timestamp="1497861461076">
         <mark key="'" line="9" column="6" />
@@ -435,8 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="4" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/utils/api.py" />
-      <jump line="21" column="12" filename="$USER_HOME$/workspace/luckyas/admin/views/lucky_account_view.py" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/luckyas/admin/views/lucky_account_view.py" />
       <jump line="7" column="17" filename="$USER_HOME$/workspace/luckyas/admin/controllers/lucky_account_handler.py" />
       <jump line="2" column="7" filename="$USER_HOME$/workspace/luckyservice-id/luckyplatform/settings.py" />
@@ -535,16 +534,18 @@
       <jump line="140" column="8" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/virtual/virtual_buy.py" />
       <jump line="11" column="7" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/virtual/virtual_buy.py" />
       <jump line="32" column="14" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/virtual/virtual_buy.py" />
+      <jump line="40" column="22" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/doku.py" />
+      <jump line="4" column="35" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/doku.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>sample(name_choices, 5)</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>sample(name_choices, 5)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lXD4=</text>
+        <text encoding="base64">XDxzYW1wbGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>_LOGGER</text>
@@ -584,9 +585,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lXD4=</last-search>
+      <last-search encoding="base64">XDxzYW1wbGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzYW1wbGVcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -594,7 +595,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyYXZlblw+</entry>
         <entry encoding="base64">XDxnZW9saXRlMlw+</entry>
         <entry encoding="base64">XDxnZXRfY291bnRyeVw+</entry>
         <entry encoding="base64">XDxmaWx0ZXJfZ3BcPg==</entry>
@@ -614,6 +614,7 @@
         <entry encoding="base64">XDxSYW5nZVw+</entry>
         <entry encoding="base64">XDxPUkRFUl9TVEFUVVNcPg==</entry>
         <entry encoding="base64">XDx0aW1lXD4=</entry>
+        <entry encoding="base64">XDxzYW1wbGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>224</entry>
