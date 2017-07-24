@@ -203,11 +203,11 @@
         <mark key="." line="23" column="59" />
         <mark key="^" line="23" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/doku.py" timestamp="1500888893492">
-        <mark key="[" line="69" column="55" />
-        <mark key="]" line="69" column="56" />
-        <mark key="." line="69" column="56" />
-        <mark key="^" line="69" column="56" />
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/doku.py" timestamp="1500890257109">
+        <mark key="[" line="96" column="24" />
+        <mark key="]" line="96" column="34" />
+        <mark key="." line="96" column="34" />
+        <mark key="^" line="96" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/recharge_card.py" timestamp="1497861461076">
         <mark key="'" line="9" column="6" />
@@ -324,11 +324,11 @@
         <mark key="." line="336" column="34" />
         <mark key="^" line="339" column="12" />
       </file>
-      <file name="/Django Console" timestamp="1500537474508">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="/Django Console" timestamp="1500889728264">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/tools/daily_order.py" timestamp="1498015092932">
         <mark key="'" line="14" column="0" />
@@ -544,46 +544,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>domain</text>
+        <text>_gen_random_email()</text>
       </register>
       <register name="-" type="4">
-        <text>domain</text>
+        <text>_gen_random_email()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aW1lXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>WAIT_RECEIPT</text>
+        <text>email_choice</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCBuYW1lPSJFTUFJTCIgdHlwZT0iaGlkZGVuIiB2YWx1ZT0iIj4K</text>
+        <text encoding="base64">ICAgIF0pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCBuYW1lPSJOQU1FIiB0eXBlPSJoaWRkZW4iIHZhbHVlPSIiPgo=</text>
+        <text encoding="base64">ICAgICAgICAiJXNfJXMiICUgKGNob2ljZShuYW1lX2Nob2ljZXMpLCByYW5kb21fbnVtKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIHNldHRpbmdzLkFEVl9GTEFHOgogICAgICAgICMg6Ieq5Yqo5Y+R5aS65a6d5biBCiAgICAgICAgc2hpcHBpbmdfY29pbihhY3Rpdml0eSkK</text>
+        <text encoding="base64">ICAgICAgICAiJXNfJXMiICUgKGNob2ljZShuYW1lX2Nob2ljZXMpLCByYW5kb21fbnVtKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiJXNsb2wlcyIgJSAoY2hvaWNlKG5hbWVfY2hvaWNlcyksIHJhbmRvbV9udW0pLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF5X3R5cGVzW1BheVR5cGUuTUlNT19JTkRPU0FULnZhbHVlXSwK</text>
+        <text encoding="base64">ICAgICAgICAiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF5X3R5cGVzW1BheVR5cGUuTUlNT19JTkRPU0FULnZhbHVlXSwK</text>
+        <text encoding="base64">ICAgIDxpbnB1dCBuYW1lPSJFTUFJTCIgdHlwZT0iaGlkZGVuIiB2YWx1ZT0iIj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF5X3R5cGVzW1BheVR5cGUuTUlNT19JTkRPU0FULnZhbHVlXSwK</text>
+        <text encoding="base64">ICAgIDxpbnB1dCBuYW1lPSJOQU1FIiB0eXBlPSJoaWRkZW4iIHZhbHVlPSIiPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF5X3R5cGVzW1BheVR5cGUuQ09EQV9QQVkudmFsdWVdLAo=</text>
+        <text encoding="base64">ICAgIGlmIHNldHRpbmdzLkFEVl9GTEFHOgogICAgICAgICMg6Ieq5Yqo5Y+R5aS65a6d5biBCiAgICAgICAgc2hpcHBpbmdfY29pbihhY3Rpdml0eSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF5X3R5cGVzW1BheVR5cGUuQ09EQV9QQVkudmFsdWVdLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9n</text>
