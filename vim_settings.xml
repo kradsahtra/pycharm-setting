@@ -203,11 +203,11 @@
         <mark key="." line="23" column="59" />
         <mark key="^" line="23" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/doku.py" timestamp="1500894251538">
+      <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/doku.py" timestamp="1500965355221">
         <mark key="'" line="4" column="35" />
-        <mark key="[" line="40" column="30" />
-        <mark key="]" line="40" column="53" />
-        <mark key="." line="40" column="30" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
         <mark key="^" line="40" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/recharge_card.py" timestamp="1497861461076">
@@ -339,7 +339,7 @@
         <mark key="." line="23" column="58" />
         <mark key="^" line="23" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500879507538">
+      <file name="/Dummy.txt" timestamp="1500965144095">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="26" />
@@ -538,8 +538,8 @@
       <jump line="4" column="35" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/doku.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sample(name_choices, 5)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbyhyZXNwb25zZSkK</text>
       </register>
       <register name="-" type="4">
         <text>sample(name_choices, 5)</text>
@@ -551,34 +551,34 @@
         <text>_LOGGER</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF0pCg==</text>
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbyhyZXNwb25zZSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiJXNfJXMiICUgKGNob2ljZShuYW1lX2Nob2ljZXMpLCByYW5kb21fbnVtKSwK</text>
+        <text encoding="base64">ICAgIF0pCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAiJXNfJXMiICUgKGNob2ljZShuYW1lX2Nob2ljZXMpLCByYW5kb21fbnVtKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiJXNsb2wlcyIgJSAoY2hvaWNlKG5hbWVfY2hvaWNlcyksIHJhbmRvbV9udW0pLAo=</text>
+        <text encoding="base64">ICAgICAgICAiJXNfJXMiICUgKGNob2ljZShuYW1lX2Nob2ljZXMpLCByYW5kb21fbnVtKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiIgo=</text>
+        <text encoding="base64">ICAgICAgICAiJXNsb2wlcyIgJSAoY2hvaWNlKG5hbWVfY2hvaWNlcyksIHJhbmRvbV9udW0pLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCBuYW1lPSJFTUFJTCIgdHlwZT0iaGlkZGVuIiB2YWx1ZT0iIj4K</text>
+        <text encoding="base64">ICAgICAgICAiIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCBuYW1lPSJOQU1FIiB0eXBlPSJoaWRkZW4iIHZhbHVlPSIiPgo=</text>
+        <text encoding="base64">ICAgIDxpbnB1dCBuYW1lPSJFTUFJTCIgdHlwZT0iaGlkZGVuIiB2YWx1ZT0iIj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIHNldHRpbmdzLkFEVl9GTEFHOgogICAgICAgICMg6Ieq5Yqo5Y+R5aS65a6d5biBCiAgICAgICAgc2hpcHBpbmdfY29pbihhY3Rpdml0eSkK</text>
+        <text encoding="base64">ICAgIDxpbnB1dCBuYW1lPSJOQU1FIiB0eXBlPSJoaWRkZW4iIHZhbHVlPSIiPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIHNldHRpbmdzLkFEVl9GTEFHOgogICAgICAgICMg6Ieq5Yqo5Y+R5aS65a6d5biBCiAgICAgICAgc2hpcHBpbmdfY29pbihhY3Rpdml0eSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9n</text>
