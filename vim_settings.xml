@@ -23,11 +23,11 @@
         <mark key="." line="47" column="23" />
         <mark key="^" line="47" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyas/admin/views/lucky_version_view.py" timestamp="1500538477681">
+      <file name="$USER_HOME$/workspace/luckyas/admin/views/lucky_version_view.py" timestamp="1500970446803">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="93" column="57" />
-        <mark key="]" line="93" column="57" />
-        <mark key="." line="93" column="57" />
+        <mark key="[" line="93" column="38" />
+        <mark key="]" line="93" column="62" />
+        <mark key="." line="93" column="38" />
         <mark key="^" line="93" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/admin/controllers/account_handler.py" timestamp="1499654983160">
@@ -538,17 +538,17 @@
       <jump line="4" column="35" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/doku.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbyhyZXNwb25zZSkK</text>
+      <register name="&quot;" type="4">
+        <text>All(int, Range(min=1)</text>
       </register>
       <register name="-" type="4">
-        <text>sample(name_choices, 5)</text>
+        <text>All(int, Range(min=1)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYW1wbGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>_LOGGER</text>
+        <text>All(str, Length(max=255)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbyhyZXNwb25zZSkK</text>
