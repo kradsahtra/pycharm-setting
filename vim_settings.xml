@@ -82,6 +82,9 @@
         <mark key="^" line="16" column="50" />
         <mark key="." line="116" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/KFCService/deploy/requirement.txt" timestamp="1501842200906">
+        <mark key="'" line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/utils/exceptions.py" timestamp="1496649822743">
         <mark key="'" line="12" column="20" />
         <mark key="[" line="96" column="6" />
@@ -404,8 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="4" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/utils/api.py" />
-      <jump line="59" column="13" filename="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/show.py" />
       <jump line="98" column="13" filename="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/show.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/show.py" />
       <jump line="43" column="16" filename="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/recommend.py" />
@@ -504,6 +505,8 @@
       <jump line="101" column="0" filename="$USER_HOME$/workspace/casiouser/.gitignore" />
       <jump line="114" column="0" filename="$USER_HOME$/workspace/casiouser/.gitignore" />
       <jump line="191" column="0" filename="$USER_HOME$/workspace/casiouser/.gitignore" />
+      <jump line="16" column="12" filename="$USER_HOME$/workspace/KFCService/deploy/requirement.txt" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/KFCService/deploy/requirement.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -513,7 +516,7 @@
         <text>testing item</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3luY193b3JrZXJcPg==</text>
+        <text>cry</text>
       </register>
       <register name="0" type="4">
         <text>All(str, Length(max=255)</text>
@@ -553,9 +556,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3luY193b3JrZXJcPg==</last-search>
+      <last-search>cry</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3luY193b3JrZXJcPg==</last-pattern>
+      <last-pattern>cry</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -563,7 +566,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfY291bnRyeVw+</entry>
         <entry encoding="base64">XDxmaWx0ZXJfZ3BcPg==</entry>
         <entry encoding="base64">XDxnZXRfc2Vuc29yX3N0YXR1c1w+</entry>
         <entry encoding="base64">XDxvcGVuX3R5cGVcPg==</entry>
@@ -583,6 +585,7 @@
         <entry encoding="base64">XDx0aW1lXD4=</entry>
         <entry encoding="base64">XDxzYW1wbGVcPg==</entry>
         <entry encoding="base64">XDxhc3luY193b3JrZXJcPg==</entry>
+        <entry>cry</entry>
       </history-search>
       <history-cmd>
         <entry>224</entry>
