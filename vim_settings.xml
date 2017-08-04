@@ -119,6 +119,13 @@
         <mark key="." line="79" column="38" />
         <mark key="^" line="79" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/casiouser/userplatform/settings_online.py" timestamp="1501857743479">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="57" column="13" />
+        <mark key="]" line="57" column="45" />
+        <mark key="." line="57" column="13" />
+        <mark key="^" line="57" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/luckyas/admin/views/version_view.py" timestamp="1499827829830">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="14" column="53" />
@@ -190,8 +197,8 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/userplatform/settings.py" timestamp="1501833364776">
-        <mark key="'" line="302" column="9" />
+      <file name="$USER_HOME$/workspace/casiouser/userplatform/settings.py" timestamp="1501857744103">
+        <mark key="'" line="96" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckyapi/logic/crowdfunding.py" timestamp="1496888903920">
         <mark key="'" line="17" column="49" />
@@ -207,11 +214,12 @@
         <mark key="^" line="59" column="12" />
         <mark key="." line="62" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/usercommon/async/async_job.py" timestamp="1501833424853">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="34" />
-        <mark key="^" line="20" column="34" />
-        <mark key="." line="20" column="34" />
+      <file name="$USER_HOME$/workspace/casiouser/usercommon/async/async_job.py" timestamp="1501855720161">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="34" />
+        <mark key="^" line="18" column="34" />
+        <mark key="." line="18" column="34" />
       </file>
       <file name="/Python Console" timestamp="1501822480267">
         <mark key="[" line="0" column="0" />
@@ -223,12 +231,12 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1501851384793">
+      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1501855534681">
         <mark key="'" line="219" column="4" />
-        <mark key="[" line="81" column="55" />
-        <mark key="]" line="81" column="56" />
-        <mark key="^" line="76" column="49" />
-        <mark key="." line="81" column="56" />
+        <mark key="[" line="164" column="100" />
+        <mark key="]" line="164" column="107" />
+        <mark key="^" line="164" column="107" />
+        <mark key="." line="164" column="107" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/admin_app.py" timestamp="1499242551636">
         <mark key="'" line="12" column="0" />
@@ -330,7 +338,7 @@
         <mark key="^" line="139" column="34" />
         <mark key="." line="139" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501850212237">
+      <file name="/Dummy.txt" timestamp="1501855588722">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -434,12 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/workspace/luckyas/admin/models/lucky_pay_model.py" />
-      <jump line="118" column="9" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" />
-      <jump line="135" column="9" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" />
-      <jump line="95" column="9" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/luckyas/admin/models/lucky_version_model.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/luckyas/admin/models/lucky_version_model.py" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/luckyas/tools/syncdb.py" />
       <jump line="31" column="4" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" />
       <jump line="39" column="48" filename="$USER_HOME$/workspace/luckyas/admin/views/lucky_pay_view.py" />
@@ -534,19 +536,25 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/deploy/stages.py" />
       <jump line="219" column="4" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/casiouser/usercommon/async/async_job.py" />
+      <jump line="288" column="29" filename="$USER_HOME$/workspace/casiouser/userplatform/settings_online.py" />
+      <jump line="187" column="26" filename="$USER_HOME$/workspace/casiouser/userplatform/settings_online.py" />
+      <jump line="67" column="2" filename="$USER_HOME$/workspace/casiouser/userplatform/settings.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/workspace/casiouser/userplatform/settings_online.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/workspace/casiouser/userplatform/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3.5.1</text>
+        <text>a2443e4bb6be8fabfee63d165b03578c</text>
       </register>
       <register name="-" type="4">
-        <text>3.5.1</text>
+        <text>a2443e4bb6be8fabfee63d165b03578c</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfQ1dEXD4=</text>
+        <text encoding="base64">XDxNT05HT19BRERSXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>project_dirs.get(_ROLE)</text>
+        <text>env.stage</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHNldHVwX3JlbW90ZSgpCg==</text>
@@ -583,9 +591,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfQ1dEXD4=</last-search>
+      <last-search encoding="base64">XDxNT05HT19BRERSXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfQ1dEXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxNT05HT19BRERSXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -593,8 +601,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcGVuX3R5cGVcPg==</entry>
-        <entry encoding="base64">XDxTRUxGX1JFQ0hBUkdFX0NBUkRcPg==</entry>
         <entry>'</entry>
         <entry encoding="base64">XDxIVFRQTm90Rm91bmRcPg==</entry>
         <entry encoding="base64">XDxNSU1PX0JDQVw+</entry>
@@ -613,6 +619,8 @@
         <entry>cry</entry>
         <entry encoding="base64">XDxhcnJvd1w+</entry>
         <entry encoding="base64">XDxfQ1dEXD4=</entry>
+        <entry>mongo</entry>
+        <entry encoding="base64">XDxNT05HT19BRERSXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>224</entry>
