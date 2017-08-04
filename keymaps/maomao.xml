@@ -58,6 +58,7 @@
   </action>
   <action id="InsertLiveTemplate" />
   <action id="IntroduceParameter" />
+  <action id="IpnbRunAllCellsAction" />
   <action id="IpnbRunCellInplaceAction" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
@@ -67,14 +68,11 @@
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
   <action id="Refresh" />
-  <action id="Replace" />
   <action id="Rerun" />
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
-  <action id="Run">
-    <keyboard-shortcut first-keystroke="meta r" />
-  </action>
+  <action id="Run" />
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
   <action id="ShowErrorDescription">
