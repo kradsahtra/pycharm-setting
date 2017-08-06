@@ -144,11 +144,11 @@
         <mark key="]" line="195" column="0" />
         <mark key="." line="195" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/requirements.txt" timestamp="1501938435676">
+      <file name="$USER_HOME$/workspace/casiouser/requirements.txt" timestamp="1501989414573">
         <mark key="'" line="45" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="13" />
         <mark key="^" line="47" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/tools/stats_user.py" timestamp="1498100182979">
@@ -626,11 +626,11 @@
       <jump line="46" column="0" filename="$USER_HOME$/workspace/casiouser/requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>==3.0.28</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>==3.0.28</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxweU9wZW5TU0xcPg==</text>
