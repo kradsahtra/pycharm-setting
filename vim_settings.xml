@@ -36,6 +36,12 @@
         <mark key="]" line="418" column="42" />
         <mark key="." line="418" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/KFCService/luckycommon/imbroadcast_cache/__init__.py" timestamp="1501919511555">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="20" />
+        <mark key="^" line="27" column="20" />
+        <mark key="." line="27" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/KFCService/luckyplatform/settings_test.py" timestamp="1501919533627">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -79,12 +85,12 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1501905213109">
-        <mark key="'" line="26" column="13" />
-        <mark key="[" line="36" column="9" />
-        <mark key="]" line="36" column="26" />
-        <mark key="." line="37" column="38" />
-        <mark key="^" line="37" column="38" />
+      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1502007634979">
+        <mark key="'" line="46" column="44" />
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="38" />
+        <mark key="." line="2" column="38" />
+        <mark key="^" line="2" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/KFCService/luckyplatform/settings_release.py" timestamp="1501919524197">
         <mark key="[" line="36" column="0" />
@@ -95,6 +101,13 @@
         <mark key="[" line="264" column="0" />
         <mark key="]" line="264" column="0" />
         <mark key="." line="264" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/bloodbull.supervisor.conf" timestamp="1502008083007">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="13" column="55" />
+        <mark key="]" line="13" column="82" />
+        <mark key="." line="13" column="55" />
+        <mark key="^" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/third/bluepay.py" timestamp="1501053869635">
         <mark key="[" line="76" column="0" />
@@ -107,9 +120,9 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config_files/casiouser.supervisor.conf" timestamp="1502006741788">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
+      <file name="$USER_HOME$/workspace/deploy/config_files/casiouser.supervisor.conf" timestamp="1502008011907">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="37" />
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/uwsgi.ini" timestamp="1502006155511">
@@ -135,6 +148,12 @@
         <mark key="]" line="1" column="6" />
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/bloodbull/settings_union.py" timestamp="1502007521112">
+        <mark key="[" line="47" column="68" />
+        <mark key="]" line="47" column="68" />
+        <mark key="." line="47" column="68" />
+        <mark key="^" line="47" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/userplatform/settings_union.py" timestamp="1501938250918">
         <mark key="[" line="71" column="0" />
@@ -164,11 +183,16 @@
       <file name="$USER_HOME$/workspace/casiouser/usercommon/model/account.py" timestamp="1501938298637">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502006885431">
+      <file name="/Dummy.txt" timestamp="1502007690284">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bloodbull/settings_prod.py" timestamp="1502007381589">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/luckyservice.nginx.conf" timestamp="1501936004907">
         <mark key="'" line="64" column="18" />
@@ -186,11 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="19" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" />
-      <jump line="320" column="6" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" />
-      <jump line="5" column="10" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" />
-      <jump line="306" column="18" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" />
-      <jump line="312" column="18" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" />
       <jump line="315" column="13" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" />
       <jump line="321" column="3" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" />
       <jump line="307" column="33" filename="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" />
@@ -286,22 +305,27 @@
       <jump line="46" column="0" filename="$USER_HOME$/workspace/casiouser/requirements.txt" />
       <jump line="33" column="13" filename="$USER_HOME$/workspace/deploy/config_files/casiouser.supervisor.conf" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/casiouser/uwsgi.ini" />
+      <jump line="45" column="44" filename="$USER_HOME$/workspace/deploy/config.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/deploy/config_files/bloodbull.supervisor.conf" />
+      <jump line="8" column="11" filename="$USER_HOME$/workspace/deploy/config_files/bloodbull.supervisor.conf" />
+      <jump line="1" column="35" filename="$USER_HOME$/workspace/deploy/config_files/bloodbull.supervisor.conf" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/deploy/config_files/bloodbull.supervisor.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/home/ubuntu/work/bloodbull/</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>/home/ubuntu/work/bloodbull/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxweU9wZW5TU0xcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>uwsgi</text>
+        <text>/opt/bloodbull/enabled/app/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGlyZWN0b3J5PS9ob21lL3VidW50dS93b3JrL2Jsb29kYnVsbAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -310,22 +334,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">W3Byb2dyYW06Y2FzaW91c2VyLWNlbGVyeV0KZGlyZWN0b3J5PS9vcHQvY2FzaW91c2VyL2VuYWJsZWQvYXBwLwpjb21tYW5kPS9ob21lL3VidW50dS8ucHllbnYvdmVyc2lvbnMvY2FzaW5vL2Jpbi9jZWxlcnkgLUEgdXNlcmNvbW1vbi5hc3luYyB3b3JrZXIgLWMgNCAtbCBpbmZvCnVzZXI9dWJ1bnR1CnN0ZG91dF9sb2dmaWxlPS92YXIvbG9nL2Nhc2lvdXNlci93b3JrZXIubG9nCnN0ZGVycl9sb2dmaWxlPS92YXIvbG9nL2Nhc2lvdXNlci93b3JrZXIubG9nCmF1dG9zdGFydD10cnVlCmF1dG9yZXN0YXJ0PXRydWUKc3RhcnRzZWNzPTEwCnN0b3BzaWduYWwgPSBRVUlUCg==</text>
+        <text encoding="base64">cHJvZ3JhbXM6Ymxvb2RidWxsLGJsb29kX3Byb2Nlc3NvciAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGFlbW9uaXplID0gL3Zhci9sb2cvY2FzaW91c2VyL3V3c2dpLmxvZwo=</text>
+        <text encoding="base64">W2dyb3VwOmJsb29kX2dyb3VwXSAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpb3JpdHk9MTAwMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">OyBzbywgaWYgcmFiYml0bXEgaXMgc3VwZXJ2aXNlZCwgaXQgd2lsbCBzdGFydCBmaXJzdC4K</text>
+        <text encoding="base64">IiIiIOmFjee9riAiIiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">OyBTZXQgQ2VsZXJ5IHByaW9yaXR5IGhpZ2hlciB0aGFuIGRlZmF1bHQgKDk5OSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
