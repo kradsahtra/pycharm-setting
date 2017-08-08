@@ -47,11 +47,11 @@
         <mark key="." line="150" column="23" />
         <mark key="^" line="151" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/casioconsole/luckyplatform/settings_union.py" timestamp="1502195991067">
+      <file name="$USER_HOME$/workspace/casioconsole/luckyplatform/settings_union.py" timestamp="1502197554024">
         <mark key="'" line="154" column="0" />
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="0" />
-        <mark key="." line="160" column="0" />
+        <mark key="[" line="154" column="20" />
+        <mark key="]" line="154" column="24" />
+        <mark key="." line="154" column="24" />
         <mark key="^" line="154" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/common/utils/decorators.py" timestamp="1499330084367">
@@ -130,6 +130,12 @@
         <mark key="]" line="93" column="62" />
         <mark key="." line="93" column="38" />
         <mark key="^" line="93" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspace/casioconsole/luckyplatform/settings_prod.py" timestamp="1502197529284">
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="^" line="154" column="24" />
+        <mark key="." line="160" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/KFCService/longconnect/handler.py" timestamp="1502196908868">
         <mark key="'" line="0" column="0" />
@@ -708,7 +714,12 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casioconsole/luckyplatform/settings.py" timestamp="1502195616730" />
+      <file name="$USER_HOME$/workspace/casioconsole/luckyplatform/settings.py" timestamp="1502197541371">
+        <mark key="[" line="152" column="20" />
+        <mark key="]" line="152" column="24" />
+        <mark key="." line="152" column="24" />
+        <mark key="^" line="152" column="24" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="98" column="0" filename="$USER_HOME$/workspace/casiouser/userplatform/settings.py" />
@@ -814,10 +825,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>param</text>
+        <text>casioconsole</text>
       </register>
       <register name="-" type="4">
-        <text>param</text>
+        <text>casioconsole</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbVw+</text>
@@ -826,34 +837,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2Rkeic6IFsnMTYyLjIyMi4xNjUuMjQ5JywgXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBsdWNreXBsYXRmb3JtLnNldHRpbmdzIGltcG9ydCBSRURJU19IT1NULCBSRURJU19QT1JULCBCVUxMX0NIQU5ORUxfRElDVAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q0hPVVNIVUkgPSAwLjk1Cg==</text>
+        <text encoding="base64">dHJ5OgogICAgZnJvbSBsdWNreXBsYXRmb3JtLmVudl9zZXR0aW5ncyBpbXBvcnQgKgpleGNlcHQgSW1wb3J0RXJyb3I6CiAgICBpbXBvcnQgbG9nZ2luZwogICAgbG9nZ2luZy53YXJuKCdubyBlbnYgc3BlY2lmaWVkIHNldHRpbmdzIGxvYWRlZCwgdXNlIGRlZmF1bHQuJykKICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q1JFRElUX1RSQU5TX1JBVElPID0gZmxvYXQoMTAwMCkK</text>
+        <text encoding="base64">dHJ5OgogICAgZnJvbSBsdWNreXBsYXRmb3JtLmVudl9zZXR0aW5ncyBpbXBvcnQgKgpleGNlcHQgSW1wb3J0RXJyb3I6CiAgICBpbXBvcnQgbG9nZ2luZwogICAgbG9nZ2luZy53YXJuKCdubyBlbnYgc3BlY2lmaWVkIHNldHRpbmdzIGxvYWRlZCwgdXNlIGRlZmF1bHQuJykKICAgIHBhc3MKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UkVESVNfUE9SVCA9IDYzNzkK</text>
+        <text encoding="base64">ZnJvbSBsdWNreXBsYXRmb3JtLnNldHRpbmdzIGltcG9ydCBSRURJU19IT1NULCBSRURJU19QT1JULCBCVUxMX0NIQU5ORUxfRElDVAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UkVESVNfSE9TVCA9ICcxMDMuMjMwLjI0Mi4xNzknCg==</text>
+        <text encoding="base64">Q0hPVVNIVUkgPSAwLjk1Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UkVESVNfSE9TVCA9ICcxMDMuMjMwLjI0Mi4xNzknClJFRElTX1BPUlQgPSA2Mzc5Ck1JTl9CQUxBTkNFX0JST0FEQ0FTVCA9IDEwMDAwCkJVTExfQ0hBTk5FTCA9ICdsdWNreTpidWxsOmNoYW5uZWw6YWxsJwpDUkVESVRfVFJBTlNfUkFUSU8gPSBmbG9hdCgxMDAwKQpDSE9VU0hVSSA9IDAuOTUKQlVMTF9DSEFOTkVMX0RJQ1QgPSB7CiAgICAwOiAnbHVjazpidWxsOmNoYW5uZWw6YWxsOjAnLAogICAgMTogJ2x1Y2s6YnVsbDpjaGFubmVsOmFsbDoxJywKICAgIDI6ICdsdWNrOmJ1bGw6Y2hhbm5lbDphbGw6MicKfQoKUk9PTV9TRVRVUCA9IFsKICAgICAgICB7ImluZGV4IjogMCwgIm11bHRpIjogMywgImJhc2UiOiAxMDAwLCAibG93ZXIiOiAxMDAwMCwgImJhbmtlciI6IDIwMDAwMDAsICJsb2NrIjogMywgImxpbWl0IjogNSwgInJlc3VsdCI6IHstMTogMSwgMTogMSwgMjogMSwgMzogMSwgNDogMSwgNTogMSwgNjogMSwgNzogMiwgODogMiwgOTogMiwgMTA6IDN9fSwKICAgICAgICB7ImluZGV4IjogMSwgIm11bHRpIjogMTAsICJiYXNlIjogMTAwMCwgImxvd2VyIjogNTAwMDAsICJiYW5rZXIiOiAxMDAwMDAwMCwgImxvY2siOiAxMCwgImxpbWl0IjogMTIsICJyZXN1bHQiOiB7LTE6IDEsIDE6IDEsIDI6IDIsIDM6IDMsIDQ6IDQsIDU6IDUsIDY6IDYsIDc6IDcsIDg6IDgsIDk6IDksIDEwOiAxMH19LApdCg==</text>
+        <text encoding="base64">Q1JFRElUX1RSQU5TX1JBVElPID0gZmxvYXQoMTAwMCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBzZXR0aW5ncyBpbXBvcnQgKgo=</text>
+        <text encoding="base64">UkVESVNfUE9SVCA9IDYzNzkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnRyeToKICAgIGZyb20gbHVja3lwbGF0Zm9ybS5lbnZfc2V0dGluZ3MgaW1wb3J0ICoKZXhjZXB0IEltcG9ydEVycm9yOgogICAgaW1wb3J0IGxvZ2dpbmcKICAgIGxvZ2dpbmcud2Fybignbm8gZW52IHNwZWNpZmllZCBzZXR0aW5ncyBsb2FkZWQsIHVzZSBkZWZhdWx0LicpCiAgICBwYXNzCg==</text>
+        <text encoding="base64">UkVESVNfSE9TVCA9ICcxMDMuMjMwLjI0Mi4xNzknCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdkYic6ICdteXNxbDovL3Jvb3Q6MTIzNDU2QDEyNy4wLjAuMTozMzA2L2FkbWluP2NoYXJzZXQ9dXRmOCcsCg==</text>
+        <text encoding="base64">UkVESVNfSE9TVCA9ICcxMDMuMjMwLjI0Mi4xNzknClJFRElTX1BPUlQgPSA2Mzc5Ck1JTl9CQUxBTkNFX0JST0FEQ0FTVCA9IDEwMDAwCkJVTExfQ0hBTk5FTCA9ICdsdWNreTpidWxsOmNoYW5uZWw6YWxsJwpDUkVESVRfVFJBTlNfUkFUSU8gPSBmbG9hdCgxMDAwKQpDSE9VU0hVSSA9IDAuOTUKQlVMTF9DSEFOTkVMX0RJQ1QgPSB7CiAgICAwOiAnbHVjazpidWxsOmNoYW5uZWw6YWxsOjAnLAogICAgMTogJ2x1Y2s6YnVsbDpjaGFubmVsOmFsbDoxJywKICAgIDI6ICdsdWNrOmJ1bGw6Y2hhbm5lbDphbGw6MicKfQoKUk9PTV9TRVRVUCA9IFsKICAgICAgICB7ImluZGV4IjogMCwgIm11bHRpIjogMywgImJhc2UiOiAxMDAwLCAibG93ZXIiOiAxMDAwMCwgImJhbmtlciI6IDIwMDAwMDAsICJsb2NrIjogMywgImxpbWl0IjogNSwgInJlc3VsdCI6IHstMTogMSwgMTogMSwgMjogMSwgMzogMSwgNDogMSwgNTogMSwgNjogMSwgNzogMiwgODogMiwgOTogMiwgMTA6IDN9fSwKICAgICAgICB7ImluZGV4IjogMSwgIm11bHRpIjogMTAsICJiYXNlIjogMTAwMCwgImxvd2VyIjogNTAwMDAsICJiYW5rZXIiOiAxMDAwMDAwMCwgImxvY2siOiAxMCwgImxpbWl0IjogMTIsICJyZXN1bHQiOiB7LTE6IDEsIDE6IDEsIDI6IDIsIDM6IDMsIDQ6IDQsIDU6IDUsIDY6IDYsIDc6IDcsIDg6IDgsIDk6IDksIDEwOiAxMH19LApdCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
