@@ -509,6 +509,13 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/mysqld.cnf" timestamp="1502182653796">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="35" column="28" />
+        <mark key="." line="35" column="28" />
+        <mark key="^" line="35" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/luckyas/README.md" timestamp="1499237921416">
         <mark key="'" line="27" column="21" />
         <mark key="[" line="99" column="80" />
@@ -588,10 +595,6 @@
         <mark key="." line="23" column="59" />
         <mark key="^" line="23" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/bloodbull/app.py" timestamp="1502095157566">
-        <mark key="'" line="30" column="4" />
-        <mark key="[" line="2" column="14" />
-      </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/luckyservice.nginx.conf" timestamp="1502163922880">
         <mark key="'" line="25" column="16" />
         <mark key="[" line="18" column="11" />
@@ -655,8 +658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="45" filename="$USER_HOME$/workspace/deploy/config_files/redis.conf" />
-      <jump line="50" column="4" filename="$USER_HOME$/workspace/deploy/config_files/redis.conf" />
       <jump line="26" column="13" filename="$USER_HOME$/workspace/deploy/config_files/redis.conf" />
       <jump line="9" column="19" filename="$USER_HOME$/workspace/deploy/config_files/im.nginx.conf" />
       <jump line="5" column="9" filename="$USER_HOME$/workspace/deploy/config_files/luckyservice.nginx.conf" />
@@ -755,13 +756,15 @@
       <jump line="6" column="0" filename="$USER_HOME$/workspace/deploy/config_files/ddz.supervisor.conf" />
       <jump line="238" column="75" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
       <jump line="25" column="16" filename="$USER_HOME$/workspace/deploy/config_files/luckyservice.nginx.conf" />
+      <jump line="11" column="25" filename="$USER_HOME$/workspace/deploy/config_files/mysqld.cnf" />
+      <jump line="84" column="0" filename="$USER_HOME$/workspace/deploy/config_files/mysqld.cnf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IFBBVEg9Ii9ob21lL3VidW50dS8ucHllbnYvYmluOiRQQVRIIgpldmFsICIkKHB5ZW52IGluaXQgLSkiCmV2YWwgIiQocHllbnYgdmlydHVhbGVudi1pbml0IC0pIgpleHBvcnQgUEFUSD0ifi8ucHllbnYvYmluOiRQQVRIIgo=</text>
+      <register name="&quot;" type="4">
+        <text>/var/lib/mysql</text>
       </register>
       <register name="-" type="4">
-        <text>127.0.0.1</text>
+        <text>/var/lib/mysql</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b3JuYWRvXD4=</text>
@@ -770,37 +773,37 @@
         <text>162.222.165.249</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IFBBVEg9Ii9ob21lL3VidW50dS8ucHllbnYvYmluOiRQQVRIIgpldmFsICIkKHB5ZW52IGluaXQgLSkiCmV2YWwgIiQocHllbnYgdmlydHVhbGVudi1pbml0IC0pIgpleHBvcnQgUEFUSD0ifi8ucHllbnYvYmluOiRQQVRIIgo=</text>
+        <text encoding="base64">IwojIEluc3RlYWQgb2Ygc2tpcC1uZXR3b3JraW5nIHRoZSBkZWZhdWx0IGlzIG5vdyB0byBsaXN0ZW4gb25seSBvbgojIGxvY2FsaG9zdCB3aGljaCBpcyBtb3JlIGNvbXBhdGlibGUgYW5kIGlzIG5vdCBsZXNzIHNlY3VyZS4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICcnID09IF9ST0xFOgo=</text>
+        <text encoding="base64">IwojICogQmFzaWMgU2V0dGluZ3MKIwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29tbWFuZD0vaG9tZS91YnVudHUvd29yay9iaW4vcHl0aG9uIC9ob21lL3VidW50dS93b3JrL2RvdWRpemh1L3JvYm90X3BsYXllci5weQo=</text>
+        <text encoding="base64">IwojIFRoZSBNeVNRTCBkYXRhYmFzZSBzZXJ2ZXIgY29uZmlndXJhdGlvbiBmaWxlLgojCiMgWW91IGNhbiBjb3B5IHRoaXMgdG8gb25lIG9mOgojIC0gIi9ldGMvbXlzcWwvbXkuY25mIiB0byBzZXQgZ2xvYmFsIG9wdGlvbnMsCiMgLSAifi8ubXkuY25mIiB0byBzZXQgdXNlci1zcGVjaWZpYyBvcHRpb25zLgojIAojIE9uZSBjYW4gdXNlIGFsbCBsb25nIG9wdGlvbnMgdGhhdCB0aGUgcHJvZ3JhbSBzdXBwb3J0cy4KIyBSdW4gcHJvZ3JhbSB3aXRoIC0taGVscCB0byBnZXQgYSBsaXN0IG9mIGF2YWlsYWJsZSBvcHRpb25zIGFuZCB3aXRoCiMgLS1wcmludC1kZWZhdWx0cyB0byBzZWUgd2hpY2ggaXQgd291bGQgYWN0dWFsbHkgdW5kZXJzdGFuZCBhbmQgdXNlLgojCiMgRm9yIGV4cGxhbmF0aW9ucyBzZWUKIyBodHRwOi8vZGV2Lm15c3FsLmNvbS9kb2MvbXlzcWwvZW4vc2VydmVyLXN5c3RlbS12YXJpYWJsZXMuaHRtbAoKIyBUaGlzIHdpbGwgYmUgcGFzc2VkIHRvIGFsbCBteXNxbCBjbGllbnRzCiMgSXQgaGFzIGJlZW4gcmVwb3J0ZWQgdGhhdCBwYXNzd29yZHMgc2hvdWxkIGJlIGVuY2xvc2VkIHdpdGggdGlja3MvcXVvdGVzCiMgZXNjcGVjaWFsbHkgaWYgdGhleSBjb250YWluICIjIiBjaGFycy4uLgojIFJlbWVtYmVyIHRvIGVkaXQgL2V0Yy9teXNxbC9kZWJpYW4uY25mIHdoZW4gY2hhbmdpbmcgdGhlIHNvY2tldCBsb2NhdGlvbi4KCiMgSGVyZSBpcyBlbnRyaWVzIGZvciBzb21lIHNwZWNpZmljIHByb2dyYW1zCiMgVGhlIGZvbGxvd2luZyB2YWx1ZXMgYXNzdW1lIHlvdSBoYXZlIGF0IGxlYXN0IDMyTSByYW0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGlyZWN0b3J5PS9ob21lL3VidW50dS93b3JrL2RvdWRpemh1Lwo=</text>
+        <text encoding="base64">ZXhwb3J0IFBBVEg9Ii9ob21lL3VidW50dS8ucHllbnYvYmluOiRQQVRIIgpldmFsICIkKHB5ZW52IGluaXQgLSkiCmV2YWwgIiQocHllbnYgdmlydHVhbGVudi1pbml0IC0pIgpleHBvcnQgUEFUSD0ifi8ucHllbnYvYmluOiRQQVRIIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29tbWFuZD0vaG9tZS91YnVudHUvd29yay9iaW4vcHl0aG9uIC9ob21lL3VidW50dS93b3JrL2RvdWRpemh1L3RpbWVvdXRfcHJvY2Vzc29yLnB5Cg==</text>
+        <text encoding="base64">ICAgIGlmICcnID09IF9ST0xFOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGlyZWN0b3J5PS9vcHQvZGR6L2VuYWJsZWQvYXBwCg==</text>
+        <text encoding="base64">Y29tbWFuZD0vaG9tZS91YnVudHUvd29yay9iaW4vcHl0aG9uIC9ob21lL3VidW50dS93b3JrL2RvdWRpemh1L3JvYm90X3BsYXllci5weQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ZGlyZWN0b3J5PS9ob21lL3VidW50dS93b3JrL2RvdWRpemh1Lwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGlyZWN0b3J5PS9ob21lL3VidW50dS93b3JrL2RvdWRpemh1Lwpjb21tYW5kPS9ob21lL3VidW50dS93b3JrL2Jpbi9weXRob24gL2hvbWUvdWJ1bnR1L3dvcmsvZG91ZGl6aHUvdGltZW91dF9wcm9jZXNzb3IucHkK</text>
+        <text encoding="base64">Y29tbWFuZD0vaG9tZS91YnVudHUvd29yay9iaW4vcHl0aG9uIC9ob21lL3VidW50dS93b3JrL2RvdWRpemh1L3RpbWVvdXRfcHJvY2Vzc29yLnB5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGlyZWN0b3J5PS9ob21lL3VidW50dS93b3JrL2RvdWRpemh1Lwpjb21tYW5kPS9ob21lL3VidW50dS93b3JrL2Jpbi9weXRob24gL2hvbWUvdWJ1bnR1L3dvcmsvZG91ZGl6aHUvaG9zdC5weQo=</text>
+        <text encoding="base64">ZGlyZWN0b3J5PS9vcHQvZGR6L2VuYWJsZWQvYXBwCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLycvIi9n</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -836,7 +839,6 @@
         <entry encoding="base64">XDx0b3JuYWRvXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>224</entry>
         <entry>522</entry>
         <entry encoding="base64">JzwsJz5zLzE5My8xOTEvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzE5MS83Mi9n</entry>
@@ -856,6 +858,7 @@
         <entry encoding="base64">JzwsJz5zL2FkbWluL2x1Y2t5L2c=</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
