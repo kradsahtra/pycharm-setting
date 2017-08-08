@@ -99,7 +99,11 @@
         <mark key="]" line="10" column="43" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config_files/zshrc" timestamp="1502162334214" />
+      <file name="$USER_HOME$/workspace/deploy/config_files/zshrc" timestamp="1502179889751">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/KFCService/luckyplatform/settings_prod.py" timestamp="1502092368609">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -753,8 +757,8 @@
       <jump line="25" column="16" filename="$USER_HOME$/workspace/deploy/config_files/luckyservice.nginx.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>127.0.0.1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZXhwb3J0IFBBVEg9Ii9ob21lL3VidW50dS8ucHllbnYvYmluOiRQQVRIIgpldmFsICIkKHB5ZW52IGluaXQgLSkiCmV2YWwgIiQocHllbnYgdmlydHVhbGVudi1pbml0IC0pIgpleHBvcnQgUEFUSD0ifi8ucHllbnYvYmluOiRQQVRIIgo=</text>
       </register>
       <register name="-" type="4">
         <text>127.0.0.1</text>
@@ -766,34 +770,34 @@
         <text>162.222.165.249</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICcnID09IF9ST0xFOgo=</text>
+        <text encoding="base64">ZXhwb3J0IFBBVEg9Ii9ob21lL3VidW50dS8ucHllbnYvYmluOiRQQVRIIgpldmFsICIkKHB5ZW52IGluaXQgLSkiCmV2YWwgIiQocHllbnYgdmlydHVhbGVudi1pbml0IC0pIgpleHBvcnQgUEFUSD0ifi8ucHllbnYvYmluOiRQQVRIIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29tbWFuZD0vaG9tZS91YnVudHUvd29yay9iaW4vcHl0aG9uIC9ob21lL3VidW50dS93b3JrL2RvdWRpemh1L3JvYm90X3BsYXllci5weQo=</text>
+        <text encoding="base64">ICAgIGlmICcnID09IF9ST0xFOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGlyZWN0b3J5PS9ob21lL3VidW50dS93b3JrL2RvdWRpemh1Lwo=</text>
+        <text encoding="base64">Y29tbWFuZD0vaG9tZS91YnVudHUvd29yay9iaW4vcHl0aG9uIC9ob21lL3VidW50dS93b3JrL2RvdWRpemh1L3JvYm90X3BsYXllci5weQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29tbWFuZD0vaG9tZS91YnVudHUvd29yay9iaW4vcHl0aG9uIC9ob21lL3VidW50dS93b3JrL2RvdWRpemh1L3RpbWVvdXRfcHJvY2Vzc29yLnB5Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGlyZWN0b3J5PS9vcHQvZGR6L2VuYWJsZWQvYXBwCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ZGlyZWN0b3J5PS9ob21lL3VidW50dS93b3JrL2RvdWRpemh1Lwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29tbWFuZD0vaG9tZS91YnVudHUvd29yay9iaW4vcHl0aG9uIC9ob21lL3VidW50dS93b3JrL2RvdWRpemh1L3RpbWVvdXRfcHJvY2Vzc29yLnB5Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGlyZWN0b3J5PS9vcHQvZGR6L2VuYWJsZWQvYXBwCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGlyZWN0b3J5PS9ob21lL3VidW50dS93b3JrL2RvdWRpemh1Lwpjb21tYW5kPS9ob21lL3VidW50dS93b3JrL2Jpbi9weXRob24gL2hvbWUvdWJ1bnR1L3dvcmsvZG91ZGl6aHUvdGltZW91dF9wcm9jZXNzb3IucHkK</text>
+        <text encoding="base64">ZGlyZWN0b3J5PS9ob21lL3VidW50dS93b3JrL2RvdWRpemh1Lwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGlyZWN0b3J5PS9ob21lL3VidW50dS93b3JrL2RvdWRpemh1Lwpjb21tYW5kPS9ob21lL3VidW50dS93b3JrL2Jpbi9weXRob24gL2hvbWUvdWJ1bnR1L3dvcmsvZG91ZGl6aHUvaG9zdC5weQo=</text>
+        <text encoding="base64">ZGlyZWN0b3J5PS9ob21lL3VidW50dS93b3JrL2RvdWRpemh1Lwpjb21tYW5kPS9ob21lL3VidW50dS93b3JrL2Jpbi9weXRob24gL2hvbWUvdWJ1bnR1L3dvcmsvZG91ZGl6aHUvdGltZW91dF9wcm9jZXNzb3IucHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29tbWFuZD0vaG9tZS91YnVudHUvd29yay9iaW4vcHl0aG9uIC9ob21lL3VidW50dS93b3JrL2RvdWRpemh1L2FwcC5weQo=</text>
+        <text encoding="base64">ZGlyZWN0b3J5PS9ob21lL3VidW50dS93b3JrL2RvdWRpemh1Lwpjb21tYW5kPS9ob21lL3VidW50dS93b3JrL2Jpbi9weXRob24gL2hvbWUvdWJ1bnR1L3dvcmsvZG91ZGl6aHUvaG9zdC5weQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9n</text>
