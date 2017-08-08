@@ -6,8 +6,8 @@
       <mapping ext="postman_environment" type="JSON" />
       <mapping pattern="zshrc" type="PLAIN_TEXT" />
       <mapping pattern="flower" type="PLAIN_TEXT" />
+      <mapping pattern="user_union_toml" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="cmake" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
     </extensionMap>
