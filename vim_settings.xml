@@ -94,6 +94,7 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/zshrc" timestamp="1502162334214" />
       <file name="$USER_HOME$/workspace/KFCService/luckyplatform/settings_prod.py" timestamp="1502092368609">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -161,10 +162,10 @@
         <mark key="." line="28" column="28" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1502099144989">
-        <mark key="'" line="218" column="72" />
-        <mark key="[" line="238" column="34" />
-        <mark key="]" line="238" column="76" />
+      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1502162857075">
+        <mark key="'" line="238" column="75" />
+        <mark key="[" line="63" column="10" />
+        <mark key="]" line="63" column="42" />
         <mark key="^" line="235" column="65" />
         <mark key="." line="238" column="34" />
       </file>
@@ -379,6 +380,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/redis.ini" timestamp="1502162599081">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/luckyas/tools/syncdb.py" timestamp="1500265409487">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="12" column="0" />
@@ -407,7 +414,6 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bloodbull/handlers/table.py" timestamp="1501921244437" />
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/utils/exceptions.py" timestamp="1496649822743">
         <mark key="'" line="12" column="20" />
         <mark key="[" line="96" column="6" />
@@ -449,7 +455,6 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/usercommon/newuser_cache/newuser.py" timestamp="1502020813348" />
       <file name="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings_union.py" timestamp="1502076127973">
         <mark key="'" line="231" column="19" />
         <mark key="[" line="226" column="0" />
@@ -462,7 +467,6 @@
         <mark key="]" line="71" column="45" />
         <mark key="." line="71" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/usercommon/utils/ua.py" timestamp="1501937332968" />
       <file name="$USER_HOME$/workspace/deploy/config_files/im.nginx.conf" timestamp="1501935353906">
         <mark key="'" line="9" column="19" />
         <mark key="[" line="10" column="44" />
@@ -477,7 +481,6 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/ddz_2/app.py" timestamp="1501921010325" />
       <file name="$USER_HOME$/workspace/luckyas/admin/controllers/lucky_account_handler.py" timestamp="1499917039859">
         <mark key="'" line="7" column="17" />
         <mark key="[" line="13" column="0" />
@@ -536,7 +539,6 @@
         <mark key="." line="99" column="137" />
         <mark key="^" line="99" column="137" />
       </file>
-      <file name="$USER_HOME$/workspace/KFCService/luckycommon/utils/code.py" timestamp="1502093240546" />
       <file name="$USER_HOME$/workspace/luckyas/admin/models/lucky_pay_model.py" timestamp="1500276219165">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="26" column="23" />
@@ -628,8 +630,6 @@
         <mark key="^" line="34" column="17" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/userapi/urls.py" timestamp="1502021213442" />
-      <file name="$USER_HOME$/workspace/casiouser/usercommon/model/credit.py" timestamp="1502015442811" />
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/utils/mail.py" timestamp="1498013741939">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="164" column="0" />
@@ -644,7 +644,6 @@
         <mark key="." line="119" column="57" />
         <mark key="^" line="119" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/zjh/robot/robot_client.py" timestamp="1502097715281" />
       <file name="$USER_HOME$/workspace/deploy/project_dir_config.py" timestamp="1501850471764">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
@@ -680,7 +679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="30" filename="$USER_HOME$/workspace/KFCService/luckycommon/imbroadcast_cache/__init__.py" />
       <jump line="147" column="0" filename="$USER_HOME$/workspace/KFCService/luckyplatform/settings.py" />
       <jump line="253" column="45" filename="$USER_HOME$/workspace/deploy/config_files/redis.conf" />
       <jump line="50" column="4" filename="$USER_HOME$/workspace/deploy/config_files/redis.conf" />
@@ -780,19 +778,20 @@
       <jump line="11" column="1" filename="$USER_HOME$/workspace/deploy/config_files/ddz.supervisor.conf" />
       <jump line="40" column="9" filename="$USER_HOME$/workspace/deploy/config_files/ddz.supervisor.conf" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/deploy/config_files/ddz.supervisor.conf" />
+      <jump line="238" column="75" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>zjh-tornado zjh_robot zjh_processor</text>
+        <text>sysctl -w net.core.somaxconn=4096</text>
       </register>
       <register name="-" type="4">
-        <text>zjh-tornado zjh_robot zjh_processor</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b3JuYWRvXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>ddz-tornado ddz-host ddz-timeout ddz_robot</text>
+        <text>sysctl -w net.core.somaxconn=4096</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmICcnID09IF9ST0xFOgo=</text>
