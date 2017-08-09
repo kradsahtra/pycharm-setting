@@ -606,6 +606,11 @@
         <mark key="]" line="23" column="21" />
         <mark key="." line="23" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/lottery_sigapore/luckyapi/views/lottery.py" timestamp="1502251281193">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/model/account.py" timestamp="1502015354209">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="37" column="0" />
@@ -844,7 +849,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Zml4IGluZGVudAo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICBjaGVja19zaWduKHJlcSkK</text>
       </register>
       <register name="-" type="4">
         <text>-env</text>
@@ -856,34 +861,34 @@
         <text>/opt/admin/enabled/app/luckyweb/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4IGluZGVudAo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICBjaGVja19zaWduKHJlcSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d3NnaS1maWxlID0vaG9tZS91YnVudHUvYWYtZW52L2Nhc2lvY29uc29sZS9sdWNreXBsYXRmb3JtL3dzZ2kucHkK</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciB3ZWIsIG5lZWQgc2lnbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGlyZWN0b3J5PS9ob21lL3VidW50dS9hZi1lbnYvY2FzaW9jb25zb2xlLwo=</text>
+        <text encoding="base64">ICAgIGlmIHA6CiAgICAgICAgY2hlY2tlZCA9IGNoZWNrX2FidGVzdCh1c2VyX2lkLCBwLmdldCgnY2huJyksIHsnYWJ0ZXN0JzogMX0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmVudj0vaG9tZS91YnVudHUvYWYtZW52Lwo=</text>
+        <text encoding="base64">ICAgICAgICBjaGVja2VkID0gY2hlY2tfYWJ0ZXN0KHVzZXJfaWQsIHAuZ2V0KCdjaG4nKSwgeydhYnRlc3QnOiAxfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGFlbW9uaXplID0gL3Zhci9sb2cvY29uc29sZS91d3NnaS5sb2cK</text>
+        <text encoding="base64">ICAgIGNoZWNrZWQgPSBUcnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICAgaWYgdXNlcl9pZCBub3QgaW4gSU5URVJOQUxfVUlEUyBhbmQgbm90IGNoZWNrZWQ6CiAgICAjICAgICAgICByYWlzZSBlcnIuUmVzb3VyY2VOb3RGb3VuZCgpCiAgICAjICAgaWYgdXNlcl9pZCBub3QgaW4gSU5URVJOQUxfVUlEUzoKICAgICMgICAgICAgdXNlcl9sZXZlbCA9IGdldF91c2VyX2xldmVsKHVzZXJfaWQpCiAgICAjICAgICAgIGlmIHVzZXJfbGV2ZWxbJ2N1cnJlbnRfbGV2ZWwnXSA8IDUgYW5kIG5vdCBpc19oZWF2eV91c2VyKHVzZXJfaWQpOgogICAgIyAgICAgICAgICAgcHJpbnQgJzU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1YXNkZmFzZGZhc2RmYWYnCiAgICAjICAgICAgICAgICByYWlzZSBlcnIuUmVzb3VyY2VOb3RGb3VuZCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHJ5OgogICAgZnJvbSBsdWNreXBsYXRmb3JtLmVudl9zZXR0aW5ncyBpbXBvcnQgKgpleGNlcHQgSW1wb3J0RXJyb3I6CiAgICBpbXBvcnQgbG9nZ2luZwogICAgbG9nZ2luZy53YXJuKCdubyBlbnYgc3BlY2lmaWVkIHNldHRpbmdzIGxvYWRlZCwgdXNlIGRlZmF1bHQuJykKICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBjbGllbnQgZmlsdGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHJ5OgogICAgZnJvbSBsdWNreXBsYXRmb3JtLmVudl9zZXR0aW5ncyBpbXBvcnQgKgpleGNlcHQgSW1wb3J0RXJyb3I6CiAgICBpbXBvcnQgbG9nZ2luZwogICAgbG9nZ2luZy53YXJuKCdubyBlbnYgc3BlY2lmaWVkIHNldHRpbmdzIGxvYWRlZCwgdXNlIGRlZmF1bHQuJykKICAgIHBhc3MKCg==</text>
+        <text encoding="base64">Zml4IGluZGVudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBsdWNreXBsYXRmb3JtLnNldHRpbmdzIGltcG9ydCBSRURJU19IT1NULCBSRURJU19QT1JULCBCVUxMX0NIQU5ORUxfRElDVAo=</text>
+        <text encoding="base64">d3NnaS1maWxlID0vaG9tZS91YnVudHUvYWYtZW52L2Nhc2lvY29uc29sZS9sdWNreXBsYXRmb3JtL3dzZ2kucHkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
