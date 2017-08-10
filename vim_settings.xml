@@ -91,12 +91,12 @@
         <mark key="]" line="7" column="7" />
         <mark key="." line="7" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1502266389828">
-        <mark key="'" line="238" column="75" />
-        <mark key="[" line="248" column="34" />
-        <mark key="]" line="248" column="35" />
-        <mark key="^" line="248" column="35" />
-        <mark key="." line="248" column="35" />
+      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1502353563398">
+        <mark key="'" line="237" column="75" />
+        <mark key="[" line="14" column="47" />
+        <mark key="]" line="14" column="59" />
+        <mark key="^" line="24" column="41" />
+        <mark key="." line="14" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/sluck-id/luckyapi/views/transaction.py" timestamp="1501212486941">
         <mark key="[" line="195" column="0" />
@@ -115,12 +115,12 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1502266200501">
-        <mark key="'" line="19" column="20" />
-        <mark key="[" line="50" column="87" />
-        <mark key="]" line="50" column="91" />
-        <mark key="^" line="50" column="91" />
-        <mark key="." line="50" column="91" />
+      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1502353366659">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="22" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="20" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/KFCService/luckyplatform/settings_release.py" timestamp="1501919524197">
         <mark key="[" line="36" column="0" />
@@ -278,7 +278,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502352254820">
+      <file name="/Dummy.txt" timestamp="1502353422174">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="16" />
@@ -345,8 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="0" filename="$USER_HOME$/workspace/casiouser/userapi/views/preset.py" />
-      <jump line="49" column="14" filename="$USER_HOME$/workspace/casiouser/userapi/views/third.py" />
       <jump line="112" column="16" filename="$USER_HOME$/workspace/casiouser/userapi/views/user.py" />
       <jump line="400" column="4" filename="$USER_HOME$/workspace/casiouser/userapi/views/user.py" />
       <jump line="72" column="16" filename="$USER_HOME$/workspace/casiouser/userapi/views/serverinfo_hp.py" />
@@ -428,7 +426,6 @@
       <jump line="355" column="32" filename="$USER_HOME$/workspace/casiouser/userapi/views/user.py" />
       <jump line="105" column="41" filename="$USER_HOME$/workspace/deploy/config_files/admin.nginx.conf" />
       <jump line="31" column="32" filename="$USER_HOME$/workspace/im_2/settings_union.py" />
-      <jump line="18" column="20" filename="$USER_HOME$/workspace/deploy/config.py" />
       <jump line="10" column="22" filename="$USER_HOME$/workspace/deploy/config_files/im.supervisor.conf" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/deploy/config_files/im.supervisor.conf" />
       <jump line="12" column="20" filename="$USER_HOME$/workspace/deploy/config_files/im.supervisor.conf" />
@@ -445,52 +442,55 @@
       <jump line="346" column="9" filename="$USER_HOME$/workspace/casiouser/userapi/views/transaction.py" />
       <jump line="365" column="0" filename="$USER_HOME$/workspace/casiouser/userapi/views/transaction.py" />
       <jump line="369" column="0" filename="$USER_HOME$/workspace/casiouser/userapi/views/transaction.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/deploy/config.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/deploy/config.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/deploy/config.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>stages[&quot;setting_files_path&quot;]</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>stages[&quot;setting_files_path&quot;]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQQVlfU1RBVFVTXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>agency_weixin</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2Nhc2lvdXNlcic6IFsnMTYyLjIyMi4xNjUuMjQ5JywgXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZnJvbSBjb25maWcgaW1wb3J0IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBmcm9tIHVzZXJjb21tb24uZGIuY2hhcmdlIGltcG9ydCBnZXRfdmlwbGV2ZWxfYnlfdXNlcmlkCg==</text>
+        <text encoding="base64">ICAgICAgICAic2V0dGluZ19maWxlc19wYXRoIjogewogICAgICAgICAgICAnY2FzaW91c2VyJzogJ3VzZXJwbGF0Zm9ybScsCiAgICAgICAgICAgICdibG9vZGJ1bGwnOiAnJywKICAgICAgICAgICAgJ2xvdHRlcnknOiAnbHVja3lwbGF0Zm9ybScsCiAgICAgICAgICAgICdrZmMnOiAnbHVja3lwbGF0Zm9ybScsCiAgICAgICAgICAgICd6amgnOiAnJywKICAgICAgICAgICAgJ2Rkeic6ICcnLAogICAgICAgICAgICAnYWRtaW4nOiAnbHVja3lwbGF0Zm9ybScsCiAgICAgICAgICAgICdpbSc6ICcnLAogICAgICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBmcm9tIHVzZXJjb21tb24uZGIuY2hhcmdlIGltcG9ydCBnZXRfdmlwbGV2ZWxfYnlfdXNlcmlkCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">IyBmcm9tIHVzZXJjb21tb24ucHJlc2V0LmhhbmRsZXIgaW1wb3J0IGNoZWNrX3dpdGhkcmF3X29uCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>, raise_with_traceback
 from usercommon.db.account import exists_user, get_account
 from usercommon.db.bonus import update_bonus_status, get_bonus_status, add_bonus_credit
 from usercommon.model.pay import PAY_STATUS, PAY_TYPE</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkFHRU5DWV9BUFBMWV0sCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAnaWNvbic6ICcnCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnaGlnaGxpZ2h0JzogMCwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnY29tbWVudCc6IHUnJywK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJhZ2VuY3lfY2hhcmdlIjogKDExMTFMLCB1IuWGhemDqOiBmuWQiOaUr+S7mOa1i+ivlemAmumBkyIpLAo=</text>
+        <text encoding="base64">ICAgICAgICAnaGlnaGxpZ2h0JzogMCwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
