@@ -89,7 +89,8 @@
         <mark key="^" line="27" column="20" />
         <mark key="." line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/zjh/requirements.txt" timestamp="1502097723133">
+      <file name="$USER_HOME$/workspace/zjh/requirements.txt" timestamp="1502560001875">
+        <mark key="'" line="2" column="15" />
         <mark key="[" line="1" column="9" />
         <mark key="]" line="2" column="15" />
         <mark key="." line="2" column="15" />
@@ -159,9 +160,6 @@
         <mark key="]" line="64" column="38" />
         <mark key="." line="64" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/KFCService/luckycommon/cache/bull_cache.py" timestamp="1502442301431">
-        <mark key="'" line="352" column="31" />
-      </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/lottery.supervisor.conf" timestamp="1502532395051">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="8" column="0" />
@@ -176,8 +174,8 @@
         <mark key="." line="28" column="28" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1502523154024">
-        <mark key="'" line="237" column="75" />
+      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1502559243463">
+        <mark key="'" line="187" column="4" />
         <mark key="[" line="14" column="47" />
         <mark key="]" line="14" column="59" />
         <mark key="^" line="24" column="41" />
@@ -320,9 +318,6 @@
         <mark key="]" line="38" column="13" />
         <mark key="." line="38" column="13" />
         <mark key="^" line="38" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/lottery/luckycommon/utils/limit.py" timestamp="1502532537177">
-        <mark key="'" line="4" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/settings.py" timestamp="1499312741956">
         <mark key="'" line="19" column="0" />
@@ -473,7 +468,7 @@
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config_files/ddz.supervisor.conf" timestamp="1502532762075">
+      <file name="$USER_HOME$/workspace/deploy/config_files/ddz.supervisor.conf" timestamp="1502559425578">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="16" />
@@ -628,9 +623,6 @@
         <mark key="." line="51" column="71" />
         <mark key="^" line="51" column="71" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/luckyapi/views/lottery.py" timestamp="1502528391016">
-        <mark key="'" line="32" column="30" />
-      </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/model/account.py" timestamp="1502558419039">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="37" column="0" />
@@ -749,6 +741,12 @@
         <mark key="^" line="15" column="59" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bloodbull/requirements.txt" timestamp="1502559571049">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/model/pay.py" timestamp="1502351240700">
         <mark key="[" line="34" column="5" />
         <mark key="]" line="34" column="16" />
@@ -781,8 +779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/workspace/deploy/config.py" />
-      <jump line="17" column="28" filename="$USER_HOME$/workspace/deploy/config_files/zjh.supervisor.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zjh/robot_processor.py" />
       <jump line="68" column="0" filename="$USER_HOME$/workspace/ddz_2/settings_union.py" />
       <jump line="41" column="69" filename="$USER_HOME$/workspace/deploy/config.py" />
@@ -881,40 +877,42 @@
       <jump line="144" column="9" filename="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" />
       <jump line="73" column="25" filename="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" />
       <jump line="15" column="29" filename="$USER_HOME$/workspace/lottery/luckyapi/views/lottery.py" />
+      <jump line="187" column="4" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
+      <jump line="2" column="15" filename="$USER_HOME$/workspace/zjh/requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'162.222.165.253'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dG9ybmFkbwo=</text>
       </register>
       <register name="-" type="4">
         <text>tendency/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb3R0ZXJ5XD4=</text>
+        <text encoding="base64">XDxzZXR1cF9zdXBlcnZpc29yXD4=</text>
       </register>
       <register name="0" type="4">
         <text>'162.222.165.253'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBzZXR0aW5ncyBpbXBvcnQgKgo=</text>
+        <text encoding="base64">dG9ybmFkbwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UkVESVNfUE9SVCA9IDYzNzkK</text>
+        <text encoding="base64">ZnJvbSBzZXR0aW5ncyBpbXBvcnQgKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UkVESVNfSE9TVCA9ICcxMjcuMC4wLjEnCg==</text>
+        <text encoding="base64">UkVESVNfUE9SVCA9IDYzNzkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UkVESVNfSE9TVCA9ICcxMjcuMC4wLjEnClJFRElTX1BPUlQgPSA2Mzc5CkxPVFRFUllfQ0hBTk5FTCA9ICdsdWNreTpsb3R0ZXJ5OmNoYW5uZWw6YWxsJwo=</text>
+        <text encoding="base64">UkVESVNfSE9TVCA9ICcxMjcuMC4wLjEnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBsdWNreWNvbW1vbi51dGlscy5saW1pdCBpbXBvcnQgY2hlY2tfYWJ0ZXN0Cg==</text>
+        <text encoding="base64">UkVESVNfSE9TVCA9ICcxMjcuMC4wLjEnClJFRElTX1BPUlQgPSA2Mzc5CkxPVFRFUllfQ0hBTk5FTCA9ICdsdWNreTpsb3R0ZXJ5OmNoYW5uZWw6YWxsJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RvcHNpZ25hbD1LSUxMCmtpbGxhc2dyb3VwPXRydWUKc3RvcGFzZ3JvdXA9dHJ1ZQo=</text>
+        <text encoding="base64">ZnJvbSBsdWNreWNvbW1vbi51dGlscy5saW1pdCBpbXBvcnQgY2hlY2tfYWJ0ZXN0Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">c3RvcHNpZ25hbD1LSUxMCmtpbGxhc2dyb3VwPXRydWUKc3RvcGFzZ3JvdXA9dHJ1ZQo=</text>
@@ -930,9 +928,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb3R0ZXJ5XD4=</last-search>
+      <last-search encoding="base64">XDxzZXR1cF9zdXBlcnZpc29yXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb3R0ZXJ5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZXR1cF9zdXBlcnZpc29yXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute encoding="base64">XDxweU9wZW5TU0xcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -940,7 +938,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxIT1NUTkFNRVw+</entry>
         <entry encoding="base64">XDxGT05UX1BBVEhcPg==</entry>
         <entry encoding="base64">XDxmb250X2xpc3RcPg==</entry>
         <entry encoding="base64">XDx0b3JuYWRvXD4=</entry>
@@ -960,6 +957,7 @@
         <entry encoding="base64">XDxhYnRlc3RcPg==</entry>
         <entry encoding="base64">XDxMT1RURVJZX0NIQU5ORUxcPg==</entry>
         <entry encoding="base64">XDxsb3R0ZXJ5XD4=</entry>
+        <entry encoding="base64">XDxzZXR1cF9zdXBlcnZpc29yXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>522</entry>
