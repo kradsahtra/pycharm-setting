@@ -225,12 +225,12 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1502529732262">
+      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1502555708906">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="32" column="13" />
-        <mark key="]" line="32" column="19" />
-        <mark key="^" line="32" column="19" />
-        <mark key="." line="32" column="19" />
+        <mark key="[" line="46" column="38" />
+        <mark key="]" line="46" column="55" />
+        <mark key="^" line="39" column="60" />
+        <mark key="." line="46" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/lottery/longconnect/settings.py" timestamp="1502533040079">
         <mark key="[" line="2" column="0" />
@@ -884,7 +884,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tendency/</text>
+        <text>'162.222.165.253'</text>
       </register>
       <register name="-" type="4">
         <text>tendency/</text>
@@ -892,8 +892,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxsb3R0ZXJ5XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygncmVmcmVzaCBkYXRhOiAlcycgJSBkYXRhKQo=</text>
+      <register name="0" type="4">
+        <text>'162.222.165.253'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBzZXR0aW5ncyBpbXBvcnQgKgo=</text>
