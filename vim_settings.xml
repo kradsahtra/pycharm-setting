@@ -156,12 +156,12 @@
       <file name="$USER_HOME$/workspace/KFCService/luckycommon/cache/bull_cache.py" timestamp="1502442301431">
         <mark key="'" line="352" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config_files/lottery.supervisor.conf" timestamp="1502196418005">
-        <mark key="'" line="18" column="21" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="17" />
-        <mark key="." line="12" column="55" />
-        <mark key="^" line="12" column="53" />
+      <file name="$USER_HOME$/workspace/deploy/config_files/lottery.supervisor.conf" timestamp="1502530188270">
+        <mark key="'" line="10" column="16" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/zjh.supervisor.conf" timestamp="1502098804866">
         <mark key="'" line="22" column="22" />
@@ -212,12 +212,12 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1502529453198">
+      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1502529732262">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="34" />
-        <mark key="^" line="3" column="34" />
-        <mark key="." line="3" column="34" />
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="32" column="19" />
+        <mark key="^" line="32" column="19" />
+        <mark key="." line="32" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/tools/stats_campaign.py" timestamp="1498026868747">
         <mark key="'" line="226" column="19" />
@@ -520,11 +520,6 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/userapi/views/preset.py" timestamp="1502511640504">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="38" column="23" />
-      </file>
       <file name="$USER_HOME$/workspace/casiouser/userapi/views/user.py" timestamp="1502197065362">
         <mark key="'" line="355" column="32" />
         <mark key="[" line="360" column="32" />
@@ -757,7 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/uwsgi.ini" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/KFCService/requirements.txt" />
       <jump line="34" column="38" filename="$USER_HOME$/workspace/KFCService/uwsgi.ini" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/KFCService/uwsgi.ini" />
@@ -857,19 +851,20 @@
       <jump line="3" column="0" filename="$USER_HOME$/workspace/Lottery_longconnect/luckycommon/utils/api.py" />
       <jump line="76" column="8" filename="$USER_HOME$/workspace/Lottery_longconnect/luckyplatform/settings.py" />
       <jump line="163" column="4" filename="$USER_HOME$/workspace/Lottery_longconnect/luckyplatform/settings.py" />
+      <jump line="10" column="16" filename="$USER_HOME$/workspace/deploy/config_files/lottery.supervisor.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sigapore</text>
+        <text>casiouser</text>
       </register>
       <register name="-" type="4">
-        <text>sigapore</text>
+        <text>casiouser</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxERVNfQ09NXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>IM_CHANNEL</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2Nhc2lvdXNlcic6IFsnMTgzLjYwLjIwMC4xMDUnLCBdLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
