@@ -65,6 +65,11 @@
         <mark key="^" line="16" column="50" />
         <mark key="." line="116" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/casiouser/userapi/views/version_control.py" timestamp="1502512925525">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/casino_hall_api.supervisor.conf" timestamp="1501864460938">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="17" />
@@ -194,6 +199,7 @@
         <mark key="." line="55" column="3" />
         <mark key="^" line="55" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/casiouser/usercommon/utils/api.py" timestamp="1502511448329" />
       <file name="$USER_HOME$/workspace/deploy/config_files/bloodbull.nginx.conf" timestamp="1502271194130">
         <mark key="[" line="10" column="44" />
         <mark key="]" line="10" column="47" />
@@ -493,8 +499,10 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/userapi/views/preset.py" timestamp="1502021304547">
+      <file name="$USER_HOME$/workspace/casiouser/userapi/views/preset.py" timestamp="1502511640504">
         <mark key="'" line="102" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="38" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/userapi/views/user.py" timestamp="1502197065362">
         <mark key="'" line="355" column="32" />
@@ -637,11 +645,12 @@
         <mark key="^" line="34" column="17" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/userapi/urls.py" timestamp="1502508668272">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="38" />
-        <mark key="." line="25" column="38" />
-        <mark key="^" line="25" column="38" />
+      <file name="$USER_HOME$/workspace/casiouser/userapi/urls.py" timestamp="1502511807300">
+        <mark key="'" line="26" column="32" />
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="26" column="59" />
+        <mark key="." line="26" column="59" />
+        <mark key="^" line="26" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/utils/mail.py" timestamp="1498013741939">
         <mark key="'" line="15" column="0" />
@@ -696,7 +705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="22" filename="$USER_HOME$/workspace/casiouser/userapi/views/serverinfo_hp.py" />
       <jump line="7" column="34" filename="$USER_HOME$/workspace/casiouser/userapi/views/serverinfo_hp.py" />
       <jump line="205" column="22" filename="$USER_HOME$/workspace/casiouser/userapi/views/serverinfo_hp.py" />
       <jump line="244" column="19" filename="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings_union.py" />
@@ -796,58 +804,59 @@
       <jump line="46" column="0" filename="$USER_HOME$/workspace/casiouser/userapi/views/serverinfo.py" />
       <jump line="199" column="9" filename="$USER_HOME$/workspace/casiouser/userapi/model/transaction.py" />
       <jump line="352" column="31" filename="$USER_HOME$/workspace/KFCService/luckycommon/cache/bull_cache.py" />
+      <jump line="26" column="32" filename="$USER_HOME$/workspace/casiouser/userapi/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YWRkIGJsb29kYnVsbCBuZ2lueCBjb25maWcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FuZHJvaWRfc2Vuc29yJzogRmFsc2UsCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQQVlfU1RBVFVTXD4=</text>
+        <text encoding="base64">XDxwcmVzZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ25hbWUnOiB1J+S7o+eQhuWVhkEnLAogICAgICAgICAgICAgICAgJ3FxJzogNDM0NjM0NDYyLAogICAgICAgICAgICAgICAgJ3dlaXhpbic6IDM2MzI0NmUyLAogICAgICAgICAgICAgICAgJ2NvbW1lbnQnOiB1J+S4muWKoeivtOaYju+8muS7heaUr+aMgTEw5YWD5Lul5LiK5YWF5YC8JwogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2lvc19zZW5zb3InOiBGYWxzZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRkIGJsb29kYnVsbCBuZ2lueCBjb25maWcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FuZHJvaWRfc2Vuc29yJzogRmFsc2UsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfV1hdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2lvc19zZW5zb3InOiBGYWxzZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfV1hdLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeydxcSc6IDQzNDYzNDQ2MiwKICAgICAgICAgICAgICd3ZWl4aW4nOiAzNjMyNDZlMiwKICAgICAgICAgICAgICdjb21tZW50JzogdSfkuJrliqHor7TmmI7vvJrku4XmlK/mjIExMOWFg+S7peS4iuWFheWAvCcKICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsncXEnOiA0MzQ2MzQ0NjIsCiAgICAgICAgICAgICAnd2VpeGluJzogMzYzMjQ2ZTIsCiAgICAgICAgICAgICAnY29tbWVudCc6IHUn5Lia5Yqh6K+05piO77ya5LuF5pSv5oyBMTDlhYPku6XkuIrlhYXlgLwnCiAgICAgICAgICAgICB9LAogICAgICAgICAgICB7J3FxJzogNDM0NjM0NDYyLAogICAgICAgICAgICAgJ3dlaXhpbic6IDM2MzI0NmUyLAogICAgICAgICAgICAgJ2NvbW1lbnQnOiB1J+S4muWKoeivtOaYju+8muS7heaUr+aMgTEw5YWD5Lul5LiK5YWF5YC8JwogICAgICAgICAgICAgfSwKICAgICAgICAgICAgeydxcSc6IDQzNDYzNDQ2MiwKICAgICAgICAgICAgICd3ZWl4aW4nOiAzNjMyNDZlMiwKICAgICAgICAgICAgICdjb21tZW50JzogdSfkuJrliqHor7TmmI7vvJrku4XmlK/mjIExMOWFg+S7peS4iuWFheWAvCcKICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsncXEnOiA0MzQ2MzQ0NjIsCiAgICAgICAgICAgICAnd2VpeGluJzogMzYzMjQ2ZTIsCiAgICAgICAgICAgICAnY29tbWVudCc6IHUn5Lia5Yqh6K+05piO77ya5LuF5pSv5oyBMTDlhYPku6XkuIrlhYXlgLwnCiAgICAgICAgICAgICB9LAogICAgICAgICAgICB7J3FxJzogNDM0NjM0NDYyLAogICAgICAgICAgICAgJ3dlaXhpbic6IDM2MzI0NmUyLAogICAgICAgICAgICAgJ2NvbW1lbnQnOiB1J+S4muWKoeivtOaYju+8muS7heaUr+aMgTEw5YWD5Lul5LiK5YWF5YC8JwogICAgICAgICAgICAgfSwKICAgICAgICAgICAgeydxcSc6IDQzNDYzNDQ2MiwKICAgICAgICAgICAgICd3ZWl4aW4nOiAzNjMyNDZlMiwKICAgICAgICAgICAgICdjb21tZW50JzogdSfkuJrliqHor7TmmI7vvJrku4XmlK/mjIExMOWFg+S7peS4iuWFheWAvCcKICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBjb25maWcgaW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAic2V0dGluZ19maWxlc19wYXRoIjogewogICAgICAgICAgICAnY2FzaW91c2VyJzogJ3VzZXJwbGF0Zm9ybScsCiAgICAgICAgICAgICdibG9vZGJ1bGwnOiAnJywKICAgICAgICAgICAgJ2xvdHRlcnknOiAnbHVja3lwbGF0Zm9ybScsCiAgICAgICAgICAgICdrZmMnOiAnbHVja3lwbGF0Zm9ybScsCiAgICAgICAgICAgICd6amgnOiAnJywKICAgICAgICAgICAgJ2Rkeic6ICcnLAogICAgICAgICAgICAnYWRtaW4nOiAnbHVja3lwbGF0Zm9ybScsCiAgICAgICAgICAgICdpbSc6ICcnLAogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAnZ2FtZV9saXN0JzogWwogICAgICAgIF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2xvdHRlcnknCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBmcm9tIHVzZXJjb21tb24uZGIuY2hhcmdlIGltcG9ydCBnZXRfdmlwbGV2ZWxfYnlfdXNlcmlkCg==</text>
+        <text encoding="base64">YWRkIGJsb29kYnVsbCBuZ2lueCBjb25maWcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBmcm9tIHVzZXJjb21tb24ucHJlc2V0LmhhbmRsZXIgaW1wb3J0IGNoZWNrX3dpdGhkcmF3X29uCg==</text>
+        <text encoding="base64">ICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfV1hdLAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQQVlfU1RBVFVTXD4=</last-search>
+      <last-search encoding="base64">XDxwcmVzZXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQQVlfU1RBVFVTXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwcmVzZXRcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute encoding="base64">XDxweU9wZW5TU0xcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -855,7 +864,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFTkFCTEVfQ09ESVNcPg==</entry>
         <entry encoding="base64">XDxjYXNpb3VzZXJcPg==</entry>
         <entry encoding="base64">XDxweU9wZW5TU0xcPg==</entry>
         <entry encoding="base64">XDxjYWNoZV90b2tlblw+</entry>
@@ -875,6 +883,7 @@
         <entry encoding="base64">XDxwYXJhbVw+</entry>
         <entry encoding="base64">XDxyYWlzZV93aXRoX3RyYWNlYmFja1w+</entry>
         <entry encoding="base64">XDxQQVlfU1RBVFVTXD4=</entry>
+        <entry encoding="base64">XDxwcmVzZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>522</entry>
