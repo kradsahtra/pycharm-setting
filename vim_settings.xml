@@ -70,11 +70,6 @@
         <mark key="^" line="16" column="50" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/userapi/views/version_control.py" timestamp="1502512925525">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/casino_hall_api.supervisor.conf" timestamp="1501864460938">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="17" />
@@ -217,6 +212,12 @@
         <mark key="^" line="55" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/utils/api.py" timestamp="1502511448329" />
+      <file name="$USER_HOME$/workspace/lottery/luckyapi/urls.py" timestamp="1502534529600">
+        <mark key="'" line="12" column="12" />
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="11" />
+        <mark key="." line="14" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/bloodbull.nginx.conf" timestamp="1502271194130">
         <mark key="[" line="10" column="44" />
         <mark key="]" line="10" column="47" />
@@ -256,10 +257,11 @@
         <mark key="^" line="57" column="13" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery/luckyapi/views/lottery.py" timestamp="1502532849928">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/workspace/lottery/luckyapi/views/lottery.py" timestamp="1502534235292">
+        <mark key="[" line="53" column="18" />
+        <mark key="]" line="53" column="18" />
+        <mark key="." line="53" column="18" />
+        <mark key="^" line="51" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/bloodbull.supervisor.conf" timestamp="1502532686257">
         <mark key="'" line="7" column="11" />
@@ -691,11 +693,6 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/Lottery_longconnect/uwsgi.ini" timestamp="1502525237747">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="13" />
-        <mark key="." line="6" column="13" />
-      </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/luckyservice.nginx.conf" timestamp="1502442565327">
         <mark key="'" line="25" column="16" />
         <mark key="[" line="18" column="11" />
@@ -744,11 +741,6 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/Lottery_longconnect/app.py" timestamp="1502526180172">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="12" column="4" />
-      </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/uwsgi.ini" timestamp="1502203434360">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="5" column="57" />
@@ -787,7 +779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="4" filename="$USER_HOME$/workspace/bloodbull/app.py" />
       <jump line="20" column="18" filename="$USER_HOME$/workspace/bloodbull/app.py" />
       <jump line="22" column="4" filename="$USER_HOME$/workspace/bloodbull/app.py" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/zjh/settings_union.py" />
@@ -887,19 +878,20 @@
       <jump line="173" column="0" filename="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" />
       <jump line="51" column="34" filename="$USER_HOME$/workspace/lottery/longconnect/handler.py" />
+      <jump line="12" column="12" filename="$USER_HOME$/workspace/lottery/luckyapi/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>debug_config</text>
+        <text>tendency/</text>
       </register>
       <register name="-" type="4">
-        <text>debug_config</text>
+        <text>tendency/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMT1RURVJZX0NIQU5ORUxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3RvcHNpZ25hbCA9IFFVSVQK</text>
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygncmVmcmVzaCBkYXRhOiAlcycgJSBkYXRhKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBzZXR0aW5ncyBpbXBvcnQgKgo=</text>
