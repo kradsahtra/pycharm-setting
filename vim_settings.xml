@@ -212,7 +212,7 @@
         <mark key="^" line="55" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/utils/api.py" timestamp="1502511448329" />
-      <file name="$USER_HOME$/workspace/lottery/luckyapi/urls.py" timestamp="1502534529600">
+      <file name="$USER_HOME$/workspace/lottery/luckyapi/urls.py" timestamp="1502545038877">
         <mark key="'" line="12" column="12" />
         <mark key="[" line="14" column="11" />
         <mark key="]" line="14" column="11" />
@@ -257,7 +257,8 @@
         <mark key="^" line="57" column="13" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery/luckyapi/views/lottery.py" timestamp="1502534235292">
+      <file name="$USER_HOME$/workspace/lottery/luckyapi/views/lottery.py" timestamp="1502545099407">
+        <mark key="'" line="15" column="29" />
         <mark key="[" line="53" column="18" />
         <mark key="]" line="53" column="18" />
         <mark key="." line="53" column="18" />
@@ -491,8 +492,8 @@
         <mark key="^" line="14" column="73" />
         <mark key="." line="14" column="73" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" timestamp="1502533309396">
-        <mark key="'" line="73" column="0" />
+      <file name="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" timestamp="1502545094222">
+        <mark key="'" line="73" column="25" />
         <mark key="[" line="65" column="13" />
         <mark key="]" line="65" column="17" />
         <mark key="^" line="65" column="17" />
@@ -779,11 +780,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="18" filename="$USER_HOME$/workspace/bloodbull/app.py" />
-      <jump line="22" column="4" filename="$USER_HOME$/workspace/bloodbull/app.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/workspace/zjh/settings_union.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/deploy/config_files/zjh.supervisor.conf" />
-      <jump line="31" column="14" filename="$USER_HOME$/workspace/deploy/config_files/kfc.supervisor.conf" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/deploy/config.py" />
       <jump line="17" column="28" filename="$USER_HOME$/workspace/deploy/config_files/zjh.supervisor.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zjh/robot_processor.py" />
@@ -876,9 +872,14 @@
       <jump line="25" column="0" filename="$USER_HOME$/workspace/deploy/config_files/ddz.supervisor.conf" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/deploy/config_files/kfc.supervisor.conf" />
       <jump line="173" column="0" filename="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" />
       <jump line="51" column="34" filename="$USER_HOME$/workspace/lottery/longconnect/handler.py" />
       <jump line="12" column="12" filename="$USER_HOME$/workspace/lottery/luckyapi/urls.py" />
+      <jump line="78" column="20" filename="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" />
+      <jump line="79" column="34" filename="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" />
+      <jump line="80" column="38" filename="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" />
+      <jump line="144" column="9" filename="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" />
+      <jump line="73" column="25" filename="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" />
+      <jump line="15" column="29" filename="$USER_HOME$/workspace/lottery/luckyapi/views/lottery.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -888,7 +889,7 @@
         <text>tendency/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMT1RURVJZX0NIQU5ORUxcPg==</text>
+        <text encoding="base64">XDxsb3R0ZXJ5XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygncmVmcmVzaCBkYXRhOiAlcycgJSBkYXRhKQo=</text>
@@ -928,9 +929,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMT1RURVJZX0NIQU5ORUxcPg==</last-search>
+      <last-search encoding="base64">XDxsb3R0ZXJ5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMT1RURVJZX0NIQU5ORUxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsb3R0ZXJ5XD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute encoding="base64">XDxweU9wZW5TU0xcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -938,7 +939,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtdWx0aXBsZVw+</entry>
         <entry encoding="base64">XDxIT1NUTkFNRVw+</entry>
         <entry encoding="base64">XDxGT05UX1BBVEhcPg==</entry>
         <entry encoding="base64">XDxmb250X2xpc3RcPg==</entry>
@@ -958,6 +958,7 @@
         <entry encoding="base64">XDxERVNfQ09NXD4=</entry>
         <entry encoding="base64">XDxhYnRlc3RcPg==</entry>
         <entry encoding="base64">XDxMT1RURVJZX0NIQU5ORUxcPg==</entry>
+        <entry encoding="base64">XDxsb3R0ZXJ5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>522</entry>
