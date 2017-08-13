@@ -148,12 +148,15 @@
         <mark key="]" line="12" column="76" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings.py" timestamp="1502597529295">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="45" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="118" column="0" />
+      <file name="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings.py" timestamp="1502620605478">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="116" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/lottery_sigapore/luckycommon/timer/handler.py" timestamp="1502620723967">
+        <mark key="'" line="146" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/Lottery_longconnect/luckyapi/views/lottery.py" timestamp="1502529160818">
         <mark key="'" line="93" column="26" />
@@ -865,13 +868,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="0" filename="$USER_HOME$/workspace/KFCService/luckyplatform/settings.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/workspace/KFCService/luckyplatform/settings.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/workspace/KFCService/luckyplatform/settings.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/KFCService/luckyplatform/settings.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/KFCService/luckyplatform/settings.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/workspace/KFCService/luckyplatform/settings.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/workspace/KFCService/luckyplatform/settings.py" />
       <jump line="155" column="23" filename="$USER_HOME$/workspace/KFCService/longconnect/handler.py" />
       <jump line="240" column="23" filename="$USER_HOME$/workspace/KFCService/longconnect/handler.py" />
       <jump line="249" column="23" filename="$USER_HOME$/workspace/KFCService/longconnect/handler.py" />
@@ -965,58 +961,65 @@
       <jump line="10" column="48" filename="$USER_HOME$/workspace/lottery_sigapore/luckycommon/activity/handler.py" />
       <jump line="24" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
       <jump line="32" column="25" filename="$USER_HOME$/workspace/deploy/config.py" />
+      <jump line="87" column="13" filename="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings.py" />
+      <jump line="129" column="22" filename="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings.py" />
+      <jump line="154" column="12" filename="$USER_HOME$/workspace/lottery_sigapore/luckycommon/timer/handler.py" />
+      <jump line="157" column="40" filename="$USER_HOME$/workspace/lottery_sigapore/luckycommon/timer/handler.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/luckycommon/timer/handler.py" />
+      <jump line="150" column="9" filename="$USER_HOME$/workspace/lottery_sigapore/luckycommon/timer/handler.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBTRUNVUklUWSBXQVJOSU5HOiBkb24ndCBydW4gd2l0aCBkZWJ1ZyB0dXJuZWQgb24gaW4gcHJvZHVjdGlvbiEK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCRVRfQU1PVU5UXD4=</text>
+        <text encoding="base64">XDxhZ2VudF9pbmZvXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGdldF9iZXRfZGljdCgpOgogICAgdGVybV9udW1iZXIgPSByZWRpc19jYWNoZS5nZXRfY3VycmVudF90ZXJtKCkKICAgIGJldF9kaWN0ID0gcmVkaXNfY2FjaGUuZ2V0X2JldF9hbW91bnQodGVybV9udW1iZXIpCiAgICBhZ2VudF9iZXRfZGljdCA9IHJlZGlzX2NhY2hlLmdldF9hZ2VudF9iZXRfYW1vdW50KHRlcm1fbnVtYmVyKQogICAgdG90YWxfZGljdCA9IHt9CiAgICBmb3IgYmV0X2luZGV4IGluIEJFVF9JTkRFWC50b19kaWN0KCk6CiAgICAgICAgdG90YWxfYW1vdW50ID0gRGVjaW1hbChiZXRfZGljdC5nZXQoc3RyKGJldF9pbmRleCksIDApKSAvIDEwMCArIERlY2ltYWwoCiAgICAgICAgICAgIGFnZW50X2JldF9kaWN0LmdldChzdHIoYmV0X2luZGV4KSwgMCkpIC8gMTAwCiAgICAgICAgdG90YWxfZGljdC51cGRhdGUoewogICAgICAgICAgICBiZXRfaW5kZXg6IHRvdGFsX2Ftb3VudAogICAgICAgIH0pCiAgICByZXR1cm4gdG90YWxfZGljdAoKCmRlZiBnZXRfbXlfZGF0YSh1c2VyX2lkLCB0ZXJtX251bWJlcik6CiAgICBteV9wYXJ0aWNpcGF0ZXMgPSBhY3Rpdml0eV9kYi5nZXRfdXNlcl9wYXJ0aWNpcGF0ZSh1c2VyX2lkLCB0ZXJtX251bWJlcikKICAgIGF3YXJkX2Ftb3VudCA9IDAKICAgIHRvdGFsX2Ftb3VudCA9IDAKICAgIG15X2RpY3QgPSB7fQogICAgZm9yIG15X3BhcnRpY2lwYXRlIGluIG15X3BhcnRpY2lwYXRlczoKICAgICAgICBiZXRfaW5kZXggPSBteV9wYXJ0aWNpcGF0ZS5iZXRfaW5kZXgKICAgICAgICBiZXRfYW1vdW50ID0gbXlfcGFydGljaXBhdGUuYmV0X2Ftb3VudAogICAgICAgIG15X2RpY3RbYmV0X2luZGV4XSA9IGJldF9hbW91bnQKICAgICAgICB0b3RhbF9hbW91bnQgKz0gYmV0X2Ftb3VudAogICAgICAgIGF3YXJkX2Ftb3VudCArPSBteV9wYXJ0aWNpcGF0ZS5hd2FyZF9hbW91bnQKICAgIHNpbmdsZV9yaXNrID0gVHJ1ZSBpZiB0b3RhbF9hbW91bnQgPiBTSU5HTEVfTUFYX0FNT1VOVCBlbHNlIEZhbHNlCiAgICB0b2RheV9hbW91bnQgPSByZWRpc19jYWNoZS5nZXRfdG9kYXlfYW1vdW50KHVzZXJfaWQpIG9yIDAKICAgIHRvZGF5X3Jpc2sgPSBUcnVlIGlmIGludCh0b2RheV9hbW91bnQpID4gREFJTFlfTUFYX0FNT1VOVCBlbHNlIEZhbHNlCiAgICBkYXRhID0gewogICAgICAgICdteSc6IHsKICAgICAgICAgICAgJ2NyZWRpdCc6IGFjY291bnRfZGIuZ2V0X2FjY291bnQodXNlcl9pZCkuYmFsYW5jZSwKICAgICAgICAgICAgJ3BhcnQnOiBteV9kaWN0LAogICAgICAgICAgICAnYXdhcmQnOiBhd2FyZF9hbW91bnQsCiAgICAgICAgICAgICdzaW5nbGVfcmlzayc6IHNpbmdsZV9yaXNrLAogICAgICAgICAgICAndG9kYXlfcmlzayc6IHRvZGF5X3Jpc2ssCiAgICAgICAgfSwKICAgICAgICAnYmV0JzogZ2V0X2JldF9kaWN0KCkKICAgIH0KICAgIHJldHVybiBkYXRhCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBsdWNreWNvbW1vbi5hY3Rpdml0eS5oYW5kbGVyIGltcG9ydCBnZXRfbXlfZGF0YQo=</text>
+        <text encoding="base64">IyBTRUNVUklUWSBXQVJOSU5HOiBkb24ndCBydW4gd2l0aCBkZWJ1ZyB0dXJuZWQgb24gaW4gcHJvZHVjdGlvbiEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBsdWNreWNvbW1vbi5hY3Rpdml0eS5tb2RlbC5hY3Rpdml0eSBpbXBvcnQgKgo=</text>
+        <text encoding="base64">I0RFQlVHID0gVHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ZnJvbSBsdWNreWNvbW1vbi5hY3Rpdml0eS5oYW5kbGVyIGltcG9ydCBnZXRfbXlfZGF0YQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBsdWNreXBsYXRmb3JtLnNldHRpbmdzIGltcG9ydCBSRURJU19IT1NULCBSRURJU19QT1JULCBMT1RURVJZX0NIQU5ORUwK</text>
+        <text encoding="base64">ZnJvbSBsdWNreWNvbW1vbi5hY3Rpdml0eS5tb2RlbC5hY3Rpdml0eSBpbXBvcnQgKgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB1c2VyY29tbW9uLmRiLmFjY291bnQgaW1wb3J0IGdldF9vbmxpbmVfaW5mbwo=</text>
+        <text encoding="base64">ZnJvbSBsdWNreWNvbW1vbi5hY3Rpdml0eS5oYW5kbGVyIGltcG9ydCBnZXRfbXlfZGF0YQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBsdWNreWNvbW1vbi5hY2NvdW50LmRiLmFjY291bnQgaW1wb3J0IGdldF9vbmxpbmVfaW5mbwo=</text>
+        <text encoding="base64">ZnJvbSBsdWNreXBsYXRmb3JtLnNldHRpbmdzIGltcG9ydCBSRURJU19IT1NULCBSRURJU19QT1JULCBMT1RURVJZX0NIQU5ORUwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBjb2Rpbmc9dXRmLTgK</text>
+        <text encoding="base64">ZnJvbSB1c2VyY29tbW9uLmRiLmFjY291bnQgaW1wb3J0IGdldF9vbmxpbmVfaW5mbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBsdWNreWNvbW1vbi5hY2NvdW50LmRiLmFjY291bnQgaW1wb3J0IGdldF9vbmxpbmVfaW5mbwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBjb2Rpbmc9dXRmLTgK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCRVRfQU1PVU5UXD4=</last-search>
+      <last-search encoding="base64">XDxhZ2VudF9pbmZvXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCRVRfQU1PVU5UXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhZ2VudF9pbmZvXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute encoding="base64">XDxweU9wZW5TU0xcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1024,8 +1027,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSRURJU19IT1NUXD4=</entry>
-        <entry encoding="base64">XDxSRURJU19QT1JUXD4=</entry>
         <entry encoding="base64">XDxNSU5fQkFMQU5DRV9CUk9BRENBU1RcPg==</entry>
         <entry encoding="base64">XDxCVUxMX0NIQU5ORUxcPg==</entry>
         <entry encoding="base64">XDxDUkVESVRfVFJBTlNfUkFUSU9cPg==</entry>
@@ -1044,6 +1045,8 @@
         <entry encoding="base64">XDxvbmxpbmVfaW5mb1w+</entry>
         <entry encoding="base64">XDxnZXRfYWNjb3VudFw+</entry>
         <entry encoding="base64">XDxCRVRfQU1PVU5UXD4=</entry>
+        <entry encoding="base64">XDxERUJVR1w+</entry>
+        <entry encoding="base64">XDxhZ2VudF9pbmZvXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>522</entry>
