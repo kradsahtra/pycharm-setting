@@ -81,7 +81,7 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery/requirements.txt" timestamp="1502598878147" />
+      <file name="$USER_HOME$/workspace/lottery/requirements.txt" timestamp="1502608821013" />
       <file name="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/preset.py" timestamp="1499932614406">
         <mark key="'" line="75" column="16" />
         <mark key="[" line="75" column="0" />
@@ -248,12 +248,12 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1502556630272">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="46" column="38" />
-        <mark key="]" line="46" column="55" />
-        <mark key="^" line="39" column="60" />
-        <mark key="." line="46" column="38" />
+      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1502608906655">
+        <mark key="'" line="32" column="25" />
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+        <mark key="." line="3" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/lottery/longconnect/settings.py" timestamp="1502533040079">
         <mark key="[" line="2" column="0" />
@@ -462,7 +462,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" timestamp="1502599057820">
+      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" timestamp="1502608812132">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="52" />
@@ -502,6 +502,12 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
         <mark key="^" line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bloodbull/handlers/table.py" timestamp="1502608843541">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="82" />
+        <mark key="." line="163" column="82" />
+        <mark key="^" line="163" column="82" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/utils/exceptions.py" timestamp="1496649822743">
         <mark key="'" line="12" column="20" />
@@ -859,7 +865,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/KFCService/longconnect/settings.py" />
       <jump line="146" column="0" filename="$USER_HOME$/workspace/KFCService/luckyplatform/settings.py" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/KFCService/luckyplatform/settings.py" />
       <jump line="59" column="0" filename="$USER_HOME$/workspace/KFCService/luckyplatform/settings.py" />
@@ -959,13 +964,14 @@
       <jump line="150" column="25" filename="$USER_HOME$/workspace/lottery_sigapore/luckycommon/activity/handler.py" />
       <jump line="10" column="48" filename="$USER_HOME$/workspace/lottery_sigapore/luckycommon/activity/handler.py" />
       <jump line="24" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
+      <jump line="32" column="25" filename="$USER_HOME$/workspace/deploy/config.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBsdWNreWNvbW1vbi5hY3Rpdml0eS5oYW5kbGVyIGltcG9ydCBnZXRfbXlfZGF0YQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>, BET_AMOUNT</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCRVRfQU1PVU5UXD4=</text>
