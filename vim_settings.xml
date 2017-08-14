@@ -81,7 +81,6 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery/requirements.txt" timestamp="1502608821013" />
       <file name="$USER_HOME$/workspace/luckyservice-id/luckyapi/views/preset.py" timestamp="1499932614406">
         <mark key="'" line="75" column="16" />
         <mark key="[" line="75" column="0" />
@@ -545,6 +544,9 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/lottery_sigapore/luckycommon/cache/redis_cache.py" timestamp="1502680524660">
+        <mark key="'" line="276" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/luckyas/admin/views/version_view.py" timestamp="1499827829830">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="14" column="53" />
@@ -868,7 +870,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="23" filename="$USER_HOME$/workspace/KFCService/longconnect/handler.py" />
       <jump line="240" column="23" filename="$USER_HOME$/workspace/KFCService/longconnect/handler.py" />
       <jump line="249" column="23" filename="$USER_HOME$/workspace/KFCService/longconnect/handler.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/KFCService/longconnect/handler.py" />
@@ -968,6 +969,7 @@
       <jump line="157" column="40" filename="$USER_HOME$/workspace/lottery_sigapore/luckycommon/timer/handler.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/luckycommon/timer/handler.py" />
       <jump line="150" column="9" filename="$USER_HOME$/workspace/lottery_sigapore/luckycommon/timer/handler.py" />
+      <jump line="276" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/luckycommon/cache/redis_cache.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
