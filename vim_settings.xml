@@ -469,12 +469,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" timestamp="1502770227671">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="56" column="49" />
-        <mark key="]" line="56" column="51" />
-        <mark key="." line="56" column="51" />
-        <mark key="^" line="56" column="51" />
+      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" timestamp="1502773214341">
+        <mark key="'" line="27" column="8" />
+        <mark key="[" line="57" column="24" />
+        <mark key="]" line="57" column="31" />
+        <mark key="." line="57" column="31" />
+        <mark key="^" line="57" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/tools/syncdb.py" timestamp="1500265409487">
         <mark key="'" line="31" column="0" />
@@ -886,7 +886,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="41" filename="$USER_HOME$/workspace/deploy/config_files/admin.nginx.conf" />
       <jump line="31" column="32" filename="$USER_HOME$/workspace/im_2/settings_union.py" />
       <jump line="10" column="22" filename="$USER_HOME$/workspace/deploy/config_files/im.supervisor.conf" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/deploy/config_files/im.supervisor.conf" />
@@ -986,19 +985,20 @@
       <jump line="118" column="20" filename="$USER_HOME$/workspace/lottery_sigapore/luckyapi/views/lottery.py" />
       <jump line="20" column="49" filename="$USER_HOME$/workspace/lottery_sigapore/broadcast.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/broadcast.py" />
+      <jump line="27" column="8" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'check userid token fail'</text>
+        <text>message</text>
       </register>
       <register name="-" type="4">
-        <text>'check userid token fail'</text>
+        <text>message</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMb3R0ZXJ5UmVxXD4=</text>
+        <text encoding="base64">XDxjaGVja19vcmlnaW5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3RvcGFzZ3JvdXA9dHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmluZm8oJ2dvdCBtZXNzYWdlIGZyb20gcmVkaXM6IDwlcz4gJXMnICUgKG1zZy5raW5kLCBtc2cuYm9keSkpCg==</text>
       </register>
       <register name="1" type="4">
         <text>json.dumps({
@@ -1038,9 +1038,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMb3R0ZXJ5UmVxXD4=</last-search>
+      <last-search encoding="base64">XDxjaGVja19vcmlnaW5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMb3R0ZXJ5UmVxXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjaGVja19vcmlnaW5cPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute encoding="base64">XDxweU9wZW5TU0xcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1048,7 +1048,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDUkVESVRfVFJBTlNfUkFUSU9cPg==</entry>
         <entry encoding="base64">XDxDSE9VU0hVSVw+</entry>
         <entry encoding="base64">XDxST09NX1NFVFVQXD4=</entry>
         <entry encoding="base64">XDxCVUxMX0NIQU5ORUxfRElDVFw+</entry>
@@ -1068,6 +1067,7 @@
         <entry encoding="base64">XDxhZ2VudF9pbmZvXD4=</entry>
         <entry encoding="base64">XDxmaWxsX215XD4=</entry>
         <entry encoding="base64">XDxMb3R0ZXJ5UmVxXD4=</entry>
+        <entry encoding="base64">XDxjaGVja19vcmlnaW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>522</entry>
