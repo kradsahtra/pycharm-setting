@@ -469,11 +469,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" timestamp="1502768655511">
+      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" timestamp="1502770227671">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="37" />
-        <mark key="." line="13" column="0" />
+        <mark key="[" line="56" column="49" />
+        <mark key="]" line="56" column="51" />
+        <mark key="." line="56" column="51" />
+        <mark key="^" line="56" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/tools/syncdb.py" timestamp="1500265409487">
         <mark key="'" line="31" column="0" />
@@ -987,11 +988,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/broadcast.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3RvcGFzZ3JvdXA9dHJ1ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>'check userid token fail'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>'check userid token fail'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb3R0ZXJ5UmVxXD4=</text>
