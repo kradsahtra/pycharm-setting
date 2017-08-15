@@ -107,12 +107,12 @@
         <mark key="^" line="22" column="32" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/broadcast.py" timestamp="1502597428976">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="29" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/workspace/lottery_sigapore/broadcast.py" timestamp="1502768752616">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="48" />
+        <mark key="]" line="27" column="54" />
+        <mark key="^" line="27" column="54" />
+        <mark key="." line="27" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/fabfile.py" timestamp="1499239468165">
         <mark key="'" line="35" column="26" />
@@ -189,12 +189,12 @@
       <file name="$USER_HOME$/workspace/KFCService/luckycommon/cache/bull_cache.py" timestamp="1502564808383">
         <mark key="'" line="352" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config_files/lottery.supervisor.conf" timestamp="1502701118145">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="21" column="25" />
-        <mark key="^" line="31" column="23" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/workspace/deploy/config_files/lottery.supervisor.conf" timestamp="1502768947627">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="16" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/zjh.supervisor.conf" timestamp="1502098804866">
         <mark key="'" line="22" column="22" />
@@ -469,10 +469,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" timestamp="1502613092215">
+      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" timestamp="1502768655511">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="52" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="37" />
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/tools/syncdb.py" timestamp="1500265409487">
@@ -885,8 +885,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/KFCService/longconnect/handler.py" />
-      <jump line="355" column="32" filename="$USER_HOME$/workspace/casiouser/userapi/views/user.py" />
       <jump line="105" column="41" filename="$USER_HOME$/workspace/deploy/config_files/admin.nginx.conf" />
       <jump line="31" column="32" filename="$USER_HOME$/workspace/im_2/settings_union.py" />
       <jump line="10" column="22" filename="$USER_HOME$/workspace/deploy/config_files/im.supervisor.conf" />
@@ -985,49 +983,54 @@
       <jump line="276" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/luckycommon/cache/redis_cache.py" />
       <jump line="62" column="35" filename="$USER_HOME$/workspace/lottery/luckycommon/activity/handler.py" />
       <jump line="118" column="20" filename="$USER_HOME$/workspace/lottery_sigapore/luckyapi/views/lottery.py" />
+      <jump line="20" column="49" filename="$USER_HOME$/workspace/lottery_sigapore/broadcast.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/broadcast.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5X2RjdCA9IHJlcS5HRVQuZGljdCgpCg==</text>
+        <text encoding="base64">c3RvcGFzZ3JvdXA9dHJ1ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>, fill_my</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb3R0ZXJ5UmVxXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>ACTIVITY_STATUS.STARTED</text>
+      <register name="0" type="2">
+        <text encoding="base64">c3RvcGFzZ3JvdXA9dHJ1ZQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5X2RjdCA9IHJlcS5HRVQuZGljdCgpCg==</text>
+      <register name="1" type="4">
+        <text>json.dumps({
+                'type': 'bet_info',
+                'data': data
+            }, cls=EnhencedEncoder)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHAgPSBwYXJzZV9wKHF1ZXJ5X2RjdC5nZXQoJ3AnKSkK</text>
+        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCBzbGVlcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbGxfbXkgPSBGYWxzZQogICAgaWYgbm90IHA6CiAgICAgICAgZmlsbF9teSA9IFRydWUK</text>
+        <text encoding="base64">ICAgIHF1ZXJ5X2RjdCA9IHJlcS5HRVQuZGljdCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfV1hdLAo=</text>
+        <text encoding="base64">ICAgIHAgPSBwYXJzZV9wKHF1ZXJ5X2RjdC5nZXQoJ3AnKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjb25zb2xlCiAgICAgICAgICAgICMgaXNfc2hvdyA9IGhhbmRsZXIuY2hlY2tfc2FyZnQocC5nZXQoJ2N2YycpLCBOb25lLCBwLmdldCgnY2huJykpCiAgICAgICAgICAgICMgcmV0dXJuIHsnc3RhdHVzJzogaXNfc2hvd30KICAgICAgICAgICAgIyBpZiBuYW1lIGluICgnZmxvYXRfaWNvbicsKToKICAgICAgICAgICAgIyAgICByZXR1cm4gaGFuZGxlci52aWV3X3NpbmdsZV9wYXJ0KG5hbWUsIHAuZ2V0KCdjdmMnKSwgcC5nZXQoJ2NobicpKQoKICAgICAgICAgICAgIyBkYXRhID0gaGFuZGxlci52aWV3X3BhcnRzKG5hbWUsCiAgICAgICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgIHAuZ2V0KCdjdmMnKSwgcC5nZXQoJ2NobicpLAogICAgICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyX2lkLCBQQVJUX01PREVMLmdldChuYW1lKSkKCiAgICAgICAgICAgICMgZGF0YSA9IHsKICAgICAgICAgICAgIyAgICAnbGlzdCc6IGRhdGEKICAgICAgICAgICAgIyB9CiAgICAgICAgICAgICMgcmV0dXJuIGRhdGEKCiMgQHJlcXVpcmVfR0VUCiMgQHJlc3BvbnNlX3dyYXBwZXIKIyBkZWYgZ2V0X3ByZXNldChyZXEpOgojICAgICIiIgojICAgIOiOt+WPlumihOe9ruaVsOaNrgojICAgIGVnOgojICAgIHsKIyAgICAgICAgJ2xhc3RfbW9kaWZpZWQnOiAyLAojICAgICAgICAnbG90dGVyeSc6IFtdLAojICAgICAgICAnZmxvYXRfaWNvbic6IHt9CiMgICAgfQojICAgICIiIgojICAgIHVzZXJfaWQgPSByZXEudXNlcl9pZAojICAgIHF1ZXJ5X2RjdCA9IHJlcS5HRVQuZGljdCgpCiMgICAgbGFzdF9tb2RpZmllZCA9IGludChxdWVyeV9kY3QuZ2V0KCdsYXN0X21vZGlmaWVkJywgMCkpCiMgICAgcCA9IHBhcnNlX3AocXVlcnlfZGN0LmdldCgncCcpKQojICAgIHRyYWNrZXIudHJhY2tfYWN0aXZlKHVzZXJfaWQgb3IgMSwgcC5nZXQoJ2N2YycpLCBwLmdldCgnYWlkJyksIHAuZ2V0KCdjaG4nKSkKIyAgICBkYXRhID0gaGFuZGxlci52aWV3X3ByZXNldCgKIyAgICAgICAgcC5nZXQoJ2N2YycpLCBwLmdldCgnY2huJyksIGxhc3RfbW9kaWZpZWQsIHVzZXJfaWQpCiMKIyAgICByZXR1cm4gZGF0YQo=</text>
+        <text encoding="base64">ICAgIGZpbGxfbXkgPSBGYWxzZQogICAgaWYgbm90IHA6CiAgICAgICAgZmlsbF9teSA9IFRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgdXNlZCBmb3IgZGIKICAgICIiIgoK</text>
+        <text encoding="base64">ICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfV1hdLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQcm94eUFnZW50KCkuc2V0bngoa2V5LCBpbnQodGltZS50aW1lKCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjb25zb2xlCiAgICAgICAgICAgICMgaXNfc2hvdyA9IGhhbmRsZXIuY2hlY2tfc2FyZnQocC5nZXQoJ2N2YycpLCBOb25lLCBwLmdldCgnY2huJykpCiAgICAgICAgICAgICMgcmV0dXJuIHsnc3RhdHVzJzogaXNfc2hvd30KICAgICAgICAgICAgIyBpZiBuYW1lIGluICgnZmxvYXRfaWNvbicsKToKICAgICAgICAgICAgIyAgICByZXR1cm4gaGFuZGxlci52aWV3X3NpbmdsZV9wYXJ0KG5hbWUsIHAuZ2V0KCdjdmMnKSwgcC5nZXQoJ2NobicpKQoKICAgICAgICAgICAgIyBkYXRhID0gaGFuZGxlci52aWV3X3BhcnRzKG5hbWUsCiAgICAgICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgIHAuZ2V0KCdjdmMnKSwgcC5nZXQoJ2NobicpLAogICAgICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyX2lkLCBQQVJUX01PREVMLmdldChuYW1lKSkKCiAgICAgICAgICAgICMgZGF0YSA9IHsKICAgICAgICAgICAgIyAgICAnbGlzdCc6IGRhdGEKICAgICAgICAgICAgIyB9CiAgICAgICAgICAgICMgcmV0dXJuIGRhdGEKCiMgQHJlcXVpcmVfR0VUCiMgQHJlc3BvbnNlX3dyYXBwZXIKIyBkZWYgZ2V0X3ByZXNldChyZXEpOgojICAgICIiIgojICAgIOiOt+WPlumihOe9ruaVsOaNrgojICAgIGVnOgojICAgIHsKIyAgICAgICAgJ2xhc3RfbW9kaWZpZWQnOiAyLAojICAgICAgICAnbG90dGVyeSc6IFtdLAojICAgICAgICAnZmxvYXRfaWNvbic6IHt9CiMgICAgfQojICAgICIiIgojICAgIHVzZXJfaWQgPSByZXEudXNlcl9pZAojICAgIHF1ZXJ5X2RjdCA9IHJlcS5HRVQuZGljdCgpCiMgICAgbGFzdF9tb2RpZmllZCA9IGludChxdWVyeV9kY3QuZ2V0KCdsYXN0X21vZGlmaWVkJywgMCkpCiMgICAgcCA9IHBhcnNlX3AocXVlcnlfZGN0LmdldCgncCcpKQojICAgIHRyYWNrZXIudHJhY2tfYWN0aXZlKHVzZXJfaWQgb3IgMSwgcC5nZXQoJ2N2YycpLCBwLmdldCgnYWlkJyksIHAuZ2V0KCdjaG4nKSkKIyAgICBkYXRhID0gaGFuZGxlci52aWV3X3ByZXNldCgKIyAgICAgICAgcC5nZXQoJ2N2YycpLCBwLmdldCgnY2huJyksIGxhc3RfbW9kaWZpZWQsIHVzZXJfaWQpCiMKIyAgICByZXR1cm4gZGF0YQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGtleSA9IHByZWZpeF9rZXkoJ2xvdHRlcnk6bG9jaycpCg==</text>
+        <text encoding="base64">ICAgICIiIgogICAgdXNlZCBmb3IgZGIKICAgICIiIgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBQcm94eUFnZW50KCkuc2V0bngoa2V5LCBpbnQodGltZS50aW1lKCkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
