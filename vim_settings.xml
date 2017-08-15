@@ -554,11 +554,11 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/async_demo/server.py" timestamp="1502792426678">
-        <mark key="[" line="10" column="42" />
-        <mark key="]" line="13" column="18" />
-        <mark key="." line="13" column="18" />
-        <mark key="^" line="13" column="18" />
+      <file name="$USER_HOME$/workspace/async_demo/server.py" timestamp="1502796831880">
+        <mark key="[" line="39" column="17" />
+        <mark key="]" line="40" column="19" />
+        <mark key="." line="40" column="19" />
+        <mark key="^" line="40" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/admin/controllers/lucky_account_handler.py" timestamp="1499917039859">
         <mark key="'" line="7" column="17" />
@@ -920,11 +920,11 @@
       <jump line="30" column="0" filename="$USER_HOME$/workspace/async_demo/slow_square.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhdXRvYmFobi5hc3luY2lvLndlYnNvY2tldCBpbXBvcnQgV2ViU29ja2V0U2VydmVyUHJvdG9jb2wK</text>
+      <register name="&quot;" type="4">
+        <text>coroutine</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW1wb3J0IA==</text>
+        <text>coroutine</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja19vcmlnaW5cPg==</text>
