@@ -162,8 +162,15 @@
         <mark key="." line="1071" column="21" />
         <mark key="^" line="1071" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/KFCService/luckycommon/cache/bull_cache.py" timestamp="1502564808383">
-        <mark key="'" line="352" column="31" />
+      <file name="$USER_HOME$/workspace/async_demo/slow_square.py" timestamp="1502790200563">
+        <mark key="'" line="20" column="17" />
+        <mark key="[" line="22" column="6" />
+        <mark key="]" line="22" column="23" />
+        <mark key="." line="22" column="23" />
+        <mark key="^" line="22" column="23" />
+      </file>
+      <file name="/Python Console" timestamp="1502790157139">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/lottery.supervisor.conf" timestamp="1502768947627">
         <mark key="'" line="39" column="0" />
@@ -289,9 +296,6 @@
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
         <mark key="^" line="133" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/luckycommon/activity/model/activity.py" timestamp="1502598742362">
-        <mark key="'" line="29" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/admin/controllers/lucky_version_handler.py" timestamp="1500281733654">
         <mark key="'" line="25" column="4" />
@@ -550,9 +554,6 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/luckycommon/async/async_job.py" timestamp="1502598728706">
-        <mark key="'" line="82" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/luckyas/admin/controllers/lucky_account_handler.py" timestamp="1499917039859">
         <mark key="'" line="7" column="17" />
         <mark key="[" line="13" column="0" />
@@ -653,9 +654,6 @@
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/usercommon/third/xinge.py" timestamp="1502597039052">
-        <mark key="'" line="53" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" timestamp="1501059276260">
         <mark key="'" line="341" column="6" />
@@ -814,7 +812,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="32" filename="$USER_HOME$/workspace/im_2/settings_union.py" />
       <jump line="10" column="22" filename="$USER_HOME$/workspace/deploy/config_files/im.supervisor.conf" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/deploy/config_files/im.supervisor.conf" />
       <jump line="12" column="20" filename="$USER_HOME$/workspace/deploy/config_files/im.supervisor.conf" />
@@ -914,13 +911,14 @@
       <jump line="20" column="49" filename="$USER_HOME$/workspace/lottery_sigapore/broadcast.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/broadcast.py" />
       <jump line="27" column="8" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
+      <jump line="20" column="17" filename="$USER_HOME$/workspace/async_demo/slow_square.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>103.230.242.170</text>
+        <text>add_one_callback</text>
       </register>
       <register name="-" type="4">
-        <text>103.230.242.170</text>
+        <text>add_one_callback</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja19vcmlnaW5cPg==</text>
