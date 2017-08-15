@@ -162,12 +162,12 @@
         <mark key="." line="1071" column="21" />
         <mark key="^" line="1071" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/async_demo/slow_square.py" timestamp="1502790200563">
-        <mark key="'" line="20" column="17" />
-        <mark key="[" line="22" column="6" />
-        <mark key="]" line="22" column="23" />
-        <mark key="." line="22" column="23" />
-        <mark key="^" line="22" column="23" />
+      <file name="$USER_HOME$/workspace/async_demo/slow_square.py" timestamp="1502791612890">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="10" column="15" />
       </file>
       <file name="/Python Console" timestamp="1502790157139">
         <mark key="[" line="0" column="0" />
@@ -554,6 +554,12 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/async_demo/server.py" timestamp="1502792426678">
+        <mark key="[" line="10" column="42" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/luckyas/admin/controllers/lucky_account_handler.py" timestamp="1499917039859">
         <mark key="'" line="7" column="17" />
         <mark key="[" line="13" column="0" />
@@ -812,7 +818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="22" filename="$USER_HOME$/workspace/deploy/config_files/im.supervisor.conf" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/deploy/config_files/im.supervisor.conf" />
       <jump line="12" column="20" filename="$USER_HOME$/workspace/deploy/config_files/im.supervisor.conf" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/deploy/config_files/kfcws.nginx.conf" />
@@ -912,13 +917,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/broadcast.py" />
       <jump line="27" column="8" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
       <jump line="20" column="17" filename="$USER_HOME$/workspace/async_demo/slow_square.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/async_demo/slow_square.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>add_one_callback</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBhdXRvYmFobi5hc3luY2lvLndlYnNvY2tldCBpbXBvcnQgV2ViU29ja2V0U2VydmVyUHJvdG9jb2wK</text>
       </register>
       <register name="-" type="4">
-        <text>add_one_callback</text>
+        <text encoding="base64">aW1wb3J0IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja19vcmlnaW5cPg==</text>
@@ -926,38 +932,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBfTE9HR0VSLmluZm8oJ2dvdCBtZXNzYWdlIGZyb20gcmVkaXM6IDwlcz4gJXMnICUgKG1zZy5raW5kLCBtc2cuYm9keSkpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>json.dumps({
-                'type': 'bet_info',
-                'data': data
-            }, cls=EnhencedEncoder)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBhdXRvYmFobi5hc3luY2lvLndlYnNvY2tldCBpbXBvcnQgV2ViU29ja2V0U2VydmVyUHJvdG9jb2wK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCBzbGVlcAo=</text>
+        <text encoding="base64">bG9vcC5jbG9zZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5X2RjdCA9IHJlcS5HRVQuZGljdCgpCg==</text>
+        <text encoding="base64">ICAgIGYgPSBzbG93X3NxdWFyZSgzKQoKICAgIGRlZiBkb25lKGYpOgogICAgICAgIHJlcyA9IGYucmVzdWx0KCkKICAgICAgICBwcmludChyZXMpCgogICAgZi5hZGRfZG9uZV9jYWxsYmFjayhkb25lKQoKICAgIHJldHVybiBmCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHAgPSBwYXJzZV9wKHF1ZXJ5X2RjdC5nZXQoJ3AnKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbGxfbXkgPSBGYWxzZQogICAgaWYgbm90IHA6CiAgICAgICAgZmlsbF9teSA9IFRydWUK</text>
+        <text encoding="base64">ICAgIGRlZiByZXNvbHZlKCk6CiAgICAgICAgZi5zZXRfcmVzdWx0KHggKiB4KQoKICAgIGxvb3AgPSBhc3luY2lvLmdldF9ldmVudF9sb29wKCkKICAgIGxvb3AuY2FsbF9sYXRlcigxLCByZXNvbHZlKQoKICAgIHJldHVybiBmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfV1hdLAo=</text>
+        <text encoding="base64">ICAgIGYgPSBhc3luY2lvLkZ1dHVyZSgpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjb25zb2xlCiAgICAgICAgICAgICMgaXNfc2hvdyA9IGhhbmRsZXIuY2hlY2tfc2FyZnQocC5nZXQoJ2N2YycpLCBOb25lLCBwLmdldCgnY2huJykpCiAgICAgICAgICAgICMgcmV0dXJuIHsnc3RhdHVzJzogaXNfc2hvd30KICAgICAgICAgICAgIyBpZiBuYW1lIGluICgnZmxvYXRfaWNvbicsKToKICAgICAgICAgICAgIyAgICByZXR1cm4gaGFuZGxlci52aWV3X3NpbmdsZV9wYXJ0KG5hbWUsIHAuZ2V0KCdjdmMnKSwgcC5nZXQoJ2NobicpKQoKICAgICAgICAgICAgIyBkYXRhID0gaGFuZGxlci52aWV3X3BhcnRzKG5hbWUsCiAgICAgICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgIHAuZ2V0KCdjdmMnKSwgcC5nZXQoJ2NobicpLAogICAgICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyX2lkLCBQQVJUX01PREVMLmdldChuYW1lKSkKCiAgICAgICAgICAgICMgZGF0YSA9IHsKICAgICAgICAgICAgIyAgICAnbGlzdCc6IGRhdGEKICAgICAgICAgICAgIyB9CiAgICAgICAgICAgICMgcmV0dXJuIGRhdGEKCiMgQHJlcXVpcmVfR0VUCiMgQHJlc3BvbnNlX3dyYXBwZXIKIyBkZWYgZ2V0X3ByZXNldChyZXEpOgojICAgICIiIgojICAgIOiOt+WPlumihOe9ruaVsOaNrgojICAgIGVnOgojICAgIHsKIyAgICAgICAgJ2xhc3RfbW9kaWZpZWQnOiAyLAojICAgICAgICAnbG90dGVyeSc6IFtdLAojICAgICAgICAnZmxvYXRfaWNvbic6IHt9CiMgICAgfQojICAgICIiIgojICAgIHVzZXJfaWQgPSByZXEudXNlcl9pZAojICAgIHF1ZXJ5X2RjdCA9IHJlcS5HRVQuZGljdCgpCiMgICAgbGFzdF9tb2RpZmllZCA9IGludChxdWVyeV9kY3QuZ2V0KCdsYXN0X21vZGlmaWVkJywgMCkpCiMgICAgcCA9IHBhcnNlX3AocXVlcnlfZGN0LmdldCgncCcpKQojICAgIHRyYWNrZXIudHJhY2tfYWN0aXZlKHVzZXJfaWQgb3IgMSwgcC5nZXQoJ2N2YycpLCBwLmdldCgnYWlkJyksIHAuZ2V0KCdjaG4nKSkKIyAgICBkYXRhID0gaGFuZGxlci52aWV3X3ByZXNldCgKIyAgICAgICAgcC5nZXQoJ2N2YycpLCBwLmdldCgnY2huJyksIGxhc3RfbW9kaWZpZWQsIHVzZXJfaWQpCiMKIyAgICByZXR1cm4gZGF0YQo=</text>
+      <register name="7" type="4">
+        <text>json.dumps({
+                'type': 'bet_info',
+                'data': data
+            }, cls=EnhencedEncoder)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgdXNlZCBmb3IgZGIKICAgICIiIgoK</text>
+        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCBzbGVlcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQcm94eUFnZW50KCkuc2V0bngoa2V5LCBpbnQodGltZS50aW1lKCkpKQo=</text>
+        <text encoding="base64">ICAgIHF1ZXJ5X2RjdCA9IHJlcS5HRVQuZGljdCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
