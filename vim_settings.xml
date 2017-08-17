@@ -187,12 +187,12 @@
         <mark key="." line="28" column="28" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1502941697989">
+      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1502946967087">
         <mark key="'" line="187" column="4" />
-        <mark key="[" line="210" column="14" />
-        <mark key="]" line="210" column="14" />
-        <mark key="^" line="219" column="97" />
-        <mark key="." line="210" column="14" />
+        <mark key="[" line="222" column="100" />
+        <mark key="]" line="222" column="114" />
+        <mark key="^" line="222" column="99" />
+        <mark key="." line="222" column="100" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/admin_app.py" timestamp="1499242551636">
         <mark key="'" line="12" column="0" />
@@ -335,6 +335,12 @@
         <mark key="." line="38" column="13" />
         <mark key="^" line="38" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/lottery_sigapore/usercommon/level/handler.py" timestamp="1502946695112">
+        <mark key="[" line="105" column="28" />
+        <mark key="]" line="105" column="54" />
+        <mark key="." line="105" column="54" />
+        <mark key="^" line="105" column="54" />
+      </file>
       <file name="$USER_HOME$/workspace/luckyas/settings.py" timestamp="1499312741956">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="10" column="0" />
@@ -413,6 +419,12 @@
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/lottery_sigapore/luckycommon/activity/db/activity.py" timestamp="1502946627709">
+        <mark key="[" line="122" column="44" />
+        <mark key="]" line="122" column="70" />
+        <mark key="." line="122" column="70" />
+        <mark key="^" line="122" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/luckycommon/utils/api.py" timestamp="1502597667121">
         <mark key="[" line="18" column="0" />
@@ -542,12 +554,12 @@
         <mark key="^" line="133" column="0" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/app.py" timestamp="1502597734033">
+      <file name="$USER_HOME$/workspace/lottery_sigapore/app.py" timestamp="1502946767447">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
         <mark key="^" line="13" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="." line="6" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/bloodbull/logs/config.py" timestamp="1502194334514">
         <mark key="[" line="5" column="25" />
@@ -662,10 +674,10 @@
         <mark key="." line="51" column="71" />
         <mark key="^" line="51" column="71" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/luckyapi/views/lottery.py" timestamp="1502766475354">
+      <file name="$USER_HOME$/workspace/lottery_sigapore/luckyapi/views/lottery.py" timestamp="1502946598980">
         <mark key="'" line="113" column="20" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
+        <mark key="[" line="71" column="52" />
+        <mark key="]" line="71" column="78" />
         <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" timestamp="1501059276260">
@@ -695,7 +707,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502944307799">
+      <file name="/Dummy.txt" timestamp="1502946698003">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -800,12 +812,12 @@
         <mark key="." line="34" column="37" />
         <mark key="^" line="34" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/luckycommon/activity/handler.py" timestamp="1502944265132">
+      <file name="$USER_HOME$/workspace/lottery_sigapore/luckycommon/activity/handler.py" timestamp="1502946656517">
         <mark key="'" line="11" column="48" />
-        <mark key="[" line="32" column="56" />
-        <mark key="]" line="32" column="56" />
-        <mark key="." line="32" column="56" />
-        <mark key="^" line="32" column="56" />
+        <mark key="[" line="98" column="40" />
+        <mark key="]" line="98" column="66" />
+        <mark key="." line="98" column="66" />
+        <mark key="^" line="98" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/async/async_job.py" timestamp="1500878139987">
         <mark key="'" line="213" column="25" />
@@ -935,17 +947,17 @@
       <jump line="202" column="21" filename="$USER_HOME$/workspace/lottery_sigapore/luckycommon/db/helper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>lottery-celery</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SU5GTyAyMDE3LTA4LTE3IDA0OjAyOjE1LDcxOCBhZ2VudCBiZXQgdGVybSA3MTExNCBkaXN0cmlidXRpb24gZG9uZSwg</text>
+        <text>tornado</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXhfYmV0XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>/home/ubuntu/.pyenv/versions/casino/bin/</text>
+        <text>lottery-celery</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
