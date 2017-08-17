@@ -19,10 +19,10 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/lottery.proto" timestamp="1502970752703">
+      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/lottery.proto" timestamp="1502971373459">
         <mark key="'" line="20" column="31" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="15" />
         <mark key="." line="34" column="0" />
         <mark key="^" line="32" column="23" />
       </file>
@@ -437,12 +437,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" timestamp="1502773214341">
-        <mark key="'" line="27" column="8" />
-        <mark key="[" line="57" column="24" />
-        <mark key="]" line="57" column="31" />
-        <mark key="." line="57" column="31" />
-        <mark key="^" line="57" column="31" />
+      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" timestamp="1502971550429">
+        <mark key="'" line="28" column="8" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="58" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/tools/syncdb.py" timestamp="1500265409487">
         <mark key="'" line="31" column="0" />
@@ -566,7 +566,11 @@
         <mark key="." line="51" column="71" />
         <mark key="^" line="51" column="71" />
       </file>
-      <file name="$USER_HOME$/workspace/im_2/handlers/im.py" timestamp="1502965015849" />
+      <file name="$USER_HOME$/workspace/im_2/handlers/im.py" timestamp="1502971306715">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="80" column="61" />
+      </file>
       <file name="$USER_HOME$/workspace/async_demo/server.py" timestamp="1502796831880">
         <mark key="[" line="39" column="17" />
         <mark key="]" line="40" column="19" />
@@ -818,8 +822,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="30" filename="$USER_HOME$/workspace/lottery_sigapore/luckyapi/views/lottery.py" />
-      <jump line="228" column="27" filename="$USER_HOME$/workspace/Lottery_longconnect/luckyplatform/settings.py" />
       <jump line="55" column="0" filename="$USER_HOME$/workspace/Lottery_longconnect/luckycommon/utils/api.py" />
       <jump line="60" column="14" filename="$USER_HOME$/workspace/Lottery_longconnect/luckycommon/utils/api.py" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/Lottery_longconnect/luckyapi/views/lottery.py" />
@@ -918,46 +920,48 @@
       <jump line="6" column="8" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/lottery.proto" />
       <jump line="55" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/tmp.json" />
       <jump line="39" column="31" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/lottery.proto" />
+      <jump line="104" column="25" filename="$USER_HOME$/workspace/im_2/handlers/im.py" />
+      <jump line="0" column="6" filename="$USER_HOME$/workspace/im_2/handlers/im.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbV9wcm90by5iYXJyYWdlX2RhdGEuY29sb3IgPSBkYXRhWydleHRlbmQnXVsnY29sb3InXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>part</text>
+        <text>.barrage_data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXhfYmV0XD4=</text>
+        <text encoding="base64">XDxjb2RpbmdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25hbCBCZXREYXRhIHBhcnQgPSAyOwo=</text>
+      <register name="0" type="4">
+        <text>BET_INFO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbV9wcm90by5iYXJyYWdlX2RhdGEuY29sb3IgPSBkYXRhWydleHRlbmQnXVsnY29sb3InXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2UgQmFycmFnZURhdGEgewogICAgICAgIHJlcXVpcmVkIGludDMyIHVzZXJfaWQgPSAxOwogICAgICAgIHJlcXVpcmVkIGludDMyIGNvbG9yID0gMjsKICAgICAgICByZXF1aXJlZCBzdHJpbmcgdGV4dCA9IDM7CiAgICB9CgogICAgbWVzc2FnZSBQYWNrZXREYXRhIHsKICAgICAgICBlbnVtIFJ1bGUgewogICAgICAgICAgICBSQU5ET00gPSAwOwogICAgICAgICAgICBBVkVSQUdFID0gMTsKICAgICAgICB9CiAgICAgICAgcmVxdWlyZWQgaW50MzIgdXNlcl9pZCA9IDE7CiAgICAgICAgcmVxdWlyZWQgaW50MzIgY291bnQgPSAyOwogICAgICAgIHJlcXVpcmVkIFJ1bGUgcnVsZSA9IDM7CiAgICAgICAgcmVxdWlyZWQgaW50MzIgYW1vdW50ID0gNDsKICAgICAgICByZXF1aXJlZCBpbnQzMiB0aW1lc3RhbXAgPSA1OwogICAgICAgIHJlcXVpcmVkIHN0cmluZyBwYWNrZXRfaWQgPSA2OwogICAgICAgIHJlcXVpcmVkIHN0cmluZyB0ZXh0ID0gNzsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbmFsIEJyb2FkY2FzdERhdGEgYnJvYWRjYXN0X2RhdGEgPSA1Owo=</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2UgQmFycmFnZURhdGEgewogICAgICAgIHJlcXVpcmVkIGludDMyIHVzZXJfaWQgPSAxOwogICAgICAgIHJlcXVpcmVkIGludDMyIGNvbG9yID0gMjsKICAgICAgICByZXF1aXJlZCBzdHJpbmcgdGV4dCA9IDM7CiAgICB9CgogICAgbWVzc2FnZSBQYWNrZXREYXRhIHsKICAgICAgICBlbnVtIFJ1bGUgewogICAgICAgICAgICBSQU5ET00gPSAwOwogICAgICAgICAgICBBVkVSQUdFID0gMTsKICAgICAgICB9CiAgICAgICAgcmVxdWlyZWQgaW50MzIgdXNlcl9pZCA9IDE7CiAgICAgICAgcmVxdWlyZWQgaW50MzIgY291bnQgPSAyOwogICAgICAgIHJlcXVpcmVkIFJ1bGUgcnVsZSA9IDM7CiAgICAgICAgcmVxdWlyZWQgaW50MzIgYW1vdW50ID0gNDsKICAgICAgICByZXF1aXJlZCBpbnQzMiB0aW1lc3RhbXAgPSA1OwogICAgICAgIHJlcXVpcmVkIHN0cmluZyBwYWNrZXRfaWQgPSA2OwogICAgICAgIHJlcXVpcmVkIHN0cmluZyB0ZXh0ID0gNzsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25hbCBCZXREYXRhIHBhcnQgPSA0Owo=</text>
+        <text encoding="base64">ICAgIG9wdGlvbmFsIEJyb2FkY2FzdERhdGEgYnJvYWRjYXN0X2RhdGEgPSA1Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25hbCBCZXREYXRhIHBhcnQgPSA0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25hbCBpbnQzMiB6ZXJvID0gMTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbnVtIEJyb2FkY2FzdFR5cGUgewogICAgICAgICAgICBQQUNLRVRfQlJPQURDQVNUID0gMDsKICAgICAgICAgICAgR0FNRV9CUk9BRENBU1QgPSAxOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25hbCBpbnQzMiB6ZXJvID0gMTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlbnVtIEJyb2FkY2FzdFR5cGUgewogICAgICAgICAgICBQQUNLRVRfQlJPQURDQVNUID0gMDsKICAgICAgICAgICAgR0FNRV9CUk9BRENBU1QgPSAxOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -967,9 +971,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXhfYmV0XD4=</last-search>
+      <last-search encoding="base64">XDxjb2RpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXhfYmV0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb2RpbmdcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute encoding="base64">XDxweU9wZW5TU0xcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -977,7 +981,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxST09NX1NFVFVQXD4=</entry>
         <entry encoding="base64">XDxCVUxMX0NIQU5ORUxfRElDVFw+</entry>
         <entry encoding="base64">XDxwYXJhbVw+</entry>
         <entry encoding="base64">XDxyYWlzZV93aXRoX3RyYWNlYmFja1w+</entry>
@@ -997,6 +1000,7 @@
         <entry encoding="base64">XDxMb3R0ZXJ5UmVxXD4=</entry>
         <entry encoding="base64">XDxjaGVja19vcmlnaW5cPg==</entry>
         <entry encoding="base64">XDxtYXhfYmV0XD4=</entry>
+        <entry encoding="base64">XDxjb2RpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>522</entry>
