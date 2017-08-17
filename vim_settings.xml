@@ -19,12 +19,12 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/lottery.proto" timestamp="1502966473897">
-        <mark key="'" line="6" column="8" />
-        <mark key="[" line="37" column="22" />
-        <mark key="]" line="37" column="27" />
-        <mark key="." line="37" column="27" />
-        <mark key="^" line="37" column="27" />
+      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/lottery.proto" timestamp="1502970752703">
+        <mark key="'" line="20" column="31" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="32" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/sensor/sensor_model.py" timestamp="1499930319461">
         <mark key="'" line="11" column="0" />
@@ -156,10 +156,10 @@
         <mark key="." line="1071" column="21" />
         <mark key="^" line="1071" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/tmp.json" timestamp="1502966201104">
+      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/tmp.json" timestamp="1502968070432">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="20" column="13" />
         <mark key="^" line="56" column="3" />
         <mark key="." line="0" column="0" />
       </file>
@@ -818,7 +818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/Lottery_longconnect/README.md" />
       <jump line="32" column="30" filename="$USER_HOME$/workspace/lottery_sigapore/luckyapi/views/lottery.py" />
       <jump line="228" column="27" filename="$USER_HOME$/workspace/Lottery_longconnect/luckyplatform/settings.py" />
       <jump line="55" column="0" filename="$USER_HOME$/workspace/Lottery_longconnect/luckycommon/utils/api.py" />
@@ -918,49 +917,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/tmp.json" />
       <jump line="6" column="8" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/lottery.proto" />
       <jump line="55" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/tmp.json" />
+      <jump line="39" column="31" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/lottery.proto" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>part</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXhfYmV0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25hbCBib29sIHRvZGF5X3Jpc2sgPSAyOwo=</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25hbCBCZXREYXRhIHBhcnQgPSAyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2UgQmFycmFnZURhdGEgewogICAgICAgIHJlcXVpcmVkIGludDMyIHVzZXJfaWQgPSAxOwogICAgICAgIHJlcXVpcmVkIGludDMyIGNvbG9yID0gMjsKICAgICAgICByZXF1aXJlZCBzdHJpbmcgdGV4dCA9IDM7CiAgICB9CgogICAgbWVzc2FnZSBQYWNrZXREYXRhIHsKICAgICAgICBlbnVtIFJ1bGUgewogICAgICAgICAgICBSQU5ET00gPSAwOwogICAgICAgICAgICBBVkVSQUdFID0gMTsKICAgICAgICB9CiAgICAgICAgcmVxdWlyZWQgaW50MzIgdXNlcl9pZCA9IDE7CiAgICAgICAgcmVxdWlyZWQgaW50MzIgY291bnQgPSAyOwogICAgICAgIHJlcXVpcmVkIFJ1bGUgcnVsZSA9IDM7CiAgICAgICAgcmVxdWlyZWQgaW50MzIgYW1vdW50ID0gNDsKICAgICAgICByZXF1aXJlZCBpbnQzMiB0aW1lc3RhbXAgPSA1OwogICAgICAgIHJlcXVpcmVkIHN0cmluZyBwYWNrZXRfaWQgPSA2OwogICAgICAgIHJlcXVpcmVkIHN0cmluZyB0ZXh0ID0gNzsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlZCBzdHJpbmcgbmlja19uYW1lID0gNDsK</text>
+        <text encoding="base64">ICAgIG9wdGlvbmFsIEJyb2FkY2FzdERhdGEgYnJvYWRjYXN0X2RhdGEgPSA1Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlZCBpbnQzMiBhbW91bnQgPSAzOwo=</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25hbCBCZXREYXRhIHBhcnQgPSA0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlZCBpbnQzMiB1c2VyX2lkID0gMjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlZCBCcm9hZGNhc3RUeXBlIGJ0eXBlID0gMTsK</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25hbCBpbnQzMiB6ZXJvID0gMTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbnVtIEJyb2FkY2FzdFR5cGUgewogICAgICAgICAgICBQQUNLRVRfQlJPQURDQVNUID0gMDsKICAgICAgICAgICAgR0FNRV9CUk9BRENBU1QgPSAxOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ewogICJ0eXBlIjogImJldF9pbmZvIiwKICAiZGF0YSI6IHsKICAgICJzdGF0dXMiOiAxLAogICAgInRlcm1fbnVtYmVyIjogNzU2OTMsCiAgICAiY21kIjogIjExI2h0dHA6Ly93d3cuMXl1YW4tZ291LmNvbS9kaXNjb3ZlcnkvY291bnRkb3duX3R1cm50YWJsZSIsCiAgICAibXkiOiB7CiAgICAgICJjcmVkaXQiOiAwLAogICAgICAicGFydCI6IHt9LAogICAgICAidG9kYXlfcmlzayI6IGZhbHNlLAogICAgICAiYXdhcmQiOiAwLAogICAgICAic2luZ2xlX3Jpc2siOiBmYWxzZQogICAgfSwKICAgICJyZW1haW5fdHMiOiAyMywKICAgICJiZXQiOiB7CiAgICAgICIwIjogMTYyLjAsCiAgICAgICIxIjogMTQ5LjAsCiAgICAgICIyIjogMTI0LjAsCiAgICAgICIzIjogODAuMCwKICAgICAgIjQiOiA0MDQuMCwKICAgICAgIjUiOiAxMS4wCiAgICB9CiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">a2pnZwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
