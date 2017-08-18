@@ -13,6 +13,12 @@
       <file name="$USER_HOME$/workspace/lottery_sigapore/luckycommon/db/helper.py" timestamp="1502879052735">
         <mark key="'" line="202" column="21" />
       </file>
+      <file name="/a.dummy" timestamp="1503029489037">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/lottery.proto" timestamp="1502971373459">
         <mark key="'" line="20" column="31" />
         <mark key="[" line="6" column="8" />
@@ -118,12 +124,11 @@
         <mark key="." line="93" column="38" />
         <mark key="^" line="93" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings.py" timestamp="1502949212026">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="25" />
-        <mark key="^" line="116" column="0" />
+      <file name="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings.py" timestamp="1503029213572">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/scripts/lucky.sql" timestamp="1496654287298">
         <mark key="'" line="1079" column="2" />
@@ -342,6 +347,9 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/lottery_sigapore/usercommon/db/cache.py" timestamp="1503028774314">
+        <mark key="'" line="8" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/casiouser/userapi/views/transaction.py" timestamp="1502716346899">
         <mark key="'" line="369" column="0" />
         <mark key="[" line="119" column="0" />
@@ -383,12 +391,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" timestamp="1503028041285">
-        <mark key="'" line="105" column="31" />
-        <mark key="[" line="104" column="8" />
-        <mark key="]" line="104" column="8" />
-        <mark key="^" line="104" column="30" />
-        <mark key="." line="104" column="8" />
+      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" timestamp="1503030066163">
+        <mark key="'" line="26" column="48" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="56" column="48" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/tools/syncdb.py" timestamp="1500265409487">
         <mark key="'" line="31" column="0" />
@@ -474,10 +481,10 @@
         <mark key="." line="82" column="4" />
         <mark key="^" line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings_union.py" timestamp="1502949187413">
+      <file name="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings_union.py" timestamp="1503029191266">
         <mark key="'" line="225" column="19" />
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="25" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="95" column="1" />
         <mark key="^" line="133" column="0" />
         <mark key="." line="17" column="25" />
       </file>
@@ -580,6 +587,12 @@
         <mark key="]" line="6" column="30" />
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/lottery_sigapore/luckyapi/views/lottery.py" timestamp="1502946598980">
+        <mark key="'" line="113" column="20" />
+        <mark key="[" line="71" column="52" />
+        <mark key="]" line="71" column="78" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/luckycommon/model/pay.py" timestamp="1501059276260">
         <mark key="'" line="341" column="6" />
@@ -685,9 +698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="0" filename="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" />
-      <jump line="51" column="34" filename="$USER_HOME$/workspace/lottery/longconnect/handler.py" />
-      <jump line="12" column="12" filename="$USER_HOME$/workspace/lottery/luckyapi/urls.py" />
       <jump line="78" column="20" filename="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" />
       <jump line="79" column="34" filename="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" />
       <jump line="80" column="38" filename="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" />
@@ -785,22 +795,25 @@
       <jump line="44" column="17" filename="$USER_HOME$/workspace/im_2/handlers/im.py" />
       <jump line="122" column="25" filename="$USER_HOME$/workspace/im_2/handlers/im.py" />
       <jump line="144" column="8" filename="$USER_HOME$/workspace/im_2/handlers/im.py" />
+      <jump line="8" column="40" filename="$USER_HOME$/workspace/lottery_sigapore/usercommon/db/cache.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings.py" />
+      <jump line="26" column="48" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgZXJyb3JzLldlYnNvY2tldEJhc2VFcnJvciBhcyBlcnJvcjoKICAgICAgICAgICAgc2VsZi53cml0ZV9lcnJvcihlcnJvcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5saXN0ZW4oKQogICAgICAgICAgICBfTE9HR0VSLmluZm8oJ2xpc3RlbiByZWRpcyBzdWNjZXNzJykK</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>same user</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3cml0ZV9lcnJvclw+</text>
+        <text encoding="base64">XDxEQVRBQkFTRVNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgZXJyb3JzLldlYnNvY2tldEJhc2VFcnJvciBhcyBlcnJvcjoKICAgICAgICAgICAgc2VsZi53cml0ZV9lcnJvcihlcnJvcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCdwdWJsaXNoIHNhbWUgdXNlciBzdWNjZXNzJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb3R0ZXJ5X2NoYW5uZWwgPSBMT1RURVJZX0NIQU5ORUwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5saXN0ZW4oKQogICAgICAgICAgICBfTE9HR0VSLmluZm8oJ2xpc3RlbiByZWRpcyBzdWNjZXNzJykK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -812,31 +825,31 @@
         <text encoding="base64">ICAgICAgICBsb3R0ZXJ5X2NoYW5uZWwgPSBMT1RURVJZX0NIQU5ORUwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5saXN0ZW4oKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJCUk9BRENBU1QiOiAoMywgdSflub/mkq0nKSwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICJDSEFOTkVMIjogKDIsIHUn6aKR6YGT6L2s5o2iJyksCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJCQVJSQUdFIjogKDAsIHUn5by55bmVJyksCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsb3R0ZXJ5X2NoYW5uZWwgPSBMT1RURVJZX0NIQU5ORUwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5saXN0ZW4oKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJCUk9BRENBU1QiOiAoMywgdSflub/mkq0nKSwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJDSEFOTkVMIjogKDIsIHUn6aKR6YGT6L2s5o2iJyksCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">I2NvZGluZzogdXRmLTgK</text>
+        <text encoding="base64">ICAgICJCQVJSQUdFIjogKDAsIHUn5by55bmVJyksCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3cml0ZV9lcnJvclw+</last-search>
+      <last-search encoding="base64">XDxEQVRBQkFTRVNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3cml0ZV9lcnJvclw+</last-pattern>
+      <last-pattern encoding="base64">XDxEQVRBQkFTRVNcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute encoding="base64">XDxweU9wZW5TU0xcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -844,8 +857,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmVzZXRcPg==</entry>
-        <entry encoding="base64">XDxERVNfQ09NXD4=</entry>
         <entry encoding="base64">XDxhYnRlc3RcPg==</entry>
         <entry encoding="base64">XDxMT1RURVJZX0NIQU5ORUxcPg==</entry>
         <entry encoding="base64">XDxsb3R0ZXJ5XD4=</entry>
@@ -864,6 +875,8 @@
         <entry encoding="base64">XDx0cmFuc19iZXRfZGF0YVw+</entry>
         <entry encoding="base64">XDxsaXN0ZW5fcmVkaXNcPg==</entry>
         <entry encoding="base64">XDx3cml0ZV9lcnJvclw+</entry>
+        <entry encoding="base64">XDxFVkVOVF9UWVBFXD4=</entry>
+        <entry encoding="base64">XDxEQVRBQkFTRVNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>522</entry>
