@@ -125,10 +125,10 @@
         <mark key="^" line="93" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings.py" timestamp="1503029213572">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice-id/scripts/lucky.sql" timestamp="1496654287298">
         <mark key="'" line="1079" column="2" />
@@ -391,12 +391,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" timestamp="1503031104534">
-        <mark key="'" line="28" column="48" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="3" />
-        <mark key="." line="42" column="3" />
-        <mark key="^" line="42" column="3" />
+      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" timestamp="1503032446932">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="40" />
+        <mark key="." line="23" column="40" />
+        <mark key="^" line="103" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/tools/syncdb.py" timestamp="1500265409487">
         <mark key="'" line="31" column="0" />
@@ -700,11 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="34" filename="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" />
-      <jump line="80" column="38" filename="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" />
-      <jump line="144" column="9" filename="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" />
-      <jump line="73" column="25" filename="$USER_HOME$/workspace/lottery/luckyplatform/settings.py" />
-      <jump line="15" column="29" filename="$USER_HOME$/workspace/lottery/luckyapi/views/lottery.py" />
       <jump line="187" column="4" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
       <jump line="2" column="15" filename="$USER_HOME$/workspace/zjh/requirements.txt" />
       <jump line="22" column="51" filename="$USER_HOME$/workspace/casiouser/userapi/views/serverinfo.py" />
@@ -777,7 +772,6 @@
       <jump line="11" column="24" filename="$USER_HOME$/workspace/im_2/utils/errors.py" />
       <jump line="107" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/luckycommon/utils/exceptions.py" />
       <jump line="117" column="8" filename="$USER_HOME$/workspace/lottery_sigapore/luckycommon/utils/exceptions.py" />
-      <jump line="41" column="33" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
       <jump line="43" column="31" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
       <jump line="31" column="13" filename="$USER_HOME$/workspace/im_2/handlers/im.py" />
       <jump line="38" column="17" filename="$USER_HOME$/workspace/im_2/handlers/im.py" />
@@ -800,31 +794,37 @@
       <jump line="59" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings.py" />
       <jump line="26" column="48" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
       <jump line="13" column="1" filename="$USER_HOME$/workspace/im_2/cache/event.py" />
+      <jump line="67" column="78" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
+      <jump line="103" column="81" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
+      <jump line="34" column="25" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
+      <jump line="57" column="37" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QGNhY2hlX3dyYXBwZXIK</text>
+      <register name="&quot;" type="4">
+        <text>LOTTERY_USER_CH % self.user_id</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>LOTTERY_USER_CH % self.user_id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEQVRBQkFTRVNcPg==</text>
+        <text encoding="base64">XDxMT1RURVJZX1VTRVJfQ0hcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QGNhY2hlX3dyYXBwZXIK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICUgc2VsZi51c2VyX2lk</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5saXN0ZW4oKQogICAgICAgICAgICBfTE9HR0VSLmluZm8oJ2xpc3RlbiByZWRpcyBzdWNjZXNzJykK</text>
+        <text encoding="base64">ICAgIEBjYWNoZV93cmFwcGVyCiAgICBkZWYgcHVibGlzaF9zYW1lX3VzZXJfYWxlcnQodXNlcl9pZCwgaWRlbnRpZnkpOgogICAgICAgIGV2ZW50ID0geyJ0eXBlIjogRVZFTlRfVFlQRS5BVk9JRF9TQU1FX1VTRVIsICdkYXRhJzogeyJpZGVudGlmeSI6IGlkZW50aWZ5fX0KICAgICAgICBQcm94eUFnZW50KCkucHVibGlzaChMT1RURVJZX1VTRVJfQ0ggJSB1c2VyX2lkLCBqc29uLmR1bXBzKGV2ZW50KSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBsb25nY29ubmVjdC5sb3R0ZXJ5X3BiMiBpbXBvcnQgTG90dGVyeVByb3RvCmZyb20gbHVja3ljb21tb24uY2FjaGUgaW1wb3J0IFByb3h5QWdlbnQKZnJvbSBsdWNreWNvbW1vbi51dGlscy5kZWNvcmF0b3IgaW1wb3J0IGNhY2hlX3dyYXBwZXIKZnJvbSBsdWNreWNvbW1vbi51dGlscy5ldmVudF90eXBlIGltcG9ydCBFVkVOVF9UWVBFCmZyb20gbHVja3ljb21tb24udXRpbHMuZXhjZXB0aW9ucyBpbXBvcnQgU2FtZVVzZXJFcnJvcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb3R0ZXJ5X2NoYW5uZWwgPSBMT1RURVJZX0NIQU5ORUwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5saXN0ZW4oKQogICAgICAgICAgICBfTE9HR0VSLmluZm8oJ2xpc3RlbiByZWRpcyBzdWNjZXNzJykK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -833,25 +833,25 @@
         <text encoding="base64">ICAgICAgICBsb3R0ZXJ5X2NoYW5uZWwgPSBMT1RURVJZX0NIQU5ORUwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5saXN0ZW4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJCUk9BRENBU1QiOiAoMywgdSflub/mkq0nKSwK</text>
+        <text encoding="base64">ICAgICAgICBsb3R0ZXJ5X2NoYW5uZWwgPSBMT1RURVJZX0NIQU5ORUwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJDSEFOTkVMIjogKDIsIHUn6aKR6YGT6L2s5o2iJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5saXN0ZW4oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJCQVJSQUdFIjogKDAsIHUn5by55bmVJyksCg==</text>
+        <text encoding="base64">ICAgICJCUk9BRENBU1QiOiAoMywgdSflub/mkq0nKSwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEQVRBQkFTRVNcPg==</last-search>
+      <last-search encoding="base64">XDxMT1RURVJZX1VTRVJfQ0hcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEQVRBQkFTRVNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxMT1RURVJZX1VTRVJfQ0hcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute encoding="base64">XDxweU9wZW5TU0xcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -859,7 +859,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhYnRlc3RcPg==</entry>
         <entry encoding="base64">XDxMT1RURVJZX0NIQU5ORUxcPg==</entry>
         <entry encoding="base64">XDxsb3R0ZXJ5XD4=</entry>
         <entry encoding="base64">XDxzZXR1cF9zdXBlcnZpc29yXD4=</entry>
@@ -879,6 +878,7 @@
         <entry encoding="base64">XDx3cml0ZV9lcnJvclw+</entry>
         <entry encoding="base64">XDxFVkVOVF9UWVBFXD4=</entry>
         <entry encoding="base64">XDxEQVRBQkFTRVNcPg==</entry>
+        <entry encoding="base64">XDxMT1RURVJZX1VTRVJfQ0hcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>522</entry>
