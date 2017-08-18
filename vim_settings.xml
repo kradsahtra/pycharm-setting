@@ -391,12 +391,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" timestamp="1503032446932">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="23" column="39" />
-        <mark key="]" line="23" column="40" />
-        <mark key="." line="23" column="40" />
-        <mark key="^" line="103" column="81" />
+      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" timestamp="1503033182471">
+        <mark key="'" line="8" column="9" />
+        <mark key="[" line="105" column="78" />
+        <mark key="]" line="105" column="113" />
+        <mark key="." line="105" column="113" />
+        <mark key="^" line="105" column="113" />
       </file>
       <file name="$USER_HOME$/workspace/luckyas/tools/syncdb.py" timestamp="1500265409487">
         <mark key="'" line="31" column="0" />
@@ -700,7 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="4" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
       <jump line="2" column="15" filename="$USER_HOME$/workspace/zjh/requirements.txt" />
       <jump line="22" column="51" filename="$USER_HOME$/workspace/casiouser/userapi/views/serverinfo.py" />
       <jump line="63" column="41" filename="$USER_HOME$/workspace/lottery_sigapore/luckyapi/views/lottery.py" />
@@ -800,13 +799,14 @@
       <jump line="34" column="25" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
       <jump line="57" column="37" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
+      <jump line="8" column="9" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LOTTERY_USER_CH % self.user_id</text>
+        <text>self.user_id</text>
       </register>
       <register name="-" type="4">
-        <text>LOTTERY_USER_CH % self.user_id</text>
+        <text>self.user_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMT1RURVJZX1VTRVJfQ0hcPg==</text>
