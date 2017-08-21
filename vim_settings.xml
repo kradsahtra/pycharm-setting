@@ -204,6 +204,10 @@
         <mark key="]" line="71" column="78" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/casiouser/usercommon/model/account.py" timestamp="1503287525705">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/bloodbull.nginx.conf" timestamp="1502561020199">
         <mark key="[" line="10" column="44" />
         <mark key="]" line="10" column="47" />
@@ -309,11 +313,12 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/usercommon/model/pay.py" timestamp="1502351240700">
-        <mark key="[" line="34" column="5" />
-        <mark key="]" line="34" column="16" />
-        <mark key="." line="34" column="37" />
-        <mark key="^" line="34" column="33" />
+      <file name="$USER_HOME$/workspace/casiouser/usercommon/model/pay.py" timestamp="1503287529913">
+        <mark key="'" line="49" column="31" />
+        <mark key="[" line="67" column="4" />
+        <mark key="]" line="67" column="7" />
+        <mark key="." line="67" column="7" />
+        <mark key="^" line="67" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/luckycommon/activity/handler.py" timestamp="1503036195942">
         <mark key="'" line="11" column="48" />
@@ -348,8 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="22" filename="$USER_HOME$/workspace/lottery_sigapore/luckycommon/activity/handler.py" />
-      <jump line="157" column="11" filename="$USER_HOME$/workspace/lottery_sigapore/luckycommon/activity/handler.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/luckycommon/activity/handler.py" />
       <jump line="82" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/luckycommon/async/async_job.py" />
       <jump line="29" column="6" filename="$USER_HOME$/workspace/lottery_sigapore/luckycommon/activity/model/activity.py" />
@@ -448,52 +451,54 @@
       <jump line="206" column="0" filename="$USER_HOME$/workspace/casioconsole/luckycommon/db/helper.py" />
       <jump line="50" column="0" filename="$USER_HOME$/workspace/casioconsole/luckycommon/preset/model/preset.py" />
       <jump line="61" column="34" filename="$USER_HOME$/workspace/casiouser/userapi/views/preset.py" />
+      <jump line="48" column="3" filename="$USER_HOME$/workspace/casiouser/usercommon/model/pay.py" />
+      <jump line="49" column="31" filename="$USER_HOME$/workspace/casiouser/usercommon/model/pay.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnYW1vdW50JzogWzEwLCA1MCwgMTAwLCAyMDBdLAo=</text>
+      <register name="&quot;" type="4">
+        <text>avatar</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>avatar</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfY2hlY2tfY29tcGxldGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnYW1vdW50JzogWzEwLCA1MCwgMTAwLCAyMDBdLAo=</text>
+        <text encoding="base64">ICAgIGF2YXRhciA9IG9ybS5Db2x1bW4ob3JtLlZBUkNIQVIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAneHhfbGlzdCc6IHsKICAgICAgICAgICAgJ3d4JzogewogICAgICAgICAgICAgICAgJ2Ftb3VudCc6IFsxMCwgNTAsIDEwMCwgMjAwXSwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgJ2FsaSc6IHsKICAgICAgICAgICAgICAgICdhbW91bnQnOiBbMTAsIDUwLCAxMDAsIDIwMF0sCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICdhZ2VuY3knOiB7CiAgICAgICAgICAgICAgICAnY29udGFjdCc6IFsKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICduYW1lJzogJ+S7o+eQhjEnLAogICAgICAgICAgICAgICAgICAgICAgICAncXEnOiAnMTIzNDUnLAogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgIH0sCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIG5hbWUgPQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAneHhfbGlzdCc6IHsKICAgICAgICAgICAgJ3d4JzogewogICAgICAgICAgICAgICAgJ2Ftb3VudCc6IFsxMCwgNTAsIDEwMCwgMjAwXSwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgJ2FsaSc6IHsKICAgICAgICAgICAgICAgICdhbW91bnQnOiBbMTAsIDUwLCAxMDAsIDIwMF0sCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICdhZ2VuY3knOiB7CiAgICAgICAgICAgICAgICAnY29udGFjdCc6IFsKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICduYW1lJzogJ+S7o+eQhjEnLAogICAgICAgICAgICAgICAgICAgICAgICAncXEnOiAnMTIzNDUnLAogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgIH0sCiAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>{
                     'qq': '12345',
                     
                 }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FnZW5jeSc6IFtdCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FnZW5jeSc6IFtdCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FsaSc6IFsxMDAsIDIwMCwgMTAwMF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FnZW5jeSc6IFtdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FnZW5jeSc6IFtdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FsaSc6IFsxMDAsIDIwMCwgMTAwMF0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbmFsIGludDMyIHN0YXR1cyA9IDI7CiAgICBvcHRpb25hbCBpbnQzMiB0ZXJtX251bWJlciA9IDM7CiAgICBvcHRpb25hbCBzdHJpbmcgY21kID0gNDsKICAgIG9wdGlvbmFsIE15RGF0YSBteSA9IDU7CiAgICBvcHRpb25hbCBpbnQzMiByZW1haW5fdHMgPSA2OwogICAgb3B0aW9uYWwgQmV0RGF0YSBiZXQgPSA3Owo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
