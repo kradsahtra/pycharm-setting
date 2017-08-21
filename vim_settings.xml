@@ -135,6 +135,12 @@
         <mark key="." line="51" column="71" />
         <mark key="^" line="51" column="71" />
       </file>
+      <file name="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/pay/router.js" timestamp="1503319870621">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="7" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckyplatform/settings_prod.py" timestamp="1502205890009">
         <mark key="[" line="160" column="0" />
         <mark key="]" line="160" column="0" />
@@ -327,10 +333,10 @@
         <mark key="." line="26" column="36" />
         <mark key="^" line="26" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/casioconsole/luckyweb/index.html" timestamp="1503317277051">
-        <mark key="[" line="132" column="70" />
-        <mark key="]" line="132" column="78" />
-        <mark key="." line="132" column="78" />
+      <file name="$USER_HOME$/workspace/casioconsole/luckyweb/index.html" timestamp="1503319757655">
+        <mark key="[" line="135" column="53" />
+        <mark key="]" line="135" column="54" />
+        <mark key="." line="135" column="54" />
         <mark key="^" line="132" column="78" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/userapi/model/transaction.py" timestamp="1503289561043">
@@ -505,11 +511,11 @@
       <jump line="4" column="8" filename="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/preset/router.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>单个支付渠道配置</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIiI6ICJnb3RvSW5kZXgiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>单个支付渠道配置</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxwZXJcPg==</text>
@@ -518,34 +524,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGlkPSJtZW51XzE0XzMyIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiNwYXlfY2hhbm5lbC8iPiDljZXkuKrmlK/ku5jmuKDpgZPphY3nva4gPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg6aKE572u5pWw5o2u566h55CGCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiI6ICJnb3RvSW5kZXgiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBsdWNreWNvbW1vbi5tb2RlbCBpbXBvcnQgb3JtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Blcm0nOiB7CiAgICAgICAgICAgICAgICAnZm9yYmlkTmV3JzogdHJ1ZQogICAgICAgICAgICB9LAogICAgICAgICAgICAncmVjb3JkJzogewogICAgICAgICAgICAgICAgJ25vRGV0YWlsJzogdHJ1ZQogICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBsdWNreWNvbW1vbi5kYi5oZWxwZXIgaW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdmb3JiaWROZXcnOiB0cnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBsdWNreWNvbW1vbi50aGlyZC5pbWFnZSBpbXBvcnQgZ2V0X3Rva2VuLCBkZWxldGVfZGF0YV9ieV91cmwK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg6aKE572u5pWw5o2u566h55CGCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBsdWNreWNvbW1vbi5tb2RlbCBpbXBvcnQgb3JtCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBsdWNreWNvbW1vbi5kYi5oZWxwZXIgaW1wb3J0IAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgUGF5Q2hhbm5lbAo=</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBmcm9tIGNvbW1vbi5wcmVzZXQuZGIgaW1wb3J0IGxvYWRpbmcgYXMgbG9hZGluZ19kYgojIGZyb20gY29tbW9uLnByZXNldC5kYiBpbXBvcnQgYmFubmVyIGFzIGJhbm5lcl9kYgojIGZyb20gY29tbW9uLnByZXNldC5kYiBpbXBvcnQgZGlzY292ZXJ5IGFzIGRpc2NvdmVyeV9kYgojIGZyb20gY29tbW9uLnByZXNldC5kYiBpbXBvcnQgcmV3YXJkIGFzIHJld2FyZF9kYgojIGZyb20gY29tbW9uLnByZXNldC5kYiBpbXBvcnQgcGF5IGFzIHBheV9kYgojIGZyb20gY29tbW9uLnByZXNldC5kYiBpbXBvcnQgcmVjb21tZW5kIGFzIHJlY29tbWVuZF9kYgojIGZyb20gY29tbW9uLmFidGVzdC5kYiBpbXBvcnQgZ2V0X2FidGVzdAo=</text>
+        <text encoding="base64">ZnJvbSBsdWNreWNvbW1vbi50aGlyZC5pbWFnZSBpbXBvcnQgZ2V0X3Rva2VuLCBkZWxldGVfZGF0YV9ieV91cmwK</text>
       </register>
       <register name=":" type="4">
         <text>121</text>
