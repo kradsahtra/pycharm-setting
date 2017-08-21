@@ -277,6 +277,12 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="12" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/casiouser/userapi/model/transaction.py" timestamp="1503286883113">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="37" />
+        <mark key="^" line="57" column="34" />
+        <mark key="." line="145" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/im_2/utils/im_pb2.py" timestamp="1502960304770">
         <mark key="'" line="248" column="19" />
       </file>
@@ -445,7 +451,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAneHhfbGlzdCc6IHsKICAgICAgICAgICAgJ3d4JzogewogICAgICAgICAgICAgICAgJ2Ftb3VudCc6IFsxMCwgNTAsIDEwMCwgMjAwXSwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgJ2FsaSc6IHsKICAgICAgICAgICAgICAgICdhbW91bnQnOiBbMTAsIDUwLCAxMDAsIDIwMF0sCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICdhZ2VuY3knOiB7CiAgICAgICAgICAgICAgICAnY29udGFjdCc6IFsKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICduYW1lJzogJ+S7o+eQhjEnLAogICAgICAgICAgICAgICAgICAgICAgICAncXEnOiAnMTIzNDUnLAogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgIH0sCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAnYW1vdW50JzogWzEwLCA1MCwgMTAwLCAyMDBdLAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICA=</text>
@@ -454,7 +460,7 @@
         <text encoding="base64">XDxfY2hlY2tfY29tcGxldGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FsaSc6IHsKICAgICAgICAgICAgICAgICdhbW91bnQnOiBbMTAsIDUwLCAxMDAsIDIwMF0sCiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAnYW1vdW50JzogWzEwLCA1MCwgMTAwLCAyMDBdLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAneHhfbGlzdCc6IHsKICAgICAgICAgICAgJ3d4JzogewogICAgICAgICAgICAgICAgJ2Ftb3VudCc6IFsxMCwgNTAsIDEwMCwgMjAwXSwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgJ2FsaSc6IHsKICAgICAgICAgICAgICAgICdhbW91bnQnOiBbMTAsIDUwLCAxMDAsIDIwMF0sCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICdhZ2VuY3knOiB7CiAgICAgICAgICAgICAgICAnY29udGFjdCc6IFsKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICduYW1lJzogJ+S7o+eQhjEnLAogICAgICAgICAgICAgICAgICAgICAgICAncXEnOiAnMTIzNDUnLAogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgIH0sCiAgICAgICAgfQo=</text>
