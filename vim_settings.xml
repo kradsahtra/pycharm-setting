@@ -230,6 +230,11 @@
         <mark key="." line="99" column="44" />
         <mark key="^" line="99" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1503310564969">
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="33" column="37" />
+        <mark key="." line="33" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/admin.supervisor.conf" timestamp="1502196463299">
         <mark key="[" line="7" column="24" />
         <mark key="]" line="7" column="28" />
@@ -467,16 +472,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>preset</text>
+        <text>162.222.165.250</text>
       </register>
       <register name="-" type="4">
-        <text>preset</text>
+        <text>162.222.165.250</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWxldGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiNwcmVzZXQvIj4g54mI5pys6YWN572uIDwvYT4K</text>
+      <register name="0" type="4">
+        <text>183.60.200.105</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg6aKE572u5pWw5o2u566h55CGCg==</text>
