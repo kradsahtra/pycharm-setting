@@ -114,6 +114,9 @@
         <mark key="." line="20" column="9" />
         <mark key="^" line="13" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/casioconsole/luckycommon/mail/db.py" timestamp="1503400355647">
+        <mark key="'" line="2" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckyplatform/settings_prod.py" timestamp="1502205890009">
         <mark key="[" line="160" column="0" />
         <mark key="]" line="160" column="0" />
@@ -356,7 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="31" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
       <jump line="43" column="0" filename="$USER_HOME$/workspace/im_2/handlers/im.py" />
       <jump line="44" column="17" filename="$USER_HOME$/workspace/im_2/handlers/im.py" />
       <jump line="122" column="25" filename="$USER_HOME$/workspace/im_2/handlers/im.py" />
@@ -456,6 +458,7 @@
       <jump line="4" column="0" filename="$USER_HOME$/workspace/casioconsole/luckycommon/db/account.py" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/casioconsole/luckycommon/preset/db/discovery.py" />
       <jump line="106" column="0" filename="$USER_HOME$/workspace/casioconsole/luckycommon/model/pay.py" />
+      <jump line="2" column="34" filename="$USER_HOME$/workspace/casioconsole/luckycommon/mail/db.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -465,7 +468,7 @@
         <text>JUSTPAY_ALI</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfYWNjb3VudFw+</text>
+        <text encoding="base64">XDxsaXN0X29iamVjdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGxvZ2dpbmcKCmZyb20gbHVja3ljb21tb24udXRpbHMuZGVjb3JhdG9yIGltcG9ydCBzcWxfd3JhcHBlcgpmcm9tIGx1Y2t5Y29tbW9uLmRiLmhlbHBlciBpbXBvcnQgbGlzdF9vYmplY3QsIGdldCwgdXBzZXJ0LCBkZWxldGUKZnJvbSBsdWNreWNvbW1vbi5wcmVzZXQubW9kZWwuZGlzY292ZXJ5IGltcG9ydCBEaXNjb3ZlcnkKCl9MT0dHRVIgPSBsb2dnaW5nLmdldExvZ2dlcihfX25hbWVfXykK</text>
@@ -505,9 +508,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfYWNjb3VudFw+</last-search>
+      <last-search encoding="base64">XDxsaXN0X29iamVjdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfYWNjb3VudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxsaXN0X29iamVjdFw+</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute encoding="base64">XDxweU9wZW5TU0xcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -515,7 +518,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb2RpbmdcPg==</entry>
         <entry encoding="base64">XDx1c2Vyc2VsZl9jaGFubmVsXD4=</entry>
         <entry encoding="base64">XDxsaXN0ZW5fcmVkaXNcPg==</entry>
         <entry encoding="base64">XDx3cml0ZV9lcnJvclw+</entry>
@@ -535,6 +537,7 @@
         <entry encoding="base64">XDxDaGFubmVsTGlzdFZpZXdcPg==</entry>
         <entry encoding="base64">XDxjYWNoZV90b2tlblw+</entry>
         <entry encoding="base64">XDxnZXRfYWNjb3VudFw+</entry>
+        <entry encoding="base64">XDxsaXN0X29iamVjdFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzE5My8xOTEvZw==</entry>
