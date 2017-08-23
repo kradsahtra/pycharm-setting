@@ -133,6 +133,11 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1503310564969">
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="33" column="37" />
+        <mark key="." line="33" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/version/models.js" timestamp="1503490835925">
         <mark key="'" line="5" column="20" />
         <mark key="[" line="5" column="23" />
@@ -162,7 +167,7 @@
         <mark key="^" line="53" column="22" />
         <mark key="." line="52" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/version/switch.js" timestamp="1503491902110">
+      <file name="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/version/switch.js" timestamp="1503495601679">
         <mark key="'" line="141" column="38" />
         <mark key="[" line="61" column="19" />
         <mark key="]" line="61" column="25" />
@@ -182,7 +187,7 @@
         <mark key="." line="105" column="54" />
         <mark key="^" line="105" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/casioconsole/luckyweb/js/frame/router.js" timestamp="1503494991444">
+      <file name="$USER_HOME$/workspace/casioconsole/luckyweb/js/frame/router.js" timestamp="1503496067273">
         <mark key="[" line="61" column="70" />
         <mark key="]" line="61" column="76" />
         <mark key="^" line="61" column="76" />
@@ -193,6 +198,11 @@
         <mark key="]" line="2" column="15" />
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/casiouser/userapi/views/transaction.py" timestamp="1503390704005">
+        <mark key="[" line="111" column="37" />
+        <mark key="]" line="111" column="46" />
+        <mark key="." line="111" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/requirements.txt" timestamp="1501850145683">
         <mark key="[" line="1" column="6" />
@@ -341,11 +351,11 @@
         <mark key="." line="26" column="36" />
         <mark key="^" line="26" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/casioconsole/luckyweb/index.html" timestamp="1503494764038">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
-        <mark key="^" line="147" column="71" />
+      <file name="$USER_HOME$/workspace/casioconsole/luckyweb/index.html" timestamp="1503495853474">
+        <mark key="[" line="140" column="73" />
+        <mark key="]" line="140" column="79" />
+        <mark key="." line="140" column="79" />
+        <mark key="^" line="140" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/project_dir_config.py" timestamp="1501850471764">
         <mark key="[" line="0" column="0" />
@@ -365,7 +375,7 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/version/router.js" timestamp="1503491387460">
+      <file name="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/version/router.js" timestamp="1503495605735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="22" column="3" />
         <mark key="." line="0" column="0" />
@@ -506,10 +516,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>switch</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>switch</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
