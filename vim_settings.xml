@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/casioconsole/luckyadmin/views/uptoken.py" timestamp="1503311001475">
-        <mark key="'" line="17" column="12" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1503029489037">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="7" />
@@ -27,12 +21,6 @@
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/luckycommon/utils/exceptions.py" timestamp="1503026239531">
-        <mark key="'" line="117" column="8" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/model/pay_channel.py" timestamp="1503463972187">
         <mark key="[" line="31" column="4" />
@@ -79,21 +67,15 @@
         <mark key="^" line="23" column="3" />
         <mark key="." line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings.py" timestamp="1503029213572">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckycommon/preset/handler.py" timestamp="1503303486667">
         <mark key="'" line="22" column="24" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/userplatform/settings.py" timestamp="1502957752946">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="16" />
+      <file name="$USER_HOME$/workspace/casiouser/userplatform/settings.py" timestamp="1503549171127">
+        <mark key="[" line="19" column="14" />
+        <mark key="]" line="19" column="22" />
         <mark key="^" line="14" column="15" />
         <mark key="." line="14" column="15" />
       </file>
@@ -294,12 +276,6 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="147" column="78" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/luckyapi/views/lottery.py" timestamp="1502946598980">
-        <mark key="'" line="113" column="20" />
-        <mark key="[" line="71" column="52" />
-        <mark key="]" line="71" column="78" />
-        <mark key="." line="67" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckyweb/templates/pay/PayChannelList.html" timestamp="1503462474548">
         <mark key="[" line="46" column="37" />
         <mark key="]" line="46" column="42" />
@@ -336,12 +312,6 @@
         <mark key="]" line="111" column="53" />
         <mark key="^" line="111" column="53" />
         <mark key="." line="111" column="53" />
-      </file>
-      <file name="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/pay/channel_list.js" timestamp="1503477012194">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/casioconsole/uwsgi.ini" timestamp="1502203489529">
         <mark key="[" line="15" column="28" />
@@ -521,8 +491,8 @@
       <jump line="26" column="0" filename="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/version/models.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9ImlucHV0QnVuZGxlSUQiIGNsYXNzPSJjb2wtbWQtMSBjb250cm9sLWxhYmVsIj5CdW5kbGUgSUQ6PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtOSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBpZD0iaW5wdXRCdW5kbGVJRCIgY2xhc3M9ImZvcm0tY29udHJvbCIgdmFsdWU9IjwlPSBpbmZvLmJ1bmRsZV9pZCAlPiIgcGxhY2Vob2xkZXI9IuWMheWQjSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEtZmllbGQ9ImJ1bmRsZV9pZCIgcmVxdWlyZWQ+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9ImlucHV0UGxhdGZvcm0iIGNsYXNzPSJjb2wtbWQtMSBjb250cm9sLWxhYmVsIj7miYvmnLrns7vnu586PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtOSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBpZD0iaW5wdXRQbGF0Zm9ybSIgY2xhc3M9ImZvcm0tY29udHJvbCIgdmFsdWU9IjwlPSBpbmZvLnBsYXRmb3JtICU+IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YS1maWVsZD0icGxhdGZvcm0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iaW5wdXRDaGFubmVsIiBjbGFzcz0iY29sLW1kLTEgY29udHJvbC1sYWJlbCI+5rig6YGTOjwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTkiPgogICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgaWQ9ImlucHV0Q2hhbm5lbCIgY2xhc3M9ImZvcm0tY29udHJvbCIgdmFsdWU9IjwlPSBpbmZvLmNoYW5uZWwgJT4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLWZpZWxkPSJjaGFubmVsIiByZXF1aXJlZD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iaW5wdXRNaW5CdWlsZE51bWJlciIgY2xhc3M9ImNvbC1tZC0xIGNvbnRyb2wtbGFiZWwiPuacgOWwjyBCdWlsZCBOdW1iZXI6PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtOSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBpZD0iaW5wdXRNaW5CdWlsZE51bWJlciIgY2xhc3M9ImZvcm0tY29udHJvbCIgdmFsdWU9IjwlPSBpbmZvLm1pbl9idWlsZF9udW1iZXIgJT4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLWZpZWxkPSJtaW5fYnVpbGRfbnVtYmVyIiByZXF1aXJlZD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iaW5wdXRNYXhCdWlsZE51bWJlciIgY2xhc3M9ImNvbC1tZC0xIGNvbnRyb2wtbGFiZWwiPuacgOWkpyBCdWlsZCBOdW1iZXI6PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtOSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBpZD0iaW5wdXRNYXhCdWlsZE51bWJlciIgY2xhc3M9ImZvcm0tY29udHJvbCIgdmFsdWU9IjwlPSBpbmZvLm1heF9idWlsZF9udW1iZXIgJT4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLWZpZWxkPSJtYXhfYnVpbGRfbnVtYmVyIiByZXF1aXJlZD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>127.0.0.1</text>
       </register>
       <register name="-" type="4">
         <text>pay</text>
@@ -530,8 +500,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxfXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9ImlucHV0QnVuZGxlSUQiIGNsYXNzPSJjb2wtbWQtMSBjb250cm9sLWxhYmVsIj5CdW5kbGUgSUQ6PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtOSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBpZD0iaW5wdXRCdW5kbGVJRCIgY2xhc3M9ImZvcm0tY29udHJvbCIgdmFsdWU9IjwlPSBpbmZvLmJ1bmRsZV9pZCAlPiIgcGxhY2Vob2xkZXI9IuWMheWQjSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEtZmllbGQ9ImJ1bmRsZV9pZCIgcmVxdWlyZWQ+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9ImlucHV0UGxhdGZvcm0iIGNsYXNzPSJjb2wtbWQtMSBjb250cm9sLWxhYmVsIj7miYvmnLrns7vnu586PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtOSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBpZD0iaW5wdXRQbGF0Zm9ybSIgY2xhc3M9ImZvcm0tY29udHJvbCIgdmFsdWU9IjwlPSBpbmZvLnBsYXRmb3JtICU+IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YS1maWVsZD0icGxhdGZvcm0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iaW5wdXRDaGFubmVsIiBjbGFzcz0iY29sLW1kLTEgY29udHJvbC1sYWJlbCI+5rig6YGTOjwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTkiPgogICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgaWQ9ImlucHV0Q2hhbm5lbCIgY2xhc3M9ImZvcm0tY29udHJvbCIgdmFsdWU9IjwlPSBpbmZvLmNoYW5uZWwgJT4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLWZpZWxkPSJjaGFubmVsIiByZXF1aXJlZD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iaW5wdXRNaW5CdWlsZE51bWJlciIgY2xhc3M9ImNvbC1tZC0xIGNvbnRyb2wtbGFiZWwiPuacgOWwjyBCdWlsZCBOdW1iZXI6PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtOSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBpZD0iaW5wdXRNaW5CdWlsZE51bWJlciIgY2xhc3M9ImZvcm0tY29udHJvbCIgdmFsdWU9IjwlPSBpbmZvLm1pbl9idWlsZF9udW1iZXIgJT4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLWZpZWxkPSJtaW5fYnVpbGRfbnVtYmVyIiByZXF1aXJlZD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iaW5wdXRNYXhCdWlsZE51bWJlciIgY2xhc3M9ImNvbC1tZC0xIGNvbnRyb2wtbGFiZWwiPuacgOWkpyBCdWlsZCBOdW1iZXI6PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtOSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBpZD0iaW5wdXRNYXhCdWlsZE51bWJlciIgY2xhc3M9ImZvcm0tY29udHJvbCIgdmFsdWU9IjwlPSBpbmZvLm1heF9idWlsZF9udW1iZXIgJT4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLWZpZWxkPSJtYXhfYnVpbGRfbnVtYmVyIiByZXF1aXJlZD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      <register name="0" type="4">
+        <text>127.0.0.1</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGlkPSJtZW51XzE0XzMyIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiNwYXkvY2hhbm5lbC8iPiDmlK/ku5jmuKDpgZPphY3nva4gPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgo=</text>
