@@ -133,11 +133,6 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1503310564969">
-        <mark key="[" line="33" column="23" />
-        <mark key="]" line="33" column="37" />
-        <mark key="." line="33" column="23" />
-      </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/version/models.js" timestamp="1503490835925">
         <mark key="'" line="5" column="20" />
         <mark key="[" line="5" column="23" />
@@ -199,11 +194,6 @@
         <mark key="]" line="2" column="15" />
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
-      </file>
-      <file name="$USER_HOME$/workspace/casiouser/userapi/views/transaction.py" timestamp="1503390704005">
-        <mark key="[" line="111" column="37" />
-        <mark key="]" line="111" column="46" />
-        <mark key="." line="111" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/requirements.txt" timestamp="1501850145683">
         <mark key="[" line="1" column="6" />
@@ -376,10 +366,11 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/version/router.js" timestamp="1503495605735">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="3" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/version/router.js" timestamp="1503546414112">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="12" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/model/pay.py" timestamp="1503405503812">
         <mark key="'" line="62" column="0" />
@@ -517,16 +508,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>pay</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>pay</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIjIiBjbGFzcz0iYWNjb3JkaW9uLXRvZ2dsZSIgaWQ9InBheU1lbnUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iZ2x5cGhpY29ucyBnbHlwaGljb25zLW5vdGVzXzIiPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg5pSv5LuY5YiX6KGo566h55CGCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJjYXJldCI+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dWwgY2xhc3M9Im5hdiBzdWItbmF2Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGlkPSJtZW51XzE0XzMyIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiNwYXkvY2hhbm5lbF9saXN0LyI+IOaUr+S7mOWIl+ihqOmFjee9riA8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBpZD0ibWVudV8xNF8zMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIjcGF5L2NoYW5uZWwvIj4g5pSv5LuY5rig6YGT6YWN572uIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4K</text>
+      <register name="0" type="4">
+        <text>version</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGlkPSJtZW51XzE0XzMyIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiNwYXkvY2hhbm5lbC8iPiDmlK/ku5jmuKDpgZPphY3nva4gPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgo=</text>
