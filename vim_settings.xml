@@ -45,6 +45,12 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/casiouser/usercommon/db/account.py" timestamp="1503653959416">
+        <mark key="[" line="291" column="0" />
+        <mark key="]" line="291" column="0" />
+        <mark key="^" line="290" column="61" />
+        <mark key="." line="291" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bloodbull/handlers/table.py" timestamp="1502608843541">
         <mark key="[" line="163" column="0" />
         <mark key="]" line="163" column="82" />
@@ -256,7 +262,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503636202510">
+      <file name="/Dummy.txt" timestamp="1503653965070">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -516,8 +522,8 @@
       <jump line="56" column="13" filename="$USER_HOME$/workspace/casioconsole/luckyadmin/views/switch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, '162.222.165.253'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>, '162.222.165.253'</text>
@@ -529,37 +535,37 @@
         <text>累计</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm1heF9yZWNoYXJnZV9hbW91bnQiOiB7JyRndGUnOiB0b3RhbF9yZWNoYXJnZX0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm1pbl9yZWNoYXJnZV9hbW91bnQiOiB7JyRsdGUnOiB0b3RhbF9yZWNoYXJnZX0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm1heF9yZWNoYXJnZV9hbW91bnQiOiB7JyRndGUnOiB0b3RhbF9yZWNoYXJnZX0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm1heF9idWlsZF9udW1iZXIiOiB7JyRndGUnOiBidWlsZF9udW1iZXJ9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm1pbl9yZWNoYXJnZV9hbW91bnQiOiB7JyRsdGUnOiB0b3RhbF9yZWNoYXJnZX0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm1pbl9idWlsZF9udW1iZXIiOiB7JyRsdGUnOiBidWlsZF9udW1iZXJ9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm1heF9idWlsZF9udW1iZXIiOiB7JyRndGUnOiBidWlsZF9udW1iZXJ9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImNoYW5uZWwiOiAiYWxsIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm1pbl9idWlsZF9udW1iZXIiOiB7JyRsdGUnOiBidWlsZF9udW1iZXJ9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImJ1bmRsZV9pZCI6IGJ1bmRsZV9pZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImNoYW5uZWwiOiAiYWxsIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImJ1bmRsZV9pZCI6IGJ1bmRsZV9pZCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIGNoYW5uZWwgPT0gJ2FsbCcgb3IgY2hhbm5lbCA9PSAnbGwnOgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLycvOiAxL2dj</text>
+        <text>292</text>
       </register>
     </registers>
     <search>
@@ -595,7 +601,6 @@
         <entry encoding="base64">XDxsb2dpbl9yZXF1aXJlZFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>138</entry>
         <entry>42</entry>
         <entry>181</entry>
         <entry>27</entry>
@@ -615,6 +620,7 @@
         <entry>121</entry>
         <entry encoding="base64">JzwsJz5zLycvOiAnJy9nYw==</entry>
         <entry encoding="base64">JzwsJz5zLycvOiAxL2dj</entry>
+        <entry>292</entry>
       </history-cmd>
       <history-expr />
       <history-input />
