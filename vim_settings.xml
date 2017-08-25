@@ -51,12 +51,12 @@
         <mark key="." line="163" column="82" />
         <mark key="^" line="163" column="82" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/userapi/views/version.py" timestamp="1503567491117">
+      <file name="$USER_HOME$/workspace/casiouser/userapi/views/version.py" timestamp="1503636200409">
         <mark key="'" line="7" column="10" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="19" column="58" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="36" column="44" />
+        <mark key="]" line="36" column="52" />
+        <mark key="^" line="16" column="55" />
+        <mark key="." line="36" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/casino_hall_api.supervisor.conf" timestamp="1501864460938">
         <mark key="[" line="0" column="9" />
@@ -238,8 +238,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/casioconsole/luckyadmin/views/switch.py" timestamp="1503567194162">
+      <file name="$USER_HOME$/workspace/casioconsole/luckyadmin/views/switch.py" timestamp="1503636068946">
+        <mark key="'" line="59" column="13" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="35" column="59" />
         <mark key="^" line="33" column="43" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/admin.supervisor.conf" timestamp="1502196463299">
         <mark key="[" line="7" column="24" />
@@ -247,7 +251,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503568559924">
+      <file name="/Dummy.txt" timestamp="1503636202510">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -322,12 +326,12 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/casioconsole/luckyadmin/views/pay_channel.py" timestamp="1503567702943">
+      <file name="$USER_HOME$/workspace/casioconsole/luckyadmin/views/pay_channel.py" timestamp="1503636062151">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="173" column="30" />
-        <mark key="]" line="173" column="30" />
-        <mark key="." line="173" column="30" />
-        <mark key="^" line="135" column="32" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="163" column="58" />
+        <mark key="." line="161" column="0" />
+        <mark key="^" line="123" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/uwsgi.ini" timestamp="1502203434360">
         <mark key="[" line="3" column="0" />
@@ -405,7 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="4" filename="$USER_HOME$/workspace/casioconsole/luckycommon/db/pay_channel.py" />
       <jump line="68" column="38" filename="$USER_HOME$/workspace/casioconsole/luckyadmin/views/pay_channel.py" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/casioconsole/luckyadmin/views/pay_channel.py" />
       <jump line="26" column="4" filename="$USER_HOME$/workspace/casioconsole/luckycommon/db/pay_channel.py" />
@@ -505,49 +508,50 @@
       <jump line="7" column="10" filename="$USER_HOME$/workspace/casiouser/userapi/views/version.py" />
       <jump line="19" column="20" filename="$USER_HOME$/workspace/casiouser/usercommon/version/handler.py" />
       <jump line="18" column="17" filename="$USER_HOME$/workspace/casiouser/usercommon/version/handler.py" />
+      <jump line="56" column="13" filename="$USER_HOME$/workspace/casioconsole/luckyadmin/views/switch.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>.lower()</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>bundle_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dpbl9yZXF1aXJlZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZF9udW1iZXIgPSBpbnQocmVxdWVzdC5HRVQuZ2V0KCdidWlsZF9udW1iZXInKSkK</text>
+      <register name="0" type="4">
+        <text>.lower()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZF9udW1iZXIgPSByZXF1ZXN0LkdFVC5nZXQoJ2J1aWxkX251bWJlcicpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbV9kY3RbJ2J1bmRsZV9pZCddID0gcGFyYW1fZGN0WydidW5kbGVfaWQnXS5sb3dlcigpCiAgICAgICAgcGFyYW1fZGN0WydwbGF0Zm9ybSddID0gcGFyYW1fZGN0WydwbGF0Zm9ybSddLmxvd2VyKCkKICAgICAgICBwYXJhbV9kY3RbJ2NoYW5uZWwnXSA9IHBhcmFtX2RjdFsnY2hhbm5lbCddLmxvd2VyKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygiYnVuZGxlX2lkOiAlcywgIikK</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbV9kY3RbJ2J1bmRsZV9pZCddID0gcGFyYW1fZGN0WydidW5kbGVfaWQnXS5sb3dlcigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB1c2VyY29tbW9uLnV0aWxzLmFwaSBpbXBvcnQK</text>
+        <text encoding="base64">ICAgICAgICBidWlsZF9udW1iZXIgPSByZXF1ZXN0LkdFVC5nZXQoJ2J1aWxkX251bWJlcicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmVycm9yKCJkZWZhdWx0IHBheSBjaGFubmVsIGNvbmZpZyBub3QgZm91bmQiKQo=</text>
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygiYnVuZGxlX2lkOiAlcywgIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW10K</text>
+        <text encoding="base64">ZnJvbSB1c2VyY29tbW9uLnV0aWxzLmFwaSBpbXBvcnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmVycm9yKCJkZWZhdWx0IHN3aXRjaCBjb25maWcgbm90IGZvdW5kIikK</text>
+        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmVycm9yKCJkZWZhdWx0IHBheSBjaGFubmVsIGNvbmZpZyBub3QgZm91bmQiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBidW5kbGVfaWQgPSByZXF1ZXN0LkdFVC5nZXQoJ2J1bmRsZV9pZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmVycm9yKCJkZWZhdWx0IHN3aXRjaCBjb25maWcgbm90IGZvdW5kIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVybChyJ152ZXJzaW9uX2NvbnRyb2wvPyQnLCB2ZXJzaW9uX2NvbnRyb2wuZ2V0X3NldHRpbmdzKSwK</text>
+        <text encoding="base64">ICAgICAgICBidW5kbGVfaWQgPSByZXF1ZXN0LkdFVC5nZXQoJ2J1bmRsZV9pZCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvOiAxL2dj</text>
