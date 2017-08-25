@@ -98,12 +98,12 @@
         <mark key="^" line="22" column="32" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casioconsole/luckyweb/templates/pay/PayChannelListList.html" timestamp="1503547996736">
+      <file name="$USER_HOME$/workspace/casioconsole/luckyweb/templates/pay/PayChannelListList.html" timestamp="1503651258128">
         <mark key="'" line="62" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="41" column="60" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="37" column="36" />
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="27" />
+        <mark key="." line="25" column="27" />
+        <mark key="^" line="25" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/bloodbull/logs/config.py" timestamp="1502194334514">
         <mark key="[" line="5" column="25" />
@@ -389,11 +389,11 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casioconsole/luckyweb/templates/pay/PayChannelListDetail.html" timestamp="1503548030297">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="61" column="21" />
-        <mark key="." line="80" column="75" />
-        <mark key="^" line="79" column="101" />
+      <file name="$USER_HOME$/workspace/casioconsole/luckyweb/templates/pay/PayChannelListDetail.html" timestamp="1503651238137">
+        <mark key="[" line="70" column="89" />
+        <mark key="]" line="70" column="91" />
+        <mark key="." line="70" column="89" />
+        <mark key="^" line="63" column="90" />
       </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/requirements.txt" timestamp="1502598881427">
         <mark key="[" line="0" column="7" />
@@ -512,16 +512,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>channel</text>
+        <text>高</text>
       </register>
       <register name="-" type="4">
-        <text>channel</text>
+        <text>高</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dpbl9yZXF1aXJlZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICMgc2Vjb25kIGlnbm9yZSBjaGFubmVsIG1hdGNoCiAgICBpZiBub3QgcmVzdWx0OgogICAgICAgIHJlc3VsdCA9IG1nLnBheV9jaGFubmVsX2xpc3QuZmluZF9vbmUoewogICAgICAgICAgICAiYnVuZGxlX2lkIjogYnVuZGxlX2lkLAogICAgICAgICAgICAicGxhdGZvcm0iOiBwbGF0Zm9ybSwKICAgICAgICAgICAgImNoYW5uZWwiOiAiYWxsIiwKICAgICAgICAgICAgIm1pbl9idWlsZF9udW1iZXIiOiB7JyRsdGUnOiBidWlsZF9udW1iZXJ9LAogICAgICAgICAgICAibWF4X2J1aWxkX251bWJlciI6IHsnJGd0ZSc6IGJ1aWxkX251bWJlcn0sCiAgICAgICAgICAgICJtaW5fcmVjaGFyZ2VfYW1vdW50IjogeyckbHRlJzogdG90YWxfcmVjaGFyZ2V9LAogICAgICAgICAgICAibWF4X3JlY2hhcmdlX2Ftb3VudCI6IHsnJGd0ZSc6IHRvdGFsX3JlY2hhcmdlfSwKICAgICAgICB9KQogICAgICAgIF9MT0dHRVIuaW5mbygKICAgICAgICAgICAgInBheSBjaGFubmVsIGNvbmZpZyBub3QgZm91bmQgZm9yIHVzZXJfaWQ6ICVzLCB0b3RhbF9yZWNoYXJnZTogJXMgIgogICAgICAgICAgICAiYnVuZGxlX2lkOiAlcywgcGxhdGZvcm06ICVzLCBjaGFubmVsOiAlcywgYnVpbGRfbnVtYmVyOiAlcywgdXNlIGlnbm9yZSBjaGFubmVsIiAlCiAgICAgICAgICAgICh1c2VyX2lkLCB0b3RhbF9yZWNoYXJnZSwgYnVuZGxlX2lkLCBwbGF0Zm9ybSwgY2hhbm5lbCwgYnVpbGRfbnVtYmVyKSkK</text>
+      <register name="0" type="4">
+        <text>累计</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIm1heF9yZWNoYXJnZV9hbW91bnQiOiB7JyRndGUnOiB0b3RhbF9yZWNoYXJnZX0sCg==</text>
