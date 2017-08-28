@@ -26,11 +26,12 @@
         <mark key="." line="122" column="70" />
         <mark key="^" line="122" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/userapi/views/safe_box_views.py" timestamp="1503910396116">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="24" />
-        <mark key="^" line="19" column="20" />
-        <mark key="." line="22" column="4" />
+      <file name="$USER_HOME$/workspace/casiouser/userapi/views/safe_box_views.py" timestamp="1503911330352">
+        <mark key="'" line="43" column="7" />
+        <mark key="[" line="66" column="32" />
+        <mark key="]" line="66" column="41" />
+        <mark key="." line="66" column="41" />
+        <mark key="^" line="66" column="41" />
       </file>
       <file name="/a.dummy" timestamp="1503906813728">
         <mark key="[" line="0" column="0" />
@@ -133,6 +134,12 @@
         <mark key="." line="51" column="71" />
         <mark key="^" line="51" column="71" />
       </file>
+      <file name="$USER_HOME$/workspace/casiouser/usercommon/utils/exceptions.py" timestamp="1503911242850">
+        <mark key="[" line="53" column="6" />
+        <mark key="]" line="53" column="22" />
+        <mark key="." line="54" column="24" />
+        <mark key="^" line="53" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckyplatform/settings_prod.py" timestamp="1502205890009">
         <mark key="[" line="160" column="0" />
         <mark key="]" line="160" column="0" />
@@ -149,11 +156,12 @@
         <mark key="^" line="23" column="3" />
         <mark key="." line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/usercommon/db/safe_box_db.py" timestamp="1503910611536">
-        <mark key="'" line="101" column="8" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/workspace/casiouser/usercommon/db/safe_box_db.py" timestamp="1503911322015">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="99" column="4" />
+        <mark key="]" line="99" column="23" />
+        <mark key="^" line="95" column="52" />
+        <mark key="." line="95" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/async_demo/server.py" timestamp="1502796831880">
         <mark key="[" line="39" column="17" />
@@ -184,6 +192,11 @@
         <mark key="]" line="4" column="12" />
         <mark key="^" line="4" column="25" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/casiouser/userapi/views/user.py" timestamp="1503911142269">
+        <mark key="'" line="12" column="32" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="99" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/credit/db/credit.py" timestamp="1503907560612">
         <mark key="'" line="0" column="0" />
@@ -325,6 +338,13 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/casiouser/usercommon/utils/respcode.py" timestamp="1503911232399">
+        <mark key="'" line="31" column="5" />
+        <mark key="[" line="33" column="5" />
+        <mark key="]" line="33" column="23" />
+        <mark key="." line="33" column="40" />
+        <mark key="^" line="33" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckyadmin/urls.py" timestamp="1503490482849">
         <mark key="'" line="106" column="0" />
         <mark key="[" line="111" column="48" />
@@ -463,25 +483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="0" filename="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/pay/channel_list.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/pay/channel_list.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/casioconsole/luckyadmin/views/switch.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/casioconsole/luckyadmin/views/pay_channel.py" />
-      <jump line="24" column="34" filename="$USER_HOME$/workspace/casioconsole/luckycommon/db/pay_channel.py" />
-      <jump line="1" column="13" filename="$USER_HOME$/workspace/casioconsole/luckycommon/db/pay_channel.py" />
-      <jump line="36" column="4" filename="$USER_HOME$/workspace/casioconsole/luckycommon/db/switch.py" />
-      <jump line="83" column="26" filename="$USER_HOME$/workspace/casioconsole/luckyadmin/views/switch.py" />
-      <jump line="18" column="33" filename="$USER_HOME$/workspace/casioconsole/luckyadmin/views/switch.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/workspace/casioconsole/luckyadmin/urls.py" />
-      <jump line="14" column="20" filename="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/pay/models.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/pay/models.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/version/models.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/version/models.js" />
-      <jump line="18" column="6" filename="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/version/models.js" />
-      <jump line="17" column="20" filename="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/version/models.js" />
-      <jump line="5" column="20" filename="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/version/models.js" />
-      <jump line="9" column="9" filename="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/pay/router.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/pay/router.js" />
       <jump line="153" column="0" filename="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/version/switch.js" />
       <jump line="141" column="38" filename="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/version/switch.js" />
       <jump line="50" column="89" filename="$USER_HOME$/workspace/casioconsole/luckyweb/templates/version/SwitchList.html" />
@@ -563,58 +564,77 @@
       <jump line="72" column="42" filename="$USER_HOME$/workspace/casiouser/usercommon/db/safe_box_db.py" />
       <jump line="7" column="54" filename="$USER_HOME$/workspace/casiouser/usercommon/db/safe_box_db.py" />
       <jump line="103" column="8" filename="$USER_HOME$/workspace/casiouser/usercommon/db/safe_box_db.py" />
+      <jump line="38" column="12" filename="$USER_HOME$/workspace/casiouser/userapi/views/safe_box_views.py" />
+      <jump line="68" column="39" filename="$USER_HOME$/workspace/casiouser/usercommon/db/safe_box_db.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/workspace/casiouser/usercommon/db/safe_box_db.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/casiouser/userapi/views/safe_box_views.py" />
+      <jump line="98" column="11" filename="$USER_HOME$/workspace/casiouser/userapi/views/user.py" />
+      <jump line="191" column="11" filename="$USER_HOME$/workspace/casiouser/userapi/views/user.py" />
+      <jump line="253" column="11" filename="$USER_HOME$/workspace/casiouser/userapi/views/user.py" />
+      <jump line="337" column="11" filename="$USER_HOME$/workspace/casiouser/userapi/views/user.py" />
+      <jump line="367" column="11" filename="$USER_HOME$/workspace/casiouser/userapi/views/user.py" />
+      <jump line="400" column="0" filename="$USER_HOME$/workspace/casiouser/userapi/views/user.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/casiouser/userapi/views/user.py" />
+      <jump line="12" column="32" filename="$USER_HOME$/workspace/casiouser/userapi/views/user.py" />
+      <jump line="61" column="14" filename="$USER_HOME$/workspace/casiouser/userapi/views/safe_box_views.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/casiouser/userapi/views/safe_box_views.py" />
+      <jump line="86" column="6" filename="$USER_HOME$/workspace/casiouser/usercommon/db/safe_box_db.py" />
+      <jump line="36" column="3" filename="$USER_HOME$/workspace/casiouser/userapi/views/safe_box_views.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/casiouser/usercommon/db/safe_box_db.py" />
+      <jump line="41" column="7" filename="$USER_HOME$/workspace/casiouser/userapi/views/safe_box_views.py" />
+      <jump line="31" column="5" filename="$USER_HOME$/workspace/casiouser/usercommon/utils/respcode.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb25fdHlwZSA9IAo=</text>
+      <register name="&quot;" type="4">
+        <text>update_safe_password</text>
       </register>
       <register name="-" type="4">
-        <text>action_type</text>
+        <text>verify_code</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3aXRoX2xvY2ttb2RlXD4=</text>
+        <text encoding="base64">XDxWQ09ERV9FUlJPUlw+</text>
       </register>
       <register name="0" type="4">
-        <text>SAFE_BOX_ACTION_TYPE.TAKE_OUT</text>
+        <text>update_safe_password</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb25fdHlwZSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb25fdHlwZSA9IFNBRkVfQk9YX0FDVElPTl9UWVBFLlRBS0VfT1VUCg==</text>
+        <text encoding="base64">ICAgIGlmIHNhZmVfYm94LnBhc3N3b3JkOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGluY3JlYXNlX3NhZmVfYW1vdW50KHVzZXJfaWQsIGluY3JlbWVudCk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgpAc3FsX3dyYXBwZXIKZGVmIGV4aXN0X3NhZmVfcGFzc3dvcmQodXNlcl9pZCk6CiAgICBzYWZlX2JveCA9IGdldF9zYWZlX2JveCh1c2VyX2lkKQogICAgaWYgc2FmZV9ib3gucGFzc3dvcmQ6CiAgICAgICAgcmV0dXJuIFRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsID0gaW50KHJlcXVlc3QuUE9TVC5nZXQoImNoYW5uZWwiKSkK</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb25fdHlwZSA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvciA9IGludChyZXF1ZXN0LlBPU1QuZ2V0KCJjb2xvciIpKQo=</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb25fdHlwZSA9IFNBRkVfQk9YX0FDVElPTl9UWVBFLlRBS0VfT1VUCg==</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3aXRoX2xvY2ttb2RlXD4=</last-search>
+      <last-search encoding="base64">XDxWQ09ERV9FUlJPUlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3aXRoX2xvY2ttb2RlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxWQ09ERV9FUlJPUlw+</last-pattern>
       <last-replace>: 1</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -622,9 +642,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfX3RhYmxlbmFtZV9fXD4=</entry>
-        <entry encoding="base64">XDxQYXlcPg==</entry>
-        <entry encoding="base64">XDxyZWRpcmVjdF90b19maWxlXD4=</entry>
         <entry encoding="base64">XDxoZWxwZXJcPg==</entry>
         <entry encoding="base64">XDxVc2VyTGlzdFZpZXdcPg==</entry>
         <entry encoding="base64">XDxDaGFubmVsTGlzdFZpZXdcPg==</entry>
@@ -642,6 +659,9 @@
         <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
         <entry encoding="base64">XDxvcm1cPg==</entry>
         <entry encoding="base64">XDx3aXRoX2xvY2ttb2RlXD4=</entry>
+        <entry encoding="base64">XDxjaGVja192Y29kZVw+</entry>
+        <entry encoding="base64">XDxWY29kZUVycm9yXD4=</entry>
+        <entry encoding="base64">XDxWQ09ERV9FUlJPUlw+</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
