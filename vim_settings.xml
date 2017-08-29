@@ -26,12 +26,12 @@
         <mark key="." line="122" column="70" />
         <mark key="^" line="122" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/userapi/views/safe_box_views.py" timestamp="1503933319312">
-        <mark key="'" line="46" column="7" />
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="25" column="30" />
-        <mark key="." line="25" column="30" />
-        <mark key="^" line="25" column="30" />
+      <file name="$USER_HOME$/workspace/casiouser/userapi/views/safe_box_views.py" timestamp="1503980170424">
+        <mark key="'" line="60" column="7" />
+        <mark key="[" line="49" column="4" />
+        <mark key="]" line="49" column="11" />
+        <mark key="." line="49" column="11" />
+        <mark key="^" line="49" column="11" />
       </file>
       <file name="/a.dummy" timestamp="1503906813728">
         <mark key="[" line="0" column="0" />
@@ -313,7 +313,7 @@
         <mark key="[" line="94" column="0" />
         <mark key="]" line="95" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503975551572">
+      <file name="/Dummy.txt" timestamp="1503980197340">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -366,8 +366,12 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/userapi/urls.py" timestamp="1503933869725">
+      <file name="$USER_HOME$/workspace/casiouser/userapi/urls.py" timestamp="1503980188854">
         <mark key="'" line="9" column="42" />
+        <mark key="[" line="121" column="56" />
+        <mark key="]" line="121" column="77" />
+        <mark key="." line="121" column="77" />
+        <mark key="^" line="121" column="77" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/model/safe_box.py" timestamp="1503906603202">
         <mark key="'" line="20" column="4" />
@@ -595,20 +599,20 @@
       <jump line="472" column="16" filename="$USER_HOME$/workspace/casiouser/userapi/views/user.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>exist_safe_password</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>exist_safe_password</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0X3VzZXJfaW5mb1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>create_safe_box</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHVybChyJ15zYWZlX2JveC9leGlzdF9wYXNzd29yZC8/JCcsIHNhZmVfYm94X3ZpZXdzLmV4aXN0X3NhZmVfcGFzc3dvcmQpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbW91bnQgPSBhYnMoaW50KHJlcXVlc3QuUE9TVC5nZXQoImFtb3VudCIpKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -617,25 +621,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHJlcXVpcmVfR0VUCkByZXNwb25zZV93cmFwcGVyCkBsb2dpbl9yZXF1aXJlZApkZWYgZ2V0X3VzZXJfaW5mb19vbGQocmVxdWVzdCwgdXNlcl9pZCk6CiAgICBkZWYgX2lzX3Bob25lKHBob25lKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHBob25lID0gbG9uZyhwaG9uZSkKICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgcmV0dXJuIFRydWUgaWYgbGVuKHN0cihwaG9uZSkpID09IGxlbignMTc3Nzc3Nzc3NzcnKSBlbHNlIEZhbHNlCgogICAgdXNlciA9IGV4aXN0c191c2VyKGludCh1c2VyX2lkKSkKICAgIGlmIG5vdCB1c2VyOgogICAgICAgIHJhaXNlIGVyci5EYXRhRXJyb3IoInVzZXJpZCBub3QgZXhpc3QiKQogICAgcmVzcCA9IF9nZXRfdXNlcl9pbmZvKHVzZXIpCiAgICBpZiByZXF1ZXN0LnVzZXJfaWQgPT0gaW50KHVzZXJfaWQpOgogICAgICAgIHJlc3AudXBkYXRlKHsnaXNfZm9ybWFsJzogX2lzX3Bob25lKHJlc3BbJ3Bob25lJ10pfSkKICAgIHJldHVybiByZXNwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNhZmVfYm94ID0gZ2V0X3NhZmVfYm94KHVzZXJfaWQpCiAgICBpZiBub3Qgc2FmZV9ib3g6CiAgICAgICAgY3JlYXRlX3NhZmVfYm94KHVzZXJfaWQpCg==</text>
+        <text encoding="base64">QHJlcXVpcmVfR0VUCkByZXNwb25zZV93cmFwcGVyCkBsb2dpbl9yZXF1aXJlZApkZWYgZ2V0X3VzZXJfaW5mb19vbGQocmVxdWVzdCwgdXNlcl9pZCk6CiAgICBkZWYgX2lzX3Bob25lKHBob25lKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHBob25lID0gbG9uZyhwaG9uZSkKICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgcmV0dXJuIFRydWUgaWYgbGVuKHN0cihwaG9uZSkpID09IGxlbignMTc3Nzc3Nzc3NzcnKSBlbHNlIEZhbHNlCgogICAgdXNlciA9IGV4aXN0c191c2VyKGludCh1c2VyX2lkKSkKICAgIGlmIG5vdCB1c2VyOgogICAgICAgIHJhaXNlIGVyci5EYXRhRXJyb3IoInVzZXJpZCBub3QgZXhpc3QiKQogICAgcmVzcCA9IF9nZXRfdXNlcl9pbmZvKHVzZXIpCiAgICBpZiByZXF1ZXN0LnVzZXJfaWQgPT0gaW50KHVzZXJfaWQpOgogICAgICAgIHJlc3AudXBkYXRlKHsnaXNfZm9ybWFsJzogX2lzX3Bob25lKHJlc3BbJ3Bob25lJ10pfSkKICAgIHJldHVybiByZXNwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBjb3VudHJ5OgogICAgICAgIGNvdW50cnkgPSBzZXR0aW5ncy5DT1VOVFJZCg==</text>
+        <text encoding="base64">ICAgIHNhZmVfYm94ID0gZ2V0X3NhZmVfYm94KHVzZXJfaWQpCiAgICBpZiBub3Qgc2FmZV9ib3g6CiAgICAgICAgY3JlYXRlX3NhZmVfYm94KHVzZXJfaWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudHJ5ID0gc2V0dGluZ3MuQ09VTlRSWQo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBjb3VudHJ5OgogICAgICAgIGNvdW50cnkgPSBzZXR0aW5ncy5DT1VOVFJZCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBjb3VudHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICBjb3VudHJ5ID0gc2V0dGluZ3MuQ09VTlRSWQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBjb3VudHJ5Ogo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVfc2FmZV9ib3godXNlcl9pZCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
