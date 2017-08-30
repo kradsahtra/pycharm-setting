@@ -135,6 +135,12 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/agency_pay/admin_app.py" timestamp="1504096565069">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/deploy/requirements.txt" timestamp="1501850145683">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="6" />
@@ -224,12 +230,6 @@
         <mark key="." line="31" column="51" />
         <mark key="^" line="31" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/usercommon/model/transaction.py" timestamp="1503981736775">
-        <mark key="'" line="34" column="6" />
-        <mark key="[" line="9" column="0" />
-        <mark key="." line="9" column="37" />
-        <mark key="^" line="9" column="37" />
-      </file>
       <file name="$USER_HOME$/workspace/casiouser/userapi/views/user.py" timestamp="1503975564063">
         <mark key="'" line="472" column="16" />
         <mark key="[" line="297" column="0" />
@@ -266,6 +266,12 @@
         <mark key="]" line="46" column="42" />
         <mark key="." line="46" column="42" />
         <mark key="^" line="46" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/agency_pay/main_app.py" timestamp="1504096557693">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="21" />
+        <mark key="." line="21" column="21" />
+        <mark key="^" line="21" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/admin.supervisor.conf" timestamp="1502196463299">
         <mark key="[" line="7" column="24" />
@@ -492,10 +498,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DB</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>DB</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCQVNFX0RJUlw+</text>
