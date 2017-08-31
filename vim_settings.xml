@@ -75,8 +75,12 @@
         <mark key="^" line="290" column="61" />
         <mark key="." line="291" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/userapi/views/version.py" timestamp="1503921086688">
+      <file name="$USER_HOME$/workspace/casiouser/userapi/views/version.py" timestamp="1504155451064">
         <mark key="'" line="12" column="0" />
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/bloodbull/handlers/table.py" timestamp="1502608843541">
         <mark key="[" line="163" column="0" />
@@ -119,9 +123,6 @@
         <mark key="]" line="27" column="20" />
         <mark key="^" line="27" column="20" />
         <mark key="." line="27" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/casioconsole/luckycommon/db/switch.py" timestamp="1503567183590">
-        <mark key="'" line="13" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/apps/main/controllers/account_handler.py" timestamp="1504098039566">
         <mark key="[" line="111" column="0" />
@@ -169,12 +170,12 @@
         <mark key="^" line="154" column="24" />
         <mark key="." line="160" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/usercommon/db/safe_box_db.py" timestamp="1504081050821">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="44" column="38" />
-        <mark key="]" line="44" column="39" />
-        <mark key="^" line="84" column="36" />
-        <mark key="." line="44" column="39" />
+      <file name="$USER_HOME$/workspace/casiouser/usercommon/db/safe_box_db.py" timestamp="1504154302700">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="23" column="18" />
+        <mark key="^" line="23" column="18" />
+        <mark key="." line="23" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/async_demo/server.py" timestamp="1502796831880">
         <mark key="[" line="39" column="17" />
@@ -195,8 +196,8 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/userapi/views/user.py" timestamp="1503975564063">
-        <mark key="'" line="472" column="16" />
+      <file name="$USER_HOME$/workspace/casiouser/userapi/views/user.py" timestamp="1504154881146">
+        <mark key="'" line="126" column="16" />
         <mark key="[" line="297" column="0" />
         <mark key="]" line="297" column="0" />
         <mark key="." line="297" column="0" />
@@ -244,6 +245,12 @@
         <mark key="^" line="17" column="63" />
         <mark key="." line="13" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/casiouser/usercommon/utils/api.py" timestamp="1504155691612">
+        <mark key="[" line="258" column="33" />
+        <mark key="]" line="258" column="33" />
+        <mark key="." line="258" column="33" />
+        <mark key="^" line="258" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/model/account.py" timestamp="1503907804661">
         <mark key="'" line="26" column="21" />
         <mark key="[" line="12" column="6" />
@@ -284,7 +291,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504082891005">
+      <file name="/Dummy.txt" timestamp="1504154919578">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -331,9 +338,6 @@
         <mark key="]" line="23" column="16" />
         <mark key="." line="24" column="21" />
         <mark key="^" line="24" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/agency_pay/hall/routes.py" timestamp="1504086641511">
-        <mark key="'" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckyweb/index.html" timestamp="1503495853474">
         <mark key="[" line="140" column="73" />
@@ -454,7 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/workspace/casiouser/userapi/views/version.py" />
       <jump line="5" column="7" filename="$USER_HOME$/workspace/casiouser/userapi/views/safe_box.py" />
       <jump line="116" column="32" filename="$USER_HOME$/workspace/casiouser/userapi/urls.py" />
       <jump line="117" column="34" filename="$USER_HOME$/workspace/casiouser/userapi/urls.py" />
@@ -554,49 +557,51 @@
       <jump line="13" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/models/admin_account_model.py" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/models/admin_account_model.py" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/models/admin_account_model.py" />
+      <jump line="126" column="16" filename="$USER_HOME$/workspace/casiouser/userapi/views/user.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>32</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnYnVpbGRfbnVtYmVyJzogZGN0LmdldCgnY3ZjJyksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>32</text>
+        <text>build_number</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIVFRQXzQ2Mlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVzZXJuYW1lID0gcGVld2VlLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTMyLCBudWxsPVRydWUsIHVuaXF1ZT1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAnYnVpbGRfbnVtYmVyJzogZGN0LmdldCgnY3ZjJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAnYnVpbGRfbnVtYmVyJzogZGN0LmdldCgnY3ZjJyksCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJvbGUgPSBwZWV3ZWUuQ2hhckZpZWxkKGRlZmF1bHQ9Um9sZS5PUEVSQVRJT04udmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAnYnVuZGxlX2lkJzogZGN0LmdldCgnY3ZjJyksCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICgnL3JlZ2lzdGVyJywgUmVnaXN0ZXIoKSksCg==</text>
+      <register name="3" type="4">
+        <text>{
+        '</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXdzZ2kgLS1odHRwIDo5MDIwIC0td3NnaS1maWxlIHNsb3RfYXBwLnB5IC0tY2FsbGFibGUgYXBpCg==</text>
+        <text encoding="base64">ICAgICAgICAncGxhdGZvcm0nOiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXdzZ2kgLS1odHRwIDo5MDEwIC0td3NnaS1maWxlIHJvdWxldHRlX2FwcC5weSAtLWNhbGxhYmxlIGFwaQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gcm91bGV0dGUgIOi9ruebmCAK</text>
+        <text encoding="base64">ICAgIHJvbGUgPSBwZWV3ZWUuQ2hhckZpZWxkKGRlZmF1bHQ9Um9sZS5PUEVSQVRJT04udmFsdWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gaGFsbCAgICAgIOa4uOaIj+Wkp+WOhQo=</text>
+        <text encoding="base64">ICAgICgnL3JlZ2lzdGVyJywgUmVnaXN0ZXIoKSksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXdzZ2kgLS1odHRwIDo5MDIwIC0td3NnaS1maWxlIHNsb3RfYXBwLnB5IC0tY2FsbGFibGUgYXBpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXdzZ2kgLS1odHRwIDo5MDEwIC0td3NnaS1maWxlIHJvdWxldHRlX2FwcC5weSAtLWNhbGxhYmxlIGFwaQo=</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
