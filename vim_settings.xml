@@ -65,6 +65,10 @@
         <mark key="^" line="290" column="61" />
         <mark key="." line="291" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/casiouser/userplatform/settings_union.py" timestamp="1504191348877">
+        <mark key="[" line="50" column="14" />
+        <mark key="]" line="50" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/casiouser/userapi/views/version.py" timestamp="1504185917445">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="84" column="29" />
@@ -84,12 +88,12 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/fabfile.py" timestamp="1504185060890">
-        <mark key="'" line="247" column="51" />
-        <mark key="[" line="237" column="32" />
-        <mark key="]" line="237" column="39" />
-        <mark key="^" line="237" column="39" />
-        <mark key="." line="237" column="39" />
+      <file name="$USER_HOME$/workspace/agency_pay/fabfile.py" timestamp="1504189306172">
+        <mark key="'" line="248" column="39" />
+        <mark key="[" line="212" column="29" />
+        <mark key="]" line="212" column="62" />
+        <mark key="^" line="212" column="43" />
+        <mark key="." line="212" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/apps/admin/routes.py" timestamp="1504172662413">
         <mark key="[" line="11" column="7" />
@@ -203,7 +207,7 @@
         <mark key="^" line="53" column="41" />
         <mark key="." line="53" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" timestamp="1504171310442">
+      <file name="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" timestamp="1504190408983">
         <mark key="'" line="14" column="23" />
         <mark key="[" line="13" column="25" />
         <mark key="]" line="13" column="25" />
@@ -223,8 +227,7 @@
         <mark key="." line="297" column="0" />
         <mark key="^" line="66" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/deploy/config_files/agency.nginx.conf" timestamp="1504184540961">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/workspace/agency_pay/deploy/config_files/agency.nginx.conf" timestamp="1504189571420">
         <mark key="[" line="24" column="47" />
         <mark key="]" line="24" column="47" />
         <mark key="." line="24" column="47" />
@@ -274,10 +277,11 @@
         <mark key="." line="51" column="71" />
         <mark key="^" line="51" column="71" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/settings_test.py" timestamp="1504184018150">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="6" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/workspace/agency_pay/settings_test.py" timestamp="1504191355430">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="28" />
+        <mark key="." line="15" column="13" />
+        <mark key="^" line="13" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/third/sms/helper.py" timestamp="1503925186155">
         <mark key="[" line="13" column="26" />
@@ -337,7 +341,7 @@
         <mark key="." line="76" column="18" />
         <mark key="^" line="77" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504154919578">
+      <file name="/Dummy.txt" timestamp="1504190809008">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -380,11 +384,11 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/deploy/stages.py" timestamp="1504181179017">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="18" column="28" />
-        <mark key="." line="18" column="28" />
-        <mark key="^" line="18" column="28" />
+      <file name="$USER_HOME$/workspace/agency_pay/deploy/stages.py" timestamp="1504189218647">
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="52" />
+        <mark key="." line="18" column="52" />
+        <mark key="^" line="18" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/model/credit.py" timestamp="1503982095297">
         <mark key="'" line="28" column="8" />
@@ -480,10 +484,10 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/settings.py" timestamp="1504184083431">
+      <file name="$USER_HOME$/workspace/agency_pay/settings.py" timestamp="1504191293316">
         <mark key="'" line="59" column="13" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="17" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="23" column="0" />
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckyweb/templates/pay/PayChannelListDetail.html" timestamp="1503651238137">
@@ -506,16 +510,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/main/models/account_model.py" />
-      <jump line="26" column="32" filename="$USER_HOME$/workspace/agency_pay/apps/admin/models/admin_account_model.py" />
-      <jump line="14" column="7" filename="$USER_HOME$/workspace/agency_pay/apps/admin/models/admin_account_model.py" />
-      <jump line="18" column="36" filename="$USER_HOME$/workspace/agency_pay/apps/admin/models/admin_account_model.py" />
-      <jump line="110" column="26" filename="$USER_HOME$/workspace/agency_pay/settings.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/workspace/agency_pay/common/store/db_driver.py" />
-      <jump line="25" column="4" filename="$USER_HOME$/workspace/agency_pay/common/store/db_driver.py" />
-      <jump line="11" column="63" filename="$USER_HOME$/workspace/agency_pay/apps/main/routes.py" />
-      <jump line="355" column="32" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/account_view.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/account_view.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/admin_account_view.py" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/account_view.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/account_view.py" />
@@ -605,20 +599,30 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/agency_pay/deploy/config_files/agency.supervisor.conf" />
       <jump line="216" column="4" filename="$USER_HOME$/workspace/agency_pay/fabfile.py" />
       <jump line="242" column="31" filename="$USER_HOME$/workspace/agency_pay/fabfile.py" />
-      <jump line="247" column="51" filename="$USER_HOME$/workspace/agency_pay/fabfile.py" />
+      <jump line="230" column="4" filename="$USER_HOME$/workspace/agency_pay/fabfile.py" />
+      <jump line="275" column="4" filename="$USER_HOME$/workspace/agency_pay/fabfile.py" />
+      <jump line="252" column="18" filename="$USER_HOME$/workspace/agency_pay/fabfile.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/workspace/agency_pay/fabfile.py" />
+      <jump line="32" column="35" filename="$USER_HOME$/workspace/agency_pay/fabfile.py" />
+      <jump line="33" column="31" filename="$USER_HOME$/workspace/agency_pay/fabfile.py" />
+      <jump line="34" column="38" filename="$USER_HOME$/workspace/agency_pay/fabfile.py" />
+      <jump line="56" column="39" filename="$USER_HOME$/workspace/agency_pay/fabfile.py" />
+      <jump line="194" column="57" filename="$USER_HOME$/workspace/agency_pay/fabfile.py" />
+      <jump line="246" column="25" filename="$USER_HOME$/workspace/agency_pay/fabfile.py" />
+      <jump line="247" column="39" filename="$USER_HOME$/workspace/agency_pay/fabfile.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>setting</text>
+        <text>162.222.165.252</text>
       </register>
       <register name="-" type="4">
-        <text>setting</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXR1cF9zdXBlcnZpc29yXD4=</text>
+        <text encoding="base64">XDxfUkVNT1RFX1BST0pFQ1RfRElSXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">W3Byb2dyYW06YWdlbmN5X3BheV9tYWluX2FwaV0KZGlyZWN0b3J5ID0gL29wdC9hZ2VuY3lfcGF5X21haW5fYXBpL2VuYWJsZWQvYXBwLwpjb21tYW5kID0gL2hvbWUvdWJ1bnR1Ly5weWVudi92ZXJzaW9ucy9hZ2VuY3kvYmluL3V3c2dpIC1pIG1haW5fdXdzZ2kuaW5pCnVzZXIgPSB1YnVudHUKYXV0b3Jlc3RhcnQgPSB0cnVlCnJlZGlyZWN0X3N0ZGVyciA9IHRydWUKc3Rkb3V0X2xvZ2ZpbGUgPSAvdmFyL2xvZy9hZ2VuY3kvbWFpbl91d3NnaS5sb2cKc3RvcHNpZ25hbCA9IFFVSVQK</text>
+      <register name="0" type="4">
+        <text>162.222.165.252</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bG9nX2Zvcm1hdCBzdGltZWRfY29tYmluZWQgJyRyZW1vdGVfYWRkciAtICRyZW1vdGVfdXNlciBbJHRpbWVfbG9jYWxdICAnCiciJHJlcXVlc3QiICRzdGF0dXMgJGJvZHlfYnl0ZXNfc2VudCAnCiciJGh0dHBfcmVmZXJlciIgIiRodHRwX3VzZXJfYWdlbnQiICcKJyRyZXF1ZXN0X3RpbWUgJHVwc3RyZWFtX3Jlc3BvbnNlX3RpbWUgJHBpcGUnOwoK</text>
@@ -655,9 +659,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXR1cF9zdXBlcnZpc29yXD4=</last-search>
+      <last-search encoding="base64">XDxfUkVNT1RFX1BST0pFQ1RfRElSXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXR1cF9zdXBlcnZpc29yXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfUkVNT1RFX1BST0pFQ1RfRElSXD4=</last-pattern>
       <last-replace>: 1</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -665,8 +669,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkXD4=</entry>
-        <entry encoding="base64">XDxkZWxldGVfcGF5X2NoYW5uZWxfbGlzdFw+</entry>
         <entry>'</entry>
         <entry encoding="base64">XDxfXD4=</entry>
         <entry encoding="base64">XDxsb2dpbl9yZXF1aXJlZFw+</entry>
@@ -685,6 +687,8 @@
         <entry encoding="base64">XDxjYXNpbm9faGFsbF9hcGlcPg==</entry>
         <entry encoding="base64">XDxzZXR1cF9uZ2lueFw+</entry>
         <entry encoding="base64">XDxzZXR1cF9zdXBlcnZpc29yXD4=</entry>
+        <entry encoding="base64">XDxyZXN0YXJ0X3NlcnZpY2VcPg==</entry>
+        <entry encoding="base64">XDxfUkVNT1RFX1BST0pFQ1RfRElSXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
