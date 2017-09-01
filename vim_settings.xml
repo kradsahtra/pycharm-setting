@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1504268776097">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="16" />
+      <file name="/a.dummy" timestamp="1504269815773">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/db/account.py" timestamp="1503653959416">
         <mark key="[" line="291" column="0" />
@@ -41,12 +41,12 @@
         <mark key="^" line="24" column="72" />
         <mark key="." line="24" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/routes.py" timestamp="1504269009716">
+      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/routes.py" timestamp="1504270180855">
         <mark key="'" line="13" column="51" />
-        <mark key="[" line="19" column="45" />
-        <mark key="]" line="19" column="67" />
-        <mark key="." line="19" column="45" />
-        <mark key="^" line="11" column="7" />
+        <mark key="[" line="23" column="7" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+        <mark key="^" line="23" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/apps/admin/models/admin_account_model.py" timestamp="1504267363877">
         <mark key="'" line="1" column="0" />
@@ -180,12 +180,12 @@
         <mark key="^" line="49" column="26" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/apps/main/routes.py" timestamp="1504171426692">
-        <mark key="'" line="14" column="12" />
-        <mark key="[" line="13" column="6" />
-        <mark key="]" line="13" column="7" />
-        <mark key="." line="13" column="7" />
-        <mark key="^" line="13" column="12" />
+      <file name="$USER_HOME$/workspace/agency_pay/apps/main/routes.py" timestamp="1504269881631">
+        <mark key="'" line="15" column="12" />
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="57" />
+        <mark key="." line="17" column="35" />
+        <mark key="^" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings_prod.py" timestamp="1502949205962">
         <mark key="[" line="17" column="25" />
@@ -213,6 +213,12 @@
       </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/version/switch.js" timestamp="1504255560146">
         <mark key="'" line="18" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" timestamp="1504269879054">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/common/utils/exceptions.py" timestamp="1504234443719">
         <mark key="'" line="95" column="0" />
@@ -396,10 +402,10 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_account_view.py" timestamp="1504171824376">
-        <mark key="'" line="80" column="20" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="33" />
+      <file name="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_account_view.py" timestamp="1504269846870">
+        <mark key="'" line="77" column="46" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="32" column="0" />
         <mark key="." line="167" column="48" />
         <mark key="^" line="166" column="50" />
       </file>
@@ -448,7 +454,6 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/userapi/urls.py" timestamp="1504252302187" />
       <file name="$USER_HOME$/workspace/casioconsole/luckyweb/index.html" timestamp="1503495853474">
         <mark key="[" line="140" column="73" />
         <mark key="]" line="140" column="79" />
@@ -518,7 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="17" filename="$USER_HOME$/workspace/agency_pay/apps/admin/controllers/agency_account_admin_handler.py" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/agency_account_admin_view.py" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/agency_account_admin_view.py" />
       <jump line="43" column="8" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/agency_account_admin_view.py" />
@@ -618,43 +622,47 @@
       <jump line="11" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/transaction_admin.py" />
       <jump line="45" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/transaction_admin.py" />
       <jump line="79" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/transaction_admin.py" />
+      <jump line="77" column="46" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_account_view.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GetAgencyList</text>
+        <text>get_transaction_list</text>
       </register>
       <register name="-" type="4">
-        <text>GetAgencyList</text>
+        <text>get_transaction_list</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQYXJhbUVycm9yXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>TransferCreditToAgency</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICgnL2ZpbmFuY2lhbC9nZXRfdHJhbnNhY3Rpb25fbGlzdCcsIEdldEZpbmFuY2lhbFRyYW5zYWN0aW9uTGlzdCgpKSwK</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="8">
         <text>admin
 admin
 admin
 admin
 admin</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGNsYXNzIAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Y2xhc3MgR2V0QWdlbmN5TGlzdChvYmplY3QpOgogICAgQGZhbGNvbi5iZWZvcmUob3BlcmF0aW9uX3JlcXVpcmVkKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Y2xhc3MgQWdlbmN5QmFsYW5jZShEQk1vZGVsKToKICAgIGFnZW5jeV9pZCA9IHBlZXdlZS5QcmltYXJ5S2V5RmllbGQoKQogICAgYmFsYW5jZSA9IHBlZXdlZS5GbG9hdEZpZWxkKCkKCgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>{
         'layout': {
             'top_bar': [
@@ -757,14 +765,11 @@ admin</text>
         ]
     }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdFsna2cnXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdFsna2cnXQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy90b3AvYm90dG9tL2dj</text>
