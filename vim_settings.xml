@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1504184058735">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="0" />
+      <file name="/a.dummy" timestamp="1504268776097">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/db/account.py" timestamp="1503653959416">
         <mark key="[" line="291" column="0" />
@@ -41,11 +41,12 @@
         <mark key="^" line="24" column="72" />
         <mark key="." line="24" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/routes.py" timestamp="1504236419021">
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="16" column="39" />
-        <mark key="." line="16" column="39" />
-        <mark key="^" line="16" column="39" />
+      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/routes.py" timestamp="1504269009716">
+        <mark key="'" line="13" column="51" />
+        <mark key="[" line="19" column="45" />
+        <mark key="]" line="19" column="67" />
+        <mark key="." line="19" column="45" />
+        <mark key="^" line="11" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/apps/admin/models/admin_account_model.py" timestamp="1504267363877">
         <mark key="'" line="1" column="0" />
@@ -179,13 +180,6 @@
         <mark key="^" line="49" column="26" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/common/utils/decorators.py" timestamp="1504234681404">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="50" column="15" />
-      </file>
       <file name="$USER_HOME$/workspace/agency_pay/apps/main/routes.py" timestamp="1504171426692">
         <mark key="'" line="14" column="12" />
         <mark key="[" line="13" column="6" />
@@ -275,13 +269,6 @@
         <mark key="." line="122" column="70" />
         <mark key="^" line="122" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/userapi/views/safe_box_views.py" timestamp="1503980170424">
-        <mark key="'" line="60" column="7" />
-        <mark key="[" line="49" column="4" />
-        <mark key="]" line="49" column="11" />
-        <mark key="." line="49" column="11" />
-        <mark key="^" line="49" column="11" />
-      </file>
       <file name="$USER_HOME$/workspace/KFCService/bullapi/management/commands/restart_bull.py" timestamp="1502195385887">
         <mark key="[" line="25" column="16" />
         <mark key="]" line="25" column="11" />
@@ -294,6 +281,13 @@
         <mark key="]" line="12" column="26" />
         <mark key="." line="20" column="14" />
         <mark key="^" line="20" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/views/transaction_admin.py" timestamp="1504269007794">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="79" column="6" />
+        <mark key="]" line="79" column="27" />
+        <mark key="." line="79" column="27" />
+        <mark key="^" line="79" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/bloodbull/handlers/table.py" timestamp="1502608843541">
         <mark key="[" line="163" column="0" />
@@ -332,32 +326,18 @@
         <mark key="^" line="33" column="35" />
         <mark key="." line="33" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/usercommon/db/safe_box_db.py" timestamp="1504154302700">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="23" column="18" />
-        <mark key="^" line="23" column="18" />
-        <mark key="." line="23" column="18" />
-      </file>
       <file name="$USER_HOME$/workspace/async_demo/server.py" timestamp="1502796831880">
         <mark key="[" line="39" column="17" />
         <mark key="]" line="40" column="19" />
         <mark key="." line="40" column="19" />
         <mark key="^" line="40" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/apps/main/controllers/agency_account_handler.py" timestamp="1504171942538">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="24" column="32" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/views/agency_account_admin_view.py" timestamp="1504234165551">
-        <mark key="'" line="41" column="12" />
-        <mark key="[" line="46" column="6" />
-        <mark key="]" line="46" column="18" />
-        <mark key="^" line="53" column="41" />
-        <mark key="." line="53" column="41" />
+      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/views/agency_account_admin_view.py" timestamp="1504268412503">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="8" column="53" />
+        <mark key="^" line="62" column="11" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" timestamp="1504190408983">
         <mark key="'" line="14" column="23" />
@@ -365,13 +345,6 @@
         <mark key="]" line="13" column="25" />
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/casiouser/userapi/views/user.py" timestamp="1504154881146">
-        <mark key="'" line="126" column="16" />
-        <mark key="[" line="297" column="0" />
-        <mark key="]" line="297" column="0" />
-        <mark key="." line="297" column="0" />
-        <mark key="^" line="66" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/deploy/config_files/agency.nginx.conf" timestamp="1504189571420">
         <mark key="[" line="24" column="47" />
@@ -475,13 +448,6 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/usercommon/model/credit.py" timestamp="1503982095297">
-        <mark key="'" line="28" column="8" />
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="23" column="16" />
-        <mark key="." line="24" column="21" />
-        <mark key="^" line="24" column="21" />
-      </file>
       <file name="$USER_HOME$/workspace/casiouser/userapi/urls.py" timestamp="1504252302187" />
       <file name="$USER_HOME$/workspace/casioconsole/luckyweb/index.html" timestamp="1503495853474">
         <mark key="[" line="140" column="73" />
@@ -506,13 +472,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="2" column="15" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/agency_pay/common/utils/authentication.py" timestamp="1504172529542">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="63" column="19" />
-        <mark key="]" line="64" column="15" />
-        <mark key="^" line="64" column="15" />
-        <mark key="." line="64" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/admin_uwsgi.ini" timestamp="1504181154896">
         <mark key="'" line="4" column="17" />
@@ -539,13 +498,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="10" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/main_uwsgi.ini" timestamp="1504087179955">
-        <mark key="'" line="3" column="22" />
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="13" />
-        <mark key="^" line="3" column="37" />
-        <mark key="." line="7" column="13" />
-      </file>
       <file name="$USER_HOME$/workspace/KFCService/uwsgi.ini" timestamp="1502091537913">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -566,17 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="61" filename="$USER_HOME$/workspace/agency_pay/apps/main/models/agency_account_model.py" />
-      <jump line="14" column="23" filename="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" />
-      <jump line="14" column="12" filename="$USER_HOME$/workspace/agency_pay/apps/main/routes.py" />
-      <jump line="80" column="20" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_account_view.py" />
-      <jump line="13" column="4" filename="$USER_HOME$/workspace/agency_pay/common/utils/decorators.py" />
-      <jump line="36" column="18" filename="$USER_HOME$/workspace/agency_pay/common/utils/decorators.py" />
-      <jump line="3" column="57" filename="$USER_HOME$/workspace/agency_pay/common/utils/decorators.py" />
-      <jump line="61" column="7" filename="$USER_HOME$/workspace/agency_pay/common/utils/decorators.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/agency_pay/common/utils/decorators.py" />
-      <jump line="6" column="15" filename="$USER_HOME$/workspace/agency_pay/common/utils/decorators.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/workspace/agency_pay/common/utils/decorators.py" />
       <jump line="18" column="17" filename="$USER_HOME$/workspace/agency_pay/apps/admin/controllers/agency_account_admin_handler.py" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/agency_account_admin_view.py" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/agency_account_admin_view.py" />
@@ -666,27 +607,54 @@
       <jump line="6" column="40" filename="$USER_HOME$/workspace/casiouser/userapi/views/version.py" />
       <jump line="122" column="0" filename="$USER_HOME$/workspace/casiouser/userapi/views/version.py" />
       <jump line="16" column="6" filename="$USER_HOME$/workspace/agency_pay/apps/main/models/agency_account_model.py" />
+      <jump line="46" column="6" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/agency_account_admin_view.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/agency_account_admin_view.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/agency_account_admin_view.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/agency_account_admin_view.py" />
+      <jump line="97" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/agency_account_admin_view.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/transaction_admin.py" />
+      <jump line="36" column="8" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/transaction_admin.py" />
+      <jump line="13" column="51" filename="$USER_HOME$/workspace/agency_pay/apps/admin/routes.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/transaction_admin.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/transaction_admin.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/transaction_admin.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>GetAgencyList</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>GetAgencyList</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQYXJhbUVycm9yXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgQWdlbmN5QmFsYW5jZShEQk1vZGVsKToKICAgIGFnZW5jeV9pZCA9IHBlZXdlZS5QcmltYXJ5S2V5RmllbGQoKQogICAgYmFsYW5jZSA9IHBlZXdlZS5GbG9hdEZpZWxkKCkK</text>
+      <register name="0" type="4">
+        <text>TransferCreditToAgency</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgQWdlbmN5QmFsYW5jZShEQk1vZGVsKToKICAgIGFnZW5jeV9pZCA9IHBlZXdlZS5QcmltYXJ5S2V5RmllbGQoKQogICAgYmFsYW5jZSA9IHBlZXdlZS5GbG9hdEZpZWxkKCkKCgo=</text>
+      <register name="1" type="8">
+        <text>admin
+admin
+admin
+admin
+admin</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNsYXNzIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y2xhc3MgR2V0QWdlbmN5TGlzdChvYmplY3QpOgogICAgQGZhbGNvbi5iZWZvcmUob3BlcmF0aW9uX3JlcXVpcmVkKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y2xhc3MgQWdlbmN5QmFsYW5jZShEQk1vZGVsKToKICAgIGFnZW5jeV9pZCA9IHBlZXdlZS5QcmltYXJ5S2V5RmllbGQoKQogICAgYmFsYW5jZSA9IHBlZXdlZS5GbG9hdEZpZWxkKCkKCgo=</text>
+      </register>
+      <register name="6" type="4">
         <text>{
         'layout': {
             'top_bar': [
@@ -789,26 +757,14 @@
         ]
     }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdFsna2cnXQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgdGhlbiBpZ25vcmUgY2hhbm5lbAogICAgaWYgbm90IHJlc3VsdDoKICAgICAgICByZXN1bHQgPSBtZy5zd2l0Y2guZmluZF9vbmUoewogICAgICAgICAgICAiYnVuZGxlX2lkIjogYnVuZGxlX2lkLAogICAgICAgICAgICAicGxhdGZvcm0iOiBwbGF0Zm9ybSwKICAgICAgICAgICAgIm1pbl9idWlsZF9udW1iZXIiOiB7JyRsdGUnOiBidWlsZF9udW1iZXJ9LAogICAgICAgICAgICAibWF4X2J1aWxkX251bWJlciI6IHsnJGd0ZSc6IGJ1aWxkX251bWJlcn0sCiAgICAgICAgfSkKICAgICAgICBfTE9HR0VSLmluZm8oCiAgICAgICAgICAgICJzd2l0Y2ggY29uZmlnIG5vdCBmb3VuZCBmb3IgYnVuZGxlX2lkOiAlcywgcGxhdGZvcm06ICVzLCBjaGFubmVsOiAlcywgYnVpbGRfbnVtYmVyOiAlcywgdXNlIGFsbCBjaGFubmVsIiAlCiAgICAgICAgICAgIChidW5kbGVfaWQsIHBsYXRmb3JtLCBjaGFubmVsLCBidWlsZF9udW1iZXIpKQoKICAgICMgdGhlbiBvbmx5IG1hdGNoIHBsYXRmb3JtCiAgICBpZiBub3QgcmVzdWx0OgogICAgICAgIHJlc3VsdCA9IG1nLnN3aXRjaC5maW5kX29uZSh7CiAgICAgICAgICAgICJwbGF0Zm9ybSI6IHBsYXRmb3JtLAogICAgICAgIH0pCiAgICAgICAgX0xPR0dFUi5pbmZvKAogICAgICAgICAgICAic3dpdGNoIGNvbmZpZyBub3QgZm91bmQgZm9yIGJ1bmRsZV9pZDogJXMsIHBsYXRmb3JtOiAlcywgY2hhbm5lbDogJXMsIGJ1aWxkX251bWJlcjogJXMsIG1hdGNoIHBsYXRmb3JtIiAlCiAgICAgICAgICAgIChidW5kbGVfaWQsIHBsYXRmb3JtLCBjaGFubmVsLCBidWlsZF9udW1iZXIpKQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm1heF9idWlsZF9udW1iZXIiOiB7JyRndGUnOiBidWlsZF9udW1iZXJ9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm1pbl9idWlsZF9udW1iZXIiOiB7JyRsdGUnOiBidWlsZF9udW1iZXJ9LAo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdFsna2cnXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBsYXRmb3JtIjogcGxhdGZvcm0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy90b3AvYm90dG9tL2dj</text>
