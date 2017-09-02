@@ -293,12 +293,12 @@
         <mark key="." line="79" column="27" />
         <mark key="^" line="79" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/views/admin_transaction_view.py" timestamp="1504327187638">
+      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/views/admin_transaction_view.py" timestamp="1504327509372">
         <mark key="'" line="36" column="29" />
-        <mark key="[" line="37" column="49" />
-        <mark key="]" line="37" column="48" />
-        <mark key="^" line="37" column="48" />
-        <mark key="." line="37" column="48" />
+        <mark key="[" line="21" column="89" />
+        <mark key="]" line="21" column="105" />
+        <mark key="^" line="21" column="105" />
+        <mark key="." line="21" column="105" />
       </file>
       <file name="$USER_HOME$/workspace/bloodbull/handlers/table.py" timestamp="1502608843541">
         <mark key="[" line="163" column="0" />
@@ -628,16 +628,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>max()</text>
+        <text>username</text>
       </register>
       <register name="-" type="4">
-        <text>max()</text>
+        <text>username</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQYXJhbUVycm9yXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>get_admin_account_by_id</text>
+        <text>target_account</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhZG1pbl9jb21tZW50ID0gcGFyYW1zLmdldCgnYWRtaW5fY29tbWVudCcpCg==</text>
