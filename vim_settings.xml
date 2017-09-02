@@ -174,6 +174,12 @@
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1504325851241">
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="26" column="37" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="25" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckyadmin/views/switch.py" timestamp="1504256024022">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -627,43 +633,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TransferCreditToPlayer</text>
+        <text>183.60.200.105</text>
       </register>
       <register name="-" type="4">
-        <text>TransferCreditToPlayer</text>
+        <text>183.60.200.105</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQYXJhbUVycm9yXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>GetAgencyTransactionRecords</text>
+        <text>183.60.200.115</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="8">
         <text>admin
 admin
 admin
 admin
 admin</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGNsYXNzIAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Y2xhc3MgR2V0QWdlbmN5TGlzdChvYmplY3QpOgogICAgQGZhbGNvbi5iZWZvcmUob3BlcmF0aW9uX3JlcXVpcmVkKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Y2xhc3MgQWdlbmN5QmFsYW5jZShEQk1vZGVsKToKICAgIGFnZW5jeV9pZCA9IHBlZXdlZS5QcmltYXJ5S2V5RmllbGQoKQogICAgYmFsYW5jZSA9IHBlZXdlZS5GbG9hdEZpZWxkKCkKCgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{
         'layout': {
             'top_bar': [
@@ -766,11 +775,8 @@ admin</text>
         ]
     }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdFsna2cnXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy90b3AvYm90dG9tL2dj</text>
