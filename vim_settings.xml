@@ -9,11 +9,6 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/requirements.txt" timestamp="1504082732133">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/db/account.py" timestamp="1504512532190">
         <mark key="[" line="184" column="4" />
         <mark key="]" line="184" column="14" />
@@ -65,11 +60,6 @@
         <mark key="^" line="31" column="9" />
         <mark key="." line="31" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/env_settings.py" timestamp="1504183999150">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/third/pay/agency_pay.py" timestamp="1504532194670">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="24" column="4" />
@@ -115,11 +105,6 @@
         <mark key="." line="28" column="20" />
         <mark key="^" line="28" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/userapi/logic/transaction.py" timestamp="1504498142209">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/utils/exceptions.py" timestamp="1504533091228">
         <mark key="[" line="41" column="6" />
         <mark key="]" line="41" column="15" />
@@ -132,10 +117,10 @@
         <mark key="^" line="154" column="24" />
         <mark key="." line="160" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/apps/main/models/agency_transaction_model.py" timestamp="1504534516681">
-        <mark key="'" line="26" column="19" />
-        <mark key="[" line="11" column="54" />
-        <mark key="]" line="11" column="55" />
+      <file name="$USER_HOME$/workspace/agency_pay/apps/main/models/agency_transaction_model.py" timestamp="1504617039206">
+        <mark key="'" line="31" column="8" />
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="23" column="25" />
         <mark key="^" line="11" column="55" />
         <mark key="." line="11" column="55" />
       </file>
@@ -209,11 +194,6 @@
         <mark key="]" line="10" column="47" />
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
-      </file>
-      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/models/admin_transaction_model.py" timestamp="1504516070334">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckyweb/js/apps/version/models.js" timestamp="1504327391927">
         <mark key="[" line="8" column="39" />
@@ -449,12 +429,12 @@
         <mark key="^" line="73" column="67" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" timestamp="1504347023037">
+      <file name="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" timestamp="1504617034960">
         <mark key="'" line="22" column="14" />
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="18" column="24" />
-        <mark key="." line="18" column="24" />
-        <mark key="^" line="18" column="24" />
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/userapi/views/user.py" timestamp="1504154881146">
         <mark key="'" line="126" column="16" />
@@ -499,10 +479,10 @@
         <mark key="." line="51" column="71" />
         <mark key="^" line="51" column="71" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/settings_test.py" timestamp="1504191355430">
-        <mark key="[" line="15" column="13" />
+      <file name="$USER_HOME$/workspace/agency_pay/settings_test.py" timestamp="1504616859903">
+        <mark key="[" line="15" column="27" />
         <mark key="]" line="15" column="28" />
-        <mark key="." line="15" column="13" />
+        <mark key="." line="15" column="28" />
         <mark key="^" line="13" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckyweb/templates/version/SwitchDetail.html" timestamp="1504255598444">
@@ -673,7 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="27" filename="$USER_HOME$/workspace/agency_pay/common/utils/decorators.py" />
       <jump line="35" column="4" filename="$USER_HOME$/workspace/agency_pay/apps/admin/controllers/agency_account_admin_handler.py" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/models/admin_transaction_model.py" />
       <jump line="21" column="14" filename="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" />
@@ -729,7 +708,6 @@
       <jump line="21" column="31" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/main/models/agency_transaction_model.py" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/main/models/agency_transaction_model.py" />
-      <jump line="25" column="19" filename="$USER_HOME$/workspace/agency_pay/apps/main/models/agency_transaction_model.py" />
       <jump line="11" column="8" filename="$USER_HOME$/workspace/agency_pay/apps/main/controllers/agency_transaction_handler.py" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/main/controllers/agency_transaction_handler.py" />
       <jump line="17" column="4" filename="$USER_HOME$/workspace/agency_pay/apps/main/controllers/agency_transaction_handler.py" />
@@ -773,10 +751,12 @@
       <jump line="210" column="7" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/main/routes.py" />
       <jump line="120" column="0" filename="$USER_HOME$/workspace/agency_pay/settings.py" />
+      <jump line="25" column="6" filename="$USER_HOME$/workspace/agency_pay/apps/main/models/agency_transaction_model.py" />
+      <jump line="31" column="8" filename="$USER_HOME$/workspace/agency_pay/apps/main/models/agency_transaction_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">TU9OR09fQUREUiA9ICcxMjcuMC4wLjE6MjcwMTcnCg==</text>
+      <register name="&quot;" type="4">
+        <text>AgencyTransferRecord</text>
       </register>
       <register name="-" type="4">
         <text>_post</text>
@@ -784,8 +764,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxqc29uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">TU9OR09fQUREUiA9ICcxNjIuMjIyLjE2NS4yNTE6MjcwMTcnCg==</text>
+      <register name="0" type="4">
+        <text>AgencyTransferRecord</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">TU9OR09fQUREUiA9ICcxMjcuMC4wLjE6MjcwMTcnCg==</text>
