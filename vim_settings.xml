@@ -84,10 +84,10 @@
         <mark key="^" line="27" column="20" />
         <mark key="." line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/apps/main/models/agency_account_model.py" timestamp="1504688710853">
+      <file name="$USER_HOME$/workspace/agency_pay/apps/main/models/agency_account_model.py" timestamp="1504698905141">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="27" column="18" />
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="33" />
         <mark key="^" line="26" column="50" />
         <mark key="." line="26" column="50" />
       </file>
@@ -318,12 +318,6 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/userapi/views/transaction.py" timestamp="1504669366902">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="." line="164" column="0" />
-        <mark key="^" line="163" column="23" />
-      </file>
       <file name="$USER_HOME$/workspace/agency_pay/admin_app.py" timestamp="1504184356031">
         <mark key="'" line="8" column="48" />
         <mark key="[" line="21" column="23" />
@@ -395,6 +389,12 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/agency_pay/manage.py" timestamp="1504699043518">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/agency_pay/hall_app.py" timestamp="1504086615142">
         <mark key="[" line="21" column="23" />
         <mark key="]" line="21" column="32" />
@@ -447,12 +447,12 @@
         <mark key="^" line="63" column="44" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" timestamp="1504617034960">
-        <mark key="'" line="22" column="14" />
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
-        <mark key="^" line="19" column="32" />
+      <file name="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" timestamp="1504699037662">
+        <mark key="'" line="46" column="10" />
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="17" />
+        <mark key="." line="49" column="8" />
+        <mark key="^" line="44" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/userapi/views/user.py" timestamp="1504154881146">
         <mark key="'" line="126" column="16" />
@@ -524,7 +524,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504672473054">
+      <file name="/Dummy.txt" timestamp="1504699578946">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -605,10 +605,6 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/usercommon/model/pay.py" timestamp="1504622429843">
-        <mark key="[" line="41" column="5" />
-        <mark key="]" line="41" column="10" />
-      </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckycommon/utils/id_generator.py" timestamp="1503463399825">
         <mark key="[" line="204" column="16" />
         <mark key="]" line="204" column="20" />
@@ -648,11 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="4" filename="$USER_HOME$/workspace/casiouser/usercommon/third/pay/agency_pay.py" />
-      <jump line="22" column="33" filename="$USER_HOME$/workspace/casiouser/usercommon/third/pay/agency_pay.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/casiouser/usercommon/third/pay/agency_pay.py" />
-      <jump line="7" column="33" filename="$USER_HOME$/workspace/casiouser/usercommon/third/pay/agency_pay.py" />
-      <jump line="56" column="11" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
       <jump line="112" column="6" filename="$USER_HOME$/workspace/agency_pay/common/utils/exceptions.py" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/agency_pay/common/utils/exceptions.py" />
       <jump line="114" column="8" filename="$USER_HOME$/workspace/agency_pay/common/utils/exceptions.py" />
@@ -748,49 +739,54 @@
       <jump line="14" column="41" filename="$USER_HOME$/workspace/agency_pay/apps/admin/routes.py" />
       <jump line="2" column="112" filename="$USER_HOME$/workspace/agency_pay/apps/admin/routes.py" />
       <jump line="122" column="4" filename="$USER_HOME$/workspace/agency_pay/fabfile.py" />
+      <jump line="37" column="3" filename="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" />
+      <jump line="5" column="42" filename="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" />
+      <jump line="40" column="9" filename="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" />
+      <jump line="1" column="51" filename="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" />
+      <jump line="46" column="10" filename="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>migrate_schema</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>my_db</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBbGxcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBmYWxjb24uYmVmb3JlKGF1dGhfcmVxdWlyZWQpCg==</text>
+      <register name="0" type="4">
+        <text>migrate_schema</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSByZXF1ZXN0LmNvbnRleHQuZ2V0KCd2YWxpZGF0ZWRfcGFyYW1zJykKICAgICAgICB1c2VybmFtZSA9IHBhcmFtcy5nZXQoJ3VzZXJuYW1lJykKICAgICAgICBhY2NvdW50ID0gZ2V0X2FkbWluX2FjY291bnRfYnlfbmFtZSh1c2VybmFtZSkKICAgICAgICBpZiBub3QgYWNjb3VudDoKICAgICAgICAgICAgcmFpc2UgZmFsY29uLkhUVFBOb3RGb3VuZCgpCiAgICAgICAgaWYgbm90IGFjY291bnQuY2hlY2tfcGFzc3dvcmQocGFyYW1zWydwYXNzd29yZCddKToKICAgICAgICAgICAgcmFpc2UgZmFsY29uLkhUVFBGb3JiaWRkZW4oJ3VzZXJuYW1lIG9yIHBhc3N3b3JkIGluY29ycmVjdCcpCiAgICAgICAgaWYgYWNjb3VudC5pc19sb2NrZWQ6CiAgICAgICAgICAgIHJhaXNlIEFjY291bnRMb2NrZWRFeGNlcHRpb24oJ2FjY291bnQgbG9ja2VkLCBjb250YWN0IGFkbWluJykKICAgICAgICByZXF1ZXN0LmNvbnRleHRbJ3Jlc3VsdCddID0geydqd3RfdG9rZW4nOiBjcmVhdGVfand0X3Rva2VuKGFjY291bnQpfQogICAgICAgIHJlc3BvbnNlLnN0YXR1cyA9IGZhbGNvbi5IVFRQXzIwMAo=</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRvci5kcm9wX2NvbHVtbignc29tZV90YWJsZScsICdvbGRfY29sdW1uJyksCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZWQoJ3Bhc3N3b3JkJyk6IEFsbChzdHIsIExlbmd0aChtaW49NiwgbWF4PTIwKSksCg==</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRvci5hZGRfY29sdW1uKCdhZ2VuY3lfYWNjb3VudCcsICdzdGF0dXMnLCBzdGF0dXNfZmllbGQpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZWQoJ3VzZXJuYW1lJyk6IEFsbChzdHIsIExlbmd0aChtYXg9MjU1KSksCg==</text>
+        <text encoding="base64">ICAgIGxldmVsX2ZpZWxkID0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBrZXksIHYgaW4gcGFyYW1zLml0ZW1zOgogICAgICAgIHF1ZXJ5LndoZXJlKCkK</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSByZXF1ZXN0LmNvbnRleHQuZ2V0KCd2YWxpZGF0ZWRfcGFyYW1zJykKICAgICAgICB1c2VybmFtZSA9IHBhcmFtcy5nZXQoJ3VzZXJuYW1lJykKICAgICAgICBhY2NvdW50ID0gZ2V0X2FkbWluX2FjY291bnRfYnlfbmFtZSh1c2VybmFtZSkKICAgICAgICBpZiBub3QgYWNjb3VudDoKICAgICAgICAgICAgcmFpc2UgZmFsY29uLkhUVFBOb3RGb3VuZCgpCiAgICAgICAgaWYgbm90IGFjY291bnQuY2hlY2tfcGFzc3dvcmQocGFyYW1zWydwYXNzd29yZCddKToKICAgICAgICAgICAgcmFpc2UgZmFsY29uLkhUVFBGb3JiaWRkZW4oJ3VzZXJuYW1lIG9yIHBhc3N3b3JkIGluY29ycmVjdCcpCiAgICAgICAgaWYgYWNjb3VudC5pc19sb2NrZWQ6CiAgICAgICAgICAgIHJhaXNlIEFjY291bnRMb2NrZWRFeGNlcHRpb24oJ2FjY291bnQgbG9ja2VkLCBjb250YWN0IGFkbWluJykKICAgICAgICByZXF1ZXN0LmNvbnRleHRbJ3Jlc3VsdCddID0geydqd3RfdG9rZW4nOiBjcmVhdGVfand0X3Rva2VuKGFjY291bnQpfQogICAgICAgIHJlc3BvbnNlLnN0YXR1cyA9IGZhbGNvbi5IVFRQXzIwMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZWQoJ3Bhc3N3b3JkJyk6IEFsbChzdHIsIExlbmd0aChtaW49NiwgbWF4PTIwKSksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpc19sb2NrZWQgPSBwYXJhbXMuZ2V0KCdpc19sb2NrZWQnKQogICAgICAgIHBob25lID0gcGFyYW1zLmdldCgncGhvbmUnKQogICAgICAgIGVuYWJsZV90d29fc3RlcCA9IHBhcmFtcy5nZXQoJ2VuYWJsZV90d29fc3RlcCcpCiAgICAgICAgYWdlbmN5X2lkID0gcGFyYW1zLmdldCgnYWdlbmN5X2lkJykKICAgICAgICB1c2VybmFtZSA9IHBhcmFtcy5nZXQoJ3VzZXJuYW1lJykKICAgICAgICBuaWNrbmFtZSA9IHBhcmFtcy5nZXQoJ25pY2tuYW1lJykKICAgICAgICBxcSA9IHBhcmFtcy5nZXQoJ3FxJykKICAgICAgICB3eCA9IHBhcmFtcy5nZXQoJ3d4JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZWQoJ3VzZXJuYW1lJyk6IEFsbChzdHIsIExlbmd0aChtYXg9MjU1KSksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBhcHBzLm1haW4udmlld3MuYWdlbmN5X3RyYW5zYWN0aW9uX3ZpZXcgaW1wb3J0IEdldEFnZW5jeVRyYW5zZmVyUmVjb3Jkcwo=</text>
+        <text encoding="base64">ICAgIGZvciBrZXksIHYgaW4gcGFyYW1zLml0ZW1zOgogICAgICAgIHF1ZXJ5LndoZXJlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgIHRlc3QgbmVlZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICog5Yib5bu6IAo=</text>
+        <text encoding="base64">ICAgICAgICBpc19sb2NrZWQgPSBwYXJhbXMuZ2V0KCdpc19sb2NrZWQnKQogICAgICAgIHBob25lID0gcGFyYW1zLmdldCgncGhvbmUnKQogICAgICAgIGVuYWJsZV90d29fc3RlcCA9IHBhcmFtcy5nZXQoJ2VuYWJsZV90d29fc3RlcCcpCiAgICAgICAgYWdlbmN5X2lkID0gcGFyYW1zLmdldCgnYWdlbmN5X2lkJykKICAgICAgICB1c2VybmFtZSA9IHBhcmFtcy5nZXQoJ3VzZXJuYW1lJykKICAgICAgICBuaWNrbmFtZSA9IHBhcmFtcy5nZXQoJ25pY2tuYW1lJykKICAgICAgICBxcSA9IHBhcmFtcy5nZXQoJ3FxJykKICAgICAgICB3eCA9IHBhcmFtcy5nZXQoJ3d4JykK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0FkbWluL0FnZW5jeS9nYw==</text>
