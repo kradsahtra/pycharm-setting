@@ -90,10 +90,10 @@
         <mark key="^" line="44" column="32" />
         <mark key="." line="44" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/controllers/admin_transaction_handler.py" timestamp="1504518521844">
+      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/controllers/admin_transaction_handler.py" timestamp="1504683528255">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="96" column="18" />
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="20" />
         <mark key="." line="96" column="19" />
         <mark key="^" line="61" column="59" />
       </file>
@@ -125,6 +125,13 @@
         <mark key="]" line="160" column="0" />
         <mark key="^" line="154" column="24" />
         <mark key="." line="160" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/agency_pay/implement.md" timestamp="1504672723029">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="22" column="44" />
+        <mark key="]" line="22" column="90" />
+        <mark key="^" line="22" column="90" />
+        <mark key="." line="22" column="90" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/apps/main/models/agency_transaction_model.py" timestamp="1504617039206">
         <mark key="'" line="31" column="8" />
@@ -188,6 +195,13 @@
         <mark key="]" line="13" column="26" />
         <mark key="^" line="17" column="63" />
         <mark key="." line="13" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/controllers/agency_account_admin_handler.py" timestamp="1504683583095">
+        <mark key="'" line="24" column="13" />
+        <mark key="[" line="25" column="54" />
+        <mark key="]" line="26" column="45" />
+        <mark key="." line="26" column="45" />
+        <mark key="^" line="26" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/apps/admin/controllers/agency_account_handler.py" timestamp="1504166958434">
         <mark key="'" line="3" column="0" />
@@ -517,7 +531,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504623394073">
+      <file name="/Dummy.txt" timestamp="1504672473054">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -647,7 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/agency_pay/common/utils/exceptions.py" />
       <jump line="107" column="0" filename="$USER_HOME$/workspace/agency_pay/common/utils/exceptions.py" />
       <jump line="149" column="19" filename="$USER_HOME$/workspace/casiouser/userapi/views/transaction.py" />
       <jump line="271" column="0" filename="$USER_HOME$/workspace/casiouser/userplatform/settings.py" />
@@ -747,49 +760,50 @@
       <jump line="192" column="41" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
       <jump line="9" column="41" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
       <jump line="46" column="37" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/agency_pay/implement.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICgnL2dldF9hZ2VuY3lfbGlzdCcsIEdldEFnZW5jeUxpc3QoKSksCg==</text>
+      <register name="&quot;" type="4">
+        <text>get_agency_credit</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBbGxcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>account.role != AccountRole.OPERATOR.value</text>
+        <text>get_agency_credit</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICgnL2dldF9hZ2VuY3lfbGlzdCcsIEdldEFnZW5jeUxpc3QoKSksCg==</text>
+        <text encoding="base64">ICog5Yib5bu6IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZWQoJ2FnZW5jeV9pZCcpOiBBbGwoc3RyLCBMZW5ndGgobWF4PTI1NSkpLAogICAgICAgICAgICBSZXF1aXJlZCgnbWVyY2hhbnRfaWQnKTogQWxsKHN0ciwgTGVuZ3RoKG1heD0yNTUpKSwKICAgICAgICAgICAgUmVxdWlyZWQoJ3BsYXllcl9pZCcpOiBBbGwoc3RyLCBMZW5ndGgobWluPTYsIG1heD0yMCkpLAogICAgICAgICAgICBSZXF1aXJlZCgnYW1vdW50Jyk6IEFsbChmbG9hdCwgUmFuZ2UobWluPTEsIG1heD0xMDAwMDApKSwKICAgICAgICAgICAgUmVxdWlyZWQoJ3BsYXRmb3JtX3BheV9pZCcpOiBBbGwoc3RyLCBMZW5ndGgobWF4PTI1NSkpLAogICAgICAgICAgICBSZXF1aXJlZCgnbWVyY2hhbnRfcGF5X2lkJyk6IEFsbChzdHIsIExlbmd0aChtYXg9MjU1KSksCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAncGxhdGZvcm1fcGF5X2lkJzogc3RyKHBsYXRmb3JtX3BheV9pZCksCg==</text>
+        <text encoding="base64">ICAgICgnL2dldF9hZ2VuY3lfbGlzdCcsIEdldEFnZW5jeUxpc3QoKSksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnYWdlbmN5X2lkJzogc3RyKGFnZW5jeV9pZCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZWQoJ2FnZW5jeV9pZCcpOiBBbGwoc3RyLCBMZW5ndGgobWF4PTI1NSkpLAogICAgICAgICAgICBSZXF1aXJlZCgnbWVyY2hhbnRfaWQnKTogQWxsKHN0ciwgTGVuZ3RoKG1heD0yNTUpKSwKICAgICAgICAgICAgUmVxdWlyZWQoJ3BsYXllcl9pZCcpOiBBbGwoc3RyLCBMZW5ndGgobWluPTYsIG1heD0yMCkpLAogICAgICAgICAgICBSZXF1aXJlZCgnYW1vdW50Jyk6IEFsbChmbG9hdCwgUmFuZ2UobWluPTEsIG1heD0xMDAwMDApKSwKICAgICAgICAgICAgUmVxdWlyZWQoJ3BsYXRmb3JtX3BheV9pZCcpOiBBbGwoc3RyLCBMZW5ndGgobWF4PTI1NSkpLAogICAgICAgICAgICBSZXF1aXJlZCgnbWVyY2hhbnRfcGF5X2lkJyk6IEFsbChzdHIsIExlbmd0aChtYXg9MjU1KSksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZWQoJ2FnZW5jeV9pZCcpOiBBbGwoc3RyLCBMZW5ndGgobWF4PTI1NSkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAncGxhdGZvcm1fcGF5X2lkJzogc3RyKHBsYXRmb3JtX3BheV9pZCksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZWQoJ3BsYXRmb3JtX3BheV9pZCcpOiBBbGwoc3RyLCBMZW5ndGgobWF4PTI1NSkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAnYWdlbmN5X2lkJzogc3RyKGFnZW5jeV9pZCksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZWQoJ3BsYXRmb3JtX3BheV9pZCcpOiBBbGwoc3RyLCBMZW5ndGgobWF4PTI1NSkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZWQoJ2FnZW5jeV9pZCcpOiBBbGwoc3RyLCBMZW5ndGgobWF4PTI1NSkpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCdhZGQgZXhwICVzLSVzJywgdXNlcl9pZCwgYW1vdW50KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZWQoJ3BsYXRmb3JtX3BheV9pZCcpOiBBbGwoc3RyLCBMZW5ndGgobWF4PTI1NSkpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZWQoJ3BsYXRmb3JtX3BheV9pZCcpOiBBbGwoc3RyLCBMZW5ndGgobWF4PTI1NSkpLAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0FkbWluL0FnZW5jeS9nYw==</text>
