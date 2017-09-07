@@ -74,12 +74,12 @@
         <mark key="^" line="29" column="47" />
         <mark key="." line="19" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/controllers/admin_transaction_handler.py" timestamp="1504797782266">
+      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/controllers/admin_transaction_handler.py" timestamp="1504799195215">
         <mark key="'" line="31" column="4" />
-        <mark key="[" line="63" column="109" />
-        <mark key="]" line="63" column="116" />
-        <mark key="^" line="72" column="69" />
-        <mark key="." line="72" column="69" />
+        <mark key="[" line="73" column="108" />
+        <mark key="]" line="73" column="114" />
+        <mark key="^" line="73" column="114" />
+        <mark key="." line="73" column="114" />
       </file>
       <file name="$USER_HOME$/workspace/KFCService/luckyplatform/settings_prod.py" timestamp="1502092368609">
         <mark key="[" line="25" column="0" />
@@ -112,10 +112,10 @@
         <mark key="^" line="22" column="90" />
         <mark key="." line="22" column="90" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/apps/main/models/agency_transaction_model.py" timestamp="1504783248846">
+      <file name="$USER_HOME$/workspace/agency_pay/apps/main/models/agency_transaction_model.py" timestamp="1504799230501">
         <mark key="'" line="26" column="6" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="68" />
+        <mark key="[" line="24" column="6" />
+        <mark key="]" line="24" column="25" />
         <mark key="^" line="11" column="55" />
         <mark key="." line="1" column="0" />
       </file>
@@ -174,10 +174,10 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/models/admin_transaction_model.py" timestamp="1504784824446">
+      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/models/admin_transaction_model.py" timestamp="1504799113127">
         <mark key="'" line="24" column="21" />
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="20" />
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="14" />
         <mark key="." line="24" column="45" />
         <mark key="^" line="24" column="44" />
       </file>
@@ -641,17 +641,17 @@
       <jump line="13" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/controllers/agency_account_admin_handler.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplID0gaW50KHBhcmFtcy5nZXQoJ3NpemUnKSkKICAgICAgICBwYWdlID0gaW50KHBhcmFtcy5nZXQoJ3BhZ2UnKSkK</text>
+      <register name="&quot;" type="4">
+        <text>record.transfer_id</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>tran</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfYWdlbmN5X2NyZWRpdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplID0gaW50KHBhcmFtcy5nZXQoJ3NpemUnKSkKICAgICAgICBwYWdlID0gaW50KHBhcmFtcy5nZXQoJ3BhZ2UnKSkK</text>
+      <register name="0" type="4">
+        <text>record.transfer_id</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXF1ZXN0LmNvbnRleHRbJ3Jlc3VsdCddID0K</text>
