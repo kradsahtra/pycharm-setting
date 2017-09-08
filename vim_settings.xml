@@ -74,12 +74,12 @@
         <mark key="^" line="29" column="47" />
         <mark key="." line="19" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/controllers/admin_transaction_handler.py" timestamp="1504799195215">
+      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/controllers/admin_transaction_handler.py" timestamp="1504800878198">
         <mark key="'" line="31" column="4" />
-        <mark key="[" line="73" column="108" />
-        <mark key="]" line="73" column="114" />
-        <mark key="^" line="73" column="114" />
-        <mark key="." line="73" column="114" />
+        <mark key="[" line="82" column="52" />
+        <mark key="]" line="82" column="53" />
+        <mark key="^" line="82" column="53" />
+        <mark key="." line="82" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/KFCService/luckyplatform/settings_prod.py" timestamp="1502092368609">
         <mark key="[" line="25" column="0" />
@@ -112,10 +112,10 @@
         <mark key="^" line="22" column="90" />
         <mark key="." line="22" column="90" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/apps/main/models/agency_transaction_model.py" timestamp="1504799230501">
+      <file name="$USER_HOME$/workspace/agency_pay/apps/main/models/agency_transaction_model.py" timestamp="1504800864773">
         <mark key="'" line="26" column="6" />
-        <mark key="[" line="24" column="6" />
-        <mark key="]" line="24" column="25" />
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="17" column="19" />
         <mark key="^" line="11" column="55" />
         <mark key="." line="1" column="0" />
       </file>
@@ -243,9 +243,9 @@
         <mark key="^" line="53" column="22" />
         <mark key="." line="52" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" timestamp="1504798133813">
-        <mark key="[" line="234" column="0" />
-        <mark key="]" line="235" column="37" />
+      <file name="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" timestamp="1504800764405">
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="239" column="63" />
         <mark key="^" line="217" column="25" />
         <mark key="." line="217" column="25" />
       </file>
@@ -365,11 +365,12 @@
       <file name="$USER_HOME$/workspace/agency_pay/apps/main/controllers/agency_account_handler.py" timestamp="1504796155060">
         <mark key="'" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/views/agency_account_admin_view.py" timestamp="1504798136008">
-        <mark key="'" line="105" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="58" column="38" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/workspace/agency_pay/apps/admin/views/agency_account_admin_view.py" timestamp="1504801328429">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="96" column="61" />
+        <mark key="]" line="98" column="56" />
+        <mark key="." line="98" column="56" />
+        <mark key="^" line="98" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" timestamp="1504793084192">
         <mark key="[" line="48" column="65" />
@@ -642,46 +643,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>record.transfer_id</text>
+        <text>'succe'</text>
       </register>
       <register name="-" type="4">
-        <text>tran</text>
+        <text>'succe'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfYWdlbmN5X2NyZWRpdFw+</text>
       </register>
       <register name="0" type="4">
-        <text>record.transfer_id</text>
+        <text>TransferStatus</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmNvbnRleHRbJ3Jlc3VsdCddID0K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcmVjb3JkIGluIGdldF90cmFuc2Zlcl9yZWNvcmRfbGlzdChhZ2VuY3lfaWQsIHBhZ2UsIHNpemUpOgogICAgICAgICAgICByZXN1bHQuYXBwZW5kKG1vZGVsX3RvX2RpY3QocmVjb3JkKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZWQoJ3BhZ2UnKTogQWxsKGJvb2wpLAo=</text>
+        <text encoding="base64">ICAgIGRjdC51cGRhdGUoeydjcmVkaXQnOiBhZ2VuY3lfY3JlZGl0LmNyZWRpdCBpZiBhZ2VuY3lfY3JlZGl0IGVsc2UgMH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IFwK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmNvbnRleHRbJ3Jlc3VsdCddID0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdlbl9hZ2VuY3lfdXNlcm5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZWQoJ3BhZ2UnKTogQWxsKGJvb2wpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">IFwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGdlbl9hZ2VuY3lfdXNlcm5hbWUoKToKICAgIHJldHVybiAiYSVzIiAlIGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpLnN0cmZ0aW1lKCIleSVtJSVkJUglTSVTJWYiKQoKCg==</text>
+        <text encoding="base64">ICAgIGdlbl9hZ2VuY3lfdXNlcm5hbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMudXBkYXRlKHsndXNlcm5hbWUnOiB1c2VybmFtZX0pIAo=</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGlzdF9hY2NvdW50ID0gVHJ1ZQo=</text>
+        <text encoding="base64">ZGVmIGdlbl9hZ2VuY3lfdXNlcm5hbWUoKToKICAgIHJldHVybiAiYSVzIiAlIGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpLnN0cmZ0aW1lKCIleSVtJSVkJUglTSVTJWYiKQoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMudXBkYXRlKHsndXNlcm5hbWUnOiB1c2VybmFtZX0pIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0FkbWluL0FnZW5jeS9nYw==</text>
