@@ -100,6 +100,12 @@
         <mark key="." line="28" column="20" />
         <mark key="^" line="28" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/lottery_sigapore/tools/bench_mark.py" timestamp="1505362034043">
+        <mark key="[" line="54" column="22" />
+        <mark key="]" line="54" column="33" />
+        <mark key="." line="54" column="22" />
+        <mark key="^" line="54" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/utils/exceptions.py" timestamp="1504533091228">
         <mark key="[" line="41" column="6" />
         <mark key="]" line="41" column="15" />
@@ -111,6 +117,9 @@
         <mark key="]" line="160" column="0" />
         <mark key="^" line="154" column="24" />
         <mark key="." line="160" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings.py" timestamp="1505362411224">
+        <mark key="'" line="236" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/implement.md" timestamp="1504948931759">
         <mark key="'" line="0" column="9" />
@@ -347,8 +356,8 @@
         <mark key="." line="33" column="29" />
         <mark key="^" line="33" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" timestamp="1504437376573">
-        <mark key="'" line="32" column="4" />
+      <file name="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" timestamp="1505361993501">
+        <mark key="'" line="102" column="6" />
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
@@ -520,7 +529,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505361118804">
+      <file name="/Dummy.txt" timestamp="1505362788833">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -651,8 +660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="38" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
-      <jump line="159" column="22" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
       <jump line="171" column="8" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/agency_pay/settings.py" />
       <jump line="89" column="26" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
@@ -751,13 +758,15 @@
       <jump line="67" column="7" filename="$USER_HOME$/workspace/agency_pay/README.md" />
       <jump line="17" column="30" filename="$USER_HOME$/workspace/agency_pay/common/utils/exceptions.py" />
       <jump line="137" column="0" filename="$USER_HOME$/workspace/agency_pay/common/utils/exceptions.py" />
+      <jump line="102" column="6" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
+      <jump line="236" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get_agency_list(params)</text>
+        <text>sys.argv[2]</text>
       </register>
       <register name="-" type="4">
-        <text>get_agency_list(params)</text>
+        <text>sys.argv[2]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZ2VuY3lfY3JlZGl0XD4=</text>
