@@ -100,6 +100,12 @@
         <mark key="." line="28" column="20" />
         <mark key="^" line="28" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/devops/.gitignore" timestamp="1505710830684">
+        <mark key="'" line="251" column="0" />
+        <mark key="[" line="252" column="0" />
+        <mark key="]" line="252" column="0" />
+        <mark key="." line="252" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/tools/bench_mark.py" timestamp="1505362034043">
         <mark key="[" line="54" column="22" />
         <mark key="]" line="54" column="33" />
@@ -366,6 +372,12 @@
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
         <mark key="^" line="100" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/devops/README.md" timestamp="1505710894010">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+        <mark key="^" line="9" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/apps/admin/views/transaction_admin.py" timestamp="1504269007794">
         <mark key="'" line="112" column="0" />
@@ -666,7 +678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="26" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
       <jump line="171" column="54" filename="$USER_HOME$/workspace/casiouser/userapi/views/transaction.py" />
       <jump line="177" column="35" filename="$USER_HOME$/workspace/casiouser/userapi/views/transaction.py" />
       <jump line="147" column="45" filename="$USER_HOME$/workspace/casiouser/userapi/views/transaction.py" />
@@ -766,13 +777,14 @@
       <jump line="33" column="35" filename="$USER_HOME$/workspace/BigBangService/bigbang/tools/parse_track_log.py" />
       <jump line="268" column="23" filename="$USER_HOME$/workspace/BigBangService/bigbang/tools/parse_track_log.py" />
       <jump line="43" column="4" filename="$USER_HOME$/workspace/BigBangService/bigbang/tools/parse_track_log.py" />
+      <jump line="251" column="0" filename="$USER_HOME$/workspace/devops/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_management</text>
       </register>
       <register name="-" type="4">
-        <text>162.222.165.251</text>
+        <text>_management</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUUkFDS19GSUxFX05BTUVcPg==</text>
@@ -790,28 +802,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhbGFuY2VfYWZ0ZXIgPSBwZWV3ZWUuRmxvYXRGaWVsZChkZWZhdWx0PTApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWlncmF0b3IuYWRkX2NvbHVtbigndHJhbnNhY3Rpb25fcmVjb3JkJywgJ2JhbGFuY2VfYWZ0ZXInLCBiYWxhbmNlX2FmdGVyKSwK</text>
+        <text encoding="base64">LmdpdGlnbm9yZQouaWRlYS9kZXZvcHMuaW1sCi5pZGVhL21pc2MueG1sCi5pZGVhL21vZHVsZXMueG1sCmJ1c2luZXNzLwptYWNoaW5lLwpzZXJ2aWNlLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIHN0YWdlID09ICJwcm9kIjoK</text>
+        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+        <text encoding="base64">ICAtIFsgXSDmnI3liqHlmajpgInlnosK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhdmFpbGFibGVfYXBwX2RpciA9ICIlcy9hdmFpbGFibGUvYXBwXyVzXyVzLyIgJSAoX1JFTU9URV9QUk9KRUNUX0RJUiwgdGFnX3N0ciwgbm93X3N0cikKICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfZXJyb3IoIlNvdXJjZSBjb2RlIGlzIG5vdCB0YWdnZWQuIChOb3RlOiB0YWcgY2FuIG5vdCBjb250YWluIGAtYCkiKQo=</text>
+        <text encoding="base64">ICAgIGJhbGFuY2VfYWZ0ZXIgPSBwZWV3ZWUuRmxvYXRGaWVsZChkZWZhdWx0PTApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgdGFnX3N0cjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWlncmF0b3IuYWRkX2NvbHVtbigndHJhbnNhY3Rpb25fcmVjb3JkJywgJ2JhbGFuY2VfYWZ0ZXInLCBiYWxhbmNlX2FmdGVyKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0YWdfc3RyID0gX2dldF9yZXBvX3RhZygpCg==</text>
+        <text encoding="base64">ICAgIGlmIHN0YWdlID09ICJwcm9kIjoK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0FkbWluL0FnZW5jeS9nYw==</text>
