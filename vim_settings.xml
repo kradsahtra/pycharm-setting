@@ -332,8 +332,12 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/casiouser/userapi/views/transaction.py" timestamp="1505570237680">
-        <mark key="^" line="177" column="28" />
+      <file name="$USER_HOME$/workspace/devops/ansible_hosts" timestamp="1505837503255">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="6" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/admin_app.py" timestamp="1504184356031">
         <mark key="'" line="8" column="48" />
@@ -432,8 +436,12 @@
         <mark key="^" line="24" column="49" />
         <mark key="." line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/manage.py" timestamp="1505642989986">
-        <mark key="^" line="4" column="14" />
+      <file name="$USER_HOME$/workspace/devops/bootstrap.yml" timestamp="1505837782440">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="6" column="71" />
+        <mark key="]" line="6" column="75" />
+        <mark key="^" line="6" column="75" />
+        <mark key="." line="6" column="75" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/hall_app.py" timestamp="1504086615142">
         <mark key="[" line="21" column="23" />
@@ -492,11 +500,6 @@
         <mark key="]" line="70" column="25" />
         <mark key="." line="70" column="25" />
         <mark key="^" line="70" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" timestamp="1505642772803">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/userapi/views/user.py" timestamp="1504154881146">
         <mark key="'" line="126" column="16" />
@@ -704,10 +707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="35" filename="$USER_HOME$/workspace/casiouser/userapi/views/transaction.py" />
-      <jump line="147" column="45" filename="$USER_HOME$/workspace/casiouser/userapi/views/transaction.py" />
-      <jump line="155" column="55" filename="$USER_HOME$/workspace/casiouser/userapi/views/transaction.py" />
-      <jump line="164" column="31" filename="$USER_HOME$/workspace/casiouser/userapi/views/transaction.py" />
       <jump line="192" column="41" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
       <jump line="9" column="41" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
       <jump line="46" column="37" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
@@ -804,13 +803,17 @@
       <jump line="43" column="4" filename="$USER_HOME$/workspace/BigBangService/bigbang/tools/parse_track_log.py" />
       <jump line="251" column="0" filename="$USER_HOME$/workspace/devops/.gitignore" />
       <jump line="18" column="36" filename="$USER_HOME$/workspace/devops/machine/change_hostname.sh" />
+      <jump line="5" column="84" filename="$USER_HOME$/workspace/devops/bootstrap.yml" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/devops/ansible_hosts" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/devops/bootstrap.yml" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/devops/bootstrap.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>one</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>one</text>
+        <text>-front</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUUkFDS19GSUxFX05BTUVcPg==</text>
@@ -822,34 +825,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TUVSQ0hBTlRfRElDVFMgPSB7CiAgICAnY2FzaW5vJzogewogICAgICAgICdhcGlfa2V5JzogJ3dwcWc0YzJ1eGM0bXdrNWxrcG8zN2NwMG5zNDh3Z3AzJywKICAgICAgICAndHJhbnNmZXJfdXJsJzogJ2h0dHA6Ly8xNjIuMjIyLjE2NS4yNTMvYXBpL3BheS9hZ2VuY3lfcGF5L2FkZF9jb2luJywKICAgICAgICAnc3RhdHVzX3VybCc6ICdodHRwOi8vMTYyLjIyMi4xNjUuMjUzL2FwaS9wYXkvJXMvc3RhdHVzJywKICAgIH0KfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2Rpc3BsYXkgbmV3IGhvc3RuYW1lCg==</text>
+        <text encoding="base64">LSBob3N0czogYmlnYmFuZy1uZ2lueAogIGdhdGhlcl9mYWN0czogRmFsc2UKCiAgdGFza3M6CiAgLSBuYW1lOiBpbnN0YWxsIHB5dGhvbiAyCiAgICByYXc6IHRlc3QgLWUgL3Vzci9iaW4vcHl0aG9uIHx8IChzdWRvIGFwdCAteSB1cGRhdGUgJiYgc3VkbyBhcHQgaW5zdGFsbCAteSBweXRob24tbWluaW1hbCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TUVSQ0hBTlRfRElDVFMgPSB7CiAgICAnY2FzaW5vJzogewogICAgICAgICdhcGlfa2V5JzogJ3dwcWc0YzJ1eGM0bXdrNWxrcG8zN2NwMG5zNDh3Z3AzJywKICAgICAgICAndHJhbnNmZXJfdXJsJzogJ2h0dHA6Ly8xNjIuMjIyLjE2NS4yNTMvYXBpL3BheS9hZ2VuY3lfcGF5L2FkZF9jb2luJywKICAgICAgICAnc3RhdHVzX3VybCc6ICdodHRwOi8vMTYyLjIyMi4xNjUuMjUzL2FwaS9wYXkvJXMvc3RhdHVzJywKICAgIH0KfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBjaGFuZ2UgaG9zdG5hbWUK</text>
+        <text encoding="base64">I2Rpc3BsYXkgbmV3IGhvc3RuYW1lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2NoYW5nZSBob3N0bmFtZSBpbiAvZXRjL2hvc3RzICYgL2V0Yy9ob3N0bmFtZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I0FzayBmb3IgbmV3IGhvc3RuYW1lICRuZXdob3N0Cg==</text>
+        <text encoding="base64">IyBjaGFuZ2UgaG9zdG5hbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I0Rpc3BsYXkgZXhpc3RpbmcgaG9zdG5hbWUK</text>
+        <text encoding="base64">I2NoYW5nZSBob3N0bmFtZSBpbiAvZXRjL2hvc3RzICYgL2V0Yy9ob3N0bmFtZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I0Fzc2lnbiBleGlzdGluZyBob3N0bmFtZSB0byAkaG9zdG4K</text>
+        <text encoding="base64">I0FzayBmb3IgbmV3IGhvc3RuYW1lICRuZXdob3N0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyEvYmluL2Jhc2gK</text>
+        <text encoding="base64">I0Rpc3BsYXkgZXhpc3RpbmcgaG9zdG5hbWUK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0FkbWluL0FnZW5jeS9nYw==</text>
