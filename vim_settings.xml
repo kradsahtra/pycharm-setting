@@ -107,11 +107,12 @@
         <mark key="." line="28" column="20" />
         <mark key="^" line="28" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/devops/.gitignore" timestamp="1505710830684">
-        <mark key="'" line="251" column="0" />
-        <mark key="[" line="252" column="0" />
-        <mark key="]" line="252" column="0" />
-        <mark key="." line="252" column="0" />
+      <file name="$USER_HOME$/workspace/devops/.gitignore" timestamp="1505845121541">
+        <mark key="'" line="153" column="39" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
+        <mark key="^" line="254" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/tools/bench_mark.py" timestamp="1505362034043">
         <mark key="[" line="54" column="22" />
@@ -436,12 +437,12 @@
         <mark key="^" line="24" column="49" />
         <mark key="." line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/devops/bootstrap.yml" timestamp="1505842857922">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="10" column="10" />
-        <mark key="]" line="10" column="11" />
-        <mark key="." line="10" column="11" />
-        <mark key="^" line="10" column="11" />
+      <file name="$USER_HOME$/workspace/devops/bootstrap.yml" timestamp="1505844738732">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="33" column="30" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/hall_app.py" timestamp="1504086615142">
         <mark key="[" line="21" column="23" />
@@ -521,6 +522,13 @@
         <mark key="^" line="51" column="42" />
         <mark key="." line="51" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/devops/config_files/zshrc.in" timestamp="1505844863026">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckyweb/templates/pay/PayChannelDetail.html" timestamp="1503462580757">
         <mark key="[" line="100" column="69" />
         <mark key="]" line="100" column="74" />
@@ -571,7 +579,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505744871181">
+      <file name="/Dummy.txt" timestamp="1505845058632">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -707,9 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="41" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
-      <jump line="9" column="41" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
-      <jump line="46" column="37" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/agency_pay/implement.md" />
       <jump line="197" column="23" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
       <jump line="14" column="41" filename="$USER_HOME$/workspace/agency_pay/apps/admin/routes.py" />
@@ -807,16 +812,19 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/devops/ansible_hosts" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/devops/bootstrap.yml" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/devops/bootstrap.yml" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/devops/config_files/zshrc.in" />
+      <jump line="239" column="9" filename="$USER_HOME$/workspace/devops/.gitignore" />
+      <jump line="153" column="39" filename="$USER_HOME$/workspace/devops/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>example</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBweWVudgo=</text>
       </register>
       <register name="-" type="4">
-        <text>example</text>
+        <text>bootstrap</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUUkFDS19GSUxFX05BTUVcPg==</text>
+        <text>.python</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJlY29tZTogdHJ1ZQo=</text>
@@ -825,43 +833,43 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBweWVudgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN1ZG86IHllcwo=</text>
+        <text encoding="base64">LnB5dGhvbi12ZXJzaW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN1ZG86IHllcwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAtIGRlYnVnOiBtc2c9Int7IGFuc2libGVfbm9kZW5hbWUgfX0gKHZpYSBHYXRoZXJlZCBGYWN0cyBmcm9tICdzZXR1cCcpIgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwcmVfdGFza3M6CiAgLSBuYW1lOiBJbnN0YWxsIHB5dGhvbjIgZm9yIEFuc2libGUKICAgIHJhdzogYmFzaCAtYyAidGVzdCAtZSAvdXNyL2Jpbi9weXRob24gfHwgKCBzdWRvIGFwdCAtcXF5IHVwZGF0ZSAmJiBzdWRvIGFwdCBpbnN0YWxsIC1xcXkgcHl0aG9uLW1pbmltYWwpIgogICAgcmVnaXN0ZXI6IG91dHB1dAogICAgY2hhbmdlZF93aGVuOiBvdXRwdXQuc3Rkb3V0ICE9ICIiCiAgLSBuYW1lOiBHYXRoZXJpbmcgRmFjdHMKICAgIHNldHVwOgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBnYXRoZXJfZmFjdHM6IGZhbHNlCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBiZWNvbWU6IHRydWUK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN1ZG86IG5vCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHdoZW46IGNsb25pbmd8c3VjY2Vzcwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBob3N0czogYmlnYmFuZy1uZ2lueAogIGdhdGhlcl9mYWN0czogRmFsc2UKCiAgdGFza3M6CiAgLSBuYW1lOiBpbnN0YWxsIHB5dGhvbiAyCiAgICByYXc6IHRlc3QgLWUgL3Vzci9iaW4vcHl0aG9uIHx8IChzdWRvIGFwdCAteSB1cGRhdGUgJiYgc3VkbyBhcHQgaW5zdGFsbCAteSBweXRob24tbWluaW1hbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0FkbWluL0FnZW5jeS9nYw==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUUkFDS19GSUxFX05BTUVcPg==</last-search>
+      <last-search>.python</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUUkFDS19GSUxFX05BTUVcPg==</last-pattern>
+      <last-pattern>.python</last-pattern>
       <last-replace>Agency</last-replace>
       <last-substitute>Admin</last-substitute>
       <last-dir>1</last-dir>
@@ -869,7 +877,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZW5lcmF0ZV9zaWduXD4=</entry>
         <entry encoding="base64">XDxWYWxpZGF0ZVRyYW5zYWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxyZXF1ZXN0c1w+</entry>
         <entry encoding="base64">XDxqc29uXD4=</entry>
@@ -889,6 +896,7 @@
         <entry encoding="base64">XDxTUUxcPg==</entry>
         <entry encoding="base64">XDxhZ2VuY3lfY3JlZGl0XD4=</entry>
         <entry encoding="base64">XDxUUkFDS19GSUxFX05BTUVcPg==</entry>
+        <entry>.python</entry>
       </history-search>
       <history-cmd>
         <entry>60</entry>
