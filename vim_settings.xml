@@ -248,11 +248,11 @@
         <mark key="." line="8" column="38" />
         <mark key="^" line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1504432847724">
-        <mark key="[" line="32" column="5" />
-        <mark key="]" line="32" column="8" />
-        <mark key="." line="32" column="8" />
-        <mark key="^" line="32" column="8" />
+      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1505898467692">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="49" />
+        <mark key="." line="9" column="49" />
+        <mark key="^" line="9" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckyadmin/views/switch.py" timestamp="1504256024022">
         <mark key="[" line="74" column="0" />
@@ -298,7 +298,8 @@
         <mark key="." line="131" column="90" />
         <mark key="^" line="131" column="90" />
       </file>
-      <file name="$USER_HOME$/workspace/devops/config_files/bigbang.conf" timestamp="1505882646175">
+      <file name="$USER_HOME$/workspace/devops/config_files/bigbang.conf" timestamp="1505898184353">
+        <mark key="'" line="122" column="4" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -340,12 +341,12 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/devops/ansible_hosts" timestamp="1505882124362">
-        <mark key="'" line="8" column="15" />
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="60" />
-        <mark key="^" line="2" column="14" />
-        <mark key="." line="8" column="16" />
+      <file name="$USER_HOME$/workspace/devops/ansible_hosts" timestamp="1505898202370">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="11" column="10" />
+        <mark key="." line="11" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/admin_app.py" timestamp="1504184356031">
         <mark key="'" line="8" column="48" />
@@ -729,8 +730,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="42" filename="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" />
-      <jump line="40" column="9" filename="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" />
       <jump line="1" column="51" filename="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" />
       <jump line="147" column="45" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
       <jump line="162" column="22" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
@@ -828,20 +827,22 @@
       <jump line="4" column="2" filename="$USER_HOME$/workspace/devops/bootstrap.yml" />
       <jump line="45" column="15" filename="$USER_HOME$/workspace/devops/bootstrap.yml" />
       <jump line="54" column="21" filename="$USER_HOME$/workspace/devops/bootstrap.yml" />
-      <jump line="8" column="15" filename="$USER_HOME$/workspace/devops/ansible_hosts" />
+      <jump line="13" column="9" filename="$USER_HOME$/workspace/devops/config_files/bigbang.conf" />
+      <jump line="122" column="4" filename="$USER_HOME$/workspace/devops/config_files/bigbang.conf" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/devops/ansible_hosts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIDE2Mi4yMjIuMTY1LjI1MDsK</text>
+      <register name="&quot;" type="4">
+        <text>im_2</text>
       </register>
       <register name="-" type="4">
-        <text>bigbang-nginx</text>
+        <text>im_2</text>
       </register>
       <register name="/" type="4">
-        <text>.python</text>
+        <text encoding="base64">XDxwYXlhcGlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJlY29tZTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICdpbSc6ICd+L3dvcmtzcGFjZS9pbV8yJywK</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -881,9 +882,9 @@
       </register>
     </registers>
     <search>
-      <last-search>.python</last-search>
+      <last-search encoding="base64">XDxwYXlhcGlcPg==</last-search>
       <last-offset />
-      <last-pattern>.python</last-pattern>
+      <last-pattern encoding="base64">XDxwYXlhcGlcPg==</last-pattern>
       <last-replace>Agency</last-replace>
       <last-substitute>Admin</last-substitute>
       <last-dir>1</last-dir>
@@ -891,7 +892,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxWYWxpZGF0ZVRyYW5zYWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxyZXF1ZXN0c1w+</entry>
         <entry encoding="base64">XDxqc29uXD4=</entry>
         <entry>request</entry>
@@ -911,6 +911,7 @@
         <entry encoding="base64">XDxhZ2VuY3lfY3JlZGl0XD4=</entry>
         <entry encoding="base64">XDxUUkFDS19GSUxFX05BTUVcPg==</entry>
         <entry>.python</entry>
+        <entry encoding="base64">XDxwYXlhcGlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>60</entry>
