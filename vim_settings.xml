@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1504864498971">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/a.dummy" timestamp="1505899625929">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" timestamp="1505899730445">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="34" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="12" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/db/account.py" timestamp="1504512532190">
         <mark key="[" line="184" column="4" />
@@ -145,12 +151,6 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/apps/main/models/agency_transaction_model.py" timestamp="1505742345280">
-        <mark key="'" line="18" column="6" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/agency_pay/apps/main/controllers/agency_transaction_handler.py" timestamp="1505315159116">
         <mark key="'" line="102" column="4" />
         <mark key="[" line="103" column="19" />
@@ -171,7 +171,7 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/devops/config_files/kfc.conf" timestamp="1505882638486">
+      <file name="$USER_HOME$/workspace/devops/config_files/kfc.conf" timestamp="1505899234518">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -298,8 +298,8 @@
         <mark key="." line="131" column="90" />
         <mark key="^" line="131" column="90" />
       </file>
-      <file name="$USER_HOME$/workspace/devops/config_files/bigbang.conf" timestamp="1505898184353">
-        <mark key="'" line="122" column="4" />
+      <file name="$USER_HOME$/workspace/devops/config_files/bigbang.conf" timestamp="1505899188464">
+        <mark key="'" line="109" column="0" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -386,7 +386,7 @@
         <mark key="." line="49" column="11" />
         <mark key="^" line="49" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/devops/config_files/lottery.conf" timestamp="1505882631795">
+      <file name="$USER_HOME$/workspace/devops/config_files/lottery.conf" timestamp="1505899248534">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -443,7 +443,7 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/agency_pay/settings_prod.py" timestamp="1505744933621">
+      <file name="$USER_HOME$/workspace/agency_pay/settings_prod.py" timestamp="1505899706185">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="25" column="30" />
         <mark key="]" line="25" column="48" />
@@ -641,7 +641,7 @@
         <mark key="^" line="3" column="107" />
         <mark key="." line="3" column="107" />
       </file>
-      <file name="$USER_HOME$/workspace/devops/config_files/admin.conf" timestamp="1505882595597">
+      <file name="$USER_HOME$/workspace/devops/config_files/admin.conf" timestamp="1505899173466">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -730,7 +730,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="51" filename="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" />
       <jump line="147" column="45" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
       <jump line="162" column="22" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
       <jump line="24" column="42" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
@@ -830,19 +829,20 @@
       <jump line="13" column="9" filename="$USER_HOME$/workspace/devops/config_files/bigbang.conf" />
       <jump line="122" column="4" filename="$USER_HOME$/workspace/devops/config_files/bigbang.conf" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/devops/ansible_hosts" />
+      <jump line="109" column="0" filename="$USER_HOME$/workspace/devops/config_files/bigbang.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>im_2</text>
+        <text>root:P@55word</text>
       </register>
       <register name="-" type="4">
-        <text>im_2</text>
+        <text>root:P@55word</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXlhcGlcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICdpbSc6ICd+L3dvcmtzcGFjZS9pbV8yJywK</text>
+      <register name="0" type="4">
+        <text>lucky:HGzhz2017</text>
       </register>
       <register name="p" type="4">
         <text />
