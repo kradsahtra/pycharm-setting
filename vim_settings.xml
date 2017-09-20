@@ -437,12 +437,12 @@
         <mark key="^" line="24" column="49" />
         <mark key="." line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/devops/bootstrap.yml" timestamp="1505878158621">
-        <mark key="'" line="40" column="8" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="45" column="15" />
+      <file name="$USER_HOME$/workspace/devops/bootstrap.yml" timestamp="1505879033380">
+        <mark key="'" line="45" column="15" />
+        <mark key="[" line="42" column="30" />
+        <mark key="]" line="42" column="30" />
+        <mark key="." line="42" column="30" />
+        <mark key="^" line="42" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/hall_app.py" timestamp="1504086615142">
         <mark key="[" line="21" column="23" />
@@ -715,8 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="41" filename="$USER_HOME$/workspace/agency_pay/apps/admin/routes.py" />
-      <jump line="2" column="112" filename="$USER_HOME$/workspace/agency_pay/apps/admin/routes.py" />
       <jump line="122" column="4" filename="$USER_HOME$/workspace/agency_pay/fabfile.py" />
       <jump line="37" column="3" filename="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" />
       <jump line="5" column="42" filename="$USER_HOME$/workspace/agency_pay/common/store/syncdb.py" />
@@ -815,13 +813,15 @@
       <jump line="153" column="39" filename="$USER_HOME$/workspace/devops/.gitignore" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/devops/bootstrap.yml" />
       <jump line="40" column="8" filename="$USER_HOME$/workspace/devops/bootstrap.yml" />
+      <jump line="4" column="2" filename="$USER_HOME$/workspace/devops/bootstrap.yml" />
+      <jump line="45" column="15" filename="$USER_HOME$/workspace/devops/bootstrap.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>ubuntu</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>.python</text>
@@ -833,7 +833,7 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGhfaXRlbXM6CiAgICAgIHVidW50dQogICAgICBhcnRoYXMK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -842,25 +842,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSB1c2VybmFtZTogYXJ0aGFzCiAgICAgICAgb2hfbXlfenNoOgogICAgICAgICAgdGhlbWU6IHJvYmJ5cnVzc2VsbAogICAgICAgICAgcGx1Z2luczoKICAgICAgICAgICAgLSBnaXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZXhwaXJlczogMTQyMjQwMzM4Nwo=</text>
+        <text encoding="base64">ICAgICAgLSB1c2VybmFtZTogYXJ0aGFzCiAgICAgICAgb2hfbXlfenNoOgogICAgICAgICAgdGhlbWU6IHJvYmJ5cnVzc2VsbAogICAgICAgICAgcGx1Z2luczoKICAgICAgICAgICAgLSBnaXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwaXJlczogMTQyMjQwMzM4Nwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBwdWJsaWNfa2V5cy9kb2Utam9obgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBweWVudgo=</text>
+        <text encoding="base64">ICAgICAgLSBwdWJsaWNfa2V5cy9kb2Utam9obgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LnB5dGhvbi12ZXJzaW9uCg==</text>
+        <text encoding="base64">IyBweWVudgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LnB5dGhvbi12ZXJzaW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0FkbWluL0FnZW5jeS9nYw==</text>
