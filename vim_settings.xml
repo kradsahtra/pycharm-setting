@@ -349,6 +349,10 @@
         <mark key="." line="105" column="54" />
         <mark key="^" line="105" column="54" />
       </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/casiouser.supervisor.conf" timestamp="1505902038667">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/requirements.txt" timestamp="1502598881427">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="2" column="15" />
@@ -581,6 +585,13 @@
         <mark key="." line="83" column="80" />
         <mark key="^" line="83" column="80" />
       </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/bigbang.supervisor.conf" timestamp="1505902173317">
+        <mark key="'" line="20" column="37" />
+        <mark key="[" line="31" column="32" />
+        <mark key="]" line="31" column="40" />
+        <mark key="." line="31" column="40" />
+        <mark key="^" line="31" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_account_view.py" timestamp="1505569631417">
         <mark key="'" line="76" column="46" />
         <mark key="[" line="177" column="16" />
@@ -747,7 +758,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="42" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
       <jump line="99" column="45" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
       <jump line="112" column="22" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
       <jump line="126" column="35" filename="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_transaction_view.py" />
@@ -847,52 +857,53 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
       <jump line="92" column="4" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
       <jump line="260" column="4" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
+      <jump line="20" column="37" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.supervisor.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:9478</text>
+        <text>supervisor</text>
       </register>
       <register name="-" type="4">
-        <text>:9478</text>
+        <text>supervisor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXR1cF9uZ2lueFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2JpZ2JhbmcnOiBbJzE2Mi4yMjIuMTY1LjI0NDo5NDc4JywgXSwK</text>
+      <register name="0" type="4">
+        <text>common/timer/processor.py</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2JpZ2JhbmcnOiBbJzE2Mi4yMjIuMTY1LjI0NCcsIF0sCg==</text>
+        <text encoding="base64">Y29tbWFuZD0vaG9tZS91YnVudHUvYWYtZW52L2Jpbi9weXRob24gY29tbW9uL3RpbWVyL3Byb2Nlc3Nvci5weQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIDE2Mi4yMjIuMTY1LjI1MDsK</text>
+        <text encoding="base64">ZGlyZWN0b3J5PS9ob21lL3VidW50dS9hZi1lbnYvYmlnYmFuZy8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIDEyNy4wLjAuMSBsb2NhbGhvc3Q7Cg==</text>
+        <text encoding="base64">ZGlyZWN0b3J5PS9ob21lL3VidW50dS9hZi1lbnYvYmlnYmFuZy8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICNzZXJ2ZXJfbmFtZSAxOTIuMTY4LjEuODM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2JpZ2JhbmcnOiBbJzE2Mi4yMjIuMTY1LjI0NCcsIF0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIDE2Mi4yMjIuMTY1LjI0MzsK</text>
+        <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIDE2Mi4yMjIuMTY1LjI1MDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YW5zaWJsZV9weXRob25faW50ZXJwcmV0ZXI9L3Vzci9iaW4vcHl0aG9uMwo=</text>
+        <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIDEyNy4wLjAuMSBsb2NhbGhvc3Q7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpdGhfaXRlbXM6CiAgICAgIHVidW50dQogICAgICBhcnRoYXMK</text>
+        <text encoding="base64">ICAgICNzZXJ2ZXJfbmFtZSAxOTIuMTY4LjEuODM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIDE2Mi4yMjIuMTY1LjI0MzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YW5zaWJsZV9weXRob25faW50ZXJwcmV0ZXI9L3Vzci9iaW4vcHl0aG9uMwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0FkbWluL0FnZW5jeS9nYw==</text>
