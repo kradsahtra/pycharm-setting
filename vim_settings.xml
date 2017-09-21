@@ -33,7 +33,9 @@
         <mark key="^" line="24" column="72" />
         <mark key="." line="24" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" timestamp="1505967938667" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" timestamp="1505977600701">
+        <mark key="'" line="224" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/model/pay_channel.py" timestamp="1503463972187">
         <mark key="[" line="31" column="4" />
         <mark key="]" line="31" column="9" />
@@ -221,12 +223,12 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/devops/ansible_hosts" timestamp="1505898202370">
+      <file name="$USER_HOME$/workspace/devops/ansible_hosts" timestamp="1505978192457">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="10" />
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="11" />
         <mark key="^" line="11" column="10" />
-        <mark key="." line="11" column="10" />
+        <mark key="." line="12" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/cq_lf/activity/handler.py" timestamp="1505965818329">
         <mark key="'" line="31" column="10" />
@@ -501,7 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="12" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/agency_account_admin_view.py" />
       <jump line="92" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/agency_account_admin_view.py" />
       <jump line="47" column="0" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/admin_transaction_view.py" />
       <jump line="45" column="8" filename="$USER_HOME$/workspace/agency_pay/apps/admin/views/admin_transaction_view.py" />
@@ -601,10 +602,11 @@
       <jump line="11" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/cq_lf/activity/handler.py" />
       <jump line="31" column="10" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/cq_lf/activity/handler.py" />
       <jump line="27" column="12" filename="$USER_HOME$/workspace/bigbang-server/bigbang/requirements.txt" />
+      <jump line="224" column="28" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YmlnYmFuZy1kYjEgYW5zaWJsZV9weXRob25faW50ZXJwcmV0ZXI9L3Vzci9iaW4vcHl0aG9uMwo=</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
@@ -613,7 +615,7 @@
         <text encoding="base64">XDxhbG9nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICdpbScgPT0gX1JPTEU6CiAgICAgICAgc3Vkbygic3VwZXJ2aXNvcmN0bCBzdG9wIGltIikKICAgICAgICBzbGVlcCg1KQogICAgICAgIHN1ZG8oImNob3duIHVidW50dTp1YnVudHUgLVIgJXMiICUgX0xPR19ESVIpCiAgICAgICAgc3Vkbygic3VwZXJ2aXNvcmN0bCBzdGFydCBpbSIpCg==</text>
+        <text encoding="base64">YmlnYmFuZy1kYjEgYW5zaWJsZV9weXRob25faW50ZXJwcmV0ZXI9L3Vzci9iaW4vcHl0aG9uMwo=</text>
       </register>
       <register name="p" type="4">
         <text />
