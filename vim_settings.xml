@@ -94,18 +94,14 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/parse_track_log.py" timestamp="1505984151020">
-        <mark key="'" line="269" column="34" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="44" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/parse_track_log.py" timestamp="1505984673493">
+        <mark key="'" line="274" column="34" />
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/lottery.supervisor.conf" timestamp="1505900895233" />
-      <file name="$USER_HOME$/workspace/devops/config_files/kfc.conf" timestamp="1505899234518">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1505982718469">
         <mark key="'" line="265" column="4" />
         <mark key="[" line="207" column="0" />
@@ -263,11 +259,6 @@
         <mark key="." line="122" column="70" />
         <mark key="^" line="122" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/devops/config_files/lottery.conf" timestamp="1505899248534">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/KFCService/bullapi/management/commands/restart_bull.py" timestamp="1502195385887">
         <mark key="[" line="25" column="16" />
         <mark key="]" line="25" column="11" />
@@ -354,6 +345,10 @@
         <mark key="]" line="40" column="19" />
         <mark key="." line="40" column="19" />
         <mark key="^" line="40" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/check_next.py" timestamp="1505984350234">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/deploy/config_files/agency.nginx.conf" timestamp="1505644610038">
         <mark key="[" line="24" column="47" />
@@ -449,11 +444,6 @@
         <mark key="]" line="3" column="107" />
         <mark key="^" line="3" column="107" />
         <mark key="." line="3" column="107" />
-      </file>
-      <file name="$USER_HOME$/workspace/devops/config_files/admin.conf" timestamp="1505899173466">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/project_dir_config.py" timestamp="1501850471764">
         <mark key="[" line="0" column="0" />
@@ -613,17 +603,17 @@
       <jump line="269" column="34" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/parse_track_log.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBiaWdiYW5nLmJhc2Uuc2V0dGluZ3MgaW1wb3J0IE1PTkdPX0FERFIK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>'127.0.0.1:27017'</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbG9nXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>MONGO_ADDR</text>
+      <register name="0" type="2">
+        <text encoding="base64">YmFzZV9kaXIgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQpzeXMucGF0aC5hcHBlbmQoYmFzZV9kaXIpCm9zLmVudmlyb24uc2V0ZGVmYXVsdCgiREpBTkdPX1NFVFRJTkdTX01PRFVMRSIsICJiYXNlLnNldHRpbmdzIikK</text>
       </register>
       <register name="p" type="4">
         <text />
