@@ -55,6 +55,9 @@
         <mark key="^" line="24" column="72" />
         <mark key="." line="24" column="72" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" timestamp="1505977600701">
+        <mark key="'" line="224" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/agency_pay/apps/admin/routes.py" timestamp="1505125271326">
         <mark key="'" line="2" column="112" />
         <mark key="[" line="21" column="40" />
@@ -587,6 +590,7 @@
         <mark key="." line="38" column="17" />
         <mark key="^" line="38" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls_v3.py" timestamp="1506136334498" />
       <file name="$USER_HOME$/workspace/agency_pay/apps/admin/views/agency_account_admin_view.py" timestamp="1505360966825">
         <mark key="'" line="102" column="0" />
         <mark key="[" line="69" column="26" />
@@ -674,6 +678,7 @@
         <mark key="." line="177" column="17" />
         <mark key="^" line="177" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/cache/__init__.py" timestamp="1505982937838" />
       <file name="$USER_HOME$/workspace/casioconsole/luckyweb/templates/pay/PayChannelList.html" timestamp="1503462474548">
         <mark key="[" line="46" column="37" />
         <mark key="]" line="46" column="42" />
@@ -790,6 +795,10 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="12" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" timestamp="1506136339483">
+        <mark key="'" line="111" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/deploy/console/deploy.yaml" timestamp="1506042730411" />
       <file name="$USER_HOME$/workspace/casioconsole/luckycommon/utils/id_generator.py" timestamp="1503463399825">
         <mark key="[" line="204" column="16" />
         <mark key="]" line="204" column="20" />
@@ -837,7 +846,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="4" filename="$USER_HOME$/workspace/agency_pay/apps/admin/controllers/admin_transaction_handler.py" />
       <jump line="82" column="13" filename="$USER_HOME$/workspace/agency_pay/apps/admin/controllers/admin_transaction_handler.py" />
       <jump line="0" column="9" filename="$USER_HOME$/workspace/agency_pay/implement.md" />
       <jump line="199" column="18" filename="$USER_HOME$/workspace/agency_pay/fabfile.py" />
@@ -937,6 +945,7 @@
       <jump line="1" column="57" filename="$USER_HOME$/workspace/deploy/config_files/lottery.supervisor.conf" />
       <jump line="21" column="9" filename="$USER_HOME$/workspace/deploy/config_files/lottery.supervisor.conf" />
       <jump line="35" column="10" filename="$USER_HOME$/workspace/deploy/config_files/lottery.supervisor.conf" />
+      <jump line="111" column="10" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
