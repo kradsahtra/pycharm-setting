@@ -203,7 +203,10 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" timestamp="1506161052351" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" timestamp="1506177605112">
+        <mark key="'" line="47" column="0" />
+        <mark key="^" line="67" column="49" />
+      </file>
       <file name="$USER_HOME$/workspace/agency_pay/apps/main/workers/send_jobs.py" timestamp="1504168755087">
         <mark key="'" line="8" column="6" />
         <mark key="[" line="6" column="37" />
@@ -834,9 +837,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="13" filename="$USER_HOME$/workspace/agency_pay/apps/admin/controllers/admin_transaction_handler.py" />
-      <jump line="0" column="9" filename="$USER_HOME$/workspace/agency_pay/implement.md" />
-      <jump line="199" column="18" filename="$USER_HOME$/workspace/agency_pay/fabfile.py" />
       <jump line="88" column="39" filename="$USER_HOME$/workspace/agency_pay/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/agency_pay/README.md" />
       <jump line="76" column="17" filename="$USER_HOME$/workspace/agency_pay/README.md" />
@@ -934,13 +934,16 @@
       <jump line="21" column="9" filename="$USER_HOME$/workspace/deploy/config_files/lottery.supervisor.conf" />
       <jump line="35" column="10" filename="$USER_HOME$/workspace/deploy/config_files/lottery.supervisor.conf" />
       <jump line="111" column="10" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
+      <jump line="6" column="15" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
+      <jump line="66" column="49" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cd /opt/bigbang/enabled/app/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFsb2cK</text>
       </register>
       <register name="-" type="4">
-        <text>/home/ubuntu/af-env/bigbang</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb3R0ZXJ5X2Jyb2FkY2FzdFw+</text>
@@ -952,34 +955,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ltJzogWycxNjIuMjIyLjE2NS4yNDknXSwK</text>
+        <text encoding="base64">aW1wb3J0IGFsb2cK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FkbWluJzogWycxNjIuMjIyLjE2NS4yNTAnLCBdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2ltJzogWycxNjIuMjIyLjE2NS4yNDknXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Rkeic6IFsnMTYyLjIyMi4xNjUuMjUzJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FkbWluJzogWycxNjIuMjIyLjE2NS4yNTAnLCBdLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3pqaCc6IFsnMTYyLjIyMi4xNjUuMjUzJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Rkeic6IFsnMTYyLjIyMi4xNjUuMjUzJ10sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2tmYyc6IFsnMTYyLjIyMi4xNjUuMjUwJywgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3pqaCc6IFsnMTYyLjIyMi4xNjUuMjUzJ10sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2xvdHRlcnknOiBbJzE2Mi4yMjIuMTY1LjI1MyddLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2tmYyc6IFsnMTYyLjIyMi4xNjUuMjUwJywgXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Jsb29kYnVsbCc6IFsnMTYyLjIyMi4xNjUuMjUzJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2xvdHRlcnknOiBbJzE2Mi4yMjIuMTY1LjI1MyddLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Nhc2lvdXNlcic6IFsnMTYyLjIyMi4xNjUuMjUzJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Jsb29kYnVsbCc6IFsnMTYyLjIyMi4xNjUuMjUzJ10sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2xvdHRlcnknOiBbJzE4My42MC4yMDAuMTE1JywgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Nhc2lvdXNlcic6IFsnMTYyLjIyMi4xNjUuMjUzJ10sCg==</text>
       </register>
       <register name=":" type="4">
         <text>101</text>
