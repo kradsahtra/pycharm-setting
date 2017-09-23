@@ -257,6 +257,10 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/bigbang_crontab" timestamp="1506176225160">
+        <mark key="." line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/agency_pay/apps/admin/controllers/agency_account_handler.py" timestamp="1504166958434">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="21" column="33" />
@@ -933,16 +937,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>supervisor</text>
+        <text>cd /opt/bigbang/enabled/app/</text>
       </register>
       <register name="-" type="4">
-        <text>supervisor</text>
+        <text>/home/ubuntu/af-env/bigbang</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb3R0ZXJ5X2Jyb2FkY2FzdFw+</text>
       </register>
       <register name="0" type="4">
-        <text>lottery_broadcast</text>
+        <text>cd /opt/bigbang/enabled/app/</text>
       </register>
       <register name="p" type="4">
         <text />
