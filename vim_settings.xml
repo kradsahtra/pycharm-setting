@@ -191,11 +191,11 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config_files/lottery.supervisor.conf" timestamp="1506093063423">
+      <file name="$USER_HOME$/workspace/deploy/config_files/lottery.supervisor.conf" timestamp="1506174411970">
         <mark key="'" line="35" column="10" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="38" column="32" />
+        <mark key="]" line="38" column="49" />
+        <mark key="." line="38" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/uwsgi-admin.ini" timestamp="1506046024809">
         <mark key="[" line="5" column="23" />
@@ -392,11 +392,11 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config_files/kfc.supervisor.conf" timestamp="1506092493217">
+      <file name="$USER_HOME$/workspace/deploy/config_files/kfc.supervisor.conf" timestamp="1506174386698">
         <mark key="'" line="19" column="19" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="113" />
-        <mark key="." line="1" column="12" />
+        <mark key="[" line="46" column="28" />
+        <mark key="]" line="46" column="43" />
+        <mark key="." line="46" column="28" />
         <mark key="^" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/admin_app.py" timestamp="1504184356031">
@@ -649,12 +649,12 @@
         <mark key="." line="83" column="80" />
         <mark key="^" line="83" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config_files/bigbang.supervisor.conf" timestamp="1506090988056">
+      <file name="$USER_HOME$/workspace/deploy/config_files/bigbang.supervisor.conf" timestamp="1506174345673">
         <mark key="'" line="3" column="9" />
-        <mark key="[" line="1" column="72" />
-        <mark key="]" line="1" column="80" />
-        <mark key="." line="1" column="72" />
-        <mark key="^" line="1" column="16" />
+        <mark key="[" line="50" column="37" />
+        <mark key="]" line="50" column="38" />
+        <mark key="." line="50" column="38" />
+        <mark key="^" line="50" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/apps/main/views/agency_account_view.py" timestamp="1505569631417">
         <mark key="'" line="76" column="46" />
@@ -933,16 +933,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_group</text>
+        <text>supervisor</text>
       </register>
       <register name="-" type="4">
-        <text>_group</text>
+        <text>supervisor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb3R0ZXJ5X2Jyb2FkY2FzdFw+</text>
       </register>
       <register name="0" type="4">
-        <text>lottery</text>
+        <text>lottery_broadcast</text>
       </register>
       <register name="p" type="4">
         <text />
