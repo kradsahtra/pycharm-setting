@@ -48,12 +48,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/LotteryService/longconnect/handler.py" timestamp="1506255121429">
-        <mark key="'" line="26" column="8" />
-        <mark key="[" line="46" column="40" />
-        <mark key="]" line="46" column="45" />
-        <mark key="." line="46" column="45" />
-        <mark key="^" line="46" column="45" />
+      <file name="$USER_HOME$/workspace/LotteryService/longconnect/handler.py" timestamp="1506256151728">
+        <mark key="'" line="42" column="17" />
+        <mark key="[" line="48" column="17" />
+        <mark key="]" line="48" column="17" />
+        <mark key="." line="48" column="17" />
+        <mark key="^" line="48" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/KFCService/luckyplatform/settings_prod.py" timestamp="1506092168303">
         <mark key="'" line="30" column="0" />
@@ -686,7 +686,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/LotteryService/tools/start_next.py" />
       <jump line="108" column="8" filename="$USER_HOME$/workspace/LotteryService/luckycommon/activity/handler.py" />
       <jump line="173" column="24" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings.py" />
-      <jump line="42" column="58" filename="$USER_HOME$/workspace/LotteryService/longconnect/handler.py" />
       <jump line="22" column="14" filename="$USER_HOME$/workspace/LotteryService/broadcast.py" />
       <jump line="146" column="0" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings.py" />
       <jump line="183" column="9" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings.py" />
@@ -699,19 +698,20 @@
       <jump line="141" column="10" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings.py" />
       <jump line="10" column="40" filename="$USER_HOME$/workspace/deploy/config_files/lottery.supervisor.conf" />
       <jump line="26" column="8" filename="$USER_HOME$/workspace/LotteryService/longconnect/handler.py" />
+      <jump line="42" column="17" filename="$USER_HOME$/workspace/LotteryService/longconnect/handler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lottery_tornado</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>lottery_tornado</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja19vcmlnaW5cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>longconnect</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCd1c2VyPCVzPiBhdXRoIG9rJyAlIHVzZXJfaWQpCg==</text>
       </register>
       <register name="p" type="4">
         <text />
