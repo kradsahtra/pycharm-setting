@@ -420,6 +420,9 @@
         <mark key="." line="50" column="38" />
         <mark key="^" line="50" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/LotteryService/luckycommon/activity/handler.py" timestamp="1506252639258">
+        <mark key="'" line="108" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/cache/__init__.py" timestamp="1505982937838" />
       <file name="$USER_HOME$/workspace/casioconsole/luckyweb/templates/pay/PayChannelList.html" timestamp="1503462474548">
         <mark key="[" line="46" column="37" />
@@ -502,8 +505,8 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/LotteryService/luckyplatform/settings.py" timestamp="1506251911135">
-        <mark key="'" line="185" column="24" />
+      <file name="$USER_HOME$/workspace/LotteryService/luckyplatform/settings.py" timestamp="1506252685721">
+        <mark key="'" line="173" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/LotteryService/uwsgi.ini" timestamp="1506092343681">
         <mark key="[" line="15" column="28" />
@@ -551,8 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="0" filename="$USER_HOME$/workspace/agency_pay/common/utils/exceptions.py" />
-      <jump line="102" column="6" filename="$USER_HOME$/workspace/lottery_sigapore/longconnect/handler.py" />
       <jump line="236" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings.py" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/agency_pay/settings_prod.py" />
       <jump line="37" column="24" filename="$USER_HOME$/workspace/BigBangService/bigbang/tools/parse_track_log.py" />
@@ -651,6 +652,8 @@
       <jump line="240" column="72" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings.py" />
       <jump line="185" column="24" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/LotteryService/tools/start_next.py" />
+      <jump line="108" column="8" filename="$USER_HOME$/workspace/LotteryService/luckycommon/activity/handler.py" />
+      <jump line="173" column="24" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -660,7 +663,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxXT1JLRVJfTE9HX0ZJTEVcPg==</text>
+        <text encoding="base64">XDxMT0dfRklMRVw+</text>
       </register>
       <register name="0" type="4">
         <text>cd /opt/bigbang/enabled/app/</text>
@@ -703,9 +706,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxXT1JLRVJfTE9HX0ZJTEVcPg==</last-search>
+      <last-search encoding="base64">XDxMT0dfRklMRVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxXT1JLRVJfTE9HX0ZJTEVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxMT0dfRklMRVw+</last-pattern>
       <last-replace>Agency</last-replace>
       <last-substitute>Admin</last-substitute>
       <last-dir>1</last-dir>
@@ -713,8 +716,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDRUxFUllfQlJPS0VSXD4=</entry>
-        <entry encoding="base64">XDxiaWdiYW5nX3RyYWNrZXJcPg==</entry>
         <entry encoding="base64">XDxiaWdiYW5nX2NlbGVyeVw+</entry>
         <entry encoding="base64">XDxiaWdiYW5nX3Byb2Nlc3Nvclw+</entry>
         <entry encoding="base64">XDxiaWdiYW5nX2NyYXdsZXJcPg==</entry>
@@ -733,6 +734,8 @@
         <entry encoding="base64">XDxsb3R0ZXJ5X2Jyb2FkY2FzdFw+</entry>
         <entry encoding="base64">XDx3b3JrZXJfZmlsZVw+</entry>
         <entry encoding="base64">XDxXT1JLRVJfTE9HX0ZJTEVcPg==</entry>
+        <entry encoding="base64">XDxfTE9HR0VSXD4=</entry>
+        <entry encoding="base64">XDxMT0dfRklMRVw+</entry>
       </history-search>
       <history-cmd>
         <entry>61</entry>
