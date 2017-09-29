@@ -9,11 +9,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" timestamp="1506661822640">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" timestamp="1506670758018">
         <mark key="'" line="19" column="27" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="29" column="23" />
-        <mark key="." line="27" column="0" />
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="70" />
+        <mark key="." line="29" column="70" />
+        <mark key="^" line="29" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/db/account.py" timestamp="1504512532190">
         <mark key="[" line="184" column="4" />
@@ -34,7 +35,7 @@
         <mark key="^" line="24" column="72" />
         <mark key="." line="24" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/PayService/payservice/base/settings_prod.py" timestamp="1506660259210">
+      <file name="$USER_HOME$/workspace/PayService/payservice/base/settings_prod.py" timestamp="1506670891202">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="21" column="38" />
@@ -131,6 +132,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/iapppay.py" timestamp="1506669129410">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/third/sms/helper.py" timestamp="1503925186155">
         <mark key="[" line="13" column="26" />
@@ -288,7 +292,7 @@
         <mark key="^" line="163" column="82" />
       </file>
       <file name="$USER_HOME$/workspace/PayService/payservice/scripts/pay.supervisor.conf" timestamp="1506652141214" />
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings.py" timestamp="1506661818777">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings.py" timestamp="1506670679906">
         <mark key="'" line="182" column="0" />
         <mark key="[" line="90" column="0" />
         <mark key="]" line="92" column="22" />
@@ -329,6 +333,12 @@
         <mark key="]" line="5" column="47" />
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/PayService/payservice/requirements.txt" timestamp="1506669307620">
+        <mark key="[" line="81" column="8" />
+        <mark key="]" line="81" column="9" />
+        <mark key="^" line="81" column="9" />
+        <mark key="." line="81" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/hall_app.py" timestamp="1504086615142">
         <mark key="[" line="21" column="23" />
@@ -395,6 +405,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/youpay.py" timestamp="1506670865147">
+        <mark key="[" line="35" column="20" />
+        <mark key="]" line="35" column="51" />
+        <mark key="." line="35" column="51" />
+        <mark key="^" line="35" column="51" />
+      </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckyweb/templates/pay/PayChannelList.html" timestamp="1503462474548">
         <mark key="[" line="46" column="37" />
         <mark key="]" line="46" column="42" />
@@ -420,7 +436,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506661829179">
+      <file name="/Dummy.txt" timestamp="1506669945166">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -492,6 +508,13 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="12" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" timestamp="1506668302037">
+        <mark key="'" line="111" column="10" />
+        <mark key="[" line="166" column="11" />
+        <mark key="]" line="166" column="30" />
+        <mark key="^" line="174" column="23" />
+        <mark key="." line="174" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckycommon/utils/id_generator.py" timestamp="1503463399825">
         <mark key="[" line="204" column="16" />
         <mark key="]" line="204" column="20" />
@@ -518,7 +541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/devops/ansible_hosts" />
       <jump line="109" column="0" filename="$USER_HOME$/workspace/devops/config_files/bigbang.conf" />
       <jump line="32" column="24" filename="$USER_HOME$/workspace/deploy/config.py" />
       <jump line="71" column="8" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
@@ -618,19 +640,20 @@
       <jump line="13" column="0" filename="$USER_HOME$/workspace/deploy/config_files/bigbang-admin.supervisor.conf" />
       <jump line="6" column="18" filename="$USER_HOME$/workspace/PayService/payservice/common/cache/__init__.py" />
       <jump line="19" column="27" filename="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/iapppay.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">SlVTVFBBWV9NQ0hfSUQgPSAnJwpKVVNUUEFZX0FQSV9LRVkgPSAnJwpKVVNUUEFZX0NIQVJHRV9VUkwgPSAnJwo=</text>
+      <register name="&quot;" type="4">
+        <text>0eef96bf8bcb6700700231d5fa81d38e</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>0eef96bf8bcb6700700231d5fa81d38e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2Rpc0Nvbm5lY3Rpb25Qb29sXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SlVTVFBBWV9NQ0hfSUQgPSAnJwpKVVNUUEFZX0FQSV9LRVkgPSAnJwpKVVNUUEFZX0NIQVJHRV9VUkwgPSAnJwo=</text>
+        <text encoding="base64">ICAgICcxMDIxNyc6IHsKICAgICAgICAnQVBJX0tFWSc6ICcwZWVmOTZiZjhiY2I2NzAwNzAwMjMxZDVmYTgxZDM4ZScKICAgIH0sCg==</text>
       </register>
       <register name="p" type="4">
         <text />
