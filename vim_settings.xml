@@ -9,10 +9,10 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" timestamp="1506670758018">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" timestamp="1506673387696">
         <mark key="'" line="19" column="27" />
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="29" column="70" />
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="47" />
         <mark key="." line="29" column="70" />
         <mark key="^" line="29" column="70" />
       </file>
@@ -279,6 +279,11 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/lottery.toml" timestamp="1506673450825">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/devops/README.md" timestamp="1505710894010">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="9" column="17" />
@@ -410,6 +415,12 @@
         <mark key="]" line="35" column="51" />
         <mark key="." line="35" column="51" />
         <mark key="^" line="35" column="51" />
+      </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/kfc.toml" timestamp="1506673449176">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="91" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckyweb/templates/pay/PayChannelList.html" timestamp="1503462474548">
         <mark key="[" line="46" column="37" />
@@ -643,50 +654,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/iapppay.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0eef96bf8bcb6700700231d5fa81d38e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bXlzcWxfYWRkciA9ICJoZWthOjEyMzQ1NkB0Y3AoMTI3LjAuMC4xOjMzMDYpL2JpZ2Jhbmc/Y2hhcnNldD11dGY4bWI0JnBhcnNlVGltZT1UcnVlIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>0eef96bf8bcb6700700231d5fa81d38e</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2Rpc0Nvbm5lY3Rpb25Qb29sXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICcxMDIxNyc6IHsKICAgICAgICAnQVBJX0tFWSc6ICcwZWVmOTZiZjhiY2I2NzAwNzAwMjMxZDVmYTgxZDM4ZScKICAgIH0sCg==</text>
+        <text encoding="base64">bXlzcWxfYWRkciA9ICJoZWthOkhHemh6MjAxOEB0Y3AoMTkyLjE2OC4xMi4xNjozMzA2KS9iaWdiYW5nP2NoYXJzZXQ9dXRmOG1iNCZwYXJzZVRpbWU9VHJ1ZSIK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfVU5JT05dLAo=</text>
+        <text encoding="base64">bXlzcWxfYWRkciA9ICJoZWthOjEyMzQ1NkB0Y3AoMTI3LjAuMC4xOjMzMDYpL2JpZ2Jhbmc/Y2hhcnNldD11dGY4bWI0JnBhcnNlVGltZT1UcnVlIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGNobiA9PSAndGVzdF9wYXknOgogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICMgYXZhaWxhYmxlX3BheV90eXBlc1tQQVlfVFlQRS5KVVNUUEFZX0FMSV0sCiAgICAgICAgICAgICMgYXZhaWxhYmxlX3BheV90eXBlc1tQQVlfVFlQRS5KVVNUUEFZX1dYXSwKICAgICAgICAgICAgIyBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfVU5JT05dLAogICAgICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfVEVTVF0sCiAgICAgICAgXQogICAgaWYgY2huID09ICd0ZW5neXVlJzoKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfQUxJXSwKICAgICAgICAgICAgYXZhaWxhYmxlX3BheV90eXBlc1tQQVlfVFlQRS5KVVNUUEFZX1dYXSwKICAgICAgICAgICAgYXZhaWxhYmxlX3BheV90eXBlc1tQQVlfVFlQRS5KVVNUUEFZX1VOSU9OXSwKICAgICAgICBdCiAgICBlbHNlOgo=</text>
+        <text encoding="base64">bW9uZ29fYWRkciA9IFsiMTI3LjAuMC4xOjI3MDE3Il0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TU9OR09fQUREUiA9ICcxOTIuMTY4LjEyLjE2OjI3MDE3Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RU5BQkxFX0NPRElTID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfVU5JT05dLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGNobiA9PSAndGVzdF9wYXknOgogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICMgYXZhaWxhYmxlX3BheV90eXBlc1tQQVlfVFlQRS5KVVNUUEFZX0FMSV0sCiAgICAgICAgICAgICMgYXZhaWxhYmxlX3BheV90eXBlc1tQQVlfVFlQRS5KVVNUUEFZX1dYXSwKICAgICAgICAgICAgIyBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfVU5JT05dLAogICAgICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfVEVTVF0sCiAgICAgICAgXQogICAgaWYgY2huID09ICd0ZW5neXVlJzoKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfQUxJXSwKICAgICAgICAgICAgYXZhaWxhYmxlX3BheV90eXBlc1tQQVlfVFlQRS5KVVNUUEFZX1dYXSwKICAgICAgICAgICAgYXZhaWxhYmxlX3BheV90eXBlc1tQQVlfVFlQRS5KVVNUUEFZX1VOSU9OXSwKICAgICAgICBdCiAgICBlbHNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RU5BQkxFX0NPRElTID0gRmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">RU5BQkxFX0NPRElTID0gRmFsc2UK</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">RU5BQkxFX0NPRElTID0gRmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>101</text>
