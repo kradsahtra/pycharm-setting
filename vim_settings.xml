@@ -155,12 +155,12 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1506092964805">
-        <mark key="'" line="272" column="4" />
-        <mark key="[" line="224" column="41" />
-        <mark key="]" line="224" column="41" />
-        <mark key="." line="224" column="41" />
-        <mark key="^" line="229" column="37" />
+      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1506653190231">
+        <mark key="'" line="277" column="4" />
+        <mark key="[" line="264" column="34" />
+        <mark key="]" line="264" column="36" />
+        <mark key="." line="264" column="36" />
+        <mark key="^" line="264" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckycommon/preset/db/pay_channel.py" timestamp="1503304845785">
         <mark key="[" line="3" column="0" />
@@ -367,11 +367,11 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/PayService/payservice/uwsgi.ini" timestamp="1506652365688">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="5" column="18" />
-        <mark key="^" line="5" column="18" />
+      <file name="$USER_HOME$/workspace/PayService/payservice/uwsgi.ini" timestamp="1506653141865">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+        <mark key="^" line="15" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/settings_prod.py" timestamp="1505899706185">
         <mark key="'" line="21" column="0" />
@@ -513,7 +513,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506439415459">
+      <file name="/Dummy.txt" timestamp="1506653297394">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -735,16 +735,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bigbang-admin</text>
+        <text>bigbang</text>
       </register>
       <register name="-" type="4">
-        <text>bigbang-admin</text>
+        <text>bigbang</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcm94eUFnZW50XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>/opt/bigbang-admin/enabled/app/base/wsgi.py</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmICdiaWdiYW5nJyA9PSBfUk9MRToKICAgICAgICBzdWRvKCJzdXBlcnZpc29yY3RsIHN0b3AgYmlnYmFuZzoiKQogICAgICAgIHNsZWVwKDUpCiAgICAgICAgc3VkbygiY2hvd24gdWJ1bnR1OnVidW50dSAtUiAlcyIgJSBfTE9HX0RJUikKICAgICAgICBzdWRvKCJzdXBlcnZpc29yY3RsIHN0YXJ0IGJpZ2Jhbmc6IikK</text>
       </register>
       <register name="p" type="4">
         <text />
