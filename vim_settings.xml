@@ -410,11 +410,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/youpay.py" timestamp="1506683684459">
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="51" />
-        <mark key="." line="34" column="51" />
-        <mark key="^" line="34" column="51" />
+      <file name="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/youpay.py" timestamp="1506733874383">
+        <mark key="[" line="51" column="66" />
+        <mark key="]" line="51" column="74" />
+        <mark key="." line="51" column="74" />
+        <mark key="^" line="51" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/kfc.toml" timestamp="1506673449176">
         <mark key="[" line="13" column="0" />
@@ -447,7 +447,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506683615743">
+      <file name="/Dummy.txt" timestamp="1506733884996">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -654,17 +654,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/iapppay.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bXlzcWxfYWRkciA9ICJoZWthOjEyMzQ1NkB0Y3AoMTI3LjAuMC4xOjMzMDYpL2JpZ2Jhbmc/Y2hhcnNldD11dGY4bWI0JnBhcnNlVGltZT1UcnVlIgo=</text>
+      <register name="&quot;" type="4">
+        <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>127.0.0.1</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2Rpc0Nvbm5lY3Rpb25Qb29sXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bXlzcWxfYWRkciA9ICJoZWthOkhHemh6MjAxOEB0Y3AoMTkyLjE2OC4xMi4xNjozMzA2KS9iaWdiYW5nP2NoYXJzZXQ9dXRmOG1iNCZwYXJzZVRpbWU9VHJ1ZSIK</text>
+      <register name="0" type="4">
+        <text>(
+        parameter['appid'], parameter['orderid'], parameter['fee'],
+        parameter['tongbu_url'], key)</text>
       </register>
       <register name="p" type="4">
         <text />
