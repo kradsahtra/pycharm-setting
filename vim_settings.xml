@@ -9,10 +9,10 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" timestamp="1506673387696">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" timestamp="1506751681203">
         <mark key="'" line="19" column="27" />
-        <mark key="[" line="15" column="35" />
-        <mark key="]" line="15" column="47" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="46" />
         <mark key="." line="29" column="70" />
         <mark key="^" line="29" column="70" />
       </file>
@@ -35,11 +35,11 @@
         <mark key="^" line="24" column="72" />
         <mark key="." line="24" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/PayService/payservice/base/settings_prod.py" timestamp="1506741075243">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="44" />
-        <mark key="^" line="21" column="38" />
-        <mark key="." line="21" column="44" />
+      <file name="$USER_HOME$/workspace/PayService/payservice/base/settings_prod.py" timestamp="1506751689780">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/model/pay_channel.py" timestamp="1503463972187">
         <mark key="[" line="31" column="4" />
@@ -113,6 +113,7 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/PayService/payservice/common/timer/handler.py" timestamp="1506751333752" />
       <file name="$USER_HOME$/workspace/PayService/payservice/api/urls.py" timestamp="1506667620254" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/uwsgi-admin.ini" timestamp="1506652354289">
         <mark key="[" line="5" column="11" />
@@ -231,6 +232,7 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/third/justpay.py" timestamp="1506750520373" />
       <file name="$USER_HOME$/workspace/agency_pay/apps/admin/models/agency_account_model.py" timestamp="1504166755758">
         <mark key="[" line="23" column="50" />
         <mark key="]" line="23" column="53" />
@@ -375,6 +377,7 @@
         <mark key="." line="79" column="16" />
         <mark key="^" line="79" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/PayService/payservice/common/timer/__init__.py" timestamp="1506751399338" />
       <file name="$USER_HOME$/workspace/async_demo/server.py" timestamp="1502796831880">
         <mark key="[" line="39" column="17" />
         <mark key="]" line="40" column="19" />
@@ -448,7 +451,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506733884996">
+      <file name="/Dummy.txt" timestamp="1506751400054">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -520,7 +523,7 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" timestamp="1506668302037">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" timestamp="1506750530660">
         <mark key="'" line="111" column="10" />
         <mark key="[" line="166" column="11" />
         <mark key="]" line="166" column="30" />
@@ -655,17 +658,17 @@
       <jump line="53" column="107" filename="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/youpay.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http://sanfang.youpay.cc/dealpay.php</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q0VMRVJZX0JST0tFUiA9ICdyZWRpczovLzE5Mi4xNjguMTIuMTY6NjM3OS8vJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>http://sanfang.youpay.cc/dealpay.php</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfR0FURVdBWVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbyh1J29yaWdpbiBzdHJpbmc6ICVzLCBzaWduOiVzJywgcywgc2lnbikK</text>
+        <text encoding="base64">Q0VMRVJZX0JST0tFUiA9ICdyZWRpczovLzE5Mi4xNjguMTIuMTY6NjM3OS8vJwo=</text>
       </register>
       <register name="p" type="4">
         <text />
