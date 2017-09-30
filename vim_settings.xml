@@ -410,11 +410,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/youpay.py" timestamp="1506733874383">
-        <mark key="[" line="51" column="66" />
-        <mark key="]" line="51" column="74" />
-        <mark key="." line="51" column="74" />
-        <mark key="^" line="51" column="74" />
+      <file name="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/youpay.py" timestamp="1506737213721">
+        <mark key="[" line="94" column="38" />
+        <mark key="]" line="94" column="54" />
+        <mark key="." line="94" column="54" />
+        <mark key="^" line="94" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/kfc.toml" timestamp="1506673449176">
         <mark key="[" line="13" column="0" />
@@ -655,51 +655,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>()</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2Rpc0Nvbm5lY3Rpb25Qb29sXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>(
-        parameter['appid'], parameter['orderid'], parameter['fee'],
-        parameter['tongbu_url'], key)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbyh1J29yaWdpbiBzdHJpbmc6ICVzLCBzaWduOiVzJywgcywgc2lnbikK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bXlzcWxfYWRkciA9ICJoZWthOjEyMzQ1NkB0Y3AoMTI3LjAuMC4xOjMzMDYpL2JpZ2Jhbmc/Y2hhcnNldD11dGY4bWI0JnBhcnNlVGltZT1UcnVlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bW9uZ29fYWRkciA9IFsiMTI3LjAuMC4xOjI3MDE3Il0K</text>
+        <text encoding="base64">bXlzcWxfYWRkciA9ICJoZWthOjEyMzQ1NkB0Y3AoMTI3LjAuMC4xOjMzMDYpL2JpZ2Jhbmc/Y2hhcnNldD11dGY4bWI0JnBhcnNlVGltZT1UcnVlIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TU9OR09fQUREUiA9ICcxOTIuMTY4LjEyLjE2OjI3MDE3Jwo=</text>
+        <text encoding="base64">bW9uZ29fYWRkciA9IFsiMTI3LjAuMC4xOjI3MDE3Il0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfVU5JT05dLAo=</text>
+        <text encoding="base64">TU9OR09fQUREUiA9ICcxOTIuMTY4LjEyLjE2OjI3MDE3Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGNobiA9PSAndGVzdF9wYXknOgogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICMgYXZhaWxhYmxlX3BheV90eXBlc1tQQVlfVFlQRS5KVVNUUEFZX0FMSV0sCiAgICAgICAgICAgICMgYXZhaWxhYmxlX3BheV90eXBlc1tQQVlfVFlQRS5KVVNUUEFZX1dYXSwKICAgICAgICAgICAgIyBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfVU5JT05dLAogICAgICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfVEVTVF0sCiAgICAgICAgXQogICAgaWYgY2huID09ICd0ZW5neXVlJzoKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfQUxJXSwKICAgICAgICAgICAgYXZhaWxhYmxlX3BheV90eXBlc1tQQVlfVFlQRS5KVVNUUEFZX1dYXSwKICAgICAgICAgICAgYXZhaWxhYmxlX3BheV90eXBlc1tQQVlfVFlQRS5KVVNUUEFZX1VOSU9OXSwKICAgICAgICBdCiAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfVU5JT05dLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGNobiA9PSAndGVzdF9wYXknOgogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICMgYXZhaWxhYmxlX3BheV90eXBlc1tQQVlfVFlQRS5KVVNUUEFZX0FMSV0sCiAgICAgICAgICAgICMgYXZhaWxhYmxlX3BheV90eXBlc1tQQVlfVFlQRS5KVVNUUEFZX1dYXSwKICAgICAgICAgICAgIyBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfVU5JT05dLAogICAgICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfVEVTVF0sCiAgICAgICAgXQogICAgaWYgY2huID09ICd0ZW5neXVlJzoKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfQUxJXSwKICAgICAgICAgICAgYXZhaWxhYmxlX3BheV90eXBlc1tQQVlfVFlQRS5KVVNUUEFZX1dYXSwKICAgICAgICAgICAgYXZhaWxhYmxlX3BheV90eXBlc1tQQVlfVFlQRS5KVVNUUEFZX1VOSU9OXSwKICAgICAgICBdCiAgICBlbHNlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RU5BQkxFX0NPRElTID0gRmFsc2UK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">RU5BQkxFX0NPRElTID0gRmFsc2UK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>101</text>
