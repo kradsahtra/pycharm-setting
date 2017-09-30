@@ -410,8 +410,8 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/youpay.py" timestamp="1506741472911">
-        <mark key="'" line="46" column="44" />
+      <file name="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/youpay.py" timestamp="1506742401616">
+        <mark key="'" line="16" column="0" />
         <mark key="[" line="88" column="38" />
         <mark key="]" line="88" column="54" />
         <mark key="." line="88" column="54" />
@@ -553,7 +553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="24" filename="$USER_HOME$/workspace/deploy/config.py" />
       <jump line="71" column="8" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
       <jump line="78" column="5" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
@@ -653,6 +652,7 @@
       <jump line="19" column="27" filename="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/iapppay.py" />
       <jump line="52" column="44" filename="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/youpay.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/youpay.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -662,7 +662,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb2Rpc0Nvbm5lY3Rpb25Qb29sXD4=</text>
+        <text encoding="base64">XDxfR0FURVdBWVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbyh1J29yaWdpbiBzdHJpbmc6ICVzLCBzaWduOiVzJywgcywgc2lnbikK</text>
@@ -705,9 +705,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb2Rpc0Nvbm5lY3Rpb25Qb29sXD4=</last-search>
+      <last-search encoding="base64">XDxfR0FURVdBWVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb2Rpc0Nvbm5lY3Rpb25Qb29sXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfR0FURVdBWVw+</last-pattern>
       <last-replace>Agency</last-replace>
       <last-substitute>Admin</last-substitute>
       <last-dir>1</last-dir>
@@ -715,7 +715,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNWVNRTF9DT05GXD4=</entry>
         <entry encoding="base64">XDxTTEFWRV9DT05GXD4=</entry>
         <entry encoding="base64">XDxBRE1JTl9DT05GXD4=</entry>
         <entry encoding="base64">XDxNT05HT19BRERSXD4=</entry>
@@ -735,6 +734,7 @@
         <entry encoding="base64">XDxjaGVja19vcmlnaW5cPg==</entry>
         <entry encoding="base64">XDxQcm94eUFnZW50XD4=</entry>
         <entry encoding="base64">XDxDb2Rpc0Nvbm5lY3Rpb25Qb29sXD4=</entry>
+        <entry encoding="base64">XDxfR0FURVdBWVw+</entry>
       </history-search>
       <history-cmd>
         <entry>61</entry>
