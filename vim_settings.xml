@@ -410,12 +410,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/youpay.py" timestamp="1506742401616">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="88" column="38" />
-        <mark key="]" line="88" column="54" />
-        <mark key="." line="88" column="54" />
-        <mark key="^" line="88" column="54" />
+      <file name="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/youpay.py" timestamp="1506744372517">
+        <mark key="'" line="53" column="107" />
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="47" />
+        <mark key="." line="16" column="47" />
+        <mark key="^" line="16" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/kfc.toml" timestamp="1506673449176">
         <mark key="[" line="13" column="0" />
@@ -553,7 +553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="8" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
       <jump line="78" column="5" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
       <jump line="92" column="4" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
@@ -653,13 +652,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/iapppay.py" />
       <jump line="52" column="44" filename="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/youpay.py" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/youpay.py" />
+      <jump line="53" column="107" filename="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/youpay.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>http://sanfang.youpay.cc/dealpay.php</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>http://sanfang.youpay.cc/dealpay.php</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfR0FURVdBWVw+</text>
