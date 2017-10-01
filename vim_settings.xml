@@ -248,10 +248,11 @@
         <mark key="." line="23" column="53" />
         <mark key="^" line="23" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/check_service.py" timestamp="1506827140925">
-        <mark key="[" line="13" column="10" />
-        <mark key="]" line="13" column="11" />
-        <mark key="." line="13" column="11" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/check_service.py" timestamp="1506830140466">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="64" />
+        <mark key="." line="17" column="20" />
+        <mark key="^" line="14" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/usercommon/level/handler.py" timestamp="1502946695112">
         <mark key="[" line="105" column="28" />
@@ -678,50 +679,50 @@
       <jump line="665" column="32" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/xinge.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">WElOR0VfQU5EUk9JRF9BQ0NFU1NfSUQgPSAnJwpYSU5HRV9BTkRST0lEX1NFQ1JFVCA9ICcnCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkuaXNvZm9ybWF0KCkgKyAnICcgKyA=</text>
       </register>
       <register name="-" type="4">
-        <text>write</text>
+        <text>response.status_code</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxYSU5HRV9BTkRST0lEX0FDQ0VTU19JRFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">WElOR0VfQU5EUk9JRF9BQ0NFU1NfSUQgPSAnJwpYSU5HRV9BTkRST0lEX1NFQ1JFVCA9ICcnCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkuaXNvZm9ybWF0KCkgKyAnICcgKyA=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbignL3RtcC9zdGF0dXMubG9nJywgJ2EnKSBhcyBmOgogICAgICAgIGYud3JpdGUoc3RyKHJlc3BvbnNlLnN0YXR1c19jb2RlKSArICdcbicpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmLmZsdXNoKCkK</text>
+        <text encoding="base64">ICAgICAgICBmLndyaXRlKHN0cihyZXNwb25zZS5zdGF0dXNfY29kZSkgKyAnXG4nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlLnN0YXR1c19jb2RlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlLnN0YXR1c19jb2RlKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmLmZsdXNoKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlLnN0YXR1c19jb2RlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXJsID0gImh0dHA6Ly93d3cubHVja3ljcDM2NS5jb20vYXBpL3YxL2F1dGgvbG9naW4iCgpwYXlsb2FkID0gIntcblx0XCJwXCI6IFwiW2FpZDo1MTA1MmUxYjhjNjgwMzMwXSxbY29kZTpDTl0sW2xhbjp6aF0sW3N2YzoyM10sW3N2bjo2LjBdLFtjdm46MS40LjBdLFtjdmM6MTFdLFtjaG46Z29vZ2xlXVwiLFxuXHRcInVzZXJfbmFtZVwiOiBcImFydGhhc1wiLFxuXHRcInBhc3N3b3JkXCI6IFwiMzMzMzMzXCJcbn0iCmhlYWRlcnMgPSB7J2NvbnRlbnQtdHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJ30K</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlLnN0YXR1c19jb2RlKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bXlzcWxfYWRkciA9ICJoZWthOjEyMzQ1NkB0Y3AoMTI3LjAuMC4xOjMzMDYpL2JpZ2Jhbmc/Y2hhcnNldD11dGY4bWI0JnBhcnNlVGltZT1UcnVlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>101</text>
