@@ -248,6 +248,11 @@
         <mark key="." line="23" column="53" />
         <mark key="^" line="23" column="53" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/check_service.py" timestamp="1506827140925">
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="11" />
+        <mark key="." line="13" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/usercommon/level/handler.py" timestamp="1502946695112">
         <mark key="[" line="105" column="28" />
         <mark key="]" line="105" column="54" />
@@ -668,10 +673,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q0VMRVJZX0JST0tFUiA9ICdyZWRpczovLzE5Mi4xNjguMTIuMTY6NjM3OS8vJwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>127.0.0.1</text>
+        <text>write</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfR0FURVdBWVw+</text>
@@ -683,34 +688,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bXlzcWxfYWRkciA9ICJoZWthOjEyMzQ1NkB0Y3AoMTI3LjAuMC4xOjMzMDYpL2JpZ2Jhbmc/Y2hhcnNldD11dGY4bWI0JnBhcnNlVGltZT1UcnVlIgo=</text>
+        <text encoding="base64">ICAgICAgICBmLmZsdXNoKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bW9uZ29fYWRkciA9IFsiMTI3LjAuMC4xOjI3MDE3Il0K</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlLnN0YXR1c19jb2RlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TU9OR09fQUREUiA9ICcxOTIuMTY4LjEyLjE2OjI3MDE3Jwo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlLnN0YXR1c19jb2RlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfVU5JT05dLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGNobiA9PSAndGVzdF9wYXknOgogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICMgYXZhaWxhYmxlX3BheV90eXBlc1tQQVlfVFlQRS5KVVNUUEFZX0FMSV0sCiAgICAgICAgICAgICMgYXZhaWxhYmxlX3BheV90eXBlc1tQQVlfVFlQRS5KVVNUUEFZX1dYXSwKICAgICAgICAgICAgIyBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfVU5JT05dLAogICAgICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfVEVTVF0sCiAgICAgICAgXQogICAgaWYgY2huID09ICd0ZW5neXVlJzoKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfQUxJXSwKICAgICAgICAgICAgYXZhaWxhYmxlX3BheV90eXBlc1tQQVlfVFlQRS5KVVNUUEFZX1dYXSwKICAgICAgICAgICAgYXZhaWxhYmxlX3BheV90eXBlc1tQQVlfVFlQRS5KVVNUUEFZX1VOSU9OXSwKICAgICAgICBdCiAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXJsID0gImh0dHA6Ly93d3cubHVja3ljcDM2NS5jb20vYXBpL3YxL2F1dGgvbG9naW4iCgpwYXlsb2FkID0gIntcblx0XCJwXCI6IFwiW2FpZDo1MTA1MmUxYjhjNjgwMzMwXSxbY29kZTpDTl0sW2xhbjp6aF0sW3N2YzoyM10sW3N2bjo2LjBdLFtjdm46MS40LjBdLFtjdmM6MTFdLFtjaG46Z29vZ2xlXVwiLFxuXHRcInVzZXJfbmFtZVwiOiBcImFydGhhc1wiLFxuXHRcInBhc3N3b3JkXCI6IFwiMzMzMzMzXCJcbn0iCmhlYWRlcnMgPSB7J2NvbnRlbnQtdHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJ30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RU5BQkxFX0NPRElTID0gRmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bXlzcWxfYWRkciA9ICJoZWthOjEyMzQ1NkB0Y3AoMTI3LjAuMC4xOjMzMDYpL2JpZ2Jhbmc/Y2hhcnNldD11dGY4bWI0JnBhcnNlVGltZT1UcnVlIgo=</text>
       </register>
       <register name=":" type="4">
         <text>101</text>
