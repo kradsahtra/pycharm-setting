@@ -9,12 +9,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" timestamp="1506751681203">
-        <mark key="'" line="19" column="27" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="46" />
-        <mark key="." line="29" column="70" />
-        <mark key="^" line="29" column="70" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" timestamp="1506828350855">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="32" column="24" />
+        <mark key="]" line="32" column="55" />
+        <mark key="." line="32" column="55" />
+        <mark key="^" line="32" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/db/account.py" timestamp="1504512532190">
         <mark key="[" line="184" column="4" />
@@ -313,10 +313,10 @@
         <mark key="^" line="163" column="82" />
       </file>
       <file name="$USER_HOME$/workspace/PayService/payservice/scripts/pay.supervisor.conf" timestamp="1506652141214" />
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings.py" timestamp="1506670679906">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings.py" timestamp="1506828294841">
         <mark key="'" line="182" column="0" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="92" column="22" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="74" column="24" />
         <mark key="." line="39" column="49" />
         <mark key="^" line="39" column="49" />
       </file>
@@ -392,6 +392,9 @@
         <mark key="^" line="79" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/PayService/payservice/common/timer/__init__.py" timestamp="1506751399338" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/xinge.py" timestamp="1506828612082">
+        <mark key="'" line="665" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/async_demo/server.py" timestamp="1502796831880">
         <mark key="[" line="39" column="17" />
         <mark key="]" line="40" column="19" />
@@ -414,6 +417,9 @@
         <mark key="]" line="100" column="74" />
         <mark key="." line="100" column="74" />
         <mark key="^" line="100" column="74" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/push_notification.py" timestamp="1506828286531">
+        <mark key="'" line="15" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/Lottery_longconnect/luckycommon/async/async_job.py" timestamp="1502525990252">
         <mark key="[" line="51" column="0" />
@@ -570,10 +576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
-      <jump line="92" column="4" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
-      <jump line="260" column="4" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
-      <jump line="20" column="37" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.supervisor.conf" />
       <jump line="49" column="19" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.supervisor.conf" />
       <jump line="2" column="5" filename="$USER_HOME$/workspace/bigbang-server/bigbang/uwsgi.ini" />
       <jump line="34" column="8" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/cq_lf/activity/handler.py" />
@@ -670,19 +672,23 @@
       <jump line="16" column="0" filename="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/youpay.py" />
       <jump line="53" column="107" filename="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/youpay.py" />
       <jump line="96" column="33" filename="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/zfpay.py" />
+      <jump line="497" column="59" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/xinge.py" />
+      <jump line="15" column="36" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/push_notification.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" />
+      <jump line="665" column="32" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/xinge.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">WElOR0VfQU5EUk9JRF9BQ0NFU1NfSUQgPSAnJwpYSU5HRV9BTkRST0lEX1NFQ1JFVCA9ICcnCg==</text>
       </register>
       <register name="-" type="4">
         <text>write</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfR0FURVdBWVw+</text>
+        <text encoding="base64">XDxYSU5HRV9BTkRST0lEX0FDQ0VTU19JRFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q0VMRVJZX0JST0tFUiA9ICdyZWRpczovLzE5Mi4xNjguMTIuMTY6NjM3OS8vJwo=</text>
+        <text encoding="base64">WElOR0VfQU5EUk9JRF9BQ0NFU1NfSUQgPSAnJwpYSU5HRV9BTkRST0lEX1NFQ1JFVCA9ICcnCg==</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -722,9 +728,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfR0FURVdBWVw+</last-search>
+      <last-search encoding="base64">XDxYSU5HRV9BTkRST0lEX0FDQ0VTU19JRFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfR0FURVdBWVw+</last-pattern>
+      <last-pattern encoding="base64">XDxYSU5HRV9BTkRST0lEX0FDQ0VTU19JRFw+</last-pattern>
       <last-replace>Agency</last-replace>
       <last-substitute>Admin</last-substitute>
       <last-dir>1</last-dir>
@@ -732,7 +738,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTTEFWRV9DT05GXD4=</entry>
         <entry encoding="base64">XDxBRE1JTl9DT05GXD4=</entry>
         <entry encoding="base64">XDxNT05HT19BRERSXD4=</entry>
         <entry encoding="base64">XDxsb3R0ZXJ5XD4=</entry>
@@ -752,6 +757,7 @@
         <entry encoding="base64">XDxQcm94eUFnZW50XD4=</entry>
         <entry encoding="base64">XDxDb2Rpc0Nvbm5lY3Rpb25Qb29sXD4=</entry>
         <entry encoding="base64">XDxfR0FURVdBWVw+</entry>
+        <entry encoding="base64">XDxYSU5HRV9BTkRST0lEX0FDQ0VTU19JRFw+</entry>
       </history-search>
       <history-cmd>
         <entry>61</entry>
