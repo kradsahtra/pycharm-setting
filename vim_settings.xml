@@ -165,11 +165,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/zfpay.py" timestamp="1506837653471">
-        <mark key="'" line="97" column="33" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/zfpay.py" timestamp="1506843948128">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="83" column="44" />
+        <mark key="]" line="83" column="93" />
+        <mark key="." line="83" column="44" />
+        <mark key="^" line="83" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/PayService/payservice/base/settings_online.py" timestamp="1506660274754">
         <mark key="[" line="17" column="0" />
@@ -492,7 +493,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506836257416">
+      <file name="/Dummy.txt" timestamp="1506843590139">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -604,7 +605,6 @@
       <file name="$USER_HOME$/workspace/PayService/payservice/common/cache/redis_cache.py" timestamp="1506836252251" />
     </filemarks>
     <jumps>
-      <jump line="11" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/cq_lf/activity/handler.py" />
       <jump line="31" column="10" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/cq_lf/activity/handler.py" />
       <jump line="27" column="12" filename="$USER_HOME$/workspace/bigbang-server/bigbang/requirements.txt" />
       <jump line="224" column="28" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" />
@@ -704,19 +704,20 @@
       <jump line="10" column="10" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/check_service.py" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/check_service.py" />
       <jump line="26" column="6" filename="$USER_HOME$/workspace/PayService/payservice/common/cache/__init__.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/zfpay.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjYWNoZV9pZCA9IHJlZGlzX2NhY2hlLnNhdmVfaHRtbChwYXkuaWQsIHJlc3BvbnNlLnRleHQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>settings.PAY_CACHE_URL + cache_id</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxYSU5HRV9BTkRST0lEX0FDQ0VTU19JRFw+</text>
+        <text encoding="base64">XDxfUVVFUllfR0FURVdBWVw+</text>
       </register>
       <register name="0" type="4">
-        <text>response.text</text>
+        <text>json.dumps(parameter_dict, separators=(',', ':'))</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -756,9 +757,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxYSU5HRV9BTkRST0lEX0FDQ0VTU19JRFw+</last-search>
+      <last-search encoding="base64">XDxfUVVFUllfR0FURVdBWVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxYSU5HRV9BTkRST0lEX0FDQ0VTU19JRFw+</last-pattern>
+      <last-pattern encoding="base64">XDxfUVVFUllfR0FURVdBWVw+</last-pattern>
       <last-replace>Agency</last-replace>
       <last-substitute>Admin</last-substitute>
       <last-dir>1</last-dir>
@@ -766,7 +767,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBRE1JTl9DT05GXD4=</entry>
         <entry encoding="base64">XDxNT05HT19BRERSXD4=</entry>
         <entry encoding="base64">XDxsb3R0ZXJ5XD4=</entry>
         <entry encoding="base64">XDxwcm9jZXNzb3JcPg==</entry>
@@ -786,6 +786,7 @@
         <entry encoding="base64">XDxDb2Rpc0Nvbm5lY3Rpb25Qb29sXD4=</entry>
         <entry encoding="base64">XDxfR0FURVdBWVw+</entry>
         <entry encoding="base64">XDxYSU5HRV9BTkRST0lEX0FDQ0VTU19JRFw+</entry>
+        <entry encoding="base64">XDxfUVVFUllfR0FURVdBWVw+</entry>
       </history-search>
       <history-cmd>
         <entry>61</entry>
