@@ -354,6 +354,13 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="15" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/devops/bootstrap.yml" timestamp="1506908140492">
+        <mark key="'" line="69" column="19" />
+        <mark key="[" line="67" column="17" />
+        <mark key="]" line="67" column="19" />
+        <mark key="." line="67" column="19" />
+        <mark key="^" line="67" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/PayService/payservice/base/settings.py" timestamp="1506836241051">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
@@ -605,8 +612,6 @@
       <file name="$USER_HOME$/workspace/PayService/payservice/common/cache/redis_cache.py" timestamp="1506836252251" />
     </filemarks>
     <jumps>
-      <jump line="31" column="10" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/cq_lf/activity/handler.py" />
-      <jump line="27" column="12" filename="$USER_HOME$/workspace/bigbang-server/bigbang/requirements.txt" />
       <jump line="224" column="28" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" />
       <jump line="205" column="56" filename="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings.py" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" />
@@ -705,19 +710,21 @@
       <jump line="14" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/check_service.py" />
       <jump line="26" column="6" filename="$USER_HOME$/workspace/PayService/payservice/common/cache/__init__.py" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/zfpay.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/workspace/devops/bootstrap.yml" />
+      <jump line="69" column="19" filename="$USER_HOME$/workspace/devops/bootstrap.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>admin</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>admin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfUVVFUllfR0FURVdBWVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>json.dumps(parameter_dict, separators=(',', ':'))</text>
+      <register name="0" type="2">
+        <text encoding="base64">LSBob3N0czogYmlnYmFuZy1hZG1pbgogIHRhc2tzOgogIC0gbmFtZTogSW5zdGFsbCBOR0lOWAogICAgYmVjb21lOiB0cnVlCiAgICBhcHQ6IG5hbWU9bmdpbnggc3RhdGU9bGF0ZXN0Cg==</text>
       </register>
       <register name="p" type="4">
         <text />
