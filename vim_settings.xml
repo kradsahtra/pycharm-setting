@@ -96,8 +96,8 @@
         <mark key="^" line="154" column="24" />
         <mark key="." line="160" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/check_service_ip.py" timestamp="1506834995240">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/check_service_ip.py" timestamp="1506921580894">
+        <mark key="'" line="0" column="21" />
         <mark key="[" line="10" column="23" />
         <mark key="]" line="10" column="25" />
         <mark key="." line="10" column="25" />
@@ -249,6 +249,13 @@
         <mark key="]" line="23" column="53" />
         <mark key="." line="23" column="53" />
         <mark key="^" line="23" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/check_service.py" timestamp="1506921454261">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/usercommon/level/handler.py" timestamp="1502946695112">
         <mark key="[" line="105" column="28" />
@@ -576,8 +583,6 @@
       <file name="$USER_HOME$/workspace/PayService/payservice/common/cache/redis_cache.py" timestamp="1506836252251" />
     </filemarks>
     <jumps>
-      <jump line="224" column="28" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" />
-      <jump line="205" column="56" filename="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings.py" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" />
       <jump line="140" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings.py" />
       <jump line="269" column="34" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/parse_track_log.py" />
@@ -676,6 +681,8 @@
       <jump line="25" column="0" filename="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/zfpay.py" />
       <jump line="61" column="0" filename="$USER_HOME$/workspace/devops/bootstrap.yml" />
       <jump line="69" column="19" filename="$USER_HOME$/workspace/devops/bootstrap.yml" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/check_service_ip.py" />
+      <jump line="0" column="21" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/check_service_ip.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
