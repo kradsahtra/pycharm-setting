@@ -57,6 +57,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings.py" timestamp="1507287204675">
+        <mark key="'" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/check_service_ip.py" timestamp="1506927778122">
         <mark key="'" line="0" column="21" />
         <mark key="[" line="10" column="23" />
@@ -241,6 +244,9 @@
         <mark key="^" line="6" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/PayService/payservice/common/timer/__init__.py" timestamp="1506751399338" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/xinge.py" timestamp="1506828612082">
+        <mark key="'" line="665" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/LotteryService/luckyplatform/urls.py" timestamp="1507259020701" />
       <file name="$USER_HOME$/workspace/bigbang-server/deploy/deploy.sh" timestamp="1506912754300" />
       <file name="$USER_HOME$/workspace/LotteryService/luckyplatform/settings_online.py" timestamp="1506092253393">
@@ -258,6 +264,9 @@
         <mark key="^" line="47" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/LotteryService/luckycommon/cache/redis_cache.py" timestamp="1507201137526" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/push_notification.py" timestamp="1506949651882">
+        <mark key="'" line="15" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/LotteryService/tools/start_next.py" timestamp="1507200295163">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="30" column="15" />
@@ -297,7 +306,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507258384686">
+      <file name="/Dummy.txt" timestamp="1507287113894">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -310,12 +319,12 @@
         <mark key="." line="153" column="23" />
         <mark key="^" line="47" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/LotteryService/luckyplatform/settings.py" timestamp="1507200547430">
-        <mark key="'" line="148" column="4" />
-        <mark key="[" line="36" column="19" />
-        <mark key="]" line="36" column="27" />
-        <mark key="." line="36" column="19" />
-        <mark key="^" line="255" column="14" />
+      <file name="$USER_HOME$/workspace/LotteryService/luckyplatform/settings.py" timestamp="1507287449886">
+        <mark key="'" line="151" column="0" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
+        <mark key="^" line="147" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/LotteryService/uwsgi.ini" timestamp="1507258904637">
         <mark key="[" line="15" column="28" />
@@ -339,8 +348,6 @@
       <file name="$USER_HOME$/workspace/PayService/payservice/common/cache/redis_cache.py" timestamp="1506836252251" />
     </filemarks>
     <jumps>
-      <jump line="12" column="9" filename="$USER_HOME$/workspace/deploy/config_files/kfc.supervisor.conf" />
-      <jump line="21" column="9" filename="$USER_HOME$/workspace/deploy/config_files/kfc.supervisor.conf" />
       <jump line="29" column="9" filename="$USER_HOME$/workspace/deploy/config_files/kfc.supervisor.conf" />
       <jump line="45" column="15" filename="$USER_HOME$/workspace/deploy/config_files/kfc.supervisor.conf" />
       <jump line="43" column="9" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.supervisor.conf" />
@@ -439,61 +446,63 @@
       <jump line="98" column="19" filename="$USER_HOME$/workspace/LotteryService/luckycommon/timer/processor.py" />
       <jump line="20" column="32" filename="$USER_HOME$/workspace/LotteryService/luckycommon/timer/processor.py" />
       <jump line="172" column="68" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
+      <jump line="151" column="0" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>adopt to new deploy tool</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>adopt to new deploy tool</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfUVVFUllfR0FURVdBWVw+</text>
+        <text encoding="base64">XDxMT0dHSU5HXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>127.0.0.1</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmcud2Fybignbm8gZW52IHNwZWNpZmllZCBzZXR0aW5ncyBsb2FkZWQsIHVzZSBkZWZhdWx0LicpCg==</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUKaW1wb3J0IGpzb24KaW1wb3J0IGxvZ2dpbmcKZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFByb2Nlc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUKaW1wb3J0IGpzb24KaW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUKaW1wb3J0IGpzb24KaW1wb3J0IGxvZ2dpbmcKZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFByb2Nlc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUKaW1wb3J0IGpzb24KaW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFjdGl2aXR5X2lkID0gc3lzLmFyZ3ZbMV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoK</text>
+        <text encoding="base64">ICAgIGFjdGl2aXR5X2lkID0gc3lzLmFyZ3ZbMV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdkYic6ICdteXNxbDovL2x1Y2t5OkhHemh6MjAxN0AxOTIuMTY4LjEyLjE2OjMzMDYvYmlnYmFuZ19hZG1pbj9jaGFyc2V0PXV0ZjgnLAo=</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdkYic6ICdteXNxbDovL2x1Y2t5OkhHemh6MjAxN0AxOTIuMTY4LjEyLjE3OjMzMDYvYmlnYmFuZz9jaGFyc2V0PXV0ZjgnLAo=</text>
+        <text encoding="base64">ICAgICdkYic6ICdteXNxbDovL2x1Y2t5OkhHemh6MjAxN0AxOTIuMTY4LjEyLjE2OjMzMDYvYmlnYmFuZ19hZG1pbj9jaGFyc2V0PXV0ZjgnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">REVCVUcgPSBGYWxzZQoKVEVNUExBVEVfREVCVUcgPSBUcnVlCgpBTExPV0VEX0hPU1RTID0gWycqJ10KCkNPUlNfT1JJR0lOX0FMTE9XX0FMTCA9IFRydWUKCkNPVU5UUlkgPSAnY24nCgpXRUJfQVBQX1JPT1RfVVJMID0gJ2h0dHA6Ly8xOTIuMTY4LjIwLjYxJwoKQ0VMRVJZX0JST0tFUiA9ICdyZWRpczovLzEyNy4wLjAuMTo2Mzc5Ly8nCgpNT05HT19BRERSID0gIm1vbmdvZGI6Ly8xOTIuMTY4LjEuMjAzLyIKClNFUlZJQ0VfSUQgPSAxCgpHQU1FX0NJVFlfRU5UUlkgPSAnMTEjaHR0cDovLzE5Mi4xNjguMjAuNjE6OTg5OC9kaXNjb3ZlcnkvZ2FtZV9jaXR5JwoKTVlTUUxfQ09ORiA9IHsKICAgICdkYic6ICdteXNxbDovL2x1Y2t5OlBANTV3b3JkQDE5Mi4xNjguMjAuNjU6MzMwNi9iaWdiYW5nP2NoYXJzZXQ9dXRmOCcsCiAgICAnREVCVUcnOiBERUJVRwp9CgpSRURJU19IT1NUID0gJzEyNy4wLjAuMScKUkVESVNfUE9SVCA9IDYzNzkK</text>
+        <text encoding="base64">ICAgICdkYic6ICdteXNxbDovL2x1Y2t5OkhHemh6MjAxN0AxOTIuMTY4LjEyLjE3OjMzMDYvYmlnYmFuZz9jaGFyc2V0PXV0ZjgnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>101</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfUVVFUllfR0FURVdBWVw+</last-search>
+      <last-search encoding="base64">XDxMT0dHSU5HXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfUVVFUllfR0FURVdBWVw+</last-pattern>
+      <last-pattern encoding="base64">XDxMT0dHSU5HXD4=</last-pattern>
       <last-replace>Agency</last-replace>
       <last-substitute>Admin</last-substitute>
       <last-dir>1</last-dir>
@@ -501,7 +510,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNT05HT19BRERSXD4=</entry>
         <entry encoding="base64">XDxsb3R0ZXJ5XD4=</entry>
         <entry encoding="base64">XDxwcm9jZXNzb3JcPg==</entry>
         <entry encoding="base64">XDxsb3R0ZXJ5X3V3c2dpXD4=</entry>
@@ -521,6 +529,7 @@
         <entry encoding="base64">XDxfR0FURVdBWVw+</entry>
         <entry encoding="base64">XDxYSU5HRV9BTkRST0lEX0FDQ0VTU19JRFw+</entry>
         <entry encoding="base64">XDxfUVVFUllfR0FURVdBWVw+</entry>
+        <entry encoding="base64">XDxMT0dHSU5HXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>61</entry>
