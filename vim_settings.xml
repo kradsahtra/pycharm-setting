@@ -100,8 +100,8 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1507256209332">
-        <mark key="'" line="277" column="4" />
+      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1507257433384">
+        <mark key="'" line="172" column="68" />
         <mark key="[" line="62" column="38" />
         <mark key="]" line="62" column="38" />
         <mark key="." line="62" column="38" />
@@ -121,7 +121,7 @@
         <mark key="^" line="5" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/wsgi.py" timestamp="1506912386850" />
-      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1507256400853">
+      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1507257396179">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="55" column="58" />
         <mark key="]" line="55" column="63" />
@@ -336,7 +336,6 @@
       <file name="$USER_HOME$/workspace/PayService/payservice/common/cache/redis_cache.py" timestamp="1506836252251" />
     </filemarks>
     <jumps>
-      <jump line="10" column="38" filename="$USER_HOME$/workspace/deploy/config_files/kfc.supervisor.conf" />
       <jump line="12" column="9" filename="$USER_HOME$/workspace/deploy/config_files/kfc.supervisor.conf" />
       <jump line="21" column="9" filename="$USER_HOME$/workspace/deploy/config_files/kfc.supervisor.conf" />
       <jump line="29" column="9" filename="$USER_HOME$/workspace/deploy/config_files/kfc.supervisor.conf" />
@@ -436,6 +435,7 @@
       <jump line="23" column="22" filename="$USER_HOME$/workspace/LotteryService/luckycommon/event/handler.py" />
       <jump line="98" column="19" filename="$USER_HOME$/workspace/LotteryService/luckycommon/timer/processor.py" />
       <jump line="20" column="32" filename="$USER_HOME$/workspace/LotteryService/luckycommon/timer/processor.py" />
+      <jump line="172" column="68" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
