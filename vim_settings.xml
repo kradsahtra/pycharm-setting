@@ -290,10 +290,10 @@
         <mark key="." line="13" column="28" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/view.py" timestamp="1506912266745">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="." line="164" column="0" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/view.py" timestamp="1507685967790">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="." line="163" column="0" />
         <mark key="^" line="161" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/admin.supervisor.conf" timestamp="1506651568141">
@@ -303,7 +303,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507287113894">
+      <file name="/Dummy.txt" timestamp="1507685972467">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -345,7 +345,6 @@
       <file name="$USER_HOME$/workspace/PayService/payservice/common/cache/redis_cache.py" timestamp="1506836252251" />
     </filemarks>
     <jumps>
-      <jump line="45" column="15" filename="$USER_HOME$/workspace/deploy/config_files/kfc.supervisor.conf" />
       <jump line="43" column="9" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.supervisor.conf" />
       <jump line="34" column="9" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.supervisor.conf" />
       <jump line="25" column="9" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.supervisor.conf" />
@@ -445,16 +444,17 @@
       <jump line="151" column="0" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings.py" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings.py" />
       <jump line="94" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings.py" />
+      <jump line="163" column="37" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/view.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfV1hdLAo=</text>
       </register>
       <register name="-" type="4">
         <text>TheMaster-bin.000001</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMT0dHSU5HXD4=</text>
+        <text encoding="base64">XDxKVVNUUEFZX1dYXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZ2dpbmcud2Fybignbm8gZW52IHNwZWNpZmllZCBzZXR0aW5ncyBsb2FkZWQsIHVzZSBkZWZhdWx0LicpCg==</text>
@@ -463,7 +463,7 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdmFpbGFibGVfcGF5X3R5cGVzW1BBWV9UWVBFLkpVU1RQQVlfV1hdLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -475,19 +475,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q0hBTkdFIE1BU1RFUiBUTwogICAgICAgICAgICAgICAgTUFTVEVSX0hPU1Q9JzE5Mi4xNjguMTIuMTYnLAogICAgICAgICAgICAgICAgTUFTVEVSX1VTRVI9J3JlcGwnLAogICAgICAgICAgICAgICAgTUFTVEVSX1BBU1NXT1JEPSdzbGF2ZScsCiAgICAgICAgICAgICAgICBNQVNURVJfTE9HX0ZJTEU9J215c3FsLWJpbi4wMDAwMDEnLAogICAgICAgICAgICAgICAgTUFTVEVSX0xPR19QT1M9ODU3MzQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q0hBTkdFIE1BU1RFUiBUTwogICAgICAgICAgICAgICAgTUFTVEVSX0hPU1Q9JzE5Mi4xNjguMTIuMTYnLAogICAgICAgICAgICAgICAgTUFTVEVSX1VTRVI9J3JlcGwnLAogICAgICAgICAgICAgICAgTUFTVEVSX1BBU1NXT1JEPSdzbGF2ZScsCiAgICAgICAgICAgICAgICBNQVNURVJfTE9HX0ZJTEU9J215c3FsLWJpbi4wMDAwMDEnLAogICAgICAgICAgICAgICAgTUFTVEVSX0xPR19QT1M9ODU3MzQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUKaW1wb3J0IGpzb24KaW1wb3J0IGxvZ2dpbmcKZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFByb2Nlc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUKaW1wb3J0IGpzb24KaW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUKaW1wb3J0IGpzb24KaW1wb3J0IGxvZ2dpbmcKZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFByb2Nlc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUKaW1wb3J0IGpzb24KaW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -497,9 +497,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMT0dHSU5HXD4=</last-search>
+      <last-search encoding="base64">XDxKVVNUUEFZX1dYXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMT0dHSU5HXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxKVVNUUEFZX1dYXD4=</last-pattern>
       <last-replace>Agency</last-replace>
       <last-substitute>Admin</last-substitute>
       <last-dir>1</last-dir>
@@ -507,7 +507,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb3R0ZXJ5XD4=</entry>
         <entry encoding="base64">XDxwcm9jZXNzb3JcPg==</entry>
         <entry encoding="base64">XDxsb3R0ZXJ5X3V3c2dpXD4=</entry>
         <entry encoding="base64">XDxsb3R0ZXJ5X3Byb2Nlc3Nvclw+</entry>
@@ -527,6 +526,7 @@
         <entry encoding="base64">XDxYSU5HRV9BTkRST0lEX0FDQ0VTU19JRFw+</entry>
         <entry encoding="base64">XDxfUVVFUllfR0FURVdBWVw+</entry>
         <entry encoding="base64">XDxMT0dHSU5HXD4=</entry>
+        <entry encoding="base64">XDxKVVNUUEFZX1dYXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>61</entry>
