@@ -593,11 +593,11 @@
         <mark key="." line="46" column="42" />
         <mark key="^" line="46" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/view.py" timestamp="1508380980904">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/view.py" timestamp="1508385798994">
+        <mark key="[" line="162" column="37" />
+        <mark key="]" line="162" column="47" />
         <mark key="^" line="161" column="3" />
-        <mark key="." line="163" column="0" />
+        <mark key="." line="162" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/agency_pay/main_app.py" timestamp="1504184264230">
         <mark key="[" line="21" column="18" />
@@ -629,6 +629,10 @@
         <mark key="]" line="191" column="86" />
         <mark key="." line="191" column="86" />
         <mark key="^" line="191" column="86" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/pay/model.py" timestamp="1508385796778">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/casioconsole/uwsgi.ini" timestamp="1502203489529">
         <mark key="[" line="15" column="28" />
@@ -839,17 +843,17 @@
       <jump line="163" column="37" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/view.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>JUSTPAY_ALI</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>JUSTPAY_ALI</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKVVNUUEFZX1dYXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcud2Fybignbm8gZW52IHNwZWNpZmllZCBzZXR0aW5ncyBsb2FkZWQsIHVzZSBkZWZhdWx0LicpCg==</text>
+      <register name="0" type="4">
+        <text>JUSTPAY_WX</text>
       </register>
       <register name="p" type="4">
         <text />
