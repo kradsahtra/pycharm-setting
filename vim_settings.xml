@@ -191,11 +191,11 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1508983843618">
+      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1508984493767">
         <mark key="'" line="172" column="68" />
-        <mark key="[" line="175" column="36" />
-        <mark key="]" line="176" column="14" />
-        <mark key="." line="176" column="14" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="192" column="14" />
+        <mark key="." line="191" column="0" />
         <mark key="^" line="176" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckycommon/preset/db/pay_channel.py" timestamp="1503304845785">
@@ -867,8 +867,8 @@
       <jump line="163" column="37" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/view.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bloodbull</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmICdiaWdiYW5nLWFkbWluLXdlYicgPT0gX1JPTEU6CiAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="-" type="4">
         <text>bloodbull</text>
@@ -877,7 +877,7 @@
         <text encoding="base64">XDxKVVNUUEFZX1dYXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICdibG9vZGJ1bGwnID09IF9ST0xFOgo=</text>
+        <text encoding="base64">ICAgIGlmICdiaWdiYW5nLWFkbWluLXdlYicgPT0gX1JPTEU6CiAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="p" type="4">
         <text />
