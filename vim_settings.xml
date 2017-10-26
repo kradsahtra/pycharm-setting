@@ -501,6 +501,9 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="6" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/cpstats/cpsservice/api/report/daily.py" timestamp="1509016503265">
+        <mark key="'" line="13" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/async_demo/server.py" timestamp="1502796831880">
         <mark key="[" line="39" column="17" />
         <mark key="]" line="40" column="19" />
@@ -731,10 +734,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="9" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.supervisor.conf" />
-      <jump line="34" column="9" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.supervisor.conf" />
-      <jump line="25" column="9" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.supervisor.conf" />
-      <jump line="14" column="9" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.supervisor.conf" />
       <jump line="1" column="9" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.supervisor.conf" />
       <jump line="3" column="9" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.supervisor.conf" />
       <jump line="3" column="5" filename="$USER_HOME$/workspace/deploy/config.py" />
@@ -831,6 +830,10 @@
       <jump line="12" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings.py" />
       <jump line="94" column="0" filename="$USER_HOME$/workspace/lottery_sigapore/luckyplatform/settings.py" />
       <jump line="163" column="37" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/view.py" />
+      <jump line="93" column="17" filename="$USER_HOME$/workspace/cpstats/cpsservice/api/report/daily.py" />
+      <jump line="97" column="25" filename="$USER_HOME$/workspace/cpstats/cpsservice/api/report/daily.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/cpstats/cpsservice/api/report/daily.py" />
+      <jump line="13" column="35" filename="$USER_HOME$/workspace/cpstats/cpsservice/api/report/daily.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -840,7 +843,7 @@
         <text>bloodbull</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxKVVNUUEFZX1dYXD4=</text>
+        <text encoding="base64">XDxyZXBvcnRkYlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmICdiaWdiYW5nLWFkbWluLXdlYicgPT0gX1JPTEU6CiAgICAgICAgcmV0dXJuCg==</text>
@@ -883,9 +886,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxKVVNUUEFZX1dYXD4=</last-search>
+      <last-search encoding="base64">XDxyZXBvcnRkYlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxKVVNUUEFZX1dYXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZXBvcnRkYlw+</last-pattern>
       <last-replace>Agency</last-replace>
       <last-substitute>Admin</last-substitute>
       <last-dir>1</last-dir>
@@ -893,7 +896,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9jZXNzb3JcPg==</entry>
         <entry encoding="base64">XDxsb3R0ZXJ5X3V3c2dpXD4=</entry>
         <entry encoding="base64">XDxsb3R0ZXJ5X3Byb2Nlc3Nvclw+</entry>
         <entry encoding="base64">XDxsb3R0ZXJ5X3Rvcm5hZG9cPg==</entry>
@@ -913,6 +915,7 @@
         <entry encoding="base64">XDxfUVVFUllfR0FURVdBWVw+</entry>
         <entry encoding="base64">XDxMT0dHSU5HXD4=</entry>
         <entry encoding="base64">XDxKVVNUUEFZX1dYXD4=</entry>
+        <entry encoding="base64">XDxyZXBvcnRkYlw+</entry>
       </history-search>
       <history-cmd>
         <entry>85</entry>
