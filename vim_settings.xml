@@ -535,6 +535,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/frame/const.js" timestamp="1509104587358">
+        <mark key="[" line="73" column="22" />
+        <mark key="]" line="73" column="25" />
+        <mark key="." line="73" column="25" />
+        <mark key="^" line="73" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckyweb/templates/pay/PayChannelDetail.html" timestamp="1503462580757">
         <mark key="[" line="100" column="69" />
         <mark key="]" line="100" column="74" />
@@ -611,7 +617,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508983797570">
+      <file name="/Dummy.txt" timestamp="1509104605834">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -836,17 +842,17 @@
       <jump line="13" column="35" filename="$USER_HOME$/workspace/cpstats/cpsservice/api/report/daily.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmICdiaWdiYW5nLWFkbWluLXdlYicgPT0gX1JPTEU6CiAgICAgICAgcmV0dXJuCg==</text>
+      <register name="&quot;" type="4">
+        <text>银联</text>
       </register>
       <register name="-" type="4">
-        <text>bloodbull</text>
+        <text>银联</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXBvcnRkYlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICdiaWdiYW5nLWFkbWluLXdlYicgPT0gX1JPTEU6CiAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAxMDAyOiAianVzdHBheemTtuiBlCIsCg==</text>
       </register>
       <register name="p" type="4">
         <text />
