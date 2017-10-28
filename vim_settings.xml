@@ -100,11 +100,23 @@
         <mark key="^" line="154" column="24" />
         <mark key="." line="160" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/cpstats/cpsweb/js/frame/const.js" timestamp="1509159554042">
+        <mark key="[" line="167" column="12" />
+        <mark key="]" line="167" column="15" />
+        <mark key="." line="167" column="15" />
+        <mark key="^" line="167" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/devops/service/deploy.md" timestamp="1505728129562">
         <mark key="[" line="18" column="6" />
         <mark key="]" line="20" column="12" />
         <mark key="^" line="20" column="12" />
         <mark key="." line="20" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/console/UserDetail.html" timestamp="1509159325112">
+        <mark key="[" line="38" column="80" />
+        <mark key="]" line="38" column="83" />
+        <mark key="." line="38" column="83" />
+        <mark key="^" line="38" column="83" />
       </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/luckycommon/utils/event_type.py" timestamp="1503026745733">
         <mark key="[" line="4" column="5" />
@@ -234,6 +246,7 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/console/UserList.html" timestamp="1509159490226" />
       <file name="$USER_HOME$/workspace/cpstats/cpsservice/common/stats/__init__.py" timestamp="1509158179382">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="4" column="44" />
@@ -385,6 +398,12 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/cpstats/cpsservice/common/model/admin.py" timestamp="1509158997075">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="32" />
+        <mark key="^" line="11" column="32" />
+        <mark key="." line="11" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/luckycommon/async/async_job.py" timestamp="1504433147120">
         <mark key="[" line="79" column="12" />
         <mark key="]" line="79" column="16" />
@@ -497,7 +516,7 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509157333100">
+      <file name="/Dummy.txt" timestamp="1509159490916">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -704,49 +723,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lucky</text>
+        <text>渠道用户</text>
       </register>
       <register name="-" type="4">
-        <text>lucky</text>
+        <text>渠道用户</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXBvcnRkYlw+</text>
       </register>
-      <register name="0" type="4">
-        <text>cpstats</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAyOiAi5rig6YGT55So5oi3IiwK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFwaQo=</text>
+        <text encoding="base64">ICAgICAgICAyOiAi5rig6YGT55So5oi3IiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBhcGkgaW1wb3J0IHJlcG9ydAo=</text>
+        <text encoding="base64">ICAgICJyZWdpc3Rlcl9jaGFubmVsIjogKDMsICJyZWdpc3RlciBjaGFubmVsIiksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFwaQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFsbG93IDExMC4zNC4xNjYuNTg7CiAgICBhbGxvdyAxMDMuMjMwLjI0My4zODsKICAgIGFsbG93IDEyMy4xLjE3MC4yMTk7CiAgICBhbGxvdyAxODAuMjEwLjIwMC4xMTE7CiAgICAjIGRlbnkgYWxsOwo=</text>
+        <text encoding="base64">ZnJvbSBhcGkgaW1wb3J0IHJlcG9ydAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TU9OR09fQUREUiA9ICJtb25nb2RiOi8vMTAzLjIzMC4yNDMuMTQzLyIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">TVlTUUxfQ09ORiA9IHsKICAgICdkYic6ICdteXNxbDovL2hhcHB5YnV5Om5vcmExMjM0QDEwMy4yMzAuMjQzLjE0MzozMzA2L2Nwc19zdGF0cz9jaGFyc2V0PXV0ZjgnLAogICAgJ0RFQlVHJzogREVCVUcKfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cHJvZ3JhbXM9Y3BzdGF0c191d3NnaSxjcHN0YXRzX2NyYXdsZXIsY3BzdGF0c19wcm9jZXNzb3IsY3BzdGF0c19jZWxlcnksY3BzdGF0c190cmFja2VyCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGFsbG93IDExMC4zNC4xNjYuNTg7CiAgICBhbGxvdyAxMDMuMjMwLjI0My4zODsKICAgIGFsbG93IDEyMy4xLjE3MC4yMTk7CiAgICBhbGxvdyAxODAuMjEwLjIwMC4xMTE7CiAgICAjIGRlbnkgYWxsOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">TU9OR09fQUREUiA9ICJtb25nb2RiOi8vMTAzLjIzMC4yNDMuMTQzLyIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">TVlTUUxfQ09ORiA9IHsKICAgICdkYic6ICdteXNxbDovL2hhcHB5YnV5Om5vcmExMjM0QDEwMy4yMzAuMjQzLjE0MzozMzA2L2Nwc19zdGF0cz9jaGFyc2V0PXV0ZjgnLAogICAgJ0RFQlVHJzogREVCVUcKfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CnNvY2tldCA9IDAuMC4wLjA6ODEwMgpidWZmZXItc2l6ZT0gMTAyNDAwCnByb2Nlc3NlcyA9IDIKbWFzdGVyID0gdHJ1ZQpoYXJha2lyaSA9IDE1CnNvY2tldC10aW1lb3V0PTUKbGlzdGVuID0gNDA5NgpsaW1pdC1hcyA9IDc2OApyZWxvYWQtb24tYXMgPSA3NjgKcmVsb2FkLW9uLXJzcyA9IDc2OAptYXgtcmVxdWVzdHMgPSAxMDAwMDAKcHktdHJhY2ViYWNrZXI9L3RtcC90YnNvY2tldF9iaWdiYW5nCg==</text>
+        <text encoding="base64">cHJvZ3JhbXM9Y3BzdGF0c191d3NnaSxjcHN0YXRzX2NyYXdsZXIsY3BzdGF0c19wcm9jZXNzb3IsY3BzdGF0c19jZWxlcnksY3BzdGF0c190cmFja2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>295</text>
