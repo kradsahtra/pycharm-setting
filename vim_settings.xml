@@ -21,11 +21,11 @@
         <mark key="]" line="0" column="746" />
         <mark key="." line="0" column="746" />
       </file>
-      <file name="$USER_HOME$/workspace/cpstats/cpsservice/service/settings_prod.py" timestamp="1509110448106">
-        <mark key="[" line="12" column="54" />
-        <mark key="]" line="12" column="62" />
-        <mark key="." line="12" column="62" />
-        <mark key="^" line="12" column="62" />
+      <file name="$USER_HOME$/workspace/cpstats/cpsservice/service/settings_prod.py" timestamp="1509156101509">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+        <mark key="^" line="16" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/db/account.py" timestamp="1504512532190">
         <mark key="[" line="184" column="4" />
@@ -305,7 +305,13 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/cpstats/cpsservice/api/urls.py" timestamp="1509008717110" />
+      <file name="$USER_HOME$/workspace/cpstats/cpsservice/api/urls.py" timestamp="1509156315907">
+        <mark key="'" line="13" column="43" />
+        <mark key="[" line="14" column="45" />
+        <mark key="]" line="14" column="45" />
+        <mark key="^" line="14" column="46" />
+        <mark key="." line="14" column="45" />
+      </file>
       <file name="$USER_HOME$/workspace/devops/README.md" timestamp="1506913704871">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="9" column="17" />
@@ -379,8 +385,11 @@
         <mark key="." line="79" column="16" />
         <mark key="^" line="79" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/cpstats/cpsservice/api/report/daily.py" timestamp="1509074883084">
+      <file name="$USER_HOME$/workspace/cpstats/cpsservice/api/report/daily.py" timestamp="1509155721480">
         <mark key="'" line="13" column="35" />
+        <mark key="[" line="81" column="37" />
+        <mark key="]" line="81" column="37" />
+        <mark key="." line="81" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/async_demo/server.py" timestamp="1502796831880">
         <mark key="[" line="39" column="17" />
@@ -585,7 +594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings_online.py" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings_online.py" />
       <jump line="39" column="13" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings_online.py" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings_online.py" />
@@ -685,13 +693,14 @@
       <jump line="20" column="0" filename="$USER_HOME$/workspace/cpstats/cpsservice/uwsgi.ini" />
       <jump line="21" column="12" filename="$USER_HOME$/workspace/cpstats/cpsservice/uwsgi.ini" />
       <jump line="31" column="19" filename="$USER_HOME$/workspace/deploy/config_files/cpsstats.conf" />
+      <jump line="12" column="43" filename="$USER_HOME$/workspace/cpstats/cpsservice/api/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pay</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>pay</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXBvcnRkYlw+</text>
@@ -703,34 +712,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFwaQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFsbG93IDExMC4zNC4xNjYuNTg7CiAgICBhbGxvdyAxMDMuMjMwLjI0My4zODsKICAgIGFsbG93IDEyMy4xLjE3MC4yMTk7CiAgICBhbGxvdyAxODAuMjEwLjIwMC4xMTE7CiAgICAjIGRlbnkgYWxsOwo=</text>
+        <text encoding="base64">ZnJvbSBhcGkgaW1wb3J0IHJlcG9ydAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TU9OR09fQUREUiA9ICJtb25nb2RiOi8vMTAzLjIzMC4yNDMuMTQzLyIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">TVlTUUxfQ09ORiA9IHsKICAgICdkYic6ICdteXNxbDovL2hhcHB5YnV5Om5vcmExMjM0QDEwMy4yMzAuMjQzLjE0MzozMzA2L2Nwc19zdGF0cz9jaGFyc2V0PXV0ZjgnLAogICAgJ0RFQlVHJzogREVCVUcKfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cHJvZ3JhbXM9Y3BzdGF0c191d3NnaSxjcHN0YXRzX2NyYXdsZXIsY3BzdGF0c19wcm9jZXNzb3IsY3BzdGF0c19jZWxlcnksY3BzdGF0c190cmFja2VyCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGFsbG93IDExMC4zNC4xNjYuNTg7CiAgICBhbGxvdyAxMDMuMjMwLjI0My4zODsKICAgIGFsbG93IDEyMy4xLjE3MC4yMTk7CiAgICBhbGxvdyAxODAuMjEwLjIwMC4xMTE7CiAgICAjIGRlbnkgYWxsOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">TU9OR09fQUREUiA9ICJtb25nb2RiOi8vMTAzLjIzMC4yNDMuMTQzLyIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">TVlTUUxfQ09ORiA9IHsKICAgICdkYic6ICdteXNxbDovL2hhcHB5YnV5Om5vcmExMjM0QDEwMy4yMzAuMjQzLjE0MzozMzA2L2Nwc19zdGF0cz9jaGFyc2V0PXV0ZjgnLAogICAgJ0RFQlVHJzogREVCVUcKfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CnNvY2tldCA9IDAuMC4wLjA6ODEwMgpidWZmZXItc2l6ZT0gMTAyNDAwCnByb2Nlc3NlcyA9IDIKbWFzdGVyID0gdHJ1ZQpoYXJha2lyaSA9IDE1CnNvY2tldC10aW1lb3V0PTUKbGlzdGVuID0gNDA5NgpsaW1pdC1hcyA9IDc2OApyZWxvYWQtb24tYXMgPSA3NjgKcmVsb2FkLW9uLXJzcyA9IDc2OAptYXgtcmVxdWVzdHMgPSAxMDAwMDAKcHktdHJhY2ViYWNrZXI9L3RtcC90YnNvY2tldF9iaWdiYW5nCg==</text>
+        <text encoding="base64">cHJvZ3JhbXM9Y3BzdGF0c191d3NnaSxjcHN0YXRzX2NyYXdsZXIsY3BzdGF0c19wcm9jZXNzb3IsY3BzdGF0c19jZWxlcnksY3BzdGF0c190cmFja2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c29ja2V0ID0gMC4wLjAuMDo4MTAyCmJ1ZmZlci1zaXplPSAxMDI0MDAKcHJvY2Vzc2VzID0gMgptYXN0ZXIgPSB0cnVlCmhhcmFraXJpID0gMTUKc29ja2V0LXRpbWVvdXQ9NQpsaXN0ZW4gPSA0MDk2CmxpbWl0LWFzID0gNzY4CnJlbG9hZC1vbi1hcyA9IDc2OApyZWxvYWQtb24tcnNzID0gNzY4Cm1heC1yZXF1ZXN0cyA9IDEwMDAwMApweS10cmFjZWJhY2tlcj0vdG1wL3Ric29ja2V0X2JpZ2JhbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dG91Y2gtcmVsb2FkPS9ob21lL3VidW50dS9hZi1lbnYvY3Bzc2VydmljZS9zY3JpcHRzL3RvdWNocmVsb2FkCg==</text>
+        <text encoding="base64">CnNvY2tldCA9IDAuMC4wLjA6ODEwMgpidWZmZXItc2l6ZT0gMTAyNDAwCnByb2Nlc3NlcyA9IDIKbWFzdGVyID0gdHJ1ZQpoYXJha2lyaSA9IDE1CnNvY2tldC10aW1lb3V0PTUKbGlzdGVuID0gNDA5NgpsaW1pdC1hcyA9IDc2OApyZWxvYWQtb24tYXMgPSA3NjgKcmVsb2FkLW9uLXJzcyA9IDc2OAptYXgtcmVxdWVzdHMgPSAxMDAwMDAKcHktdHJhY2ViYWNrZXI9L3RtcC90YnNvY2tldF9iaWdiYW5nCg==</text>
       </register>
       <register name=":" type="4">
         <text>295</text>
