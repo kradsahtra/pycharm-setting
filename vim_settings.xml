@@ -112,12 +112,12 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" timestamp="1509266571820">
+      <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" timestamp="1509268490688">
         <mark key="'" line="50" column="49" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="86" />
-        <mark key="^" line="75" column="22" />
-        <mark key="." line="76" column="0" />
+        <mark key="[" line="77" column="51" />
+        <mark key="]" line="77" column="57" />
+        <mark key="^" line="75" column="56" />
+        <mark key="." line="77" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/console/UserDetail.html" timestamp="1509159325112">
         <mark key="[" line="38" column="80" />
@@ -130,6 +130,9 @@
         <mark key="]" line="4" column="12" />
         <mark key="^" line="4" column="25" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/console/PermissionDetail.html" timestamp="1509269618000">
+        <mark key="'" line="29" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/uwsgi-admin.ini" timestamp="1506652354289">
         <mark key="[" line="5" column="11" />
@@ -288,6 +291,12 @@
         <mark key="]" line="2" column="15" />
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/cpstats/cpsweb/404.html" timestamp="1509269495835">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/templates/user/SignUp.html" timestamp="1508983796218">
         <mark key="[" line="4" column="41" />
@@ -529,7 +538,7 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509186837883">
+      <file name="/Dummy.txt" timestamp="1509269499389">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -633,7 +642,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="13" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings_online.py" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings_online.py" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings_online.py" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings_online.py" />
@@ -733,19 +741,20 @@
       <jump line="31" column="19" filename="$USER_HOME$/workspace/deploy/config_files/cpsstats.conf" />
       <jump line="12" column="43" filename="$USER_HOME$/workspace/cpstats/cpsservice/api/urls.py" />
       <jump line="50" column="49" filename="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" />
+      <jump line="29" column="38" filename="$USER_HOME$/workspace/cpstats/cpsweb/templates/console/PermissionDetail.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48JT0gaXRlbS53aW5fcHJpY2UgIT0gbnVsbCA/IGl0ZW0ud2luX3ByaWNlLnRvRml4ZWQoMSkgOiAwICU+PC90ZD4K</text>
+      <register name="&quot;" type="4">
+        <text>win_price</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PCU9IGl0ZW0ud2luX3ByaWNlICE9IG51bGwgPyBpdGVtLndpbl9wcmljZS50b0ZpeGVkKDEpIDogMCAlPg==</text>
+        <text>win_price</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aXRoZHJhd19wcmljZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48JT0gaXRlbS53aW5fcHJpY2UgIT0gbnVsbCA/IGl0ZW0ud2luX3ByaWNlLnRvRml4ZWQoMSkgOiAwICU+PC90ZD4K</text>
+      <register name="0" type="4">
+        <text>profit</text>
       </register>
       <register name="p" type="4">
         <text />
