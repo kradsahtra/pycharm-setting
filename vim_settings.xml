@@ -27,6 +27,7 @@
         <mark key="." line="16" column="20" />
         <mark key="^" line="16" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/cpstats/cpsweb/index.html" timestamp="1509338396401" />
       <file name="$USER_HOME$/workspace/casiouser/usercommon/db/account.py" timestamp="1504512532190">
         <mark key="[" line="184" column="4" />
         <mark key="]" line="184" column="14" />
@@ -146,18 +147,18 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" timestamp="1509336031626">
-        <mark key="'" line="49" column="49" />
-        <mark key="[" line="76" column="63" />
-        <mark key="]" line="76" column="64" />
-        <mark key="^" line="72" column="56" />
-        <mark key="." line="76" column="64" />
+      <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" timestamp="1509339398597">
+        <mark key="'" line="50" column="49" />
+        <mark key="[" line="66" column="46" />
+        <mark key="]" line="66" column="46" />
+        <mark key="^" line="66" column="46" />
+        <mark key="." line="66" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/console/UserDetail.html" timestamp="1509270954025">
+      <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/console/UserDetail.html" timestamp="1509337750273">
         <mark key="'" line="32" column="44" />
-        <mark key="[" line="40" column="38" />
-        <mark key="]" line="40" column="39" />
-        <mark key="." line="40" column="39" />
+        <mark key="[" line="33" column="39" />
+        <mark key="]" line="33" column="39" />
+        <mark key="." line="33" column="39" />
         <mark key="^" line="38" column="83" />
       </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/luckycommon/utils/event_type.py" timestamp="1503026745733">
@@ -495,6 +496,11 @@
         <mark key="." line="78" column="25" />
         <mark key="^" line="78" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/cpstats/cpsweb/js/frame/router.js" timestamp="1509338412242">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="32" />
+        <mark key="." line="21" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/LotteryService/luckycommon/async/async_job.py" timestamp="1507199987102">
         <mark key="'" line="88" column="4" />
         <mark key="[" line="18" column="29" />
@@ -571,10 +577,10 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/cpstats/cpsservice/api/report/daily.py" timestamp="1509334380553">
-        <mark key="[" line="57" column="31" />
-        <mark key="]" line="57" column="33" />
-        <mark key="." line="57" column="33" />
+      <file name="$USER_HOME$/workspace/cpstats/cpsservice/api/report/daily.py" timestamp="1509338618491">
+        <mark key="[" line="59" column="20" />
+        <mark key="]" line="59" column="21" />
+        <mark key="." line="59" column="21" />
         <mark key="^" line="57" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/async_demo/server.py" timestamp="1502796831880">
@@ -601,11 +607,11 @@
         <mark key="." line="24" column="47" />
         <mark key="^" line="49" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/cpstats/cpsweb/js/apps/console/user.js" timestamp="1509336226935">
+      <file name="$USER_HOME$/workspace/cpstats/cpsweb/js/apps/console/user.js" timestamp="1509338019057">
         <mark key="'" line="100" column="21" />
-        <mark key="[" line="140" column="29" />
-        <mark key="]" line="140" column="30" />
-        <mark key="." line="140" column="30" />
+        <mark key="[" line="138" column="53" />
+        <mark key="]" line="138" column="53" />
+        <mark key="." line="138" column="53" />
         <mark key="^" line="190" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/LotteryService/luckyplatform/settings_online.py" timestamp="1506092253393">
@@ -710,7 +716,7 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509334904093">
+      <file name="/Dummy.txt" timestamp="1509339178263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -938,49 +944,56 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>new_user</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>new_user</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dFJvbGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAncGF5X3ByaWNlJzogaXRlbS5nZXQoJ3BheV9wcmljZScpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48JT0gaXRlbS5uZXdfdXNlciB8fCAwICU+PC90ZD4K</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48JT0gaXRlbS5hY3RpdmVfZGV2aWNlIHx8IDAgJT48L3RkPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48JT0gaXRlbS5jcHNfcHJpY2UgIT0gbnVsbCA/IGl0ZW0uY3BzX3ByaWNlLnRvRml4ZWQoMSkgOiAnLScgJT48L3RkPgogICAgICAgICAgICAgICAgPHRkPjwlPSBpdGVtLnJlY2hhcmdlX3VzZXIgIT0gbnVsbCA/IGl0ZW0ucmVjaGFyZ2VfdXNlciA6IDAgJT48L3RkPgogICAgICAgICAgICAgICAgPHRkPjwlPSBpdGVtLnJlY2hhcmdlX3ByaWNlICE9IG51bGwgPyBpdGVtLnJlY2hhcmdlX3ByaWNlLnRvRml4ZWQoMSkgOiAwICU+PC90ZD4KICAgICAgICAgICAgICAgIDx0ZD48JT0gaXRlbS5yZWFsX3dpbl9wcmljZSAhPSBudWxsID8gaXRlbS5yZWFsX3dpbl9wcmljZS50b0ZpeGVkKDEpIDogMCAlPjwvdGQ+CiAgICAgICAgICAgICAgICA8dGQ+PCU9IGl0ZW0ucmVhbF9wcm9maXQgIT0gbnVsbCA/IGl0ZW0ucmVhbF9wcm9maXQudG9GaXhlZCgxKSA6IDAgJT48L3RkPgogICAgICAgICAgICAgICAgPHRkPjwlPSBpdGVtLmNwc19wcmljZSAhPSBudWxsID8gaXRlbS5jcHNfcHJpY2UudG9GaXhlZCgxKSA6IDAgJT48L3RkPgogICAgICAgICAgICAgICAgPHRkPjwlPSBpdGVtLm9yaWdpbl9yZWNoYXJnZV9wcmljZSAhPSBudWxsID8gaXRlbS5vcmlnaW5fcmVjaGFyZ2VfcHJpY2UudG9GaXhlZCgxKSA6IDAgJT48L3RkPgogICAgICAgICAgICAgICAgPHRkPjwlPSBpdGVtLm9yaWdpbl9jcHNfcHJpY2UgIT0gbnVsbCA/IGl0ZW0ub3JpZ2luX2Nwc19wcmljZS50b0ZpeGVkKDEpIDogMCAlPjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCBjbGFzcz0ic29ydGFibGUiIGRhdGEtZmllbGQ9ImFjdGl2ZV9kZXZpY2UiPua0u+i3gzwvdGg+Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48JT0gKGl0ZW0ucmVjaGFyZ2VfcmF0ZSAqIDEwMCkudG9GaXhlZCgyKSAlPiU8L3RkCg==</text>
+      <register name="3" type="8">
+        <text>&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48JT0gKGl0ZW0ubmV3X3JlY2hhcmdlX3JhdGUgKiAxMDApLnRvRml4ZWQoMikgJT4lPC90ZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48JT0gKGl0ZW0ucmVnaXN0ZXJfcmF0ZSAqIDEwMCkudG9GaXhlZCgyKSAlPiU8L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48JT0gaXRlbS5jcHNfcHJpY2UgIT0gbnVsbCA/IGl0ZW0uY3BzX3ByaWNlLnRvRml4ZWQoMSkgOiAnLScgJT48L3RkPgogICAgICAgICAgICAgICAgPHRkPjwlPSBpdGVtLnJlY2hhcmdlX3VzZXIgIT0gbnVsbCA/IGl0ZW0ucmVjaGFyZ2VfdXNlciA6IDAgJT48L3RkPgogICAgICAgICAgICAgICAgPHRkPjwlPSBpdGVtLnJlY2hhcmdlX3ByaWNlICE9IG51bGwgPyBpdGVtLnJlY2hhcmdlX3ByaWNlLnRvRml4ZWQoMSkgOiAwICU+PC90ZD4KICAgICAgICAgICAgICAgIDx0ZD48JT0gaXRlbS5yZWFsX3dpbl9wcmljZSAhPSBudWxsID8gaXRlbS5yZWFsX3dpbl9wcmljZS50b0ZpeGVkKDEpIDogMCAlPjwvdGQ+CiAgICAgICAgICAgICAgICA8dGQ+PCU9IGl0ZW0ucmVhbF9wcm9maXQgIT0gbnVsbCA/IGl0ZW0ucmVhbF9wcm9maXQudG9GaXhlZCgxKSA6IDAgJT48L3RkPgogICAgICAgICAgICAgICAgPHRkPjwlPSBpdGVtLmNwc19wcmljZSAhPSBudWxsID8gaXRlbS5jcHNfcHJpY2UudG9GaXhlZCgxKSA6IDAgJT48L3RkPgogICAgICAgICAgICAgICAgPHRkPjwlPSBpdGVtLm9yaWdpbl9yZWNoYXJnZV9wcmljZSAhPSBudWxsID8gaXRlbS5vcmlnaW5fcmVjaGFyZ2VfcHJpY2UudG9GaXhlZCgxKSA6IDAgJT48L3RkPgogICAgICAgICAgICAgICAgPHRkPjwlPSBpdGVtLm9yaWdpbl9jcHNfcHJpY2UgIT0gbnVsbCA/IGl0ZW0ub3JpZ2luX2Nwc19wcmljZS50b0ZpeGVkKDEpIDogMCAlPjwvdGQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48JT0gKGl0ZW0ubmV3X3JlY2hhcmdlX3JhdGUgKiAxMDApLnRvRml4ZWQoMikgJT4lPC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48JT0gKGl0ZW0ucmVjaGFyZ2VfcmF0ZSAqIDEwMCkudG9GaXhlZCgyKSAlPiU8L3RkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48JT0gKGl0ZW0ucmVnaXN0ZXJfcmF0ZSAqIDEwMCkudG9GaXhlZCgyKSAlPiU8L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48JT0gKGl0ZW0ubmV3X3JlY2hhcmdlX3JhdGUgKiAxMDApLnRvRml4ZWQoMikgJT4lPC90ZD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48JT0gaXRlbS5yZWNoYXJnZV9wcmljZSAhPSBudWxsID8gaXRlbS5yZWNoYXJnZV9wcmljZS50b0ZpeGVkKDEpIDogJy0nICU+PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48JT0gKGl0ZW0ucmVnaXN0ZXJfcmF0ZSAqIDEwMCkudG9GaXhlZCgyKSAlPiU8L3RkPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48JT0gaXRlbS5yZWNoYXJnZV9wcmljZSAhPSBudWxsID8gaXRlbS5yZWNoYXJnZV9wcmljZS50b0ZpeGVkKDEpIDogJy0nICU+PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48JT0gKGl0ZW0ubmV3X3JlY2hhcmdlX3JhdGUgKiAxMDApLnRvRml4ZWQoMikgJT4lPC90ZD4K</text>
       </register>
       <register name=":" type="4">
         <text>295</text>
