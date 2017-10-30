@@ -146,12 +146,12 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" timestamp="1509287695177">
+      <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" timestamp="1509332254134">
         <mark key="'" line="49" column="49" />
-        <mark key="[" line="71" column="127" />
-        <mark key="]" line="71" column="127" />
-        <mark key="^" line="71" column="127" />
-        <mark key="." line="71" column="127" />
+        <mark key="[" line="71" column="70" />
+        <mark key="]" line="71" column="70" />
+        <mark key="^" line="76" column="46" />
+        <mark key="." line="71" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/console/UserDetail.html" timestamp="1509270954025">
         <mark key="'" line="32" column="44" />
@@ -570,12 +570,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/cpstats/cpsservice/api/report/daily.py" timestamp="1509287906427">
-        <mark key="'" line="13" column="35" />
-        <mark key="[" line="60" column="30" />
-        <mark key="]" line="60" column="30" />
-        <mark key="." line="60" column="30" />
-        <mark key="^" line="60" column="30" />
+      <file name="$USER_HOME$/workspace/cpstats/cpsservice/api/report/daily.py" timestamp="1509331015085">
+        <mark key="[" line="116" column="33" />
+        <mark key="]" line="116" column="39" />
+        <mark key="." line="116" column="39" />
+        <mark key="^" line="116" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/async_demo/server.py" timestamp="1502796831880">
         <mark key="[" line="39" column="17" />
@@ -706,7 +705,7 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509269499389">
+      <file name="/Dummy.txt" timestamp="1509331630843">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -934,16 +933,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>|</text>
+        <text encoding="base64">IDogMA==</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text encoding="base64">IDogMA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dFJvbGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>profit</text>
+        <text>real_profit</text>
       </register>
       <register name="p" type="4">
         <text />
