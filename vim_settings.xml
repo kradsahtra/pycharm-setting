@@ -127,11 +127,11 @@
         <mark key="^" line="154" column="24" />
         <mark key="." line="160" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/cpstats/cpsweb/js/frame/const.js" timestamp="1509159554042">
-        <mark key="[" line="167" column="12" />
-        <mark key="]" line="167" column="15" />
-        <mark key="." line="167" column="15" />
-        <mark key="^" line="167" column="15" />
+      <file name="$USER_HOME$/workspace/cpstats/cpsweb/js/frame/const.js" timestamp="1509334916160">
+        <mark key="[" line="168" column="12" />
+        <mark key="]" line="168" column="15" />
+        <mark key="." line="168" column="15" />
+        <mark key="^" line="168" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/check_service_ip.py" timestamp="1506927778122">
         <mark key="'" line="0" column="21" />
@@ -146,12 +146,12 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" timestamp="1509332254134">
+      <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" timestamp="1509336031626">
         <mark key="'" line="49" column="49" />
-        <mark key="[" line="71" column="70" />
-        <mark key="]" line="71" column="70" />
-        <mark key="^" line="76" column="46" />
-        <mark key="." line="71" column="70" />
+        <mark key="[" line="76" column="63" />
+        <mark key="]" line="76" column="64" />
+        <mark key="^" line="72" column="56" />
+        <mark key="." line="76" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/console/UserDetail.html" timestamp="1509270954025">
         <mark key="'" line="32" column="44" />
@@ -338,6 +338,7 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/console/UserList.html" timestamp="1509334903514" />
       <file name="$USER_HOME$/workspace/cpstats/cpsservice/common/stats/__init__.py" timestamp="1509158179382">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="4" column="44" />
@@ -570,11 +571,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/cpstats/cpsservice/api/report/daily.py" timestamp="1509331015085">
-        <mark key="[" line="116" column="33" />
-        <mark key="]" line="116" column="39" />
-        <mark key="." line="116" column="39" />
-        <mark key="^" line="116" column="39" />
+      <file name="$USER_HOME$/workspace/cpstats/cpsservice/api/report/daily.py" timestamp="1509334380553">
+        <mark key="[" line="57" column="31" />
+        <mark key="]" line="57" column="33" />
+        <mark key="." line="57" column="33" />
+        <mark key="^" line="57" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/async_demo/server.py" timestamp="1502796831880">
         <mark key="[" line="39" column="17" />
@@ -600,8 +601,12 @@
         <mark key="." line="24" column="47" />
         <mark key="^" line="49" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/cpstats/cpsweb/js/apps/console/user.js" timestamp="1509270871145">
+      <file name="$USER_HOME$/workspace/cpstats/cpsweb/js/apps/console/user.js" timestamp="1509336226935">
         <mark key="'" line="100" column="21" />
+        <mark key="[" line="140" column="29" />
+        <mark key="]" line="140" column="30" />
+        <mark key="." line="140" column="30" />
+        <mark key="^" line="190" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/LotteryService/luckyplatform/settings_online.py" timestamp="1506092253393">
         <mark key="'" line="31" column="0" />
@@ -705,7 +710,7 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509331630843">
+      <file name="/Dummy.txt" timestamp="1509334904093">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -933,16 +938,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDogMA==</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDogMA==</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dFJvbGVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>real_profit</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAncGF5X3ByaWNlJzogaXRlbS5nZXQoJ3BheV9wcmljZScpLAo=</text>
       </register>
       <register name="p" type="4">
         <text />
