@@ -168,6 +168,12 @@
         <mark key="^" line="74" column="50" />
         <mark key="." line="74" column="50" />
       </file>
+      <file name="$USER_HOME$/workspace/luckyservice/deploy/fabfile.py" timestamp="1509441328165">
+        <mark key="[" line="125" column="74" />
+        <mark key="]" line="125" column="90" />
+        <mark key="^" line="125" column="90" />
+        <mark key="." line="125" column="90" />
+      </file>
       <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/console/UserDetail.html" timestamp="1509337750273">
         <mark key="'" line="32" column="44" />
         <mark key="[" line="33" column="39" />
@@ -644,6 +650,12 @@
         <mark key="." line="4" column="42" />
         <mark key="^" line="4" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/luckyservice/luckyapi/logic/transaction.py" timestamp="1509441007276">
+        <mark key="[" line="287" column="50" />
+        <mark key="]" line="287" column="51" />
+        <mark key="." line="287" column="51" />
+        <mark key="^" line="287" column="51" />
+      </file>
       <file name="$USER_HOME$/workspace/agency_pay/deploy/config_files/agency.nginx.conf" timestamp="1505644610038">
         <mark key="[" line="24" column="47" />
         <mark key="]" line="24" column="47" />
@@ -807,6 +819,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="15" column="35" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/luckyservice/luckycommon/third/skillfully_pay.py" timestamp="1509441556686">
+        <mark key="[" line="75" column="51" />
+        <mark key="]" line="75" column="51" />
+        <mark key="." line="75" column="51" />
+        <mark key="^" line="75" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/userapi/urls.py" timestamp="1505744122176">
         <mark key="[" line="35" column="26" />
@@ -1002,49 +1020,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(skillfully)</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>(skillfully)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEYXRhRXJyb3JcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA0ODogJ+i0neS7mOWunScsCg==</text>
+      <register name="0" type="4">
+        <text>{}</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF2YWlsYWJsZV9wYXlfdHlwZXNbUEFZX1RZUEUuU0tJTExGVUxMWV9XWF0sCg==</text>
+        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7J0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQnfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAoJ2NhbGxiYWNrX3VybCcsIHNldHRpbmdzLnNraWxsZnVsbHlfUkVUVVJOX1VSTCArICd7fS8nLmZvcm1hdChwYXkuaWQpKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF2YWlsYWJsZV9wYXlfdHlwZXNbUEFZX1RZUEUuU0tJTExGVUxMWV9XWF0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAoJ2RldmljZV9pZCcsICcxJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAoJ2NhbGxiYWNrX3VybCcsIHNldHRpbmdzLnNraWxsZnVsbHlfUkVUVVJOX1VSTCArICd7fS8nLmZvcm1hdChwYXkuaWQpKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAoJ2NoaWxkX3BhcmFfaWQnLCAnMScpLAo=</text>
+        <text encoding="base64">ICAgICAgICAoJ2RldmljZV9pZCcsICcxJyksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAoJ3RvdGFsX2ZlZScsIGludChwYXlfYW1vdW50ICogMTAwKSksCg==</text>
+        <text encoding="base64">ICAgICAgICAoJ2NoaWxkX3BhcmFfaWQnLCAnMScpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAoJ29yZGVyaWQnLCBzdHIocGF5LmlkKSksCg==</text>
+        <text encoding="base64">ICAgICAgICAoJ3RvdGFsX2ZlZScsIGludChwYXlfYW1vdW50ICogMTAwKSksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAoJ2JvZHknLCAndGVzdCcpLAo=</text>
+        <text encoding="base64">ICAgICAgICAoJ29yZGVyaWQnLCBzdHIocGF5LmlkKSksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICcnJ+WIm+W7uuiuouWNlScnJwo=</text>
+        <text encoding="base64">ICAgICAgICAoJ2JvZHknLCAndGVzdCcpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICcnJyAg55Sf5oiQ5p+l6K+i562+5ZCNICcnJwo=</text>
+        <text encoding="base64">ICAgICcnJ+WIm+W7uuiuouWNlScnJwo=</text>
       </register>
       <register name=":" type="4">
         <text>155</text>
