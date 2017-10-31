@@ -196,7 +196,10 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice/luckyplatform/settings.py" timestamp="1509448872258" />
+      <file name="$USER_HOME$/workspace/luckyservice/luckyplatform/settings.py" timestamp="1509449914270">
+        <mark key="[" line="515" column="0" />
+        <mark key="]" line="516" column="74" />
+      </file>
       <file name="$USER_HOME$/workspace/lucky_diablo/luckyplatform/settings.py" timestamp="1509434807498">
         <mark key="[" line="516" column="0" />
         <mark key="]" line="516" column="20" />
@@ -435,6 +438,12 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/luckyservice/luckyapi/urls.py" timestamp="1509450312478">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="238" column="84" />
+        <mark key="]" line="238" column="84" />
+        <mark key="." line="238" column="84" />
+      </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/luckycommon/async/async_job.py" timestamp="1504433147120">
         <mark key="[" line="79" column="12" />
         <mark key="]" line="79" column="16" />
@@ -485,6 +494,12 @@
         <mark key="]" line="24" column="47" />
         <mark key="." line="24" column="47" />
         <mark key="^" line="49" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/luckyservice/luckyplatform/settings_release.py" timestamp="1509450300053">
+        <mark key="[" line="166" column="63" />
+        <mark key="]" line="166" column="72" />
+        <mark key="." line="166" column="32" />
+        <mark key="^" line="164" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/frame/const.js" timestamp="1509104587358">
         <mark key="[" line="73" column="22" />
@@ -671,7 +686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="49" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings.py" />
       <jump line="235" column="72" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings.py" />
@@ -771,19 +785,20 @@
       <jump line="106" column="14" filename="$USER_HOME$/workspace/lucky_diablo/luckycommon/third/skillfully_pay.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/lucky_diablo/luckycommon/third/skillfully_pay.py" />
       <jump line="78" column="30" filename="$USER_HOME$/workspace/lucky_diablo/deploy/fabfile.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/luckyservice/luckyapi/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>wx</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>wx</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEYXRhRXJyb3JcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>SKILLFULLY_UNION</text>
+        <text>skillfully</text>
       </register>
       <register name="p" type="4">
         <text />
