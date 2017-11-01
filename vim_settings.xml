@@ -234,6 +234,10 @@
         <mark key="." line="5" column="48" />
         <mark key="^" line="5" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/luckyservice/luckycommon/third/youpay.py" timestamp="1509507615815">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/db/pay.py" timestamp="1505744509575">
         <mark key="[" line="131" column="86" />
         <mark key="]" line="131" column="90" />
@@ -452,10 +456,10 @@
         <mark key="." line="58" column="42" />
         <mark key="^" line="58" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice/luckyapi/logic/transaction.py" timestamp="1509448565810">
-        <mark key="[" line="287" column="50" />
-        <mark key="]" line="287" column="54" />
-        <mark key="." line="287" column="54" />
+      <file name="$USER_HOME$/workspace/luckyservice/luckyapi/logic/transaction.py" timestamp="1509507675761">
+        <mark key="[" line="288" column="47" />
+        <mark key="]" line="288" column="54" />
+        <mark key="." line="288" column="47" />
         <mark key="^" line="287" column="54" />
       </file>
       <file name="/None" timestamp="1509448528855">
@@ -575,11 +579,11 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice/luckycommon/third/skillfully_pay.py" timestamp="1509505611984">
-        <mark key="[" line="65" column="29" />
-        <mark key="]" line="65" column="30" />
-        <mark key="." line="65" column="30" />
-        <mark key="^" line="175" column="30" />
+      <file name="$USER_HOME$/workspace/luckyservice/luckycommon/third/skillfully_pay.py" timestamp="1509507618744">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="83" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/userapi/urls.py" timestamp="1505744122176">
         <mark key="[" line="35" column="26" />
@@ -761,49 +765,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data['status']</text>
+        <text>html_text</text>
       </register>
       <register name="-" type="4">
-        <text>data['status']</text>
+        <text>html_text</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEYXRhRXJyb3JcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cGFyYW1zWydjdXJyY29kZSddLCA=</text>
+        <text>sys_url</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBkYXRhCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAoJ29yZGVyX25vJywgc3RyKHBheS5pZCkpLAogICAgICAgICgncGF5X3R5cGUnLCAnMicpLAogICAgICAgICgnZGV2aWNlX2lkJywgJzEnKSwKICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAoJ3Njb2RlJywgbWVyX2lkKSwKICAgICAgICAoJ29yZGVyJywgJzExMzAzJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAoJ29yZGVyX25vJywgc3RyKHBheS5pZCkpLAogICAgICAgICgncGF5X3R5cGUnLCAnMicpLAogICAgICAgICgnZGV2aWNlX2lkJywgJzEnKSwKICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBlcnIuUGFyYW1FcnJvciBhcyBlOgogICAgICAgIF9MT0dHRVIud2Fybignc2tpbGxmdWxseSBub3RpZnkgcGFyYW0gZXJyb3IsICVzJywgZSkKICAgICAgICByZXR1cm4gSHR0cFJlc3BvbnNlKCdGYWlsZWQnLCBzdGF0dXM9MjAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAoJ3Njb2RlJywgbWVyX2lkKSwKICAgICAgICAoJ29yZGVyJywgJzExMzAzJyksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdlIG11c3QgcmV0dXJuICdvcHN0YXRlPTAnIGFmdGVyIHByb2Nlc3NpbmcK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBlcnIuUGFyYW1FcnJvciBhcyBlOgogICAgICAgIF9MT0dHRVIud2Fybignc2tpbGxmdWxseSBub3RpZnkgcGFyYW0gZXJyb3IsICVzJywgZSkKICAgICAgICByZXR1cm4gSHR0cFJlc3BvbnNlKCdGYWlsZWQnLCBzdGF0dXM9MjAwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7J0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQnfQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHdlIG11c3QgcmV0dXJuICdvcHN0YXRlPTAnIGFmdGVyIHByb2Nlc3NpbmcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF2YWlsYWJsZV9wYXlfdHlwZXNbUEFZX1RZUEUuU0tJTExGVUxMWV9XWF0sCg==</text>
+        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7J0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQnfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAoJ2NhbGxiYWNrX3VybCcsIHNldHRpbmdzLnNraWxsZnVsbHlfUkVUVVJOX1VSTCArICd7fS8nLmZvcm1hdChwYXkuaWQpKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF2YWlsYWJsZV9wYXlfdHlwZXNbUEFZX1RZUEUuU0tJTExGVUxMWV9XWF0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAoJ2RldmljZV9pZCcsICcxJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAoJ2NhbGxiYWNrX3VybCcsIHNldHRpbmdzLnNraWxsZnVsbHlfUkVUVVJOX1VSTCArICd7fS8nLmZvcm1hdChwYXkuaWQpKSwK</text>
       </register>
       <register name=":" type="4">
         <text>155</text>
