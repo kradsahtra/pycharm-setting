@@ -183,6 +183,9 @@
         <mark key="." line="58" column="24" />
         <mark key="^" line="58" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/youpay.py" timestamp="1509522548893">
+        <mark key="'" line="59" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/cpstats/cpsservice/service/settings.py" timestamp="1509110686533">
         <mark key="[" line="122" column="20" />
         <mark key="]" line="122" column="26" />
@@ -697,7 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings.py" />
       <jump line="235" column="72" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings.py" />
       <jump line="240" column="72" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings.py" />
       <jump line="185" column="24" filename="$USER_HOME$/workspace/LotteryService/luckyplatform/settings.py" />
@@ -797,6 +799,7 @@
       <jump line="78" column="30" filename="$USER_HOME$/workspace/lucky_diablo/deploy/fabfile.py" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/luckyservice/luckyapi/urls.py" />
       <jump line="37" column="36" filename="$USER_HOME$/workspace/cpstats/cpsservice/api/report/daily.py" />
+      <jump line="59" column="4" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/youpay.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -806,7 +809,7 @@
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGp1c3RfcmVjaGFyZ2VfcHJpY2VcPg==</text>
+        <text encoding="base64">XDxidWlsZF9mb3JtXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJDUV9TU0MiOiAoMUwsIHUi6YeN5bqG5pe25pe25b2pIiksCiAgICAiSE5fWUZDIjogKDJMLCB1Iuays+WGheS4gOWIhuW9qSIpLAogICAgIkpTX0tTIjogKDNMLCB1Iuaxn+iLj+W/qzMiKSwKICAgICJTRF8xMVg1IjogKDRMLCB1IuWxseS4nDEx6YCJNSIpLAogICAgIkhOX1dGQyI6ICg1TCwgdSLmsrPlhoXkupTliIblvakiKSwKICAgICJUSl9TU0MiOiAoNkwsIHUi5aSp5rSl5pe25pe25b2pIiksCiAgICAiWEpfU1NDIjogKDdMLCB1IuaWsOeWhuaXtuaXtuW9qSIpLAogICAgIkpYXzExWDUiOiAoOEwsIHUi5rGf6KW/MTHpgIk1IiksCiAgICAiR0RfMTFYNSI6ICg5TCwgdSLlub/kuJwxMemAiTUiKSwKICAgICJTSF8xMVg1IjogKDEwTCwgdSLkuIrmtbcxMemAiTUiKSwKICAgICJHWF9LUyI6ICgxMUwsIHUi5bm/6KW/5b+rMyIpLAogICAgIkJKX1BLMTAiOiAoMTJMLCB1IuWMl+S6rFBLMTAiKSwKICAgICJDUV9MRiI6ICgxM0wsIHUi6YeN5bqG5bm46L+Q5Yac5Zy6IikK</text>
@@ -849,9 +852,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGp1c3RfcmVjaGFyZ2VfcHJpY2VcPg==</last-search>
+      <last-search encoding="base64">XDxidWlsZF9mb3JtXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGp1c3RfcmVjaGFyZ2VfcHJpY2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxidWlsZF9mb3JtXD4=</last-pattern>
       <last-replace>Agency</last-replace>
       <last-substitute>Admin</last-substitute>
       <last-dir>1</last-dir>
@@ -859,7 +862,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSRURJU19IT1NUXD4=</entry>
         <entry encoding="base64">XDx3b3JrZXJfZmlsZVw+</entry>
         <entry encoding="base64">XDx3b3JrZXJfZXJyX2ZpbGVcPg==</entry>
         <entry encoding="base64">XDxicm9hZGNhc3RfZXJyX2ZpbGVcPg==</entry>
@@ -879,6 +881,7 @@
         <entry encoding="base64">XDxnZW5lcmF0ZV9vcmRlcl9zaWduXD4=</entry>
         <entry encoding="base64">XDxEYXRhRXJyb3JcPg==</entry>
         <entry encoding="base64">XDxhZGp1c3RfcmVjaGFyZ2VfcHJpY2VcPg==</entry>
+        <entry encoding="base64">XDxidWlsZF9mb3JtXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>
