@@ -33,7 +33,8 @@
         <mark key="^" line="290" column="61" />
         <mark key="." line="291" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/trans_alipay.py" timestamp="1508381882805">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/trans_alipay.py" timestamp="1509603854540">
+        <mark key="'" line="40" column="9" />
         <mark key="[" line="41" column="11" />
         <mark key="]" line="41" column="26" />
         <mark key="." line="41" column="26" />
@@ -1017,9 +1018,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="17" filename="$USER_HOME$/workspace/LotteryService/longconnect/handler.py" />
-      <jump line="74" column="24" filename="$USER_HOME$/workspace/KFCService/bullapi/longconnect/broadcast.py" />
-      <jump line="102" column="24" filename="$USER_HOME$/workspace/KFCService/bullapi/longconnect/broadcast.py" />
       <jump line="103" column="12" filename="$USER_HOME$/workspace/KFCService/bullapi/longconnect/broadcast.py" />
       <jump line="47" column="38" filename="$USER_HOME$/workspace/KFCService/bullapi/longconnect/handler.py" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/deploy/config.sample.py" />
@@ -1117,6 +1115,9 @@
       <jump line="94" column="28" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/skillfully_pay.py" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/skillfully_pay.py" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/payservice/payservice/base/settings.py" />
+      <jump line="35" column="47" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/trans_alipay.py" />
+      <jump line="6" column="19" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/trans_alipay.py" />
+      <jump line="40" column="9" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/trans_alipay.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1126,7 +1127,7 @@
         <text>mv settings_release.py env_settings.py</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTS0lMTEZVTExZX1VOSU9OXD4=</text>
+        <text encoding="base64">XDxBbGlQYXlcPg==</text>
       </register>
       <register name="0" type="4">
         <text>settings.PAY_CACHE_URL + cache_id</text>
@@ -1169,9 +1170,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTS0lMTEZVTExZX1VOSU9OXD4=</last-search>
+      <last-search encoding="base64">XDxBbGlQYXlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTS0lMTEZVTExZX1VOSU9OXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxBbGlQYXlcPg==</last-pattern>
       <last-replace>Agency</last-replace>
       <last-substitute>Admin</last-substitute>
       <last-dir>1</last-dir>
@@ -1179,7 +1180,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfR0FURVdBWVw+</entry>
         <entry encoding="base64">XDxYSU5HRV9BTkRST0lEX0FDQ0VTU19JRFw+</entry>
         <entry encoding="base64">XDxfUVVFUllfR0FURVdBWVw+</entry>
         <entry encoding="base64">XDxMT0dHSU5HXD4=</entry>
@@ -1199,6 +1199,7 @@
         <entry encoding="base64">XDxhZGRfcGF5X2ZhaWxcPg==</entry>
         <entry encoding="base64">XDxhc3luY19qb2JcPg==</entry>
         <entry encoding="base64">XDxTS0lMTEZVTExZX1VOSU9OXD4=</entry>
+        <entry encoding="base64">XDxBbGlQYXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>152</entry>
