@@ -405,12 +405,11 @@
         <mark key="." line="89" column="16" />
         <mark key="^" line="89" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/starspay.py" timestamp="1509608292530">
+      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/starspay.py" timestamp="1509609473460">
         <mark key="'" line="153" column="40" />
-        <mark key="[" line="81" column="22" />
-        <mark key="]" line="81" column="22" />
-        <mark key="." line="81" column="22" />
-        <mark key="^" line="81" column="18" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="102" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/payservice/deploy/online_game/deploy.yaml" timestamp="1509588222440">
         <mark key="[" line="27" column="12" />
@@ -816,11 +815,11 @@
         <mark key="." line="46" column="80" />
         <mark key="^" line="46" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/.gitignore" timestamp="1508381087829">
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="25" column="46" />
-        <mark key="^" line="25" column="46" />
-        <mark key="." line="25" column="46" />
+      <file name="$USER_HOME$/workspace/bigbang-server/.gitignore" timestamp="1509609729334">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="46" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice/luckyweb/js/frame/const.js" timestamp="1509439981366">
         <mark key="[" line="189" column="17" />
@@ -887,7 +886,7 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509608296747">
+      <file name="/Dummy.txt" timestamp="1509609740359">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -1128,11 +1127,11 @@
       <jump line="152" column="40" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/starspay.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>str(pay.id)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YWRkIGJldCB0eXBlIGNvbW1lbnQK</text>
       </register>
       <register name="-" type="4">
-        <text>str(pay.id)</text>
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBbGlQYXlcPg==</text>
@@ -1144,7 +1143,7 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+        <text encoding="base64">YWRkIGJldCB0eXBlIGNvbW1lbnQK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1153,25 +1152,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBwYXk6CiAgICAgICAgcmFpc2UgRGF0YUVycm9yKCdwYXkgJXMgbm90IGV4aXN0cycgJSBwYXlfaWQpCiAgICBpZiBwYXkuc3RhdHVzID09IFBBWV9TVEFUVVMuRE9ORToKICAgICAgICByYWlzZSBQYXJhbUVycm9yKCdwYXkgJXMgaGFzIGJlZW4gcHJvY2Vzc2VkJyAlIHBheV9pZCkKICAgIGlmIHBheS5zdGF0dXMgIT0gUEFZX1NUQVRVUy5TVUJNSVQ6CiAgICAgICAgcmFpc2UgRGF0YUVycm9yKCdwYXkgJXMgc3RhdHVzIGludmFsaWQnICUgcGF5X2lkKQo=</text>
+        <text encoding="base64">YmlnYmFuZy9hcGkvbWFuYWdlbWVudC9jb21tYW5kcy90cmFuc19hbGlwYXkucHkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX2lkID0gcGF5X29yZGVyLnVzZXJfaWQK</text>
+        <text encoding="base64">ICAgICAgICAoJ25vdGlmeVVybCcsICd7fS9wYXkvYXBpL3RoaXJkL25vdGlmeS9za2lsbGZ1bGx5L3t9Jy5mb3JtYXQoc2V0dGluZ3MuTk9USUZZX1BSRUZJWCwgYXBwX2lkKSksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBheSA9IGdldF9wYXkocGF5X2lkKQogICAgaWYgbm90IHBheToKICAgICAgICBwcmludCAncGF5ICVzIG5vbmUnICUgcGF5X2lkCiAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1lcl9pZCA9IGV4dGVuZC5nZXQoJ21lcl9pZCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4dGVuZCA9IHt9IGlmIG5vdCBwYXkuZXh0ZW5kIGVsc2UganNvbi5sb2FkcyhwYXkuZXh0ZW5kKQo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBwYXk6CiAgICAgICAgcmFpc2UgRGF0YUVycm9yKCdwYXkgJXMgbm90IGV4aXN0cycgJSBwYXlfaWQpCiAgICBpZiBwYXkuc3RhdHVzID09IFBBWV9TVEFUVVMuRE9ORToKICAgICAgICByYWlzZSBQYXJhbUVycm9yKCdwYXkgJXMgaGFzIGJlZW4gcHJvY2Vzc2VkJyAlIHBheV9pZCkKICAgIGlmIHBheS5zdGF0dXMgIT0gUEFZX1NUQVRVUy5TVUJNSVQ6CiAgICAgICAgcmFpc2UgRGF0YUVycm9yKCdwYXkgJXMgc3RhdHVzIGludmFsaWQnICUgcGF5X2lkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGtleSA9IF9NRVJfSURfS0VZW21lcl9pZF0K</text>
+        <text encoding="base64">ICAgICAgICB1c2VyX2lkID0gcGF5X29yZGVyLnVzZXJfaWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGtleSA9IF9NRVJfSURfS0VZW21lcl9pZF0K</text>
+        <text encoding="base64">ICAgIHBheSA9IGdldF9wYXkocGF5X2lkKQogICAgaWYgbm90IHBheToKICAgICAgICBwcmludCAncGF5ICVzIG5vbmUnICUgcGF5X2lkCiAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name=":" type="4">
         <text>127</text>
