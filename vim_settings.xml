@@ -405,6 +405,13 @@
         <mark key="." line="89" column="16" />
         <mark key="^" line="89" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/starspay.py" timestamp="1509607432606">
+        <mark key="'" line="151" column="40" />
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+        <mark key="^" line="18" column="57" />
+      </file>
       <file name="$USER_HOME$/workspace/payservice/deploy/online_game/deploy.yaml" timestamp="1509588222440">
         <mark key="[" line="27" column="12" />
         <mark key="]" line="27" column="15" />
@@ -880,7 +887,7 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509605381204">
+      <file name="/Dummy.txt" timestamp="1509606960488">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -1019,7 +1026,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="12" filename="$USER_HOME$/workspace/KFCService/bullapi/longconnect/broadcast.py" />
       <jump line="47" column="38" filename="$USER_HOME$/workspace/KFCService/bullapi/longconnect/handler.py" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/deploy/config.sample.py" />
       <jump line="11" column="5" filename="$USER_HOME$/workspace/deploy/config.sample.py" />
@@ -1119,52 +1125,53 @@
       <jump line="35" column="47" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/trans_alipay.py" />
       <jump line="6" column="19" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/trans_alipay.py" />
       <jump line="40" column="9" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/trans_alipay.py" />
+      <jump line="152" column="40" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/starspay.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mv settings_release.py env_settings.py</text>
+        <text>Ueuf!8v.sGsx</text>
       </register>
       <register name="-" type="4">
-        <text>mv settings_release.py env_settings.py</text>
+        <text>Ueuf!8v.sGsx</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBbGlQYXlcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>settings.PAY_CACHE_URL + cache_id</text>
+        <text>http://gate.starspay.com/cooperate/gateway.cgi</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBwYXk6CiAgICAgICAgcmFpc2UgRGF0YUVycm9yKCdwYXkgJXMgbm90IGV4aXN0cycgJSBwYXlfaWQpCiAgICBpZiBwYXkuc3RhdHVzID09IFBBWV9TVEFUVVMuRE9ORToKICAgICAgICByYWlzZSBQYXJhbUVycm9yKCdwYXkgJXMgaGFzIGJlZW4gcHJvY2Vzc2VkJyAlIHBheV9pZCkKICAgIGlmIHBheS5zdGF0dXMgIT0gUEFZX1NUQVRVUy5TVUJNSVQ6CiAgICAgICAgcmFpc2UgRGF0YUVycm9yKCdwYXkgJXMgc3RhdHVzIGludmFsaWQnICUgcGF5X2lkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX2lkID0gcGF5X29yZGVyLnVzZXJfaWQK</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBwYXk6CiAgICAgICAgcmFpc2UgRGF0YUVycm9yKCdwYXkgJXMgbm90IGV4aXN0cycgJSBwYXlfaWQpCiAgICBpZiBwYXkuc3RhdHVzID09IFBBWV9TVEFUVVMuRE9ORToKICAgICAgICByYWlzZSBQYXJhbUVycm9yKCdwYXkgJXMgaGFzIGJlZW4gcHJvY2Vzc2VkJyAlIHBheV9pZCkKICAgIGlmIHBheS5zdGF0dXMgIT0gUEFZX1NUQVRVUy5TVUJNSVQ6CiAgICAgICAgcmFpc2UgRGF0YUVycm9yKCdwYXkgJXMgc3RhdHVzIGludmFsaWQnICUgcGF5X2lkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBheSA9IGdldF9wYXkocGF5X2lkKQogICAgaWYgbm90IHBheToKICAgICAgICBwcmludCAncGF5ICVzIG5vbmUnICUgcGF5X2lkCiAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyX2lkID0gcGF5X29yZGVyLnVzZXJfaWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1lcl9pZCA9IGV4dGVuZC5nZXQoJ21lcl9pZCcpCg==</text>
+        <text encoding="base64">ICAgIHBheSA9IGdldF9wYXkocGF5X2lkKQogICAgaWYgbm90IHBheToKICAgICAgICBwcmludCAncGF5ICVzIG5vbmUnICUgcGF5X2lkCiAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4dGVuZCA9IHt9IGlmIG5vdCBwYXkuZXh0ZW5kIGVsc2UganNvbi5sb2FkcyhwYXkuZXh0ZW5kKQo=</text>
+        <text encoding="base64">ICAgIG1lcl9pZCA9IGV4dGVuZC5nZXQoJ21lcl9pZCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGtleSA9IF9NRVJfSURfS0VZW21lcl9pZF0K</text>
+        <text encoding="base64">ICAgIGV4dGVuZCA9IHt9IGlmIG5vdCBwYXkuZXh0ZW5kIGVsc2UganNvbi5sb2FkcyhwYXkuZXh0ZW5kKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIGtleSA9IF9NRVJfSURfS0VZW21lcl9pZF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBheS5zYXZlKCkK</text>
+        <text encoding="base64">ICAgIGtleSA9IF9NRVJfSURfS0VZW21lcl9pZF0K</text>
       </register>
       <register name=":" type="4">
         <text>127</text>
