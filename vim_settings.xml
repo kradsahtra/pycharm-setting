@@ -429,7 +429,7 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/thpay.py" timestamp="1509532085867">
+      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/thpay.py" timestamp="1509614651952">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="32" />
       </file>
@@ -470,11 +470,11 @@
         <mark key="." line="105" column="54" />
         <mark key="^" line="105" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/yiaipay.py" timestamp="1509611980937">
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="19" column="51" />
-        <mark key="." line="19" column="51" />
-        <mark key="^" line="19" column="51" />
+      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/yiaipay.py" timestamp="1509614600274">
+        <mark key="[" line="79" column="17" />
+        <mark key="]" line="79" column="17" />
+        <mark key="." line="79" column="17" />
+        <mark key="^" line="79" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/requirements.txt" timestamp="1502598881427">
         <mark key="[" line="0" column="7" />
@@ -892,7 +892,7 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509609740359">
+      <file name="/Dummy.txt" timestamp="1509614606042">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -1134,10 +1134,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://gate.starspay.com/cooperate/gateway.cgi</text>
+        <text>'1.0.0.0'</text>
       </register>
       <register name="-" type="4">
-        <text>http://gate.starspay.com/cooperate/gateway.cgi</text>
+        <text>'1.0.0.0'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBbGlQYXlcPg==</text>
