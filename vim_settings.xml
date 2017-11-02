@@ -363,6 +363,12 @@
         <mark key="^" line="55" column="73" />
         <mark key="." line="55" column="60" />
       </file>
+      <file name="$USER_HOME$/workspace/payservice/deploy/online/deploy.yaml" timestamp="1509588192770">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="15" />
+        <mark key="." line="27" column="15" />
+        <mark key="^" line="27" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/agency_pay/deploy/stages.py" timestamp="1505641690013">
         <mark key="[" line="5" column="35" />
         <mark key="]" line="5" column="48" />
@@ -396,6 +402,12 @@
         <mark key="]" line="89" column="16" />
         <mark key="." line="89" column="16" />
         <mark key="^" line="89" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/payservice/deploy/online_game/deploy.yaml" timestamp="1509588222440">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="15" />
+        <mark key="." line="27" column="15" />
+        <mark key="^" line="27" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/casiouser/userapi/model/transaction.py" timestamp="1503649258330">
         <mark key="[" line="52" column="13" />
@@ -567,11 +579,11 @@
         <mark key="." line="39" column="49" />
         <mark key="^" line="39" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/deploy/release/deploy.yaml" timestamp="1509526555829">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-        <mark key="^" line="2" column="13" />
+      <file name="$USER_HOME$/workspace/payservice/deploy/release/deploy.yaml" timestamp="1509588227743">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="15" />
+        <mark key="." line="26" column="15" />
+        <mark key="^" line="26" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/im.supervisor.conf" timestamp="1502532770015">
         <mark key="[" line="8" column="0" />
@@ -1108,10 +1120,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>settings.PAY_CACHE_URL + cache_id</text>
+        <text>mv settings_release.py env_settings.py</text>
       </register>
       <register name="-" type="4">
-        <text>settings.PAY_CACHE_URL + cache_id</text>
+        <text>mv settings_release.py env_settings.py</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTS0lMTEZVTExZX1VOSU9OXD4=</text>
