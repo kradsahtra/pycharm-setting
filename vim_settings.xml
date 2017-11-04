@@ -343,10 +343,11 @@
         <mark key="." line="105" column="54" />
         <mark key="^" line="105" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/yiaipay.py" timestamp="1509700042942">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="153" column="87" />
-        <mark key="." line="147" column="24" />
+      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/yiaipay.py" timestamp="1509761871439">
+        <mark key="'" line="83" column="57" />
+        <mark key="[" line="32" column="43" />
+        <mark key="]" line="32" column="43" />
+        <mark key="." line="32" column="43" />
         <mark key="^" line="144" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/requirements.txt" timestamp="1502598881427">
@@ -762,7 +763,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/PayService/payservice/common/channel/pay/zfpay.py" />
       <jump line="61" column="0" filename="$USER_HOME$/workspace/devops/bootstrap.yml" />
       <jump line="69" column="19" filename="$USER_HOME$/workspace/devops/bootstrap.yml" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/check_service_ip.py" />
@@ -862,13 +862,14 @@
       <jump line="121" column="29" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/skillfully_pay.py" />
       <jump line="102" column="4" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/youpay.py" />
       <jump line="80" column="30" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/model.py" />
+      <jump line="83" column="57" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/yiaipay.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>思</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>思</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5aWFpcGF5XD4=</text>
