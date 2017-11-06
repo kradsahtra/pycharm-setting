@@ -184,9 +184,9 @@
         <mark key="^" line="55" column="73" />
         <mark key="." line="55" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/deploy/online_game/deploy.yaml" timestamp="1509588222440">
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="27" column="15" />
+      <file name="$USER_HOME$/workspace/payservice/deploy/online_game/deploy.yaml" timestamp="1509931929668">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="17" />
         <mark key="." line="27" column="15" />
         <mark key="^" line="27" column="15" />
       </file>
@@ -768,7 +768,7 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/deploy/online/deploy.yaml" timestamp="1509588192770">
+      <file name="$USER_HOME$/workspace/payservice/deploy/online/deploy.yaml" timestamp="1509931901340">
         <mark key="[" line="27" column="12" />
         <mark key="]" line="27" column="15" />
         <mark key="." line="27" column="15" />
@@ -1198,8 +1198,8 @@
       <jump line="81" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24uY291cG9uLm1vZGVsIGltcG9ydCBBY2NvdW50Q291cG9uLCBDT1VQT05fU1RBVFVTCg==</text>
+      <register name="&quot;" type="4">
+        <text>183.60.200.115</text>
       </register>
       <register name="-" type="4">
         <text>贝</text>
@@ -1208,7 +1208,7 @@
         <text encoding="base64">XDxQYXlTZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>JUSTPAY_TEST</text>
+        <text>183.60.200.115</text>
       </register>
       <register name="p" type="4">
         <text />
