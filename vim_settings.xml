@@ -87,12 +87,12 @@
         <mark key="." line="33" column="39" />
         <mark key="^" line="38" column="83" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/kailianpay.py" timestamp="1510043002031">
+      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/kailianpay.py" timestamp="1510048841688">
         <mark key="'" line="34" column="25" />
-        <mark key="[" line="82" column="98" />
-        <mark key="]" line="83" column="20" />
-        <mark key="." line="83" column="20" />
-        <mark key="^" line="83" column="20" />
+        <mark key="[" line="66" column="58" />
+        <mark key="]" line="66" column="64" />
+        <mark key="." line="66" column="64" />
+        <mark key="^" line="66" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/LotteryService/broadcast.py" timestamp="1507259471919">
         <mark key="'" line="25" column="14" />
@@ -1153,17 +1153,17 @@
       <jump line="6" column="75" filename="$USER_HOME$/workspace/pay_loki/payservice/base/settings_online.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmluZm8oImthaWxpYW5wYXkgc2lnbjogJXMsIGNhbGN1bGF0ZWQgc2lnbjogJXMiLCBzaWduLCBjYWxjdWxhdGVkX3NpZ24pCg==</text>
+      <register name="&quot;" type="4">
+        <text>signType</text>
       </register>
       <register name="-" type="4">
-        <text>sign</text>
+        <text>signType</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNlaXZlVXJsXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>calculated_sign</text>
+        <text encoding="base64">JnNpZ25UeXBlPXt9</text>
       </register>
       <register name="p" type="4">
         <text />
