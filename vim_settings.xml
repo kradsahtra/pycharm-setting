@@ -87,12 +87,12 @@
         <mark key="." line="33" column="39" />
         <mark key="^" line="38" column="83" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/kailianpay.py" timestamp="1510037337878">
+      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/kailianpay.py" timestamp="1510043002031">
         <mark key="'" line="34" column="25" />
-        <mark key="[" line="112" column="24" />
-        <mark key="]" line="112" column="27" />
-        <mark key="." line="112" column="27" />
-        <mark key="^" line="112" column="27" />
+        <mark key="[" line="82" column="98" />
+        <mark key="]" line="83" column="20" />
+        <mark key="." line="83" column="20" />
+        <mark key="^" line="83" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/LotteryService/broadcast.py" timestamp="1507259471919">
         <mark key="'" line="25" column="14" />
@@ -583,12 +583,12 @@
         <mark key="^" line="24" column="72" />
         <mark key="." line="24" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/api/notify/view.py" timestamp="1510020802864">
+      <file name="$USER_HOME$/workspace/payservice/payservice/api/notify/view.py" timestamp="1510041832204">
         <mark key="'" line="443" column="0" />
-        <mark key="[" line="459" column="27" />
-        <mark key="]" line="459" column="36" />
-        <mark key="^" line="459" column="36" />
-        <mark key="." line="459" column="36" />
+        <mark key="[" line="460" column="29" />
+        <mark key="]" line="460" column="34" />
+        <mark key="^" line="460" column="34" />
+        <mark key="." line="460" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/KFCService/luckycommon/imbroadcast_cache/__init__.py" timestamp="1501919511555">
         <mark key="[" line="27" column="0" />
@@ -1153,50 +1153,50 @@
       <jump line="6" column="75" filename="$USER_HOME$/workspace/pay_loki/payservice/base/settings_online.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>GET</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmluZm8oImthaWxpYW5wYXkgc2lnbjogJXMsIGNhbGN1bGF0ZWQgc2lnbjogJXMiLCBzaWduLCBjYWxjdWxhdGVkX3NpZ24pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>GET</text>
+        <text>sign</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNlaXZlVXJsXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJbJ3ZlcnNpb24nXSwK</text>
+      <register name="0" type="4">
+        <text>calculated_sign</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAoJ3ZlcnNpb24nLCAndjEuMCcpLAo=</text>
+        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmluZm8oImthaWxpYW5wYXkgc2lnbjogJXMsIGNhbGN1bGF0ZWQgc2lnbjogJXMiLCBzaWduLCBjYWxjdWxhdGVkX3NpZ24pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAoKQo=</text>
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbyh1J2thaWxpYW5wYXkgbm90aWZ5IG9yaWdpbiBzdHJpbmc6ICVzLCBjYWxjdWxhdGVkX3NpZ246JXMnLCBzLCBjYWxjdWxhdGVkX3NpZ24pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlID0gcmVxdWVzdHMucG9zdChfR0FURVdBWSwgZGF0YT1wX2RpY3QsIGhlYWRlcnM9aGVhZGVycywgdGltZW91dD0zKQo=</text>
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbyh1J2thaWxpYW5wYXkgb3JpZ2luIHN0cmluZzogJXMsIHNpZ246JXMnLCBzLCBzaWduKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygia2FpbGlhbnBheSBjcmVhdGUgb3JkZXIgcmVzcG9uc2UgZGF0YTogJXMsICVzIiAlIChyZXNwb25zZS5zdGF0dXNfY29kZSwgcmVzcG9uc2UudGV4dCkpCiAgICBjaGFyZ2VfcmVzcCA9IHsKICAgICAgICAnY2hhcmdlX2luZm8nOiAnJwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXNbJ3BheVR5cGUnXSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7J0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQnfQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXNbJ3Byb2R1Y3ROYW1lJ10sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJbJ3R5cGUnXSwgCiAgICAgICAgcGFyYW1ldGVyWyd2YWx1ZSddLAogICAgICAgIHBhcmFtZXRlclsnb3JkZXJpZCddLCAKICAgICAgICBwYXJhbWV0ZXJbJ2NhbGxiYWNrdXJsJ10sIAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXNbJ29yZGVyRGF0ZXRpbWUnXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGdlbmVyYXRlX29yZGVyX3NpZ24ocGFyYW1ldGVyLCBrZXkpOgogICAgcyA9ICcnCiAgICBmb3IgayBpbiBzb3J0ZWQocGFyYW1ldGVyLmtleXMoKSk6CiAgICAgICAgcyArPSAnJXM9JXMmJyAlIChrLCBwYXJhbWV0ZXJba10pCiAgICBzICs9ICdrZXk9JXMnICUga2V5CiAgICBfTE9HR0VSLmluZm8oImthaWxpYW5wYXkgb3JpZ2luYWwgc3RyOiAlcyIsIHMpCiAgICBtID0gaGFzaGxpYi5tZDUoKQogICAgbS51cGRhdGUocy5lbmNvZGUoJ3V0ZjgnKSkKICAgIHNpZ24gPSBtLmhleGRpZ2VzdCgpLnVwcGVyKCkKICAgIHJldHVybiBzaWduCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXNbJ3NpZ25UeXBlJ10sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIHJlc3Bfb2JqLmdldCgnY29kZScpID09ICdTVUNDRVNTJzoK</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXNbJ3ZlcnNpb24nXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgcmFpc2UgVGhpcmRQYXJ0eUVycm9yKCkK</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXNbJ21lcmNoYW50SWQnXSwK</text>
       </register>
       <register name=":" type="4">
         <text>127</text>
