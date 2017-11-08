@@ -162,7 +162,7 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/__init__.py" timestamp="1509521943412">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/__init__.py" timestamp="1510126284189">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="16" column="28" />
       </file>
@@ -350,7 +350,7 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510123738450">
+      <file name="/Dummy.txt" timestamp="1510125998552">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -510,6 +510,12 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/js_ks/order/handler.py" timestamp="1510126288934">
+        <mark key="[" line="58" column="44" />
+        <mark key="]" line="58" column="48" />
+        <mark key="." line="58" column="48" />
+        <mark key="^" line="58" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/casiouser/usercommon/third/sms/helper.py" timestamp="1503925186155">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="26" />
@@ -530,6 +536,7 @@
         <mark key="^" line="122" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/model.py" timestamp="1509605478579" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/js_ks/crawler.py" timestamp="1510124748040" />
       <file name="$USER_HOME$/workspace/deploy/config_files/pay.supervisor.conf" timestamp="1506652271736">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="32" />
@@ -648,6 +655,7 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/cq_ssc/crawler.py" timestamp="1510124920105" />
       <file name="$USER_HOME$/workspace/deploy/README.md" timestamp="1508380588607">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="13" />
@@ -697,6 +705,7 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/bj_pk10/crawler.py" timestamp="1510125009297" />
       <file name="$USER_HOME$/workspace/async_demo/server.py" timestamp="1502796831880">
         <mark key="[" line="39" column="17" />
         <mark key="]" line="40" column="19" />
@@ -902,16 +911,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id_rsa</text>
+        <text>JX_11X5</text>
       </register>
       <register name="-" type="4">
-        <text>id_rsa</text>
+        <text>JX_11X5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNlaXZlVXJsXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JnNpZ25UeXBlPXt9</text>
+        <text>js_ks</text>
       </register>
       <register name="p" type="4">
         <text />
