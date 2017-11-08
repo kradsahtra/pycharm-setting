@@ -130,6 +130,9 @@
         <mark key="^" line="55" column="73" />
         <mark key="." line="55" column="60" />
       </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/bigbang.nginx.conf" timestamp="1510111130495">
+        <mark key="'" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/payservice/deploy/online_game/deploy.yaml" timestamp="1509931929668">
         <mark key="[" line="20" column="4" />
         <mark key="]" line="20" column="17" />
@@ -799,7 +802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="19" filename="$USER_HOME$/workspace/deploy/config_files/cpsstats.conf" />
       <jump line="12" column="43" filename="$USER_HOME$/workspace/cpstats/cpsservice/api/urls.py" />
       <jump line="50" column="49" filename="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" />
       <jump line="29" column="38" filename="$USER_HOME$/workspace/cpstats/cpsweb/templates/console/PermissionDetail.html" />
@@ -899,6 +901,7 @@
       <jump line="6" column="96" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/model.py" />
       <jump line="33" column="25" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/kailianpay.py" />
       <jump line="6" column="75" filename="$USER_HOME$/workspace/pay_loki/payservice/base/settings_online.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.nginx.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
