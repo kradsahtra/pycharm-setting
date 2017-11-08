@@ -145,11 +145,6 @@
         <mark key="^" line="53" column="22" />
         <mark key="." line="52" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/thpay.py" timestamp="1509951467237">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="26" />
-      </file>
       <file name="$USER_HOME$/workspace/lottery_sigapore/usercommon/level/handler.py" timestamp="1502946695112">
         <mark key="[" line="105" column="28" />
         <mark key="]" line="105" column="54" />
@@ -218,6 +213,9 @@
         <mark key="]" line="26" column="15" />
         <mark key="." line="26" column="15" />
         <mark key="^" line="26" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/handler.py" timestamp="1510130346796">
+        <mark key="'" line="77" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/requirements.txt" timestamp="1506912357273">
         <mark key="[" line="0" column="5" />
@@ -350,7 +348,7 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510125998552">
+      <file name="/Dummy.txt" timestamp="1510130214305">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -359,11 +357,6 @@
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/pay/model.py" timestamp="1509779828136">
         <mark key="[" line="13" column="5" />
         <mark key="]" line="13" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/trpay.py" timestamp="1509951396917">
-        <mark key="'" line="145" column="0" />
-        <mark key="[" line="72" column="21" />
-        <mark key="]" line="72" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/casioconsole/uwsgi.ini" timestamp="1502203489529">
         <mark key="[" line="15" column="28" />
@@ -675,6 +668,7 @@
         <mark key="." line="163" column="82" />
         <mark key="^" line="163" column="82" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/model.py" timestamp="1510130584871" />
       <file name="$USER_HOME$/workspace/deploy/config_files/im.supervisor.conf" timestamp="1502532770015">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="17" />
@@ -808,7 +802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="43" filename="$USER_HOME$/workspace/cpstats/cpsservice/api/urls.py" />
       <jump line="50" column="49" filename="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" />
       <jump line="29" column="38" filename="$USER_HOME$/workspace/cpstats/cpsweb/templates/console/PermissionDetail.html" />
       <jump line="99" column="28" filename="$USER_HOME$/workspace/cpstats/cpsweb/js/apps/console/user.js" />
@@ -908,6 +901,7 @@
       <jump line="33" column="25" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/kailianpay.py" />
       <jump line="6" column="75" filename="$USER_HOME$/workspace/pay_loki/payservice/base/settings_online.py" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.nginx.conf" />
+      <jump line="77" column="12" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/handler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -917,7 +911,7 @@
         <text>JX_11X5</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWNlaXZlVXJsXD4=</text>
+        <text encoding="base64">XDxjeWNsaWNhbF9vcmRlclw+</text>
       </register>
       <register name="0" type="4">
         <text>js_ks</text>
@@ -960,9 +954,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWNlaXZlVXJsXD4=</last-search>
+      <last-search encoding="base64">XDxjeWNsaWNhbF9vcmRlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWNlaXZlVXJsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjeWNsaWNhbF9vcmRlclw+</last-pattern>
       <last-replace>Agency</last-replace>
       <last-substitute>Admin</last-substitute>
       <last-dir>1</last-dir>
@@ -970,7 +964,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGp1c3RfcmVjaGFyZ2VfcHJpY2VcPg==</entry>
         <entry encoding="base64">XDxidWlsZF9mb3JtXD4=</entry>
         <entry encoding="base64">XDxza2lsZnVsbHlfcGF5XD4=</entry>
         <entry encoding="base64">XDxwYXlmdWJhb1w+</entry>
@@ -990,6 +983,7 @@
         <entry encoding="base64">XDxLQUlMSUFOX1dBUFw+</entry>
         <entry encoding="base64">XDxrYWlsaWFucGF5XD4=</entry>
         <entry encoding="base64">XDxyZWNlaXZlVXJsXD4=</entry>
+        <entry encoding="base64">XDxjeWNsaWNhbF9vcmRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>152</entry>
