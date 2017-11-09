@@ -205,6 +205,12 @@
         <mark key="." line="58" column="48" />
         <mark key="^" line="58" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1510226510110">
+        <mark key="[" line="134" column="20" />
+        <mark key="]" line="134" column="25" />
+        <mark key="." line="134" column="25" />
+        <mark key="^" line="134" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/casioconsole/luckycommon/preset/db/pay_channel.py" timestamp="1503304845785">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -473,6 +479,11 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/redis.service" timestamp="1510226475742">
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/KFCService/bullapi/management/commands/restart_bull.py" timestamp="1502195385887">
         <mark key="[" line="25" column="16" />
         <mark key="]" line="25" column="11" />
@@ -481,6 +492,12 @@
       </file>
       <file name="$USER_HOME$/workspace/BigBangService/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1509678404760">
         <mark key="'" line="471" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/redis.ini" timestamp="1510225108169">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="36" />
+        <mark key="." line="1" column="36" />
+        <mark key="^" line="1" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/README.md" timestamp="1508380588607">
         <mark key="[" line="3" column="11" />
@@ -657,11 +674,12 @@
         <mark key="." line="166" column="32" />
         <mark key="^" line="164" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config_files/redis.conf" timestamp="1510219873501">
-        <mark key="[" line="68" column="5" />
-        <mark key="]" line="68" column="13" />
-        <mark key="." line="68" column="13" />
-        <mark key="^" line="68" column="13" />
+      <file name="$USER_HOME$/workspace/deploy/config_files/redis.conf" timestamp="1510226392998">
+        <mark key="'" line="547" column="29" />
+        <mark key="[" line="245" column="4" />
+        <mark key="]" line="245" column="17" />
+        <mark key="^" line="245" column="17" />
+        <mark key="." line="245" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/frame/const.js" timestamp="1509104587358">
         <mark key="[" line="73" column="22" />
@@ -730,7 +748,7 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510214614495">
+      <file name="/Dummy.txt" timestamp="1510226712091">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -857,7 +875,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="38" filename="$USER_HOME$/workspace/cpstats/cpsweb/templates/console/PermissionDetail.html" />
       <jump line="99" column="28" filename="$USER_HOME$/workspace/cpstats/cpsweb/js/apps/console/user.js" />
       <jump line="138" column="35" filename="$USER_HOME$/workspace/cpstats/cpsweb/js/apps/console/user.js" />
       <jump line="180" column="16" filename="$USER_HOME$/workspace/cpstats/cpsweb/js/apps/console/user.js" />
@@ -957,52 +974,53 @@
       <jump line="16" column="0" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.nginx.conf" />
       <jump line="77" column="12" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/handler.py" />
       <jump line="109" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/handler.py" />
+      <jump line="547" column="29" filename="$USER_HOME$/workspace/deploy/config_files/redis.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>192.168.12.16</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cmVtb3ZlIHVzZWxlc3MgZmlsZXMK</text>
       </register>
       <register name="-" type="4">
-        <text>192.168.12.16</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
       </register>
-      <register name="0" type="4">
-        <text>['win_price']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHN1ZG8oInN5c3RlbWN0bCBzdGFydCByZWRpcyIpCg==</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBkYXRhWyd3aW5fcHJpY2UnXToKICAgICAgICBkYXRhWyd3aW5fcHJpY2UnXSA9IDAKICAgIGlmIG5vdCBkYXRhWydwcmljZSddOgogICAgICAgIGRhdGFbJ3ByaWNlJ10gPSAwCiAgICBpZiBub3QgZGF0YVsnYm9udXMnXToKICAgICAgICBkYXRhWydib251cyddID0gMAo=</text>
+        <text encoding="base64">cmVtb3ZlIHVzZWxlc3MgZmlsZXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgZGF0YVsncHJpY2UnXToKICAgICAgICAgICAgZGF0YVsncHJpY2UnXSA9IDAKICAgICAgICBpZiBub3QgZGF0YVsnYm9udXMnXToKICAgICAgICAgICAgZGF0YVsnYm9udXMnXSA9IDAK</text>
+        <text encoding="base64">c3VwZXJ2aXNlZCBubwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBkYXRhWyd3aW5fcHJpY2UnXToKICAgICAgICBkYXRhWyd3aW5fcHJpY2UnXSA9IDAKICAgIGlmIG5vdCBkYXRhWydwcmljZSddOgogICAgICAgIGRhdGFbJ3ByaWNlJ10gPSAwCiAgICBpZiBub3QgZGF0YVsnYm9udXMnXToKICAgICAgICBkYXRhWydib251cyddID0gMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICArCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgZGF0YVsncHJpY2UnXToKICAgICAgICAgICAgZGF0YVsncHJpY2UnXSA9IDAKICAgICAgICBpZiBub3QgZGF0YVsnYm9udXMnXToKICAgICAgICAgICAgZGF0YVsnYm9udXMnXSA9IDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICArCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBpbmZvWyd3aW5fcHJpY2UnXToKICAgICAgICBpbmZvWyd3aW5fcHJpY2UnXSA9IDAKICAgIGlmIG5vdCBpbmZvWydwcmljZSddOgogICAgICAgIGluZm9bJ3ByaWNlJ10gPSAwCiAgICBpZiBub3QgaW5mb1snYm9udXMnXToKICAgICAgICBpbmZvWydib251cyddID0gMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gT1JERVJfTU9ERUxbYWN0aXZpdHlfdHlwZV0KICAgIG9yZGVyID0gbW9kZWwucXVlcnkuZmlsdGVyKAo=</text>
+        <text encoding="base64">ICAgICAgICArCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmluZm8oImthaWxpYW5wYXkgc2lnbjogJXMsIGNhbGN1bGF0ZWQgc2lnbjogJXMiLCBzaWduLCBjYWxjdWxhdGVkX3NpZ24pCg==</text>
+        <text encoding="base64">ICAgICAgICArCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9pbmZvL2RhdGEvZ2M=</text>
