@@ -219,7 +219,13 @@
         <mark key="^" line="245" column="17" />
         <mark key="." line="245" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/dirpay.py" timestamp="1510280312495" />
+      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/dirpay.py" timestamp="1510292431250">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="150" column="55" />
+        <mark key="]" line="150" column="67" />
+        <mark key="." line="150" column="67" />
+        <mark key="^" line="150" column="67" />
+      </file>
       <file name="$USER_HOME$/workspace/payservice/payservice/api/urls.py" timestamp="1509959267980">
         <mark key="'" line="43" column="4" />
         <mark key="[" line="49" column="64" />
@@ -267,9 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="30" filename="$USER_HOME$/workspace/lucky_diablo/deploy/fabfile.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/luckyservice/luckyapi/urls.py" />
-      <jump line="37" column="36" filename="$USER_HOME$/workspace/cpstats/cpsservice/api/report/daily.py" />
       <jump line="59" column="4" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/youpay.py" />
       <jump line="77" column="30" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/model.py" />
       <jump line="193" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/skillfully_pay.py" />
@@ -367,19 +370,22 @@
       <jump line="5" column="9" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.nginx.conf" />
       <jump line="111" column="8" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.nginx.conf" />
       <jump line="44" column="54" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/js_ks/order/handler.py" />
+      <jump line="150" column="8" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/dirpay.py" />
+      <jump line="164" column="12" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/dirpay.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/dirpay.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/32</text>
+        <text>())</text>
       </register>
       <register name="-" type="4">
-        <text>/32</text>
+        <text>())</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXlhcGlcPg==</text>
+        <text encoding="base64">XDxfTE9HR0VSXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>52.15.190.154</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCdkaXJwYXkgcXVlcnkgb3JkZXIgc3VjY2VzcywgdXNlcl9pZDolcyBwYXlfaWQ6JXMnICUgKHBheV9vcmRlci5tY2hfaWQsIHBheV9pZCkpCg==</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -419,9 +425,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXlhcGlcPg==</last-search>
+      <last-search encoding="base64">XDxfTE9HR0VSXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXlhcGlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfTE9HR0VSXD4=</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>info</last-substitute>
       <last-dir>1</last-dir>
@@ -429,7 +435,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRfcGF5X2ZhaWxcPg==</entry>
         <entry encoding="base64">XDxhc3luY19qb2JcPg==</entry>
         <entry encoding="base64">XDxTS0lMTEZVTExZX1VOSU9OXD4=</entry>
         <entry encoding="base64">XDxBbGlQYXlcPg==</entry>
@@ -449,6 +454,7 @@
         <entry encoding="base64">XDxiaWdiYW5nYWRtaW5zZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxhZG1pbnNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxwYXlhcGlcPg==</entry>
+        <entry encoding="base64">XDxfTE9HR0VSXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
