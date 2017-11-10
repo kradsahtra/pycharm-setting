@@ -194,7 +194,13 @@
         <mark key="]" line="142" column="37" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice/luckycommon/third/dirpay.py" timestamp="1510327841819" />
+      <file name="$USER_HOME$/workspace/luckyservice/luckycommon/third/dirpay.py" timestamp="1510329897871">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
+        <mark key="." line="169" column="0" />
+        <mark key="^" line="168" column="56" />
+      </file>
       <file name="/Dummy.txt" timestamp="1510305269949">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -277,7 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/skillfully_pay.py" />
       <jump line="43" column="4" filename="$USER_HOME$/workspace/payservice/payservice/api/urls.py" />
       <jump line="419" column="0" filename="$USER_HOME$/workspace/payservice/payservice/api/notify/view.py" />
       <jump line="125" column="8" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/skillfully_pay.py" />
@@ -377,10 +382,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/dirpay.py" />
       <jump line="19" column="29" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/js_ks/order/handler.py" />
       <jump line="29" column="43" filename="$USER_HOME$/workspace/bigbang-server/bigbang/scripts/sql/service.sql" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/luckyservice/luckycommon/third/dirpay.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmluZm8oJ2RpcnBheSBxdWVyeSBjaGFyZ2UgcmVzdWx0OiVzJyAlIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBkYXRhCg==</text>
       </register>
       <register name="-" type="4">
         <text>())</text>
@@ -388,41 +394,41 @@
       <register name="/" type="4">
         <text encoding="base64">XDxfTE9HR0VSXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCdkaXJwYXkgcXVlcnkgb3JkZXIgc3VjY2VzcywgdXNlcl9pZDolcyBwYXlfaWQ6JXMnICUgKHBheV9vcmRlci5tY2hfaWQsIHBheV9pZCkpCg==</text>
+      <register name="0" type="4">
+        <text>_LOGGER</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmluZm8oJ2RpcnBheSBxdWVyeSBjaGFyZ2UgcmVzdWx0OiVzJyAlIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBkYXRhCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIDE2Mi4yMjIuMTY1LjI0NzsK</text>
+        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmluZm8oJ2RpcnBheSBxdWVyeSBjaGFyZ2UgcmVzdWx0OiVzJyAlIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIDE2Mi4yMjIuMTY1LjI0NzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXBzdHJlYW0gcGF5YXBpIHsKICAgc2VydmVyIDUyLjE1LjE5MC4xNTQ6ODEwNDsKfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXBzdHJlYW0gYWRtaW5zZXJ2aWNlIHsKICBzZXJ2ZXIgNTIuMTUuMTkwLjE1NDo4MTAyOwp9Cgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">cmVtb3ZlIHVzZWxlc3MgZmlsZXMK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">c3VwZXJ2aXNlZCBubwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXBzdHJlYW0gcGF5YXBpIHsKICAgc2VydmVyIDUyLjE1LjE5MC4xNTQ6ODEwNDsKfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dXBzdHJlYW0gYWRtaW5zZXJ2aWNlIHsKICBzZXJ2ZXIgNTIuMTUuMTkwLjE1NDo4MTAyOwp9Cgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cmVtb3ZlIHVzZWxlc3MgZmlsZXMK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">c3VwZXJ2aXNlZCBubwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBkYXRhWyd3aW5fcHJpY2UnXToKICAgICAgICBkYXRhWyd3aW5fcHJpY2UnXSA9IDAKICAgIGlmIG5vdCBkYXRhWydwcmljZSddOgogICAgICAgIGRhdGFbJ3ByaWNlJ10gPSAwCiAgICBpZiBub3QgZGF0YVsnYm9udXMnXToKICAgICAgICBkYXRhWydib251cyddID0gMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
