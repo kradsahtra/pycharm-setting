@@ -83,6 +83,10 @@
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/luckyservice/tools/find_user.py" timestamp="1510330380759">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/db.py" timestamp="1510211658681">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -108,6 +112,10 @@
         <mark key="." line="238" column="93" />
         <mark key="^" line="238" column="93" />
       </file>
+      <file name="$USER_HOME$/workspace/luckyservice/luckycommon/model/pay.py" timestamp="1510331155178">
+        <mark key="[" line="82" column="5" />
+        <mark key="]" line="82" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" timestamp="1509955353593">
         <mark key="'" line="85" column="49" />
         <mark key="[" line="178" column="29" />
@@ -121,6 +129,10 @@
         <mark key="]" line="66" column="64" />
         <mark key="." line="66" column="64" />
         <mark key="^" line="66" column="64" />
+      </file>
+      <file name="$USER_HOME$/workspace/luckyservice/tools/verify_show.py" timestamp="1510330297593">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/console/PermissionDetail.html" timestamp="1509269618000">
         <mark key="'" line="29" column="38" />
@@ -194,10 +206,10 @@
         <mark key="]" line="142" column="37" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice/luckycommon/third/dirpay.py" timestamp="1510329897871">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="169" column="0" />
+      <file name="$USER_HOME$/workspace/luckyservice/luckycommon/third/dirpay.py" timestamp="1510331521786">
+        <mark key="'" line="197" column="0" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="120" column="4" />
         <mark key="." line="169" column="0" />
         <mark key="^" line="168" column="56" />
       </file>
@@ -215,6 +227,13 @@
         <mark key="]" line="10" column="40" />
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/luckyservice/tools/fix_pay.py" timestamp="1510331870555">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="29" column="25" />
+        <mark key="]" line="29" column="47" />
+        <mark key="." line="29" column="25" />
+        <mark key="^" line="29" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/handler.py" timestamp="1509186775769">
         <mark key="[" line="43" column="21" />
@@ -283,10 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="4" filename="$USER_HOME$/workspace/payservice/payservice/api/urls.py" />
-      <jump line="419" column="0" filename="$USER_HOME$/workspace/payservice/payservice/api/notify/view.py" />
-      <jump line="125" column="8" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/skillfully_pay.py" />
-      <jump line="11" column="54" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/skillfully_pay.py" />
       <jump line="143" column="4" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/trpay.py" />
       <jump line="186" column="16" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/trpay.py" />
       <jump line="129" column="4" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/skillfully_pay.py" />
@@ -383,52 +398,60 @@
       <jump line="19" column="29" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/js_ks/order/handler.py" />
       <jump line="29" column="43" filename="$USER_HOME$/workspace/bigbang-server/bigbang/scripts/sql/service.sql" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/luckyservice/luckycommon/third/dirpay.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/luckyservice/tools/fix_pay.py" />
+      <jump line="197" column="0" filename="$USER_HOME$/workspace/luckyservice/luckycommon/third/dirpay.py" />
+      <jump line="31" column="8" filename="$USER_HOME$/workspace/luckyservice/tools/fix_pay.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/luckyservice/tools/fix_pay.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBkYXRhCg==</text>
+      <register name="&quot;" type="4">
+        <text>ext.get('discount', 0)</text>
       </register>
       <register name="-" type="4">
-        <text>())</text>
+        <text>ext.get('discount', 0)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfTE9HR0VSXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>_LOGGER</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGV4dGVuZCA9IHsKICAgICAgICAndGl0bGUnOiB1J+WFheWAvCcsCiAgICAgICAgJ2V4dCc6IHsKICAgICAgICAgICAgJ3RyYWRlX3N0YXR1cyc6IHRyYWRlX3N0YXR1cywKICAgICAgICAgICAgJ3RyYWRlX25vJzogdHJhZGVfbm8sCiAgICAgICAgICAgICd0b3RhbF9mZWUnOiB0b3RhbF9mZWUKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBkYXRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmluZm8oJ2RpcnBheSBxdWVyeSBjaGFyZ2UgcmVzdWx0OiVzJyAlIAo=</text>
+      <register name="2" type="4">
+        <text>{
+            'trade_status': trade_status,
+            'trade_no': trade_no,
+            'total_fee': total_fee
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIDE2Mi4yMjIuMTY1LjI0NzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBsdWNreWNvbW1vbi5kYi50cmFuc2FjdGlvbiBpbXBvcnQgYWRkX3BheV9zdWNjZXNzX3RyYW5zYWN0aW9uCmZyb20gbHVja3ljb21tb24ucGF5LmhhbmRsZXIgaW1wb3J0IHBheV9hZnRlcl9yZWNoYXJnZQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXBzdHJlYW0gcGF5YXBpIHsKICAgc2VydmVyIDUyLjE1LjE5MC4xNTQ6ODEwNDsKfQo=</text>
+        <text encoding="base64">ID0gZXh0ZW5kWydleHQnXVsndG90YWxfZmVlJ10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXBzdHJlYW0gYWRtaW5zZXJ2aWNlIHsKICBzZXJ2ZXIgNTIuMTUuMTkwLjE1NDo4MTAyOwp9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVtb3ZlIHVzZWxlc3MgZmlsZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3VwZXJ2aXNlZCBubwo=</text>
+        <text encoding="base64">ICAgIGRpc2NvdW50ID0gZmxvYXQoanNvbi5sb2FkcyhwYXkuZXh0ZW5kIG9yICJ7fSIpLmdldCgnZGlzY291bnQnLCAwKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdF9jaGFyZ2UgPSB0b3RhbF9mZWUgKyBkaXNjb3VudAo=</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
