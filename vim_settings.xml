@@ -51,9 +51,10 @@
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" timestamp="1510381127318">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" timestamp="1510401883888">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="32" column="56" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/BigBangService/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1509678404760">
@@ -219,7 +220,12 @@
         <mark key="." line="169" column="64" />
         <mark key="^" line="169" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/push_notification.py" timestamp="1510399959175" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/push_notification.py" timestamp="1510401828946">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="56" />
+        <mark key="." line="21" column="56" />
+        <mark key="^" line="21" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/payservice/payservice/api/urls.py" timestamp="1509959267980">
         <mark key="'" line="43" column="4" />
         <mark key="[" line="49" column="64" />
@@ -234,11 +240,11 @@
         <mark key="." line="172" column="70" />
         <mark key="^" line="172" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_test.py" timestamp="1510381502505">
-        <mark key="[" line="16" column="42" />
-        <mark key="]" line="16" column="42" />
-        <mark key="." line="16" column="42" />
-        <mark key="^" line="16" column="42" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_test.py" timestamp="1510401931713">
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="28" column="22" />
+        <mark key="." line="28" column="22" />
+        <mark key="^" line="23" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/kfc.conf" timestamp="1510233397767">
         <mark key="[" line="1" column="24" />
@@ -266,7 +272,7 @@
         <mark key="." line="169" column="0" />
         <mark key="^" line="168" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510398317821">
+      <file name="/Dummy.txt" timestamp="1510401940058">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -358,8 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="17" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/model.py" />
-      <jump line="94" column="28" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/skillfully_pay.py" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/skillfully_pay.py" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/payservice/payservice/base/settings.py" />
       <jump line="35" column="47" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/trans_alipay.py" />
@@ -458,19 +462,21 @@
       <jump line="79" column="38" filename="$USER_HOME$/workspace/luckyservice/luckycommon/third/dirpay.py" />
       <jump line="34" column="40" filename="$USER_HOME$/workspace/luckyservice/luckycommon/third/dirpay.py" />
       <jump line="8" column="59" filename="$USER_HOME$/workspace/luckyservice/luckyadmin/stats/pay.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwYXlfdHlwZSA9PSBQQVlfVFlQRS5ESVJQQVlfQUxJX1dBUDoKICAgICAgICAgICAgY2hhcmdlID0gZGlycGF5X2NyZWF0ZV9jaGFyZ2UocGF5LCBwYXlfYW1vdW50KQogICAgICAgICAgICBfTE9HR0VSLmluZm8oJ3N0YXJ0IHBheSBieSBkaXJwYXkgd2FwLCBwYXlfaWRbJXNdJyAlIHBheV9pZCkKICAgICAgICAgICAgcmV0dXJuIHsnY2hhcmdlJzogY2hhcmdlLCAndHlwZSc6ICdzeXNfdXJsJ30K</text>
+      <register name="&quot;" type="4">
+        <text>http://162.222.165.247:9003/pay/api/charge/create</text>
       </register>
       <register name="-" type="4">
-        <text>http://192.168.20.61:9898</text>
+        <text>http://162.222.165.247:9003/pay/api/charge/create</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXJwYXlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwYXlfdHlwZSA9PSBQQVlfVFlQRS5ESVJQQVlfV0FQOgogICAgICAgICAgICBjaGFyZ2UgPSBkaXJwYXlfY3JlYXRlX2NoYXJnZShwYXksIHBheV9hbW91bnQpCiAgICAgICAgICAgIF9MT0dHRVIuaW5mbygnc3RhcnQgcGF5IGJ5IGRpcnBheSB3YXAsIHBheV9pZFslc10nICUgcGF5X2lkKQogICAgICAgICAgICByZXR1cm4geydjaGFyZ2UnOiBjaGFyZ2UsICd0eXBlJzogJ3N5c191cmwnfQo=</text>
+        <text encoding="base64">UkVESVNfSE9TVCA9ICcxOTIuMTY4LjEyLjE2JwpSRURJU19QT1JUID0gNjM3OQoKTU9OR09fQUREUiA9ICcxOTIuMTY4LjEyLjE2OjI3MDE3JwoKQ0VMRVJZX0JST0tFUiA9ICdyZWRpczovLzE5Mi4xNjguMTIuMTY6NjM3OS8vJwoKSlVTVFBBWV9OT1RJRllfVVJMID0gJ2h0dHA6Ly93d3cubHVja3ljcDM2NS5jb20vYXBpL3YxL3RoaXJkL2p1c3RwYXkvbm90aWZ5JwpKVVNUUEFZX01DSF9JRCA9ICc2MDAxMDE1JwpKVVNUUEFZX0FQSV9LRVkgPSAnMDgwYmY0MTE1ZmUzNDEwNWEwOGFkYjQ3MTAwZTRkMmUnCkpVU1RQQVlfQ0hBUkdFX1VSTCA9ICdodHRwOi8vMTYyLjIyMi4xNjUuMjQ3OjkwMDMvcGF5L2FwaS9jaGFyZ2UvY3JlYXRlJwoKWElOR0VfQU5EUk9JRF9BQ0NFU1NfSUQgPSAyMTAwMjY3MjkyClhJTkdFX0FORFJPSURfU0VDUkVUID0gJ2RiODAzMTExODYxYmI3NjA2NzA5NDZkMWZhZjBiM2UwJwo=</text>
       </register>
       <register name="p" type="4">
         <text />
