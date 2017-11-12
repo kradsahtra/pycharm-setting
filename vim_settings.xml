@@ -166,6 +166,12 @@
         <mark key="." line="259" column="44" />
         <mark key="^" line="259" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/lottery.nginx.conf" timestamp="1510465768002">
+        <mark key="'" line="44" column="18" />
+        <mark key="[" line="44" column="18" />
+        <mark key="]" line="44" column="32" />
+        <mark key="." line="44" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" timestamp="1509955353593">
         <mark key="'" line="85" column="49" />
         <mark key="[" line="178" column="29" />
@@ -211,11 +217,11 @@
         <mark key="." line="58" column="48" />
         <mark key="^" line="58" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1510454067133">
-        <mark key="[" line="102" column="65" />
-        <mark key="]" line="102" column="68" />
-        <mark key="^" line="102" column="31" />
-        <mark key="." line="102" column="65" />
+      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1510465678840">
+        <mark key="[" line="104" column="71" />
+        <mark key="]" line="104" column="80" />
+        <mark key="^" line="104" column="37" />
+        <mark key="." line="104" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/lotteryws.conf" timestamp="1510279859028">
         <mark key="[" line="7" column="33" />
@@ -261,7 +267,7 @@
         <mark key="." line="28" column="22" />
         <mark key="^" line="23" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/scripts/sql/bigbang_production.sql" timestamp="1510459499885">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/scripts/sql/bigbang_production.sql" timestamp="1510459566159">
         <mark key="'" line="68" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/kfc.conf" timestamp="1510233397767">
@@ -289,7 +295,7 @@
         <mark key="." line="169" column="0" />
         <mark key="^" line="168" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510459094060">
+      <file name="/Dummy.txt" timestamp="1510459502937">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -381,8 +387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="40" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/starspay.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/starspay.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/starspay.py" />
       <jump line="194" column="12" filename="$USER_HOME$/workspace/luckyservice/luckycommon/third/skillfully_pay.py" />
       <jump line="17" column="33" filename="$USER_HOME$/workspace/luckyservice/luckycommon/third/skillfully_pay.py" />
@@ -481,19 +485,21 @@
       <jump line="23" column="42" filename="$USER_HOME$/workspace/luckyservice/luckyapi/logic/transaction.py" />
       <jump line="253" column="55" filename="$USER_HOME$/workspace/luckyservice/luckyapi/logic/transaction.py" />
       <jump line="68" column="32" filename="$USER_HOME$/workspace/bigbang-server/bigbang/scripts/sql/bigbang_production.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/deploy/config_files/lottery.nginx.conf" />
+      <jump line="44" column="18" filename="$USER_HOME$/workspace/deploy/config_files/lottery.nginx.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>payapi</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>payapi</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXJhbGlwYXlfY3JlYXRlX2NoYXJnZVw+</text>
+        <text encoding="base64">XDxwYXlhcGlcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygiZGlyYWxpcXJwYXkgY3JlYXRlIGNoYXJnZSBkYXRhOiAlcyAlcyIsIHJlc3BvbnNlLnN0YXR1c19jb2RlLCByZXNwb25zZS50ZXh0KQo=</text>
+      <register name="0" type="4">
+        <text>lotteryservice</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -533,9 +539,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXJhbGlwYXlfY3JlYXRlX2NoYXJnZVw+</last-search>
+      <last-search encoding="base64">XDxwYXlhcGlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXJhbGlwYXlfY3JlYXRlX2NoYXJnZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwYXlhcGlcPg==</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>info</last-substitute>
       <last-dir>1</last-dir>
@@ -559,10 +565,10 @@
         <entry>info</entry>
         <entry encoding="base64">XDxiaWdiYW5nYWRtaW5zZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxhZG1pbnNlcnZpY2VcPg==</entry>
-        <entry encoding="base64">XDxwYXlhcGlcPg==</entry>
         <entry encoding="base64">XDxfTE9HR0VSXD4=</entry>
         <entry encoding="base64">XDxkaXJwYXlcPg==</entry>
         <entry encoding="base64">XDxkaXJhbGlwYXlfY3JlYXRlX2NoYXJnZVw+</entry>
+        <entry encoding="base64">XDxwYXlhcGlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2FkbWluL2x1Y2t5L2c=</entry>
