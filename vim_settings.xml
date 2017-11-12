@@ -208,11 +208,11 @@
         <mark key="." line="58" column="48" />
         <mark key="^" line="58" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1510230601092">
-        <mark key="[" line="100" column="82" />
-        <mark key="]" line="100" column="87" />
-        <mark key="." line="100" column="87" />
-        <mark key="^" line="100" column="87" />
+      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1510454067133">
+        <mark key="[" line="102" column="65" />
+        <mark key="]" line="102" column="68" />
+        <mark key="^" line="102" column="31" />
+        <mark key="." line="102" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/lotteryws.conf" timestamp="1510279859028">
         <mark key="[" line="7" column="33" />
@@ -258,7 +258,6 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice/deploy/release/deploy.json" timestamp="1510396610202" />
       <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1510233096844">
         <mark key="'" line="14" column="24" />
         <mark key="[" line="50" column="20" />
@@ -473,16 +472,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://162.222.165.247:9003/pay/api/charge/create</text>
+        <text>bullws</text>
       </register>
       <register name="-" type="4">
-        <text>http://162.222.165.247:9003/pay/api/charge/create</text>
+        <text>bullws</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXJwYXlcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">UkVESVNfSE9TVCA9ICcxOTIuMTY4LjEyLjE2JwpSRURJU19QT1JUID0gNjM3OQoKTU9OR09fQUREUiA9ICcxOTIuMTY4LjEyLjE2OjI3MDE3JwoKQ0VMRVJZX0JST0tFUiA9ICdyZWRpczovLzE5Mi4xNjguMTIuMTY6NjM3OS8vJwoKSlVTVFBBWV9OT1RJRllfVVJMID0gJ2h0dHA6Ly93d3cubHVja3ljcDM2NS5jb20vYXBpL3YxL3RoaXJkL2p1c3RwYXkvbm90aWZ5JwpKVVNUUEFZX01DSF9JRCA9ICc2MDAxMDE1JwpKVVNUUEFZX0FQSV9LRVkgPSAnMDgwYmY0MTE1ZmUzNDEwNWEwOGFkYjQ3MTAwZTRkMmUnCkpVU1RQQVlfQ0hBUkdFX1VSTCA9ICdodHRwOi8vMTYyLjIyMi4xNjUuMjQ3OjkwMDMvcGF5L2FwaS9jaGFyZ2UvY3JlYXRlJwoKWElOR0VfQU5EUk9JRF9BQ0NFU1NfSUQgPSAyMTAwMjY3MjkyClhJTkdFX0FORFJPSURfU0VDUkVUID0gJ2RiODAzMTExODYxYmI3NjA2NzA5NDZkMWZhZjBiM2UwJwo=</text>
+      <register name="0" type="4">
+        <text>kfc</text>
       </register>
       <register name="p" type="4">
         <text />
