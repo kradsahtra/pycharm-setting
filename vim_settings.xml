@@ -70,11 +70,6 @@
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/cache/redis_cache.py" timestamp="1509783239200">
         <mark key="'" line="175" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/base/settings.py" timestamp="1510381087862">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="154" column="8" />
-      </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/bigbang-admin.nginx.conf" timestamp="1510230619127">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -124,6 +119,12 @@
       </file>
       <file name="$USER_HOME$/workspace/luckyservice/luckyadmin/stats/pay.py" timestamp="1510382707270">
         <mark key="'" line="8" column="59" />
+      </file>
+      <file name="$USER_HOME$/workspace/KFCService/luckyplatform/settings_test.py" timestamp="1510467259047">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+        <mark key="^" line="23" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/uwsgi.ini" timestamp="1510230034619">
         <mark key="[" line="1" column="20" />
@@ -490,10 +491,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>payapi</text>
+        <text>HGzhz2017</text>
       </register>
       <register name="-" type="4">
-        <text>payapi</text>
+        <text>HGzhz2017</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXlhcGlcPg==</text>
@@ -504,35 +505,38 @@
       <register name="p" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwYXlfdHlwZSA9PSBQQVlfVFlQRS5ESVJQQVlfQUxJX1dBUDoKICAgICAgICAgICAgY2hhcmdlID0gZGlycGF5X2NyZWF0ZV9jaGFyZ2UocGF5LCBwYXlfYW1vdW50KQogICAgICAgICAgICBfTE9HR0VSLmluZm8oJ3N0YXJ0IHBheSBieSBkaXJwYXkgd2FwLCBwYXlfaWRbJXNdJyAlIHBheV9pZCkKICAgICAgICAgICAgcmV0dXJuIHsnY2hhcmdlJzogY2hhcmdlLCAndHlwZSc6ICdzeXNfdXJsJ30K</text>
+      <register name="1" type="4">
+        <text>{
+    'db': 'mysql://lucky:HGzhz2017@192.168.12.17:3306/bigbang?charset=utf8',
+    'DEBUG': DEBUG
+}</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBwYXlfdHlwZSA9PSBQQVlfVFlQRS5ESVJQQVlfQUxJX1dBUDoKICAgICAgICAgICAgY2hhcmdlID0gZGlycGF5X2NyZWF0ZV9jaGFyZ2UocGF5LCBwYXlfYW1vdW50KQogICAgICAgICAgICBfTE9HR0VSLmluZm8oJ3N0YXJ0IHBheSBieSBkaXJwYXkgd2FwLCBwYXlfaWRbJXNdJyAlIHBheV9pZCkKICAgICAgICAgICAgcmV0dXJuIHsnY2hhcmdlJzogY2hhcmdlLCAndHlwZSc6ICdzeXNfdXJsJ30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAuc2V0dGluZ3MgaW1wb3J0ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuc2V0dGluZ3MgaW1wb3J0ICoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSAuc2V0dGluZ3MgaW1wb3J0ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuc2V0dGluZ3MgaW1wb3J0ICoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSAuc2V0dGluZ3MgaW1wb3J0ICoK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZnJvbSAuc2V0dGluZ3MgaW1wb3J0ICoK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>24</text>
