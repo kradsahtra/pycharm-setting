@@ -66,9 +66,14 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="/transaction.py" timestamp="1510458556176" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/cache/redis_cache.py" timestamp="1509783239200">
         <mark key="'" line="175" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/luckyservice/deploy/online/deploy.json" timestamp="1510543534278">
+        <mark key="[" line="48" column="7" />
+        <mark key="]" line="48" column="7" />
+        <mark key="." line="48" column="7" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/bigbang-admin.nginx.conf" timestamp="1510230619127">
         <mark key="[" line="6" column="0" />
@@ -156,7 +161,6 @@
         <mark key="." line="238" column="93" />
         <mark key="^" line="238" column="93" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/fc3d/crawler.py" timestamp="1510473689815" />
       <file name="$USER_HOME$/workspace/luckyservice/luckycommon/model/pay.py" timestamp="1510382784074">
         <mark key="[" line="82" column="5" />
         <mark key="]" line="82" column="10" />
@@ -229,12 +233,6 @@
         <mark key="[" line="7" column="33" />
         <mark key="]" line="7" column="33" />
         <mark key="." line="7" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/luckyservice/luckycommon/third/diraliqrpay.py" timestamp="1510458546111">
-        <mark key="[" line="76" column="43" />
-        <mark key="]" line="76" column="43" />
-        <mark key="." line="76" column="43" />
-        <mark key="^" line="76" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/dirpay.py" timestamp="1510367651354">
         <mark key="'" line="0" column="0" />
@@ -492,10 +490,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyNDRcPg==</text>
@@ -506,38 +504,38 @@
       <register name="p" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgIjExNi4zMS4xMTkuMTMxIjogewogICAgICAgICJiYXNoIjogWwogICAgICAgICAgIm12IGx1Y2t5cGxhdGZvcm0vc2V0dGluZ3Nfb25saW5lLnB5IGx1Y2t5cGxhdGZvcm0vZW52X3NldHRpbmdzLnB5IiwKICAgICAgICAgICJybSAtcmYgbHVja3l3ZWIiCiAgICAgICAgXQogICAgICB9LAogICAgICAiMTE2LjMxLjExOS4xNjQiOiB7CiAgICAgICAgImJhc2giOiBbCiAgICAgICAgICAibXYgbHVja3lwbGF0Zm9ybS9zZXR0aW5nc19vbmxpbmUucHkgbHVja3lwbGF0Zm9ybS9lbnZfc2V0dGluZ3MucHkiCiAgICAgICAgXQogICAgICB9Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>{
     'db': 'mysql://lucky:HGzhz2017@192.168.12.17:3306/bigbang?charset=utf8',
     'DEBUG': DEBUG
 }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBpZiBwYXlfdHlwZSA9PSBQQVlfVFlQRS5ESVJQQVlfQUxJX1dBUDoKICAgICAgICAgICAgY2hhcmdlID0gZGlycGF5X2NyZWF0ZV9jaGFyZ2UocGF5LCBwYXlfYW1vdW50KQogICAgICAgICAgICBfTE9HR0VSLmluZm8oJ3N0YXJ0IHBheSBieSBkaXJwYXkgd2FwLCBwYXlfaWRbJXNdJyAlIHBheV9pZCkKICAgICAgICAgICAgcmV0dXJuIHsnY2hhcmdlJzogY2hhcmdlLCAndHlwZSc6ICdzeXNfdXJsJ30K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSAuc2V0dGluZ3MgaW1wb3J0ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuc2V0dGluZ3MgaW1wb3J0ICoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAuc2V0dGluZ3MgaW1wb3J0ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ZnJvbSAuc2V0dGluZ3MgaW1wb3J0ICoK</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvbSAuc2V0dGluZ3MgaW1wb3J0ICoK</text>
       </register>
       <register name=":" type="4">
         <text>24</text>
