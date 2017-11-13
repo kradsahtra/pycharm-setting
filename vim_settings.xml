@@ -245,6 +245,7 @@
       <file name="$USER_HOME$/workspace/pay_loki/payservice/base/settings_online.py" timestamp="1510021670284">
         <mark key="'" line="6" column="75" />
       </file>
+      <file name="$USER_HOME$/workspace/payservice/deploy/online/deploy.yaml" timestamp="1510553250301" />
       <file name="$USER_HOME$/workspace/deploy/config_files/bullws.nginx.conf" timestamp="1510233229894">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="40" />
@@ -277,6 +278,12 @@
       </file>
       <file name="$USER_HOME$/workspace/devops/config_files/bigbang.conf" timestamp="1510230432805">
         <mark key="'" line="125" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/payservice/deploy/online_game/deploy.yaml" timestamp="1510553124209">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/devops/config_files/admin.conf" timestamp="1510279972499">
         <mark key="'" line="44" column="18" />
@@ -416,10 +423,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>mike</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>mike</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyNDRcPg==</text>
