@@ -17,19 +17,11 @@
         <mark key="^" line="109" column="24" />
         <mark key="." line="109" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/api/management/commands/fresh_charge.py" timestamp="1510369543852">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="48" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/fix_pay.py" timestamp="1510380450505">
         <mark key="[" line="18" column="38" />
         <mark key="]" line="19" column="17" />
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/common/order/model.py" timestamp="1510368799828">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" timestamp="1510401883888">
         <mark key="'" line="19" column="0" />
@@ -111,11 +103,7 @@
         <mark key="." line="238" column="93" />
         <mark key="^" line="238" column="93" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice/luckycommon/model/pay.py" timestamp="1510382784074">
-        <mark key="[" line="82" column="5" />
-        <mark key="]" line="82" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/luckyservice/luckyapi/logic/transaction.py" timestamp="1510458148535">
+      <file name="$USER_HOME$/workspace/luckyservice/luckyapi/logic/transaction.py" timestamp="1510556197370">
         <mark key="'" line="253" column="55" />
         <mark key="[" line="259" column="21" />
         <mark key="]" line="259" column="44" />
@@ -142,10 +130,6 @@
         <mark key="." line="66" column="64" />
         <mark key="^" line="66" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/luckyservice/tools/verify_show.py" timestamp="1510330297593">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="9" column="62" />
-      </file>
       <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/console/PermissionDetail.html" timestamp="1509269618000">
         <mark key="'" line="29" column="38" />
       </file>
@@ -155,10 +139,6 @@
         <mark key="]" line="245" column="17" />
         <mark key="^" line="245" column="17" />
         <mark key="." line="245" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/parse_track_log.py" timestamp="1510369229523">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="15" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/uwsgi-admin.ini" timestamp="1510284346026">
         <mark key="[" line="1" column="20" />
@@ -173,14 +153,15 @@
         <mark key="." line="58" column="48" />
         <mark key="^" line="58" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/payservice/payservice/common/order/handler.py" timestamp="1510556059641" />
       <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1510477958328">
         <mark key="[" line="75" column="54" />
         <mark key="]" line="75" column="54" />
         <mark key="^" line="104" column="37" />
         <mark key="." line="75" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/dirpay.py" timestamp="1510367651354">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/dirpay.py" timestamp="1510555969466">
+        <mark key="'" line="58" column="11" />
         <mark key="[" line="169" column="50" />
         <mark key="]" line="169" column="64" />
         <mark key="." line="169" column="64" />
@@ -236,7 +217,7 @@
         <mark key="." line="169" column="0" />
         <mark key="^" line="168" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510480645420">
+      <file name="/Dummy.txt" timestamp="1510555977783">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -245,7 +226,7 @@
       <file name="$USER_HOME$/workspace/pay_loki/payservice/base/settings_online.py" timestamp="1510021670284">
         <mark key="'" line="6" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/deploy/online/deploy.yaml" timestamp="1510553250301" />
+      <file name="$USER_HOME$/workspace/payservice/deploy/online/deploy.yaml" timestamp="1510555634798" />
       <file name="$USER_HOME$/workspace/deploy/config_files/bullws.nginx.conf" timestamp="1510233229894">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="40" />
@@ -315,12 +296,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/justpay.py" timestamp="1510556137081" />
       <file name="$USER_HOME$/workspace/lucky_diablo/deploy/fabfile.py" timestamp="1509435625133">
         <mark key="'" line="78" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="33" filename="$USER_HOME$/workspace/luckyservice/luckycommon/third/skillfully_pay.py" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/luckyservice/luckycommon/third/skillfully_pay.py" />
       <jump line="236" column="28" filename="$USER_HOME$/workspace/BigBangService/bigbang/common/lottery/cyclical/abstract/order.py" />
       <jump line="237" column="21" filename="$USER_HOME$/workspace/BigBangService/bigbang/common/lottery/cyclical/abstract/order.py" />
@@ -420,6 +401,7 @@
       <jump line="44" column="18" filename="$USER_HOME$/workspace/deploy/config_files/lottery.nginx.conf" />
       <jump line="36" column="37" filename="$USER_HOME$/workspace/deploy/config.py" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/deploy/config_files/lottery.nginx.conf" />
+      <jump line="58" column="11" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/dirpay.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
