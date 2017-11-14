@@ -17,6 +17,12 @@
         <mark key="^" line="109" column="24" />
         <mark key="." line="109" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/duotpay.py" timestamp="1510651353822">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/fix_pay.py" timestamp="1510380450505">
         <mark key="[" line="18" column="38" />
         <mark key="]" line="19" column="17" />
@@ -121,12 +127,12 @@
         <mark key="." line="66" column="64" />
         <mark key="^" line="66" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/zfpay.py" timestamp="1510649502271">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="83" column="8" />
-        <mark key="]" line="83" column="11" />
-        <mark key="." line="83" column="11" />
-        <mark key="^" line="83" column="11" />
+      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/zfpay.py" timestamp="1510651742278">
+        <mark key="'" line="59" column="19" />
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="28" column="44" />
+        <mark key="." line="28" column="44" />
+        <mark key="^" line="28" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/redis.conf" timestamp="1510226392998">
         <mark key="'" line="547" column="29" />
@@ -160,8 +166,8 @@
         <mark key="^" line="104" column="37" />
         <mark key="." line="75" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/dirpay.py" timestamp="1510555969466">
-        <mark key="'" line="58" column="11" />
+      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/dirpay.py" timestamp="1510651363796">
+        <mark key="'" line="145" column="37" />
         <mark key="[" line="169" column="50" />
         <mark key="]" line="169" column="64" />
         <mark key="." line="169" column="64" />
@@ -219,7 +225,7 @@
         <mark key="." line="169" column="0" />
         <mark key="^" line="168" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510650005795">
+      <file name="/Dummy.txt" timestamp="1510651588638">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -287,10 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="36" filename="$USER_HOME$/workspace/BigBangService/bigbang/common/lottery/cyclical/abstract/order.py" />
-      <jump line="149" column="4" filename="$USER_HOME$/workspace/BigBangService/bigbang/common/lottery/cyclical/bj_pk10/logic/order.py" />
-      <jump line="471" column="25" filename="$USER_HOME$/workspace/BigBangService/bigbang/common/lottery/cyclical/abstract/order.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/BigBangService/bigbang/common/lottery/cyclical/model.py" />
       <jump line="126" column="26" filename="$USER_HOME$/workspace/BigBangService/bigbang/common/lottery/cyclical/model.py" />
       <jump line="162" column="29" filename="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" />
       <jump line="180" column="29" filename="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" />
@@ -387,13 +389,17 @@
       <jump line="291" column="31" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/parse_track_log.py" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/zfpay.py" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/zfpay.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/duotpay.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/duotpay.py" />
+      <jump line="145" column="37" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/dirpay.py" />
+      <jump line="59" column="19" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/zfpay.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>HVYQOTnfKydR7eIMOnHfqy2Ss</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>HVYQOTnfKydR7eIMOnHfqy2Ss</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQUkVWSU9VU19UUkFDS19GSUxFX05BTUVcPg==</text>
