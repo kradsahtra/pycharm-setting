@@ -108,12 +108,6 @@
         <mark key="." line="259" column="44" />
         <mark key="^" line="259" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config_files/lottery.nginx.conf" timestamp="1510480500166">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="44" column="18" />
-        <mark key="]" line="44" column="32" />
-        <mark key="." line="44" column="18" />
-      </file>
       <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" timestamp="1509955353593">
         <mark key="'" line="85" column="49" />
         <mark key="[" line="178" column="29" />
@@ -200,6 +194,12 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/tz.py" timestamp="1510629238698">
+        <mark key="[" line="60" column="22" />
+        <mark key="]" line="60" column="22" />
+        <mark key="^" line="60" column="22" />
+        <mark key="." line="60" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1510560477978">
         <mark key="'" line="36" column="37" />
         <mark key="[" line="36" column="39" />
@@ -214,7 +214,7 @@
         <mark key="." line="169" column="0" />
         <mark key="^" line="168" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510562210010">
+      <file name="/Dummy.txt" timestamp="1510629273812">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -242,6 +242,7 @@
         <mark key="." line="90" column="53" />
         <mark key="^" line="90" column="53" />
       </file>
+      <file name="/tz.py" timestamp="1510629225784" />
       <file name="$USER_HOME$/workspace/deploy/config_files/bigbang.nginx.conf" timestamp="1510230615526">
         <mark key="'" line="111" column="8" />
         <mark key="[" line="11" column="0" />
@@ -281,12 +282,6 @@
         <mark key="]" line="39" column="14" />
         <mark key="." line="120" column="24" />
         <mark key="^" line="18" column="40" />
-      </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/scripts/sql/service.sql" timestamp="1510380971949">
-        <mark key="'" line="1543" column="42" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/justpay.py" timestamp="1510556137081" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/__init__.py" timestamp="1510564586100" />
@@ -395,10 +390,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQUkVWSU9VU19UUkFDS19GSUxFX05BTUVcPg==</text>
