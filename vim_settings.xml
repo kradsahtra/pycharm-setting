@@ -210,6 +210,11 @@
         <mark key="^" line="60" column="22" />
         <mark key="." line="60" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/view.py" timestamp="1510725961295">
+        <mark key="[" line="166" column="37" />
+        <mark key="]" line="166" column="48" />
+        <mark key="." line="166" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1510560477978">
         <mark key="'" line="36" column="37" />
         <mark key="[" line="36" column="39" />
@@ -224,11 +229,15 @@
         <mark key="." line="169" column="0" />
         <mark key="^" line="168" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510719917230">
+      <file name="/Dummy.txt" timestamp="1510725966011">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/pay/model.py" timestamp="1510725959325">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/bullws.nginx.conf" timestamp="1510233229894">
         <mark key="[" line="10" column="28" />
@@ -413,17 +422,17 @@
       <jump line="297" column="4" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNldHVwX3N1cGVydmlzb3IoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>JUSTPAY_WX</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>JUSTPAY_WX</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXR1cF9uZ2lueFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaywgdiBpbiBkYXRhLml0ZXJpdGVtcygpOgogICAgICAgICAgICBpZiBpbnQoaykgPiBpbnQobWF4X3R5cGUpOgogICAgICAgICAgICAgICAgZGF0YS5wb3AoaykK</text>
+      <register name="0" type="4">
+        <text>JUSTPAY_ALI</text>
       </register>
       <register name="p" type="4">
         <text />
