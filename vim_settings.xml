@@ -127,12 +127,12 @@
         <mark key="." line="66" column="64" />
         <mark key="^" line="66" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/zfpay.py" timestamp="1510653085757">
+      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/zfpay.py" timestamp="1510659413361">
         <mark key="'" line="27" column="9" />
-        <mark key="[" line="28" column="20" />
-        <mark key="]" line="28" column="44" />
-        <mark key="." line="28" column="44" />
-        <mark key="^" line="28" column="44" />
+        <mark key="[" line="81" column="49" />
+        <mark key="]" line="81" column="60" />
+        <mark key="." line="81" column="60" />
+        <mark key="^" line="81" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/redis.conf" timestamp="1510226392998">
         <mark key="'" line="547" column="29" />
@@ -403,16 +403,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>, response.status_code</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>, response.status_code</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQUkVWSU9VU19UUkFDS19GSUxFX05BTUVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlID0gcmVxdWVzdHMucG9zdChfR0FURVdBWSwgZGF0YT1qc29uLmR1bXBzKHBhcmFtZXRlcl9kaWN0LCBzZXBhcmF0b3JzPSgnLCcsICc6JykpLCBoZWFkZXJzPWhlYWRlcnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGltZW91dD0zKQo=</text>
+        <text encoding="base64">ICAgICAgICBfTE9HR0VSLndhcm4oJ3pmcGF5IGRhdGEgZXJyb3IsIHN0YXR1c19jb2RlOiAlcycsIHJlc3BvbnNlLnN0YXR1c19jb2RlKQo=</text>
       </register>
       <register name="p" type="4">
         <text />
