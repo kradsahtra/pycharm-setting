@@ -56,12 +56,12 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" timestamp="1510742517241">
-        <mark key="'" line="10" column="31" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="67" />
-        <mark key="." line="84" column="67" />
-        <mark key="^" line="84" column="67" />
+      <file name="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" timestamp="1510747334004">
+        <mark key="'" line="51" column="28" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="80" column="84" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice/deploy/online/deploy.json" timestamp="1510543534278">
         <mark key="[" line="48" column="7" />
@@ -75,6 +75,10 @@
         <mark key="]" line="22" column="48" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/payservice/payservice/base/settings_online.py" timestamp="1510747569003">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings.py" timestamp="1510381109445">
         <mark key="'" line="179" column="0" />
@@ -96,6 +100,11 @@
         <mark key="." line="84" column="15" />
         <mark key="^" line="84" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/yiaipay.py" timestamp="1510743881979">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="83" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/handler.py" timestamp="1510404786044">
         <mark key="[" line="54" column="34" />
         <mark key="]" line="54" column="37" />
@@ -113,6 +122,10 @@
         <mark key="]" line="1" column="24" />
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/preset/view.py" timestamp="1510713951096">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="79" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/lucky_diablo/luckycommon/third/skillfully_pay.py" timestamp="1509434886709">
         <mark key="'" line="0" column="0" />
@@ -141,6 +154,9 @@
         <mark key="." line="259" column="44" />
         <mark key="^" line="259" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/youpay.py" timestamp="1510746228439">
+        <mark key="'" line="43" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" timestamp="1509955353593">
         <mark key="'" line="85" column="49" />
         <mark key="[" line="178" column="29" />
@@ -148,10 +164,10 @@
         <mark key="^" line="178" column="36" />
         <mark key="." line="178" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/kailianpay.py" timestamp="1510048841688">
-        <mark key="'" line="34" column="25" />
-        <mark key="[" line="66" column="58" />
-        <mark key="]" line="66" column="64" />
+      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/kailianpay.py" timestamp="1510746289854">
+        <mark key="'" line="88" column="4" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="119" column="4" />
         <mark key="." line="66" column="64" />
         <mark key="^" line="66" column="64" />
       </file>
@@ -215,14 +231,19 @@
         <mark key="." line="49" column="80" />
         <mark key="^" line="49" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/youpay.py" timestamp="1510731699373">
-        <mark key="'" line="102" column="4" />
+      <file name="$USER_HOME$/workspace/pay_loki/payservice/base/settings_prod.py" timestamp="1510747382606">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/youpay.py" timestamp="1510746261392">
+        <mark key="'" line="59" column="4" />
         <mark key="[" line="172" column="0" />
         <mark key="]" line="172" column="70" />
         <mark key="." line="172" column="70" />
         <mark key="^" line="172" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_test.py" timestamp="1510733822380">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_test.py" timestamp="1510745184413">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="28" column="70" />
         <mark key="." line="25" column="0" />
@@ -239,6 +260,11 @@
         <mark key="^" line="60" column="22" />
         <mark key="." line="60" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/view.py" timestamp="1510730718860">
+        <mark key="[" line="166" column="37" />
+        <mark key="]" line="166" column="48" />
+        <mark key="." line="166" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1510737367048">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="63" column="0" />
@@ -252,11 +278,15 @@
         <mark key="." line="169" column="0" />
         <mark key="^" line="168" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510742802534">
+      <file name="/Dummy.txt" timestamp="1510747685668">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/pay/model.py" timestamp="1510725959325">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/pay_loki/payservice/api/notify/view.py" timestamp="1510732910406">
         <mark key="'" line="312" column="4" />
@@ -349,27 +379,15 @@
         <mark key="." line="120" column="24" />
         <mark key="^" line="18" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/justpay.py" timestamp="1510745439598">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="53" column="65" />
+        <mark key="]" line="53" column="66" />
+        <mark key="." line="53" column="66" />
+        <mark key="^" line="53" column="66" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="13" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/thpay.py" />
-      <jump line="145" column="13" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/thpay.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/thpay.py" />
-      <jump line="443" column="0" filename="$USER_HOME$/workspace/payservice/payservice/api/notify/view.py" />
-      <jump line="54" column="8" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/model.py" />
-      <jump line="52" column="5" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/model.py" />
-      <jump line="82" column="30" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/model.py" />
-      <jump line="6" column="96" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/model.py" />
-      <jump line="33" column="25" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/kailianpay.py" />
-      <jump line="6" column="75" filename="$USER_HOME$/workspace/pay_loki/payservice/base/settings_online.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.nginx.conf" />
-      <jump line="77" column="12" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/handler.py" />
-      <jump line="109" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/handler.py" />
-      <jump line="547" column="29" filename="$USER_HOME$/workspace/deploy/config_files/redis.conf" />
-      <jump line="13" column="9" filename="$USER_HOME$/workspace/devops/config_files/bigbang.conf" />
-      <jump line="120" column="18" filename="$USER_HOME$/workspace/devops/config_files/bigbang.conf" />
-      <jump line="125" column="18" filename="$USER_HOME$/workspace/devops/config_files/bigbang.conf" />
-      <jump line="0" column="9" filename="$USER_HOME$/workspace/devops/config_files/admin.conf" />
-      <jump line="44" column="18" filename="$USER_HOME$/workspace/devops/config_files/admin.conf" />
       <jump line="122" column="4" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.nginx.conf" />
       <jump line="106" column="31" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.nginx.conf" />
       <jump line="116" column="18" filename="$USER_HOME$/workspace/deploy/config_files/bigbang.nginx.conf" />
@@ -451,61 +469,80 @@
       <jump line="17" column="25" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
       <jump line="18" column="21" filename="$USER_HOME$/workspace/deploy/config.py" />
       <jump line="62" column="0" filename="$USER_HOME$/workspace/deploy/config.py" />
+      <jump line="112" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/yiaipay.py" />
+      <jump line="36" column="29" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
+      <jump line="164" column="17" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
+      <jump line="175" column="8" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/yiaipay.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
+      <jump line="150" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
+      <jump line="53" column="24" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/justpay.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/justpay.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/justpay.py" />
+      <jump line="43" column="4" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/youpay.py" />
+      <jump line="59" column="4" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/youpay.py" />
+      <jump line="115" column="16" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/kailianpay.py" />
+      <jump line="88" column="4" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/kailianpay.py" />
+      <jump line="51" column="28" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UEFZX0NBQ0hFX1VSTCA9ICcnCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>html_text</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXlzZXJ2aWNlXD4=</text>
+        <text encoding="base64">XDxfYnVpbGRfZm9ybVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICdCMTAwMyc6IHsKICAgICAgICAnQVBJX0tFWSc6ICdDQUNDSDJRQUdYVUZZSEs1OFBKTlBCTEQwJwogICAgfSwK</text>
+        <text encoding="base64">UEFZX0NBQ0hFX1VSTCA9ICdodHRwOi8vY2hhcmdlLjkxd2hjcC5jb206ODg4OC9nYXRld2F5L3BheS8/Y2FjaGVfaWQ9Jwo=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc3Bfb2JqID0ganNvbi5sb2FkcyhyZXNwb25zZS50ZXh0KQo=</text>
+        <text encoding="base64">UEFZX0NBQ0hFX1VSTCA9ICcnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdG9kbyBjaGFyZ2VfcmVzcAo=</text>
+        <text encoding="base64">ICAgIGNoYXJnZV9yZXNwID0gewogICAgICAgICdjaGFyZ2VfaW5mbyc6IHJlc3Bfb2JqCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QUxMT1dfREVQTE9ZX1JPTEVTID0gWyJjYXNpb3VzZXIiLCAiYmxvb2RidWxsIiwgImxvdHRlcnkiLCAia2ZjIiwgInpqaCIsICJkZHoiLCAiYWRtaW4iLCAiaW0iLCAiYmlnYmFuZyIsCiAgICAgICAgICAgICAgICAgICAgICAiYmlnYmFuZy1hZG1pbiIsICJiaWdiYW5nLWFkbWluLXdlYiIsICJwYXkiLCAiY3BzdGF0cyIsICJjcHN0YXRzLXdlYiIsICIiXQo=</text>
+        <text encoding="base64">ICAgIGNhY2hlX2lkID0gcmVkaXNfY2FjaGUuc2F2ZV9odG1sKHBheS5pZCwgcmVzcF9vYmopCiAgICBjaGFyZ2VfcmVzcCA9IHsKICAgICAgICAnY2hhcmdlX2luZm8nOiBzZXR0aW5ncy5QQVlfQ0FDSEVfVVJMICsgY2FjaGVfaWQsCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxsb3cgMTEzLjEwLjEzNS43NTsKICAgICAgICAgICAgYWxsb3cgMTEwLjM0LjE2Ni41ODsKICAgICAgICAgICAgYWxsb3cgMTEwLjM0LjE2Ni4zMjsKICAgICAgICAgICAgYWxsb3cgNTIuMjIxLjE5OC4xODM7CiAgICAgICAgICAgIGFsbG93IDE4NC44My4wLjY2OwogICAgICAgICAgICBhbGxvdyAxMTAuMzQuMTY2LjQ3OwogICAgICAgICAgICBhbGxvdyAxMDMuMjMwLjI0My4zODsKICAgICAgICAgICAgYWxsb3cgMTIzLjEuMTcwLjIxOTsKICAgICAgICAgICAgYWxsb3cgMTgwLjIxMC4yMDAuMTExOwogICAgICAgICAgICBhbGxvdyAxMTAuMzQuMTY2LjQ4OwogICAgICAgICAgICBhbGxvdyAxMTAuMzQuMTY2LjU3OwogICAgICAgICAgICBhbGxvdyAxMTguMTkzLjI0MS4xMjE7CiAgICAgICAgICAgIGFsbG93IDExMi4xNDAuMTg1LjY4OwogICAgICAgICAgICBhbGxvdyAxMTIuNzQuMzcuODsKICAgICAgICAgICAgYWxsb3cgNDUuMTI1LjQ5LjEzMjsKICAJICAgIGFsbG93IDE3Mi4xMDQuNjAuMTk0OwogICAgICAgICAgICBhbGxvdyAxMTguMTg0LjY2LjE0MzsKICAgICAgICAgICAgYWxsb3cgMTgzLjYwLjIxMS4xOTU7CiAgICAgICAgICAgIGRlbnkgYWxsOwo=</text>
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygiZHVvdHBheSBkYXRhIGFmdGVyIGNoYXJnZTogJXMsIHBhcmFtczogJXMiICUgKHJlc3BvbnNlLnRleHQsIHBfZGljdCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVueSBhbGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBUaGlyZFBhcnR5RXJyb3IoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxsb3cgMTYwLjE5LjUxLjgwOwo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbG93IDEyMi4xMC4yLjI7CgkJYWxsb3cgMTIyLjEwLjIuMzsKCQlhbGxvdyAxMjIuMTAuMi40OwoJCWFsbG93IDEyMi4xMC4yLjU7CgkJYWxsb3cgMTIyLjEwLjIuNjsKCQlhbGxvdyA0Ny44OS4xNS4yMTA7CiAgICAgICAgICAgICAgICBhbGxvdyAxMTIuNzQuMzcuODsKICAgICAgICAgICAgICAgIGFsbG93IDQ3Ljg5LjE1LjIxMDsKCQlhbGxvdyA0Ny44OS4yMC4yOwoJCWFsbG93IDQ3LjUyLjIxLjIwNzsKICAgICAgICAgICAgICAgIGRlbnkgYWxsOwo=</text>
+        <text encoding="base64">ICAgIGlmIHJlc3Bfb2JqLmdldCgnY29kZScpID09ICdTVUNDRVNTJzoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxsb3cgMTEzLjEwLjEzNS43NTsKICAgICAgICAgICAgYWxsb3cgMTEwLjM0LjE2Ni41ODsKICAgICAgICAgICAgYWxsb3cgMTEwLjM0LjE2Ni4zMjsKICAgICAgICAgICAgYWxsb3cgNTIuMjIxLjE5OC4xODM7CiAgICAgICAgICAgIGFsbG93IDE4NC44My4wLjY2OwogICAgICAgICAgICBhbGxvdyAxMTAuMzQuMTY2LjQ3OwogICAgICAgICAgICBhbGxvdyAxMDMuMjMwLjI0My4zODsKICAgICAgICAgICAgYWxsb3cgMTIzLjEuMTcwLjIxOTsKICAgICAgICAgICAgYWxsb3cgMTgwLjIxMC4yMDAuMTExOwogICAgICAgICAgICBhbGxvdyAxMTAuMzQuMTY2LjQ4OwogICAgICAgICAgICBhbGxvdyAxMTAuMzQuMTY2LjU3OwogICAgICAgICAgICBhbGxvdyAxMTguMTkzLjI0MS4xMjE7CiAgICAgICAgICAgIGFsbG93IDExMi4xNDAuMTg1LjY4OwogICAgICAgICAgICBhbGxvdyAxMTIuNzQuMzcuODsKICAgICAgICAgICAgYWxsb3cgNDUuMTI1LjQ5LjEzMjsKICAgICAgICAgICAgYWxsb3cgMTcyLjEwNC42MC4xOTQ7CiAgICAgICAgICAgIGFsbG93IDExOC4xODQuNjYuMTQzOwogICAgICAgICAgICBhbGxvdyAxODMuNjAuMjExLjE5NTsKICAgICAgICAgICAgZGVueSBhbGw7Cg==</text>
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygiZHVvdHBheSBkYXRhIGFmdGVyIGNoYXJnZTogJXMiLCByZXNwX29iaikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2xvZ19mb3JtYXQgc3RpbWVkX2NvbWJpbmVkICckcmVtb3RlX2FkZHIgLSAkcmVtb3RlX3VzZXIgWyR0aW1lX2xvY2FsXSAgJwojICAgICAgICAgICAnIiRyZXF1ZXN0IiAkc3RhdHVzICRib2R5X2J5dGVzX3NlbnQgJwojICAgICAgICAgICAnIiRodHRwX3JlZmVyZXIiICIkaHR0cF91c2VyX2FnZW50IiAnCiMgICAgICAgICAgICckcmVxdWVzdF90aW1lICR1cHN0cmVhbV9yZXNwb25zZV90aW1lICRwaXBlJzsKCg==</text>
+        <text encoding="base64">ZGVmIF9nZXRfYXBpX2tleShtY2hfaWQpOgogICAgcmV0dXJuIEFQUF9DT05GW21jaF9pZF1bJ0FQSV9LRVknXQoKCmRlZiBfZ2VuX2tleShzKToKICAgIG0gPSBoYXNobGliLm1kNSgpCiAgICBtLnVwZGF0ZShzLmVuY29kZSgndXRmOCcpKQogICAgc2lnbiA9IG0uaGV4ZGlnZXN0KCkKICAgIHJldHVybiBzaWduCgoKZGVmIGdlbmVyYXRlX29yZGVyX2NyZWF0ZV9zaWduKHBhcmFtZXRlciwga2V5KToKICAgIHMgPSAncGFydGVyPXt9JnR5cGU9e30mdmFsdWU9e30mb3JkZXJpZCA9e30mY2FsbGJhY2t1cmw9e317fScuZm9ybWF0KAogICAgICAgIHBhcmFtZXRlclsncGFydGVyJ10sCiAgICAgICAgcGFyYW1ldGVyWyd0eXBlJ10sCiAgICAgICAgcGFyYW1ldGVyWyd2YWx1ZSddLAogICAgICAgIHBhcmFtZXRlclsnb3JkZXJpZCddLAogICAgICAgIHBhcmFtZXRlclsnY2FsbGJhY2t1cmwnXSwKICAgICAgICBrZXkpCiAgICByZXR1cm4gX2dlbl9rZXkocykKCgpkZWYgdmVyaWZ5X25vdGlmeV9zaWduKHBhcmFtcywga2V5KToKICAgIHMgPSAnb3JkZXJpZD17fSZvcHN0YXRlPXt9Jm92YWx1ZT17fXt9Jy5mb3JtYXQoCiAgICAgICAgcGFyYW1zWydvcmRlcmlkJ10sCiAgICAgICAgcGFyYW1zWydvcHN0YXRlJ10sCiAgICAgICAgcGFyYW1zWydvdmFsdWUnXSwKICAgICAgICBrZXkpCiAgICBzaWduID0gcGFyYW1zWydzaWduRGF0YSddCiAgICBjYWxjdWxhdGVkX3NpZ24gPSBfZ2VuX2tleShzKQogICAgaWYgc2lnbiAhPSBjYWxjdWxhdGVkX3NpZ246CiAgICAgICAgX0xPR0dFUi5pbmZvKCJkaXJwYXkgc2lnbjogJXMsIGNhbGN1bGF0ZWQgc2lnbjogJXMiLCBzaWduLCBjYWxjdWxhdGVkX3NpZ24pCiAgICAgICAgcmFpc2UgUGFyYW1FcnJvcignc2lnbiBub3QgcGFzcywgZGF0YTogJXMnICUgcGFyYW1zKQoKCmRlZiBnZW5lcmF0ZV9xdWVyeV9zaWduKHBhcmFtcywga2V5KToKICAgIHMgPSAnb3JkZXJpZD17fSZwYXJ0ZXI9e317fScuZm9ybWF0KAogICAgICAgIHBhcmFtc1snb3JkZXJpZCddLAogICAgICAgIHBhcmFtc1sncGFydGVyJ10sCiAgICAgICAga2V5KQogICAgcmV0dXJuIF9nZW5fa2V5KHMpCgoKZGVmIGNyZWF0ZV9jaGFyZ2UocGF5LCBwYXlfYW1vdW50LCBpbmZvKToKICAgICcnJyDliJvlu7rorqLljZUgJycnCiAgICBhcHBfaWQgPSBpbmZvWydhcHBfaWQnXQogICAgYXBpX2tleSA9IF9nZXRfYXBpX2tleShhcHBfaWQpCiAgICBzZXJ2aWNlID0gaW5mby5nZXQoJ3NlcnZpY2UnKSAgIyB3ZWNoYXQgb3IgYWxpcGF5IG9yIHFxIHBheQogICAgaWYgc2VydmljZSA9PSAnYWxpcGF5JzoKICAgICAgICBiYW5rX3R5cGUgPSAxMDA2CiAgICBlbGlmIHNlcnZpY2UgPT0gJ3d4cGF5JzoKICAgICAgICBiYW5rX3R5cGUgPSAxMDA3CiAgICBlbHNlOgogICAgICAgIGJhbmtfdHlwZSA9IDk5MyAgIyBxcSBwYXkKICAgIHBhcmFtZXRlcl9kaWN0ID0gT3JkZXJlZERpY3QoKAogICAgICAgICgncGFydGVyJywgYXBwX2lkKSwKICAgICAgICAoJ3R5cGUnLCBiYW5rX3R5cGUpLAogICAgICAgICgndmFsdWUnLCBzdHIocGF5X2Ftb3VudCkpLAogICAgICAgICgnb3JkZXJpZCcsIHN0cihwYXkuaWQpWzI6XSksCiAgICAgICAgKCdjYWxsYmFja3VybCcsICd7fS9wYXkvYXBpL3RoaXJkL25vdGlmeS9kdW90cGF5L3t9Jy5mb3JtYXQoc2V0dGluZ3MuTk9USUZZX1BSRUZJWCwgYXBwX2lkKSksCiAgICApKQogICAgcGFyYW1ldGVyX2RpY3RbJ3NpZ24nXSA9IGdlbmVyYXRlX29yZGVyX2NyZWF0ZV9zaWduKHBhcmFtZXRlcl9kaWN0LCBhcGlfa2V5KQogICAgcGFyYW1ldGVyX2RpY3RbJ2FnZW50J10gPSAnJwogICAgaGVhZGVycyA9IHsnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCd9CiAgICByZXNwb25zZSA9IHJlcXVlc3RzLnBvc3QoX0dBVEVXQVksIGRhdGE9cGFyYW1ldGVyX2RpY3QsIGhlYWRlcnM9aGVhZGVycywgdGltZW91dD0zKQogICAgX0xPR0dFUi5pbmZvKCJkdW90cGF5IGNyZWF0ZSBjaGFyZ2UgZGF0YTogJXMgJXMiLCByZXNwb25zZS5zdGF0dXNfY29kZSwgcmVzcG9uc2UudGV4dCkKCiAgICByZXNwX29iaiA9IHJlc3BvbnNlLnRleHQKICAgIGNoYXJnZV9yZXNwID0gewogICAgICAgICdjaGFyZ2VfaW5mbyc6IHJlc3Bfb2JqCiAgICB9CgogICAgcmV0dXJuIGNoYXJnZV9yZXNwCgoKZGVmIGNoZWNrX25vdGlmeV9zaWduKHJlcXVlc3QsIGFwcF9pZCk6CiAgICBkYXRhID0gZGljdChyZXF1ZXN0LkdFVC5pdGVyaXRlbXMoKSkKICAgIGFwaV9rZXkgPSBfZ2V0X2FwaV9rZXkoYXBwX2lkKQogICAgX0xPR0dFUi5pbmZvKCJkdW90cGF5IG5vdGlmeSBkYXRhOiAlcyIsIGRhdGEpCiAgICB2ZXJpZnlfbm90aWZ5X3NpZ24oZGF0YSwgYXBpX2tleSkKICAgIHBheV9pZCA9ICcxNicgKyBkYXRhWydvcmRlcmlkJ10KICAgIGlmIG5vdCBwYXlfaWQ6CiAgICAgICAgX0xPR0dFUi5lcnJvcigiZmF0YWwgZXJyb3IsIG91dF90cmFkZV9ubyBub3QgZXhpc3RzLCBkYXRhOiAlcyIgJSBkYXRhKQogICAgICAgIHJhaXNlIFBhcmFtRXJyb3IoJ2R1b3RwYXkgZXZlbnQgZG9lcyBub3QgY29udGFpbiBwYXkgSUQnKQoKICAgIHBheSA9IG9yZGVyX2RiLmdldF9wYXkoaW50KHBheV9pZCkpCiAgICBpZiBub3QgcGF5OgogICAgICAgIHJhaXNlIFBhcmFtRXJyb3IoJ3BheV9pZDogJXMgaW52YWxpZCcgJSBwYXlfaWQpCiAgICBpZiBwYXkuc3RhdHVzICE9IFBBWV9TVEFUVVMuUkVBRFk6CiAgICAgICAgcmFpc2UgUGFyYW1FcnJvcigncGF5ICVzIGhhcyBiZWVuIHByb2Nlc3NlZCcgJSBwYXlfaWQpCgogICAgbWNoX2lkID0gcGF5Lm1jaF9pZAogICAgdHJhZGVfc3RhdHVzID0gZGF0YVsnb3BzdGF0ZSddCiAgICB0cmFkZV9ubyA9IGRhdGFbJ3N5c29yZGVyaWQnXQogICAgdG90YWxfZmVlID0gZmxvYXQoZGF0YVsnb3ZhbHVlJ10pCgogICAgZXh0ZW5kID0gewogICAgICAgICd0cmFkZV9zdGF0dXMnOiB0cmFkZV9zdGF0dXMsCiAgICAgICAgJ3RyYWRlX25vJzogdHJhZGVfbm8sCiAgICAgICAgJ3RvdGFsX2ZlZSc6IHRvdGFsX2ZlZQogICAgfQoKICAgIGlmIHRyYWRlX3N0YXR1cyA9PSAnMCc6CiAgICAgICAgX0xPR0dFUi5pbmZvKCdkdW90cGF5IGNoZWNrIG9yZGVyIHN1Y2Nlc3MsIG1jaF9pZDolcyBwYXlfaWQ6JXMnICUgKG1jaF9pZCwgcGF5X2lkKSkKICAgICAgICByZXMgPSBvcmRlcl9kYi5hZGRfcGF5X3N1Y2Nlc3MobWNoX2lkLCBwYXlfaWQsIHRvdGFsX2ZlZSwgdHJhZGVfbm8sIGV4dGVuZCkKICAgIGVsc2U6CiAgICAgICAgb3JkZXJfZGIuYWRkX3BheV9mYWlsKG1jaF9pZCwgcGF5X2lkLCB0b3RhbF9mZWUsIHRyYWRlX25vLCBleHRlbmQpCiAgICAgICAgX0xPR0dFUi5lcnJvcignZHVvdHBheSByZXNwb25zZSBkYXRhIHNob3cgdHJhbnNhY3Rpb24gZmFpbGVkLCBkYXRhOiAlcycsIGRhdGEpCiAgICAjIGFzeW5jIG5vdGlmeQogICAgYXN5bmNfam9iLm5vdGlmeV9tY2gocGF5X2lkKQoKCl9RVUVSWV9HQVRFV0FZID0gJ2h0dHA6Ly8gcGF5LmR1b3RwYXkuY29tL2Jhbmsvc2VhcmNoLmFzaHgnCgoKZGVmIHF1ZXJ5X2NoYXJnZShwYXlfb3JkZXIsIGFwcF9pZCk6CiAgICAnJycg5p+l6K+i6K6i5Y2VICcnJwogICAgIyBwcmVwYXJlIHBhcmFtCiAgICBwYXlfaWQgPSBwYXlfb3JkZXIuaWQKICAgIG9yZGVyX2lkID0gc3RyKHBheV9pZClbMjpdCiAgICBhcGlfa2V5ID0gX2dldF9hcGlfa2V5KGFwcF9pZCkKICAgIHBhcmFtZXRlcl9kaWN0ID0gT3JkZXJlZERpY3QoKAogICAgICAgICgnb3JkZXJpZCcsIHN0cihvcmRlcl9pZCkpLAogICAgICAgICgncGFydGVyJywgYXBwX2lkKSwKICAgICkpCiAgICBwYXJhbWV0ZXJfZGljdFsnc2lnbiddID0gKHBhcmFtZXRlcl9kaWN0LCBhcGlfa2V5KQogICAgaGVhZGVycyA9IHsnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCd9CiAgICByZXNwb25zZSA9IHJlcXVlc3RzLmdldChfUVVFUllfR0FURVdBWSwgZGF0YT1wYXJhbWV0ZXJfZGljdCwgaGVhZGVycz1oZWFkZXJzLCB0aW1lb3V0PTMpCiAgICBpZiByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDA6CiAgICAgICAgIyByZXNwb25zZSB0ZXh0IGlzIGEgcHVyZSBodG1sIHRleHQKICAgICAgICBkYXRhID0ganNvbi5sb2FkcyhyZXNwb25zZS50ZXh0KQogICAgICAgIHByaW50IGRhdGEKICAgICAgICB0cmFkZV9zdGF0dXMgPSBkYXRhWydvcHN0YXRlJ10KICAgICAgICB0cmFkZV9ubyA9ICcnCiAgICAgICAgdG90YWxfZmVlID0gZmxvYXQoZGF0YVsnb3ZhbHVlJ10pCgogICAgICAgIGV4dGVuZCA9IHsKICAgICAgICAgICAgJ3RyYWRlX3N0YXR1cyc6IHRyYWRlX3N0YXR1cywKICAgICAgICAgICAgJ3RyYWRlX25vJzogJycsCiAgICAgICAgICAgICd0b3RhbF9mZWUnOiB0b3RhbF9mZWUKICAgICAgICB9CgogICAgICAgIGlmIHRyYWRlX3N0YXR1cyA9PSAnMCc6CiAgICAgICAgICAgIF9MT0dHRVIuaW5mbygnZHVvdHBheSBxdWVyeSBvcmRlciBzdWNjZXNzLCB1c2VyX2lkOiVzIHBheV9pZDolcycgJSAocGF5X29yZGVyLm1jaF9pZCwgcGF5X2lkKSkKICAgICAgICAgICAgcmVzID0gb3JkZXJfZGIuYWRkX3BheV9zdWNjZXNzKHBheV9vcmRlci5tY2hfaWQsIHBheV9vcmRlci5pZCwgdG90YWxfZmVlLCB0cmFkZV9ubywgZXh0ZW5kKQogICAgICAgICAgICBpZiByZXM6CiAgICAgICAgICAgICAgICAjIGFzeW5jIG5vdGlmeQogICAgICAgICAgICAgICAgYXN5bmNfam9iLm5vdGlmeV9tY2gocGF5X29yZGVyLmlkKQogICAgICAgICAgICBwcmludCgib3JkZXIgcHJvY2VzcyBzdWNjZXNzZnVsbHkuICVzIiAlIHBheV9vcmRlci5pZCkKICAgIGVsc2U6CiAgICAgICAgX0xPR0dFUi53YXJuKCdkdW90cGF5IGRhdGEgZXJyb3IsIHN0YXR1c19jb2RlOiAlcycsIHJlc3BvbnNlLnN0YXR1c19jb2RlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>52</text>
+        <text>81</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXlzZXJ2aWNlXD4=</last-search>
+      <last-search encoding="base64">XDxfYnVpbGRfZm9ybVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXlzZXJ2aWNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfYnVpbGRfZm9ybVw+</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>info</last-substitute>
       <last-dir>1</last-dir>
@@ -513,9 +550,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3aXRoZHJhd19wcmljZVw+</entry>
-        <entry encoding="base64">XDx5aWFpcGF5XD4=</entry>
-        <entry encoding="base64">XDxQYXlTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxPcmRlcmVkRGljdFw+</entry>
         <entry encoding="base64">XDxLQUlMSUFOX1dBUFw+</entry>
         <entry encoding="base64">XDxrYWlsaWFucGF5XD4=</entry>
@@ -533,9 +567,11 @@
         <entry encoding="base64">XDxzZXR1cF9uZ2lueFw+</entry>
         <entry encoding="base64">XDxfUEFSVEVSXD4=</entry>
         <entry encoding="base64">XDxwYXlzZXJ2aWNlXD4=</entry>
+        <entry encoding="base64">XDxDSEFSR0VfVVJMXD4=</entry>
+        <entry encoding="base64">XDxidWlsZF9mb3JtXD4=</entry>
+        <entry encoding="base64">XDxfYnVpbGRfZm9ybVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>wq</entry>
         <entry>121</entry>
@@ -555,6 +591,7 @@
         <entry>292</entry>
         <entry>24</entry>
         <entry>52</entry>
+        <entry>81</entry>
       </history-cmd>
       <history-expr />
       <history-input />
