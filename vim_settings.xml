@@ -24,12 +24,18 @@
         <mark key="." line="181" column="74" />
         <mark key="^" line="181" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config_files/pay.nginx.conf" timestamp="1510733961856">
-        <mark key="'" line="54" column="1" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="54" column="1" />
-        <mark key="^" line="54" column="1" />
-        <mark key="." line="54" column="1" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/fix_pay.py" timestamp="1510380450505">
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="19" column="17" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/pay.nginx.conf" timestamp="1510736533715">
+        <mark key="'" line="18" column="29" />
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="31" column="36" />
+        <mark key="^" line="31" column="36" />
+        <mark key="." line="31" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" timestamp="1510733817124">
         <mark key="'" line="19" column="0" />
@@ -38,8 +44,30 @@
         <mark key="." line="26" column="41" />
         <mark key="^" line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" timestamp="1510732749097">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/update/handler.py" timestamp="1510576153205">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="69" />
+        <mark key="." line="19" column="69" />
+        <mark key="^" line="19" column="69" />
+      </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/redis.ini" timestamp="1510225108169">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="36" />
+        <mark key="." line="1" column="36" />
+        <mark key="^" line="1" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" timestamp="1510737088931">
         <mark key="'" line="10" column="31" />
+        <mark key="[" line="95" column="31" />
+        <mark key="]" line="95" column="31" />
+        <mark key="." line="95" column="31" />
+        <mark key="^" line="91" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/luckyservice/deploy/online/deploy.json" timestamp="1510543534278">
+        <mark key="[" line="48" column="7" />
+        <mark key="]" line="48" column="7" />
+        <mark key="." line="48" column="7" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/payservice/payservice/api/management/commands/fix_pay.py" timestamp="1510369562790">
         <mark key="'" line="28" column="12" />
@@ -62,9 +90,29 @@
         <mark key="^" line="460" column="34" />
         <mark key="." line="460" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/preset/view.py" timestamp="1510713951096">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="79" column="34" />
+      <file name="$USER_HOME$/workspace/pay_loki/payweb/js/frame/const.js" timestamp="1510736797131">
+        <mark key="[" line="84" column="13" />
+        <mark key="]" line="84" column="15" />
+        <mark key="." line="84" column="15" />
+        <mark key="^" line="84" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/handler.py" timestamp="1510404786044">
+        <mark key="[" line="54" column="34" />
+        <mark key="]" line="54" column="37" />
+        <mark key="^" line="54" column="37" />
+        <mark key="." line="54" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/KFCService/luckyplatform/settings_test.py" timestamp="1510467259047">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+        <mark key="^" line="23" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/lottery.conf" timestamp="1510233486871">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+        <mark key="^" line="1" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/lucky_diablo/luckycommon/third/skillfully_pay.py" timestamp="1509434886709">
         <mark key="'" line="0" column="0" />
@@ -79,6 +127,12 @@
         <mark key="]" line="238" column="93" />
         <mark key="." line="238" column="93" />
         <mark key="^" line="238" column="93" />
+      </file>
+      <file name="$USER_HOME$/workspace/pay_loki/payservice/base/settings_test.py" timestamp="1510735335375">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="32" />
+        <mark key="." line="23" column="32" />
+        <mark key="^" line="23" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice/luckyapi/logic/transaction.py" timestamp="1510556197370">
         <mark key="'" line="253" column="55" />
@@ -115,6 +169,12 @@
         <mark key="^" line="245" column="17" />
         <mark key="." line="245" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/uwsgi-admin.ini" timestamp="1510284346026">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="1" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/js_ks/order/handler.py" timestamp="1510299880171">
         <mark key="'" line="19" column="29" />
         <mark key="[" line="58" column="44" />
@@ -122,12 +182,12 @@
         <mark key="." line="58" column="48" />
         <mark key="^" line="58" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1510719875992">
-        <mark key="'" line="297" column="4" />
-        <mark key="[" line="316" column="0" />
-        <mark key="]" line="316" column="0" />
-        <mark key="^" line="297" column="10" />
-        <mark key="." line="316" column="0" />
+      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1510736490091">
+        <mark key="'" line="17" column="25" />
+        <mark key="[" line="105" column="65" />
+        <mark key="]" line="105" column="67" />
+        <mark key="^" line="105" column="67" />
+        <mark key="." line="105" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/dirpay.py" timestamp="1510732161522">
         <mark key="'" line="106" column="51" />
@@ -135,6 +195,12 @@
         <mark key="]" line="144" column="71" />
         <mark key="." line="169" column="64" />
         <mark key="^" line="169" column="64" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/push_notification.py" timestamp="1510401828946">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="56" />
+        <mark key="." line="21" column="56" />
+        <mark key="^" line="21" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/pay_loki/payservice/api/urls.py" timestamp="1510732864054">
         <mark key="'" line="22" column="60" />
@@ -161,17 +227,23 @@
         <mark key="]" line="28" column="70" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/view.py" timestamp="1510730718860">
-        <mark key="[" line="166" column="37" />
-        <mark key="]" line="166" column="48" />
-        <mark key="." line="166" column="37" />
+      <file name="$USER_HOME$/workspace/deploy/config_files/kfc.conf" timestamp="1510233397767">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+        <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1510733075480">
-        <mark key="'" line="36" column="37" />
-        <mark key="[" line="54" column="13" />
-        <mark key="]" line="54" column="15" />
-        <mark key="^" line="54" column="15" />
-        <mark key="." line="54" column="15" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/tz.py" timestamp="1510629238698">
+        <mark key="[" line="60" column="22" />
+        <mark key="]" line="60" column="22" />
+        <mark key="^" line="60" column="22" />
+        <mark key="." line="60" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1510736134929">
+        <mark key="'" line="61" column="1" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice/luckycommon/third/dirpay.py" timestamp="1510382587671">
         <mark key="'" line="34" column="40" />
@@ -180,21 +252,23 @@
         <mark key="." line="169" column="0" />
         <mark key="^" line="168" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510733836113">
+      <file name="/Dummy.txt" timestamp="1510737214561">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/pay/model.py" timestamp="1510725959325">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/pay_loki/payservice/api/notify/view.py" timestamp="1510732910406">
         <mark key="'" line="312" column="4" />
         <mark key="[" line="318" column="0" />
         <mark key="]" line="327" column="52" />
         <mark key="." line="318" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/bullws.nginx.conf" timestamp="1510233229894">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="40" />
+        <mark key="." line="10" column="40" />
+        <mark key="^" line="10" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice/tools/fix_pay.py" timestamp="1510369200523">
         <mark key="'" line="20" column="0" />
@@ -224,12 +298,24 @@
         <mark key="." line="117" column="18" />
         <mark key="^" line="112" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/payservice/deploy/online_game/deploy.yaml" timestamp="1510553124209">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/devops/config_files/admin.conf" timestamp="1510279972499">
         <mark key="'" line="44" column="18" />
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="25" />
         <mark key="^" line="5" column="14" />
         <mark key="." line="1" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/deploy/payservice.nginx.conf" timestamp="1510735885417">
+        <mark key="'" line="122" column="4" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/skillfully_pay.py" timestamp="1510732186746">
         <mark key="'" line="121" column="29" />
@@ -250,6 +336,12 @@
         <mark key="]" line="70" column="34" />
         <mark key="." line="70" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" timestamp="1510628227896">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="25" />
+        <mark key="." line="113" column="25" />
+        <mark key="^" line="113" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/yiaipay.py" timestamp="1510730984420">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="31" column="0" />
@@ -259,14 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/create_daily_report.py" />
-      <jump line="706" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/create_daily_report.py" />
-      <jump line="24" column="32" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/views/withdraw.py" />
-      <jump line="26" column="14" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/trans_alipay.py" />
-      <jump line="175" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/cache/redis_cache.py" />
-      <jump line="146" column="18" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/db.py" />
-      <jump line="56" column="1" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/model.py" />
-      <jump line="81" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/model.py" />
       <jump line="158" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/kailianpay.py" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/kailianpay.py" />
       <jump line="85" column="13" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/thpay.py" />
@@ -359,61 +443,69 @@
       <jump line="22" column="60" filename="$USER_HOME$/workspace/pay_loki/payservice/api/urls.py" />
       <jump line="313" column="4" filename="$USER_HOME$/workspace/pay_loki/payservice/api/notify/view.py" />
       <jump line="54" column="1" filename="$USER_HOME$/workspace/deploy/config_files/pay.nginx.conf" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/deploy/payservice.nginx.conf" />
+      <jump line="122" column="4" filename="$USER_HOME$/workspace/deploy/payservice.nginx.conf" />
+      <jump line="0" column="9" filename="$USER_HOME$/workspace/deploy/config_files/pay.nginx.conf" />
+      <jump line="17" column="30" filename="$USER_HOME$/workspace/deploy/config_files/pay.nginx.conf" />
+      <jump line="18" column="29" filename="$USER_HOME$/workspace/deploy/config_files/pay.nginx.conf" />
+      <jump line="61" column="1" filename="$USER_HOME$/workspace/deploy/config.py" />
+      <jump line="61" column="4" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
+      <jump line="17" column="25" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">SlVTVFBBWV9OT1RJRllfVVJMID0gJ2h0dHA6Ly93d3cubHVja3ljcDM2NS5jb20vYXBpL3YxL3RoaXJkL2p1c3RwYXkvbm90aWZ5JwpKVVNUUEFZX01DSF9JRCA9ICcnCkpVU1RQQVlfQVBJX0tFWSA9ICcnCkpVU1RQQVlfQ0hBUkdFX1VSTCA9ICdodHRwOi8vMTYyLjIyMi4xNjUuMjQ3OjkwMDMvcGF5L2FwaS9jaGFyZ2UvY3JlYXRlJwo=</text>
+      <register name="&quot;" type="4">
+        <text>.get('data').get('payurl')</text>
       </register>
       <register name="-" type="4">
-        <text>162.222.165.247</text>
+        <text>.get('data').get('payurl')</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfUEFSVEVSXD4=</text>
+        <text encoding="base64">XDxwYXlzZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SlVTVFBBWV9OT1RJRllfVVJMID0gJ2h0dHA6Ly81Mi4xNS4xOTAuMTU0L2FwaS92MS90aGlyZC9qdXN0cGF5L25vdGlmeScKSlVTVFBBWV9NQ0hfSUQgPSAnMScKSlVTVFBBWV9BUElfS0VZID0gJzY4NmJiNDYyMjk0ZTQ0MmE4NDEwYTU0YjdkMWI0ZmE3JwpKVVNUUEFZX0NIQVJHRV9VUkwgPSAnaHR0cDovLzUyLjE1LjE5MC4xNTQ6OTAwMy9wYXkvYXBpL2NoYXJnZS9jcmVhdGUnCg==</text>
+        <text encoding="base64">ICAgICAgICA0MTogJ1BBWVRFQ0ggbmV3JywK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SlVTVFBBWV9OT1RJRllfVVJMID0gJ2h0dHA6Ly93d3cubHVja3ljcDM2NS5jb20vYXBpL3YxL3RoaXJkL2p1c3RwYXkvbm90aWZ5JwpKVVNUUEFZX01DSF9JRCA9ICcnCkpVU1RQQVlfQVBJX0tFWSA9ICcnCkpVU1RQQVlfQ0hBUkdFX1VSTCA9ICdodHRwOi8vMTYyLjIyMi4xNjUuMjQ3OjkwMDMvcGF5L2FwaS9jaGFyZ2UvY3JlYXRlJwo=</text>
+        <text encoding="base64">ICAgIHJlc3Bfb2JqID0ganNvbi5sb2FkcyhyZXNwb25zZS50ZXh0KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIENIQU5ORUxfVFlQRS5EVU9UUEFZX1FROiBkdW90cGF5X3FxLAo=</text>
+        <text encoding="base64">ICAgICMgdG9kbyBjaGFyZ2VfcmVzcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENIQU5ORUxfVFlQRS5EVU9UUEFZX1dYOiBkdW90cGF5X3d4LAo=</text>
+        <text encoding="base64">QUxMT1dfREVQTE9ZX1JPTEVTID0gWyJjYXNpb3VzZXIiLCAiYmxvb2RidWxsIiwgImxvdHRlcnkiLCAia2ZjIiwgInpqaCIsICJkZHoiLCAiYWRtaW4iLCAiaW0iLCAiYmlnYmFuZyIsCiAgICAgICAgICAgICAgICAgICAgICAiYmlnYmFuZy1hZG1pbiIsICJiaWdiYW5nLWFkbWluLXdlYiIsICJwYXkiLCAiY3BzdGF0cyIsICJjcHN0YXRzLXdlYiIsICIiXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIENIQU5ORUxfVFlQRS5EVU9UUEFZX0FMSTogZHVvdHBheV9hbGksCiAgICBDSEFOTkVMX1RZUEUuRFVPVFBBWV9XWDogZHVvdHBheV93eCwKICAgIENIQU5ORUxfVFlQRS5EVU9UUEFZX1FROiBkdW90cGF5X3FxLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxsb3cgMTEzLjEwLjEzNS43NTsKICAgICAgICAgICAgYWxsb3cgMTEwLjM0LjE2Ni41ODsKICAgICAgICAgICAgYWxsb3cgMTEwLjM0LjE2Ni4zMjsKICAgICAgICAgICAgYWxsb3cgNTIuMjIxLjE5OC4xODM7CiAgICAgICAgICAgIGFsbG93IDE4NC44My4wLjY2OwogICAgICAgICAgICBhbGxvdyAxMTAuMzQuMTY2LjQ3OwogICAgICAgICAgICBhbGxvdyAxMDMuMjMwLjI0My4zODsKICAgICAgICAgICAgYWxsb3cgMTIzLjEuMTcwLjIxOTsKICAgICAgICAgICAgYWxsb3cgMTgwLjIxMC4yMDAuMTExOwogICAgICAgICAgICBhbGxvdyAxMTAuMzQuMTY2LjQ4OwogICAgICAgICAgICBhbGxvdyAxMTAuMzQuMTY2LjU3OwogICAgICAgICAgICBhbGxvdyAxMTguMTkzLjI0MS4xMjE7CiAgICAgICAgICAgIGFsbG93IDExMi4xNDAuMTg1LjY4OwogICAgICAgICAgICBhbGxvdyAxMTIuNzQuMzcuODsKICAgICAgICAgICAgYWxsb3cgNDUuMTI1LjQ5LjEzMjsKICAJICAgIGFsbG93IDE3Mi4xMDQuNjAuMTk0OwogICAgICAgICAgICBhbGxvdyAxMTguMTg0LjY2LjE0MzsKICAgICAgICAgICAgYWxsb3cgMTgzLjYwLjIxMS4xOTU7CiAgICAgICAgICAgIGRlbnkgYWxsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zml4IHpmcGF5ZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVueSBhbGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICApLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxsb3cgMTYwLjE5LjUxLjgwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNoYXJnZV9yZXNwID0ge30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbG93IDEyMi4xMC4yLjI7CgkJYWxsb3cgMTIyLjEwLjIuMzsKCQlhbGxvdyAxMjIuMTAuMi40OwoJCWFsbG93IDEyMi4xMC4yLjU7CgkJYWxsb3cgMTIyLjEwLjIuNjsKCQlhbGxvdyA0Ny44OS4xNS4yMTA7CiAgICAgICAgICAgICAgICBhbGxvdyAxMTIuNzQuMzcuODsKICAgICAgICAgICAgICAgIGFsbG93IDQ3Ljg5LjE1LjIxMDsKCQlhbGxvdyA0Ny44OS4yMC4yOwoJCWFsbG93IDQ3LjUyLjIxLjIwNzsKICAgICAgICAgICAgICAgIGRlbnkgYWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBwYXJ0ZXI9e30mdHlwZT17fSZ2YWx1ZT17fSZvcmRlcmlkID17fSZjYWxsYmFja3VybD17fWtleQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxsb3cgMTEzLjEwLjEzNS43NTsKICAgICAgICAgICAgYWxsb3cgMTEwLjM0LjE2Ni41ODsKICAgICAgICAgICAgYWxsb3cgMTEwLjM0LjE2Ni4zMjsKICAgICAgICAgICAgYWxsb3cgNTIuMjIxLjE5OC4xODM7CiAgICAgICAgICAgIGFsbG93IDE4NC44My4wLjY2OwogICAgICAgICAgICBhbGxvdyAxMTAuMzQuMTY2LjQ3OwogICAgICAgICAgICBhbGxvdyAxMDMuMjMwLjI0My4zODsKICAgICAgICAgICAgYWxsb3cgMTIzLjEuMTcwLjIxOTsKICAgICAgICAgICAgYWxsb3cgMTgwLjIxMC4yMDAuMTExOwogICAgICAgICAgICBhbGxvdyAxMTAuMzQuMTY2LjQ4OwogICAgICAgICAgICBhbGxvdyAxMTAuMzQuMTY2LjU3OwogICAgICAgICAgICBhbGxvdyAxMTguMTkzLjI0MS4xMjE7CiAgICAgICAgICAgIGFsbG93IDExMi4xNDAuMTg1LjY4OwogICAgICAgICAgICBhbGxvdyAxMTIuNzQuMzcuODsKICAgICAgICAgICAgYWxsb3cgNDUuMTI1LjQ5LjEzMjsKICAgICAgICAgICAgYWxsb3cgMTcyLjEwNC42MC4xOTQ7CiAgICAgICAgICAgIGFsbG93IDExOC4xODQuNjYuMTQzOwogICAgICAgICAgICBhbGxvdyAxODMuNjAuMjExLjE5NTsKICAgICAgICAgICAgZGVueSBhbGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBvcmRlcmlkPXt9Jm9wc3RhdGU9e30mb3ZhbHVlPXt9a2V5Cg==</text>
+        <text encoding="base64">I2xvZ19mb3JtYXQgc3RpbWVkX2NvbWJpbmVkICckcmVtb3RlX2FkZHIgLSAkcmVtb3RlX3VzZXIgWyR0aW1lX2xvY2FsXSAgJwojICAgICAgICAgICAnIiRyZXF1ZXN0IiAkc3RhdHVzICRib2R5X2J5dGVzX3NlbnQgJwojICAgICAgICAgICAnIiRodHRwX3JlZmVyZXIiICIkaHR0cF91c2VyX2FnZW50IiAnCiMgICAgICAgICAgICckcmVxdWVzdF90aW1lICR1cHN0cmVhbV9yZXNwb25zZV90aW1lICRwaXBlJzsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>52</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfUEFSVEVSXD4=</last-search>
+      <last-search encoding="base64">XDxwYXlzZXJ2aWNlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfUEFSVEVSXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwYXlzZXJ2aWNlXD4=</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>info</last-substitute>
       <last-dir>1</last-dir>
@@ -421,7 +513,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxial9wazEwX29yZGVyX2xvZ2ljXD4=</entry>
         <entry encoding="base64">XDx3aXRoZHJhd19wcmljZVw+</entry>
         <entry encoding="base64">XDx5aWFpcGF5XD4=</entry>
         <entry encoding="base64">XDxQYXlTZXJ2aWNlXD4=</entry>
@@ -441,6 +532,7 @@
         <entry encoding="base64">XDxfTE9HR0VSXD4=</entry>
         <entry encoding="base64">XDxzZXR1cF9uZ2lueFw+</entry>
         <entry encoding="base64">XDxfUEFSVEVSXD4=</entry>
+        <entry encoding="base64">XDxwYXlzZXJ2aWNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
