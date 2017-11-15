@@ -92,6 +92,10 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/preset/view.py" timestamp="1510713951096">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="79" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/lucky_diablo/luckycommon/third/skillfully_pay.py" timestamp="1509434886709">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="72" column="54" />
@@ -225,7 +229,7 @@
         <mark key="." line="169" column="0" />
         <mark key="^" line="168" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510659420751">
+      <file name="/Dummy.txt" timestamp="1510715964777">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -285,6 +289,18 @@
         <mark key="." line="157" column="28" />
         <mark key="^" line="128" column="56" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/view.py" timestamp="1510715962608">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="37" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/coupon/view.py" timestamp="1510714919661">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" timestamp="1510628227896">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="25" />
@@ -300,9 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="29" filename="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" />
-      <jump line="85" column="49" filename="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" />
-      <jump line="103" column="49" filename="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" />
       <jump line="431" column="0" filename="$USER_HOME$/workspace/payservice/payservice/api/notify/view.py" />
       <jump line="438" column="0" filename="$USER_HOME$/workspace/payservice/payservice/api/notify/view.py" />
       <jump line="121" column="29" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/skillfully_pay.py" />
@@ -400,61 +413,64 @@
       <jump line="59" column="19" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/zfpay.py" />
       <jump line="21" column="11" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/db.py" />
       <jump line="27" column="9" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/zfpay.py" />
+      <jump line="31" column="21" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/view.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/view.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/coupon/view.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, response.status_code</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygnc3VtbWFyeSBkYXRhIGlzICVzJyAlIGRhdGEpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, response.status_code</text>
+        <text>iteritems</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQUkVWSU9VU19UUkFDS19GSUxFX05BTUVcPg==</text>
+        <text encoding="base64">XDxfTE9HR0VSXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBfTE9HR0VSLndhcm4oJ3pmcGF5IGRhdGEgZXJyb3IsIHN0YXR1c19jb2RlOiAlcycsIHJlc3BvbnNlLnN0YXR1c19jb2RlKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaywgdiBpbiBkYXRhLml0ZXJpdGVtcygpOgogICAgICAgICAgICBpZiBpbnQoaykgPiBpbnQobWF4X3R5cGUpOgogICAgICAgICAgICAgICAgZGF0YS5wb3AoaykK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlc3BvbnNlIHRleHQgaXMgYSBwdXJlIGh0bWwgdGV4dAo=</text>
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygnc3VtbWFyeSBkYXRhIGlzICVzJyAlIGRhdGEpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjYWNoZV9pZCA9IHJlZGlzX2NhY2hlLnNhdmVfaHRtbChwYXkuaWQsIHJlc3BvbnNlLnRleHQpCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhLnBvcCgnMTQnKQogICAgICAgIGRhdGEucG9wKCcxNScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAoJ2NhbGxiYWNrX3VybCcsICd7fS9wYXkvYXBpL3RoaXJkL25vdGlmeS96ZnBheS8nLmZvcm1hdChzZXR0aW5ncy5OT1RJRllfUFJFRklYKSksCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygiemZwYXkgb3JpZ2luIHBhcmFtczogJXMiLCByZXNwb25zZS50ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAoJ2NhbGxiYWNrX3VybCcsICd7fS9wYXkvYXBpL3RoaXJkL25vdGlmeS96ZnBheS8nLmZvcm1hdChzZXR0aW5ncy5OT1RJRllfUFJFRklYKSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAoJ3Nob3d1cmwnLCAne30vcGF5L2FwaS90aGlyZC9yZXR1cm4vemZwYXkve30vJy5mb3JtYXQoc2V0dGluZ3MuTk9USUZZX1BSRUZJWCwgcGF5LmlkKSksCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHJlc3BvbnNlIHRleHQgaXMgYSBwdXJlIGh0bWwgdGV4dAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAoJ3Nob3d1cmwnLCAne30vcGF5L2FwaS90aGlyZC9yZXR1cm4vemZwYXkve30vJy5mb3JtYXQoc2V0dGluZ3MuTk9USUZZX1BSRUZJWCwgcGF5LmlkKSksCg==</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZV9pZCA9IHJlZGlzX2NhY2hlLnNhdmVfaHRtbChwYXkuaWQsIHJlc3BvbnNlLnRleHQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcmFtZXRlcl9kaWN0WydjYWxsYmFja191cmwnXSA9ICd7fS9wYXkvYXBpL3RoaXJkL25vdGlmeS96ZnBheS8nLmZvcm1hdChzZXR0aW5ncy5OT1RJRllfUFJFRklYKQo=</text>
+        <text encoding="base64">ICAgICAgICAoJ2NhbGxiYWNrX3VybCcsICd7fS9wYXkvYXBpL3RoaXJkL25vdGlmeS96ZnBheS8nLmZvcm1hdChzZXR0aW5ncy5OT1RJRllfUFJFRklYKSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIjExNi4zMS4xMTkuMTMxIjogewogICAgICAgICJiYXNoIjogWwogICAgICAgICAgIm12IGx1Y2t5cGxhdGZvcm0vc2V0dGluZ3Nfb25saW5lLnB5IGx1Y2t5cGxhdGZvcm0vZW52X3NldHRpbmdzLnB5IiwKICAgICAgICAgICJybSAtcmYgbHVja3l3ZWIiCiAgICAgICAgXQogICAgICB9LAogICAgICAiMTE2LjMxLjExOS4xNjQiOiB7CiAgICAgICAgImJhc2giOiBbCiAgICAgICAgICAibXYgbHVja3lwbGF0Zm9ybS9zZXR0aW5nc19vbmxpbmUucHkgbHVja3lwbGF0Zm9ybS9lbnZfc2V0dGluZ3MucHkiCiAgICAgICAgXQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygiemZwYXkgb3JpZ2luIHBhcmFtczogJXMiLCByZXNwb25zZS50ZXh0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>52</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQUkVWSU9VU19UUkFDS19GSUxFX05BTUVcPg==</last-search>
+      <last-search encoding="base64">XDxfTE9HR0VSXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQUkVWSU9VU19UUkFDS19GSUxFX05BTUVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfTE9HR0VSXD4=</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>info</last-substitute>
       <last-dir>1</last-dir>
@@ -476,12 +492,12 @@
         <entry>info</entry>
         <entry encoding="base64">XDxiaWdiYW5nYWRtaW5zZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxhZG1pbnNlcnZpY2VcPg==</entry>
-        <entry encoding="base64">XDxfTE9HR0VSXD4=</entry>
         <entry encoding="base64">XDxkaXJwYXlcPg==</entry>
         <entry encoding="base64">XDxkaXJhbGlwYXlfY3JlYXRlX2NoYXJnZVw+</entry>
         <entry encoding="base64">XDxwYXlhcGlcPg==</entry>
         <entry encoding="base64">XDwyNDRcPg==</entry>
         <entry encoding="base64">XDxQUkVWSU9VU19UUkFDS19GSUxFX05BTUVcPg==</entry>
+        <entry encoding="base64">XDxfTE9HR0VSXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
