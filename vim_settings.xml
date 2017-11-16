@@ -185,11 +185,11 @@
         <mark key="." line="66" column="64" />
         <mark key="^" line="66" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/zfpay.py" timestamp="1510799851494">
+      <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/zfpay.py" timestamp="1510800500349">
         <mark key="'" line="27" column="9" />
-        <mark key="[" line="31" column="20" />
-        <mark key="]" line="31" column="44" />
-        <mark key="." line="31" column="44" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
         <mark key="^" line="31" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/redis.conf" timestamp="1510226392998">
@@ -503,8 +503,8 @@
       <jump line="3" column="37" filename="$USER_HOME$/workspace/pay_loki/payservice/api/charge/view.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>162.222.165.247</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdCMTAwNSc6IHsKICAgICAgICAnQVBJX0tFWSc6ICdGTUxLTzJSWFVWSUIyUVQyQ0pXOVI3WjVVJwogICAgfSwK</text>
       </register>
       <register name="-" type="4">
         <text>162.222.165.247</text>
@@ -519,34 +519,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UEFZX0NBQ0hFX1VSTCA9ICcnCg==</text>
+        <text encoding="base64">ICAgICdCMTAwNSc6IHsKICAgICAgICAnQVBJX0tFWSc6ICdGTUxLTzJSWFVWSUIyUVQyQ0pXOVI3WjVVJwogICAgfSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">QHJlc3BvbnNlX3dyYXBwZXIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">UEFZX0NBQ0hFX1VSTCA9ICcnCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QHJlc3BvbnNlX3dyYXBwZXIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNoYXJnZV9yZXNwID0gewogICAgICAgICdjaGFyZ2VfaW5mbyc6IHJlc3Bfb2JqCiAgICB9Cg==</text>
+        <text encoding="base64">UEFZX0NBQ0hFX1VSTCA9ICcnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNhY2hlX2lkID0gcmVkaXNfY2FjaGUuc2F2ZV9odG1sKHBheS5pZCwgcmVzcF9vYmopCiAgICBjaGFyZ2VfcmVzcCA9IHsKICAgICAgICAnY2hhcmdlX2luZm8nOiBzZXR0aW5ncy5QQVlfQ0FDSEVfVVJMICsgY2FjaGVfaWQsCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNoYXJnZV9yZXNwID0gewogICAgICAgICdjaGFyZ2VfaW5mbyc6IHJlc3Bfb2JqCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygiZHVvdHBheSBkYXRhIGFmdGVyIGNoYXJnZTogJXMsIHBhcmFtczogJXMiICUgKHJlc3BvbnNlLnRleHQsIHBfZGljdCkpCg==</text>
+        <text encoding="base64">ICAgIGNhY2hlX2lkID0gcmVkaXNfY2FjaGUuc2F2ZV9odG1sKHBheS5pZCwgcmVzcF9vYmopCiAgICBjaGFyZ2VfcmVzcCA9IHsKICAgICAgICAnY2hhcmdlX2luZm8nOiBzZXR0aW5ncy5QQVlfQ0FDSEVfVVJMICsgY2FjaGVfaWQsCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBUaGlyZFBhcnR5RXJyb3IoKQo=</text>
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygiZHVvdHBheSBkYXRhIGFmdGVyIGNoYXJnZTogJXMsIHBhcmFtczogJXMiICUgKHJlc3BvbnNlLnRleHQsIHBfZGljdCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>81</text>
