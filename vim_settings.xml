@@ -128,6 +128,9 @@
       <file name="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/youpay.py" timestamp="1510746228439">
         <mark key="'" line="43" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/bull_report.py" timestamp="1510972483322">
+        <mark key="'" line="117" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/cpstats/cpsweb/templates/report/DailyReport.html" timestamp="1509955353593">
         <mark key="'" line="85" column="49" />
         <mark key="[" line="178" column="29" />
@@ -301,7 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/dirpay.py" />
       <jump line="19" column="29" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/js_ks/order/handler.py" />
       <jump line="29" column="43" filename="$USER_HOME$/workspace/bigbang-server/bigbang/scripts/sql/service.sql" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/luckyservice/luckycommon/third/dirpay.py" />
@@ -401,6 +403,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/BigBangService/bigbang/tools/create_daily_report.py" />
       <jump line="707" column="5" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/create_daily_report.py" />
       <jump line="704" column="37" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/create_daily_report.py" />
+      <jump line="117" column="24" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/bull_report.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
