@@ -42,11 +42,11 @@
         <mark key="." line="31" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" timestamp="1510733817124">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="69" />
-        <mark key="." line="26" column="41" />
-        <mark key="^" line="26" column="41" />
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="69" />
+        <mark key="." line="24" column="41" />
+        <mark key="^" line="24" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" timestamp="1510989777681">
         <mark key="'" line="16" column="11" />
@@ -287,11 +287,11 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="37" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" timestamp="1510994694037">
-        <mark key="'" line="25" column="100" />
-        <mark key="[" line="125" column="62" />
-        <mark key="]" line="125" column="62" />
-        <mark key="." line="125" column="62" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" timestamp="1511079630844">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="122" column="62" />
+        <mark key="]" line="122" column="62" />
+        <mark key="." line="122" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/yiaipay.py" timestamp="1510730984420">
         <mark key="'" line="21" column="0" />
@@ -309,7 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="34" filename="$USER_HOME$/workspace/luckyservice/luckyapi/logic/transaction.py" />
       <jump line="259" column="21" filename="$USER_HOME$/workspace/luckyservice/luckyapi/logic/transaction.py" />
       <jump line="23" column="42" filename="$USER_HOME$/workspace/luckyservice/luckyapi/logic/transaction.py" />
       <jump line="253" column="55" filename="$USER_HOME$/workspace/luckyservice/luckyapi/logic/transaction.py" />
@@ -398,7 +397,6 @@
       <jump line="82" column="53" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
       <jump line="81" column="53" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
-      <jump line="5" column="50" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
       <jump line="94" column="37" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
       <jump line="95" column="37" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
@@ -409,6 +407,8 @@
       <jump line="700" column="66" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/create_daily_report.py" />
       <jump line="61" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/parse_track_log.py" />
       <jump line="316" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/parse_track_log.py" />
+      <jump line="121" column="54" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
