@@ -24,8 +24,8 @@
         <mark key="." line="181" column="74" />
         <mark key="^" line="181" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/create_daily_report.py" timestamp="1510989794744">
-        <mark key="'" line="703" column="37" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/create_daily_report.py" timestamp="1511061261964">
+        <mark key="'" line="700" column="66" />
         <mark key="[" line="404" column="0" />
         <mark key="]" line="404" column="46" />
         <mark key="." line="404" column="46" />
@@ -157,6 +157,13 @@
         <mark key="]" line="245" column="17" />
         <mark key="^" line="245" column="17" />
         <mark key="." line="245" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/parse_track_log.py" timestamp="1511061695000">
+        <mark key="'" line="321" column="4" />
+        <mark key="[" line="240" column="4" />
+        <mark key="]" line="240" column="8" />
+        <mark key="." line="240" column="8" />
+        <mark key="^" line="240" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/js_ks/order/handler.py" timestamp="1510299880171">
         <mark key="'" line="19" column="29" />
@@ -302,9 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="59" filename="$USER_HOME$/workspace/luckyservice/luckyadmin/stats/pay.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" />
       <jump line="254" column="34" filename="$USER_HOME$/workspace/luckyservice/luckyapi/logic/transaction.py" />
       <jump line="259" column="21" filename="$USER_HOME$/workspace/luckyservice/luckyapi/logic/transaction.py" />
       <jump line="23" column="42" filename="$USER_HOME$/workspace/luckyservice/luckyapi/logic/transaction.py" />
@@ -402,10 +406,13 @@
       <jump line="123" column="50" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
       <jump line="125" column="45" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
       <jump line="25" column="100" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
+      <jump line="700" column="66" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/create_daily_report.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/parse_track_log.py" />
+      <jump line="316" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/parse_track_log.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGluc2VydF9kYXRhID0ge30K</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -420,34 +427,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAgYWRtaW4ucmVwb3J0IGltcG9ydCBvdmVydmlldwo=</text>
+        <text encoding="base64">ICAgIGluc2VydF9kYXRhID0ge30K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15zdGF0cy9vcmRlci8/JCcsIGdldF9vcmRlcl9saXN0KSwK</text>
+        <text encoding="base64">ZnJvbSAgYWRtaW4ucmVwb3J0IGltcG9ydCBvdmVydmlldwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15jb3Vwb24vPyQnLCBnZXRfY291cG9ucyksCg==</text>
+        <text encoding="base64">ICAgIHVybChyJ15zdGF0cy9vcmRlci8/JCcsIGdldF9vcmRlcl9saXN0KSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15hY2NvdW50Lyg/UDxhY2NvdW50X2lkPlxkKykvd2luLz8kJywgZ2V0X3dpbl9saXN0KSwK</text>
+        <text encoding="base64">ICAgIHVybChyJ15jb3Vwb24vPyQnLCBnZXRfY291cG9ucyksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhZG1pbi5zdGF0cy50b3RhbCBpbXBvcnQgZ2V0X3JlY2hhcmdlX2xpc3QK</text>
+        <text encoding="base64">ICAgIHVybChyJ15hY2NvdW50Lyg/UDxhY2NvdW50X2lkPlxkKykvd2luLz8kJywgZ2V0X3dpbl9saXN0KSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15zdGF0cy9yZWNoYXJnZS8/JCcsIGdldF9yZWNoYXJnZV9saXN0KSwK</text>
+        <text encoding="base64">ZnJvbSBhZG1pbi5zdGF0cy50b3RhbCBpbXBvcnQgZ2V0X3JlY2hhcmdlX2xpc3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15zdGF0cy9saW1pdC8/JCcsIHNldF9saW1pdCksCg==</text>
+        <text encoding="base64">ICAgIHVybChyJ15zdGF0cy9yZWNoYXJnZS8/JCcsIGdldF9yZWNoYXJnZV9saXN0KSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15zdGF0cy8/JCcsIGdldF9zdGF0cyksCg==</text>
+        <text encoding="base64">ICAgIHVybChyJ15zdGF0cy9saW1pdC8/JCcsIHNldF9saW1pdCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15mZWVkYmFjay91bmluc3RhbGwvcmVwb3J0Lz8kJywgZ2V0X3VuaW5zdGFsbF9yZXBvcnQpLAo=</text>
+        <text encoding="base64">ICAgIHVybChyJ15zdGF0cy8/JCcsIGdldF9zdGF0cyksCg==</text>
       </register>
       <register name=":" type="4">
         <text>81</text>
