@@ -71,12 +71,6 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/pay_loki/payservice/common/cache/redis_cache.py" timestamp="1510754506346">
-        <mark key="[" line="59" column="4" />
-        <mark key="]" line="59" column="17" />
-        <mark key="^" line="61" column="30" />
-        <mark key="." line="61" column="30" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings.py" timestamp="1510992715703">
         <mark key="'" line="179" column="0" />
         <mark key="[" line="210" column="8" />
@@ -111,12 +105,6 @@
         <mark key="]" line="80" column="17" />
         <mark key="." line="80" column="17" />
         <mark key="^" line="80" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/pay_loki/payservice/base/settings_test.py" timestamp="1510754758998">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="36" />
-        <mark key="." line="25" column="36" />
-        <mark key="^" line="25" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/luckyservice/luckyapi/logic/transaction.py" timestamp="1510556197370">
         <mark key="'" line="253" column="55" />
@@ -201,12 +189,6 @@
         <mark key="." line="49" column="80" />
         <mark key="^" line="49" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/pay_loki/payservice/base/settings_prod.py" timestamp="1510754693241">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="60" />
-        <mark key="." line="25" column="59" />
-        <mark key="^" line="25" column="57" />
-      </file>
       <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/youpay.py" timestamp="1510746261392">
         <mark key="'" line="59" column="4" />
         <mark key="[" line="172" column="0" />
@@ -230,7 +212,8 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="169" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511161934747">
+      <file name="/Dummy.txt" timestamp="1511175569314">
+        <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -289,11 +272,12 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" timestamp="1511159441222">
+      <file name="/order.py" timestamp="1511175400887" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" timestamp="1511175492833">
         <mark key="'" line="39" column="28" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+        <mark key="[" line="70" column="87" />
+        <mark key="]" line="70" column="87" />
+        <mark key="." line="70" column="87" />
       </file>
       <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/yiaipay.py" timestamp="1510730984420">
         <mark key="'" line="21" column="0" />
@@ -414,10 +398,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://ooi5vuy91.bkt.clouddn.com/qq_pay.png</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>http://ooi5vuy91.bkt.clouddn.com/qq_pay.png</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZW5kX3RleHRfbXNnXD4=</text>
