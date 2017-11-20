@@ -55,6 +55,9 @@
         <mark key="." line="80" column="78" />
         <mark key="^" line="80" column="78" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/trans_alipay.py" timestamp="1511162168481">
+        <mark key="'" line="166" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/payservice/payservice/api/management/commands/fix_pay.py" timestamp="1510369562790">
         <mark key="'" line="28" column="12" />
         <mark key="[" line="22" column="0" />
@@ -220,7 +223,7 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="169" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511161262261">
+      <file name="/Dummy.txt" timestamp="1511161934747">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -301,8 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="42" filename="$USER_HOME$/workspace/luckyservice/luckyapi/logic/transaction.py" />
-      <jump line="253" column="55" filename="$USER_HOME$/workspace/luckyservice/luckyapi/logic/transaction.py" />
       <jump line="68" column="32" filename="$USER_HOME$/workspace/bigbang-server/bigbang/scripts/sql/bigbang_production.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/deploy/config_files/lottery.nginx.conf" />
       <jump line="44" column="18" filename="$USER_HOME$/workspace/deploy/config_files/lottery.nginx.conf" />
@@ -401,6 +402,8 @@
       <jump line="121" column="54" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
       <jump line="39" column="28" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/trans_alipay.py" />
+      <jump line="166" column="16" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/trans_alipay.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -410,7 +413,7 @@
         <text>11X5</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRfc2VsZl9yZWNoYXJnZVw+</text>
+        <text encoding="base64">XDxzZW5kX3RleHRfbXNnXD4=</text>
       </register>
       <register name="0" type="4">
         <text>timedelta(days=7)</text>
@@ -453,9 +456,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRfc2VsZl9yZWNoYXJnZVw+</last-search>
+      <last-search encoding="base64">XDxzZW5kX3RleHRfbXNnXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRfc2VsZl9yZWNoYXJnZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kX3RleHRfbXNnXD4=</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>info</last-substitute>
       <last-dir>1</last-dir>
@@ -463,8 +466,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaXJwYXlcPg==</entry>
-        <entry encoding="base64">XDxkaXJhbGlwYXlfY3JlYXRlX2NoYXJnZVw+</entry>
         <entry encoding="base64">XDxwYXlhcGlcPg==</entry>
         <entry encoding="base64">XDwyNDRcPg==</entry>
         <entry encoding="base64">XDxQUkVWSU9VU19UUkFDS19GSUxFX05BTUVcPg==</entry>
@@ -483,6 +484,8 @@
         <entry encoding="base64">XDxvdmVydmlld1w+</entry>
         <entry encoding="base64">XDxyZXZlcnRfYXBwbHlcPg==</entry>
         <entry encoding="base64">XDxzZXRfc2VsZl9yZWNoYXJnZVw+</entry>
+        <entry encoding="base64">XDxOT1RJRllfVUlEU1w+</entry>
+        <entry encoding="base64">XDxzZW5kX3RleHRfbXNnXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
