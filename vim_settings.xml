@@ -19,6 +19,9 @@
       <file name="$USER_HOME$/workspace/BigBangService/bigbang/tools/create_daily_report.py" timestamp="1510889506115">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/handler.py" timestamp="1511235613362">
+        <mark key="'" line="81" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/frame/const.js" timestamp="1511176188665">
         <mark key="[" line="299" column="0" />
         <mark key="]" line="301" column="57" />
@@ -54,7 +57,7 @@
         <mark key="." line="211" column="0" />
         <mark key="^" line="211" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511233266339">
+      <file name="/Dummy.txt" timestamp="1511235072028">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -101,8 +104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/parse_track_log.py" />
-      <jump line="291" column="31" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/parse_track_log.py" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/zfpay.py" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/zfpay.py" />
       <jump line="56" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/duotpay.py" />
@@ -201,6 +202,8 @@
       <jump line="154" column="16" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/trans_alipay.py" />
       <jump line="63" column="23" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/trans_alipay.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/trans_alipay.py" />
+      <jump line="64" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/handler.py" />
+      <jump line="81" column="22" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/handler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -211,7 +214,7 @@
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOT1RJRllfVUlEU1w+</text>
+        <text encoding="base64">XDxfZmlsbF9wYXlfZXh0cmFcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdpbmRvdy5CRVRfVFlQRVsxM10gPSBMRl9CRVRfVFlQRQogICAgd2luZG93LkJFVF9UWVBFWzE0XSA9IFRDX1BMU19CRVRfVFlQRQogICAgd2luZG93LkJFVF9UWVBFWzE1XSA9IFRDX1BMU19CRVRfVFlQRSAvLyDnpo/lvakzRCA9IOS9k+W9qeaOkuWIlzMK</text>
@@ -257,9 +260,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOT1RJRllfVUlEU1w+</last-search>
+      <last-search encoding="base64">XDxfZmlsbF9wYXlfZXh0cmFcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOT1RJRllfVUlEU1w+</last-pattern>
+      <last-pattern encoding="base64">XDxfZmlsbF9wYXlfZXh0cmFcPg==</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>info</last-substitute>
       <last-dir>1</last-dir>
@@ -267,7 +270,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQUkVWSU9VU19UUkFDS19GSUxFX05BTUVcPg==</entry>
         <entry encoding="base64">XDxfTE9HR0VSXD4=</entry>
         <entry encoding="base64">XDxzZXR1cF9uZ2lueFw+</entry>
         <entry encoding="base64">XDxfUEFSVEVSXD4=</entry>
@@ -287,6 +289,7 @@
         <entry encoding="base64">XDxkZWxldGVJdGVtXD4=</entry>
         <entry encoding="base64">XDxfQkxBQ0tfTElTVFw+</entry>
         <entry encoding="base64">XDxOT1RJRllfVUlEU1w+</entry>
+        <entry encoding="base64">XDxfZmlsbF9wYXlfZXh0cmFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
