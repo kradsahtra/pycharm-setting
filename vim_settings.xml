@@ -22,13 +22,10 @@
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/handler.py" timestamp="1511235613362">
         <mark key="'" line="81" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/frame/const.js" timestamp="1511176188665">
-        <mark key="[" line="299" column="0" />
-        <mark key="]" line="301" column="57" />
-        <mark key="." line="299" column="0" />
-      </file>
+      <file name="/db.py" timestamp="1511248938693" />
       <file name="/view.py" timestamp="1511244912612" />
       <file name="/async_job.py" timestamp="1511245462583" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/game/__init__.py" timestamp="1511249211032" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/trans_alipay.py" timestamp="1511232726307">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="25" column="12" />
@@ -41,10 +38,6 @@
         <mark key="]" line="25" column="60" />
         <mark key="." line="25" column="59" />
         <mark key="^" line="25" column="57" />
-      </file>
-      <file name="/const.js" timestamp="1511176185309">
-        <mark key="[" line="298" column="0" />
-        <mark key="]" line="300" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/pay_loki/payservice/common/cache/redis_cache.py" timestamp="1510754506346">
         <mark key="[" line="59" column="4" />
@@ -59,7 +52,7 @@
         <mark key="." line="208" column="0" />
         <mark key="^" line="208" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511247420667">
+      <file name="/Dummy.txt" timestamp="1511249340795">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -72,12 +65,12 @@
         <mark key="." line="39" column="24" />
         <mark key="^" line="39" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/handler.py" timestamp="1511161309460">
-        <mark key="[" line="43" column="21" />
-        <mark key="]" line="43" column="21" />
-        <mark key="." line="43" column="21" />
-      </file>
       <file name="/urls_v2.py" timestamp="1511245389535" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/admin/db.py" timestamp="1511248629619" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" timestamp="1511248134554">
+        <mark key="'" line="92" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/coupon/db.py" timestamp="1511248939847" />
       <file name="$USER_HOME$/workspace/pay_loki/payservice/base/settings_test.py" timestamp="1510754758998">
         <mark key="[" line="25" column="24" />
         <mark key="]" line="25" column="36" />
@@ -108,11 +101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/zfpay.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/zfpay.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/duotpay.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/duotpay.py" />
-      <jump line="145" column="37" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/dirpay.py" />
       <jump line="59" column="19" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/zfpay.py" />
       <jump line="21" column="11" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/db.py" />
       <jump line="27" column="9" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/zfpay.py" />
@@ -208,6 +196,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/trans_alipay.py" />
       <jump line="64" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/handler.py" />
       <jump line="81" column="22" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/handler.py" />
+      <jump line="58" column="58" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
+      <jump line="63" column="22" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
+      <jump line="66" column="54" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
+      <jump line="74" column="36" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
+      <jump line="92" column="35" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -218,7 +211,7 @@
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZmlsbF9wYXlfZXh0cmFcPg==</text>
+        <text encoding="base64">XDxBY2NvdW50XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdpbmRvdy5CRVRfVFlQRVsxM10gPSBMRl9CRVRfVFlQRQogICAgd2luZG93LkJFVF9UWVBFWzE0XSA9IFRDX1BMU19CRVRfVFlQRQogICAgd2luZG93LkJFVF9UWVBFWzE1XSA9IFRDX1BMU19CRVRfVFlQRSAvLyDnpo/lvakzRCA9IOS9k+W9qeaOkuWIlzMK</text>
@@ -264,9 +257,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZmlsbF9wYXlfZXh0cmFcPg==</last-search>
+      <last-search encoding="base64">XDxBY2NvdW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZmlsbF9wYXlfZXh0cmFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxBY2NvdW50XD4=</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>info</last-substitute>
       <last-dir>1</last-dir>
@@ -274,7 +267,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfTE9HR0VSXD4=</entry>
         <entry encoding="base64">XDxzZXR1cF9uZ2lueFw+</entry>
         <entry encoding="base64">XDxfUEFSVEVSXD4=</entry>
         <entry encoding="base64">XDxwYXlzZXJ2aWNlXD4=</entry>
@@ -294,6 +286,7 @@
         <entry encoding="base64">XDxfQkxBQ0tfTElTVFw+</entry>
         <entry encoding="base64">XDxOT1RJRllfVUlEU1w+</entry>
         <entry encoding="base64">XDxfZmlsbF9wYXlfZXh0cmFcPg==</entry>
+        <entry encoding="base64">XDxBY2NvdW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
