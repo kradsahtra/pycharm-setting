@@ -13,6 +13,12 @@
         <mark key="'" line="139" column="12" />
       </file>
       <file name="/view.py" timestamp="1511244912612" />
+      <file name="$USER_HOME$/workspace/pay_loki/payservice/common/cache/redis_cache.py" timestamp="1510754506346">
+        <mark key="[" line="59" column="4" />
+        <mark key="]" line="59" column="17" />
+        <mark key="^" line="61" column="30" />
+        <mark key="." line="61" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" timestamp="1511263250413">
         <mark key="'" line="163" column="76" />
       </file>
@@ -26,6 +32,12 @@
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" timestamp="1511248134554">
         <mark key="'" line="92" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/pay_loki/payservice/base/settings_test.py" timestamp="1510754758998">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="36" />
+        <mark key="." line="25" column="36" />
+        <mark key="^" line="25" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/BigBangService/bigbang/admin/urls.py" timestamp="1511355013226">
         <mark key="[" line="146" column="0" />
         <mark key="]" line="151" column="44" />
@@ -37,6 +49,12 @@
         <mark key="'" line="117" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/test.py" timestamp="1511265792339" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/user.html" timestamp="1511177130954">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" timestamp="1511265400356">
         <mark key="'" line="29" column="42" />
       </file>
@@ -44,7 +62,19 @@
       <file name="/async_job.py" timestamp="1511245462583" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/sms/submail.py" timestamp="1511262801380" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/game/__init__.py" timestamp="1511249211032" />
+      <file name="$USER_HOME$/workspace/pay_loki/payservice/base/settings_prod.py" timestamp="1510754693241">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="60" />
+        <mark key="." line="25" column="59" />
+        <mark key="^" line="25" column="57" />
+      </file>
       <file name="/crawler.py" timestamp="1511252239192" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/exceptions.py" timestamp="1511404202899">
+        <mark key="[" line="87" column="24" />
+        <mark key="]" line="87" column="33" />
+        <mark key="." line="87" column="24" />
+        <mark key="^" line="87" column="23" />
+      </file>
       <file name="/create_daily_report.py" timestamp="1511265232161" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/monitor_celery.sh" timestamp="1511317167551" />
       <file name="/Dummy.txt" timestamp="1511265617844">
@@ -54,8 +84,21 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/monitor_pay.py" timestamp="1511230532070">
+        <mark key="[" line="39" column="21" />
+        <mark key="]" line="39" column="24" />
+        <mark key="." line="39" column="24" />
+        <mark key="^" line="39" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/admin/db.py" timestamp="1511248629619" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/coupon/db.py" timestamp="1511248939847" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/respcode.py" timestamp="1511404201018">
+        <mark key="'" line="52" column="25" />
+        <mark key="[" line="52" column="5" />
+        <mark key="]" line="52" column="13" />
+        <mark key="." line="52" column="37" />
+        <mark key="^" line="52" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/apps/console/user.js" timestamp="1511175635316">
         <mark key="'" line="31" column="18" />
       </file>
@@ -69,9 +112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="4" filename="$USER_HOME$/workspace/deploy/payservice.nginx.conf" />
-      <jump line="0" column="9" filename="$USER_HOME$/workspace/deploy/config_files/pay.nginx.conf" />
-      <jump line="17" column="30" filename="$USER_HOME$/workspace/deploy/config_files/pay.nginx.conf" />
       <jump line="18" column="29" filename="$USER_HOME$/workspace/deploy/config_files/pay.nginx.conf" />
       <jump line="61" column="1" filename="$USER_HOME$/workspace/deploy/config.py" />
       <jump line="61" column="4" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
@@ -169,19 +209,22 @@
       <jump line="113" column="28" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
       <jump line="114" column="27" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
       <jump line="5" column="77" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
+      <jump line="11" column="19" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/respcode.py" />
+      <jump line="15" column="16" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/respcode.py" />
+      <jump line="52" column="25" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/respcode.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>NOT_FOUND</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>RESOURCE_INSUFFICIENT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfa2ZjX3JlcG9ydFw+</text>
+        <text encoding="base64">XDw0MDRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15yZXBvcnQvZnJ1aXQvPyQnLAogICAgICAgICdhZG1pbi5yZXBvcnQuZGFpbHkuZ2V0X2ZydWl0X3JlcG9ydCcpLAogICAgdXJsKHInXnJlcG9ydC9idWxsLz8kJywKICAgICAgICAnYWRtaW4ucmVwb3J0LmRhaWx5LmdldF9idWxsX3JlcG9ydCcpLAogICAgdXJsKHInXnJlcG9ydC9rZmMvPyQnLAogICAgICAgICdhZG1pbi5yZXBvcnQuZGFpbHkuZ2V0X2tmY19yZXBvcnQnKSwK</text>
+      <register name="0" type="4">
+        <text>NOT_FOUND</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -224,9 +267,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfa2ZjX3JlcG9ydFw+</last-search>
+      <last-search encoding="base64">XDw0MDRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfa2ZjX3JlcG9ydFw+</last-pattern>
+      <last-pattern encoding="base64">XDw0MDRcPg==</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>info</last-substitute>
       <last-dir>1</last-dir>
@@ -234,8 +277,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRfc2VsZl9yZWNoYXJnZVw+</entry>
-        <entry encoding="base64">XDxzZW5kX3RleHRfbXNnXD4=</entry>
         <entry encoding="base64">XDxkZWxldGVJdGVtXD4=</entry>
         <entry encoding="base64">XDxfQkxBQ0tfTElTVFw+</entry>
         <entry encoding="base64">XDxOT1RJRllfVUlEU1w+</entry>
@@ -254,6 +295,8 @@
         <entry encoding="base64">XDxnZXRfZnJ1aXRfcmVwb3J0XD4=</entry>
         <entry encoding="base64">XDxnZXRfYnVsbF9yZXBvcnRcPg==</entry>
         <entry encoding="base64">XDxnZXRfa2ZjX3JlcG9ydFw+</entry>
+        <entry encoding="base64">XDwzMDRcPg==</entry>
+        <entry encoding="base64">XDw0MDRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
