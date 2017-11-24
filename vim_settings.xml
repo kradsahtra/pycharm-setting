@@ -21,7 +21,6 @@
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/cq_ssc/crawler.py" timestamp="1511252301785">
         <mark key="'" line="139" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/cache/redis_cache.py" timestamp="1511437552152" />
       <file name="$USER_HOME$/workspace/pay_loki/payservice/base/settings_prod.py" timestamp="1510754693241">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="60" />
@@ -34,6 +33,7 @@
         <mark key="." line="87" column="24" />
         <mark key="^" line="87" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/LotteryService/longconnect/settings.py" timestamp="1511510016235" />
       <file name="$USER_HOME$/workspace/pay_loki/payservice/common/cache/redis_cache.py" timestamp="1510754506346">
         <mark key="[" line="59" column="4" />
         <mark key="]" line="59" column="17" />
@@ -46,7 +46,7 @@
       <file name="/cyclical_handler.py" timestamp="1511263096485">
         <mark key="'" line="148" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511488595314">
+      <file name="/Dummy.txt" timestamp="1511509941020">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -71,6 +71,11 @@
         <mark key="]" line="52" column="13" />
         <mark key="." line="52" column="37" />
         <mark key="^" line="52" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/LotteryService/luckyplatform/settings.py" timestamp="1511509937985">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pay_loki/payservice/base/settings_test.py" timestamp="1510754758998">
         <mark key="[" line="25" column="24" />
@@ -208,8 +213,8 @@
       <jump line="52" column="25" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/respcode.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>NOT_FOUND</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>RESOURCE_INSUFFICIENT</text>
@@ -230,31 +235,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGNyYXdsX25ld2VzdF9vZmZpY2lhbCgpOgogICAgcmVmZXIgPSBVUkxfT0ZGSUNJQUwKICAgIHRyeToKICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLmdldChVUkxfT0ZGSUNJQUwsIHRpbWVvdXQ9MTApCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcHJpbnQgdHJhY2ViYWNrLnByaW50X2V4YygpCiAgICAgICAgcmV0dXJuIDEKICAgIGlmIHJlc3BvbnNlLnN0YXR1c19jb2RlICE9IDIwMDoKICAgICAgICBwcmludCB0cmFjZWJhY2sucHJpbnRfZXhjKCkKICAgICAgICByZXR1cm4gMQogICAgX3BhcnNlX2FuZF9maWxsX29mZmljaWFsKHJlc3BvbnNlLmNvbnRlbnQsIHJlZmVyKQoKCmRlZiBjcmF3bF9vZmZpY2lhbF9wYWdlKHBhZ2VzKToKICAgIGZvciBwYWdlIGluIHJhbmdlKDEsIHBhZ2VzKToKICAgICAgICByZWZlciA9IFVSTF9PRkZJQ0lBTAogICAgICAgIHRyeToKICAgICAgICAgICAgcmVzcG9uc2UgPSByZXF1ZXN0cy5nZXQoJyVzP3BhZ2U9JXMnICUgKFVSTF9PRkZJQ0lBTCwgcGFnZSksIHRpbWVvdXQ9MTApCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludCB0cmFjZWJhY2sucHJpbnRfZXhjKCkKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgaWYgcmVzcG9uc2Uuc3RhdHVzX2NvZGUgIT0gMjAwOgogICAgICAgICAgICBwcmludCB0cmFjZWJhY2sucHJpbnRfZXhjKCkKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgX3BhcnNlX2FuZF9maWxsX29mZmljaWFsKHJlc3BvbnNlLmNvbnRlbnQsIHJlZmVyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGNyYXdsX25ld2VzdF9vZmZpY2lhbCgpOgogICAgcmVmZXIgPSBVUkxfT0ZGSUNJQUwKICAgIHRyeToKICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLmdldChVUkxfT0ZGSUNJQUwsIHRpbWVvdXQ9MTApCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcHJpbnQgdHJhY2ViYWNrLnByaW50X2V4YygpCiAgICAgICAgcmV0dXJuIDEKICAgIGlmIHJlc3BvbnNlLnN0YXR1c19jb2RlICE9IDIwMDoKICAgICAgICBwcmludCB0cmFjZWJhY2sucHJpbnRfZXhjKCkKICAgICAgICByZXR1cm4gMQogICAgX3BhcnNlX2FuZF9maWxsX29mZmljaWFsKHJlc3BvbnNlLmNvbnRlbnQsIHJlZmVyKQoKCmRlZiBjcmF3bF9vZmZpY2lhbF9wYWdlKHBhZ2VzKToKICAgIGZvciBwYWdlIGluIHJhbmdlKDEsIHBhZ2VzKToKICAgICAgICByZWZlciA9IFVSTF9PRkZJQ0lBTAogICAgICAgIHRyeToKICAgICAgICAgICAgcmVzcG9uc2UgPSByZXF1ZXN0cy5nZXQoJyVzP3BhZ2U9JXMnICUgKFVSTF9PRkZJQ0lBTCwgcGFnZSksIHRpbWVvdXQ9MTApCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludCB0cmFjZWJhY2sucHJpbnRfZXhjKCkKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgaWYgcmVzcG9uc2Uuc3RhdHVzX2NvZGUgIT0gMjAwOgogICAgICAgICAgICBwcmludCB0cmFjZWJhY2sucHJpbnRfZXhjKCkKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgX3BhcnNlX2FuZF9maWxsX29mZmljaWFsKHJlc3BvbnNlLmNvbnRlbnQsIHJlZmVyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VVJMX09GRklDSUFMID0gJ2h0dHA6Ly93d3cuYndsYy5uZXQvYnVsbGV0aW4vdHJheC5odG1sJwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">VVJMX09GRklDSUFMID0gJ2h0dHA6Ly93d3cuYndsYy5uZXQvYnVsbGV0aW4vdHJheC5odG1sJwo=</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ZGVmIGNyYXdsX29mZmljaWFsX3BhZ2UocGFnZXMpOgogICAgZm9yIHBhZ2UgaW4gcmFuZ2UoMSwgcGFnZXMpOgogICAgICAgIHJlZmVyID0gVVJMX09GRklDSUFMCiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLmdldCgnJXM/cGFnZT0lcycgJSAoVVJMX09GRklDSUFMLCBwYWdlKSwgdGltZW91dD0xMCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHByaW50IHRyYWNlYmFjay5wcmludF9leGMoKQogICAgICAgICAgICByZXR1cm4KICAgICAgICBpZiByZXNwb25zZS5zdGF0dXNfY29kZSAhPSAyMDA6CiAgICAgICAgICAgIHByaW50IHRyYWNlYmFjay5wcmludF9leGMoKQogICAgICAgICAgICByZXR1cm4KICAgICAgICBfcGFyc2VfYW5kX2ZpbGxfb2ZmaWNpYWwocmVzcG9uc2UuY29udGVudCwgcmVmZXIpCgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>'15518854513', '15230115813', '18059353384', '15614159249', '13960629129', '15137261823', '15050312853',
             '18862223727'</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>u'张文华', u'马凯庆', u'王明辉', u'王先榴',
              u'刘洋', u'高晨辉', u'王陈盛', u'王小辉',
              u'王明灿', u'王陈盛', u'王秋英', u'李乃忠', u'王庆凯'</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15mZWVkYmFjay91bmluc3RhbGwvcmVwb3J0Lz8kJywKICAgICAgICAnYWRtaW4uc3RhdHMucmVwb3J0LmdldF91bmluc3RhbGxfcmVwb3J0JyksCg==</text>
       </register>
       <register name=":" type="4">
         <text>108</text>
