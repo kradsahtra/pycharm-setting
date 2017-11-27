@@ -48,18 +48,14 @@
         <mark key="^" line="175" column="11" />
         <mark key="." line="175" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511649565228">
-        <mark key="e" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/monitor_pay.py" timestamp="1511230532070">
         <mark key="[" line="39" column="21" />
         <mark key="]" line="39" column="24" />
         <mark key="." line="39" column="24" />
         <mark key="^" line="39" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/handler.py" timestamp="1511764914842">
+        <mark key="'" line="49" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/apps/report/models.js" timestamp="1511649562060" />
       <file name="$USER_HOME$/workspace/KFCService/bullapi/urls.py" timestamp="1511576461345" />
@@ -125,7 +121,6 @@
       <file name="$USER_HOME$/workspace/BigBangService/bigbangweb/js/apps/report/models.js" timestamp="1511649542113" />
     </filemarks>
     <jumps>
-      <jump line="18" column="21" filename="$USER_HOME$/workspace/deploy/config.py" />
       <jump line="62" column="0" filename="$USER_HOME$/workspace/deploy/config.py" />
       <jump line="112" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/yiaipay.py" />
       <jump line="36" column="29" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
@@ -225,6 +220,7 @@
       <jump line="89" column="54" filename="$USER_HOME$/workspace/LotteryService/luckycommon/timer/handler.py" />
       <jump line="468" column="32" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/db.py" />
       <jump line="18" column="48" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/coupon/db.py" />
+      <jump line="49" column="55" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/handler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
