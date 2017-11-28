@@ -48,6 +48,9 @@
         <mark key="^" line="175" column="11" />
         <mark key="." line="175" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1511835331511">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/monitor_pay.py" timestamp="1511230532070">
         <mark key="[" line="39" column="21" />
         <mark key="]" line="39" column="24" />
@@ -111,6 +114,12 @@
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/show/logic.py" timestamp="1511835178911">
+        <mark key="[" line="63" column="31" />
+        <mark key="]" line="63" column="49" />
+        <mark key="^" line="63" column="30" />
+        <mark key="." line="63" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/LotteryService/luckycommon/account/model/transaction.py" timestamp="1511512674190">
         <mark key="[" line="31" column="68" />
@@ -223,11 +232,11 @@
       <jump line="49" column="55" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/handler.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15yZXBvcnQvb3ZlcnZpZXcvdXNlci8/JCcsICJhZG1pbi5yZXBvcnQub3ZlcnZpZXcuZ2V0X3VzZXJfb3ZlcnZpZXciKSwKICAgIHVybChyInJlcG9ydC9vdmVydmlldy9jb3N0Lz8kIiwgImFkbWluLnJlcG9ydC5vdmVydmlldy5nZXRfY29zdF9vdmVydmlldyIpLAo=</text>
+      <register name="&quot;" type="4">
+        <text>detail['bet_type']</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>detail['bet_type']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbGF2ZV93cmFwcGVyXD4=</text>
