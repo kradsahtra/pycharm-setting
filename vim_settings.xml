@@ -47,6 +47,12 @@
         <mark key="^" line="175" column="11" />
         <mark key="." line="175" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/show/failed.json" timestamp="1511868243436">
+        <mark key="[" line="23" column="3" />
+        <mark key="]" line="24" column="1" />
+        <mark key="^" line="24" column="1" />
+        <mark key="." line="24" column="1" />
+      </file>
       <file name="/Dummy.txt" timestamp="1511835331511">
         <mark key="[" line="0" column="0" />
       </file>
@@ -58,6 +64,13 @@
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/handler.py" timestamp="1511764914842">
         <mark key="'" line="49" column="55" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/show/work.json" timestamp="1511868028678">
+        <mark key="'" line="1" column="2" />
+        <mark key="[" line="47" column="3" />
+        <mark key="]" line="48" column="267" />
+        <mark key="^" line="48" column="267" />
+        <mark key="." line="48" column="267" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/preset/db/preset.py" timestamp="1511648063861">
         <mark key="[" line="20" column="12" />
@@ -128,13 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/yiaipay.py" />
-      <jump line="36" column="29" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
-      <jump line="164" column="17" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
-      <jump line="175" column="8" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
       <jump line="47" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
       <jump line="26" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/yiaipay.py" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
@@ -228,13 +234,20 @@
       <jump line="18" column="48" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/coupon/db.py" />
       <jump line="49" column="55" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/handler.py" />
       <jump line="19" column="41" filename="$USER_HOME$/workspace/BigBangService/bigbangweb/js/apps/op/lottery.js" />
+      <jump line="19" column="14" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/show/work.json" />
+      <jump line="21" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/show/work.json" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/show/work.json" />
+      <jump line="0" column="1" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/show/work.json" />
+      <jump line="26" column="22" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/show/work.json" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/show/work.json" />
+      <jump line="1" column="2" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/show/work.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>detail['bet_type']</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>detail['bet_type']</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb3R0ZXJ5Q29sbGVjdGlvblw+</text>
@@ -246,34 +259,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15yZXBvcnQvb3ZlcnZpZXcvdXNlci8/JCcsICJhZG1pbi5yZXBvcnQub3ZlcnZpZXcuZ2V0X3VzZXJfb3ZlcnZpZXciKSwKICAgIHVybChyInJlcG9ydC9vdmVydmlldy9jb3N0Lz8kIiwgImFkbWluLnJlcG9ydC5vdmVydmlldy5nZXRfY29zdF9vdmVydmlldyIpLAo=</text>
+        <text encoding="base64">ICB7CiAgICAidHlwZSI6ICJiZXRfaW5mbyIsCiAgICAiZGF0YSI6IHsKICAgICAgInN0YXR1cyI6IDEsCiAgICAgICJ0ZXJtX251bWJlciI6IDc0MDgyLAogICAgICAibXkiOiB7CiAgICAgICAgImNyZWRpdCI6ICI5NzAwNzU2LjAzMCIsCiAgICAgICAgInBhcnQiOiB7fSwKICAgICAgICAidG9kYXlfcmlzayI6IGZhbHNlLAogICAgICAgICJhd2FyZCI6IDAsCiAgICAgICAgInNpbmdsZV9yaXNrIjogZmFsc2UKICAgICAgfSwKICAgICAgInJlbWFpbl90cyI6IDAsCiAgICAgICJiZXQiOiB7CiAgICAgICAgIjAiOiAwLjAsCiAgICAgICAgIjEiOiAwLjAsCiAgICAgICAgIjIiOiAwLjAsCiAgICAgICAgIjMiOiAwLjAsCiAgICAgICAgIjQiOiAwLjAsCiAgICAgICAgIjUiOiAwLjAKICAgICAgfQogICAgfQogIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVybChyIl5yZXBvcnQvY2hhbm5lbHMvPyQiLCJhZG1pbi5yZXBvcnQub3ZlcnZpZXcuZ2V0X2NoYW5uZWxzIiksCg==</text>
+        <text encoding="base64">ICAgIHVybChyJ15yZXBvcnQvb3ZlcnZpZXcvdXNlci8/JCcsICJhZG1pbi5yZXBvcnQub3ZlcnZpZXcuZ2V0X3VzZXJfb3ZlcnZpZXciKSwKICAgIHVybChyInJlcG9ydC9vdmVydmlldy9jb3N0Lz8kIiwgImFkbWluLnJlcG9ydC5vdmVydmlldy5nZXRfY29zdF9vdmVydmlldyIpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVybChyIl5yZXBvcnQvY2hhbm5lbHMvPyQiLCJhZG1pbi5yZXBvcnQub3ZlcnZpZXcuZ2V0X2NoYW5uZWxzIiksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWdlbnRfaW5mby51cGRhdGUoewogICAgICAgICAgICAgICAgJ3dpbl9hbW91bnQnOiByYW5kb21fbWF4X2F3YXJkCiAgICAgICAgICAgIH0pCiAgICAgICAgICAgIHJlZGlzX2NhY2hlLnNldF9sYXN0X3dpbm5lcihhZ2VudF9pbmZvKQogICAgICAgICAgICBpZiByYW5kb21fbWF4X2F3YXJkID4gMTAwOgogICAgICAgICAgICAgICAgcmVkaXNfY2FjaGUuYWRkX2JpZ3dpbm5lcihhZ2VudF9pbmZvWyd1aWQnXSwgcmFuZG9tX21heF9hd2FyZCwgbm93X3RzKCkpCiAgICAgICAgICAgIGlmIHJhbmRvbV9tYXhfYXdhcmQgPiBCUk9BRENBU1RfTElNSVQ6CiAgICAgICAgICAgICAgICBhY2NvdW50ID0gZ2V0X2FjY291bnQoYWdlbnRfaW5mb1sndWlkJ10pCiAgICAgICAgICAgICAgICBhZGRfYnJvYWRjYXN0KGFnZW50X2luZm9bJ3VpZCddLCBhY2NvdW50LnVzZXJfbmFtZSwgdSfovazovazovawnLCByYW5kb21fbWF4X2F3YXJkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3VzZXI8JXM+IGF1dGggb2snICUgdXNlcl9pZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWdlbnRfaW5mby51cGRhdGUoewogICAgICAgICAgICAgICAgJ3dpbl9hbW91bnQnOiByYW5kb21fbWF4X2F3YXJkCiAgICAgICAgICAgIH0pCiAgICAgICAgICAgIHJlZGlzX2NhY2hlLnNldF9sYXN0X3dpbm5lcihhZ2VudF9pbmZvKQogICAgICAgICAgICBpZiByYW5kb21fbWF4X2F3YXJkID4gMTAwOgogICAgICAgICAgICAgICAgcmVkaXNfY2FjaGUuYWRkX2JpZ3dpbm5lcihhZ2VudF9pbmZvWyd1aWQnXSwgcmFuZG9tX21heF9hd2FyZCwgbm93X3RzKCkpCiAgICAgICAgICAgIGlmIHJhbmRvbV9tYXhfYXdhcmQgPiBCUk9BRENBU1RfTElNSVQ6CiAgICAgICAgICAgICAgICBhY2NvdW50ID0gZ2V0X2FjY291bnQoYWdlbnRfaW5mb1sndWlkJ10pCiAgICAgICAgICAgICAgICBhZGRfYnJvYWRjYXN0KGFnZW50X2luZm9bJ3VpZCddLCBhY2NvdW50LnVzZXJfbmFtZSwgdSfovazovazovawnLCByYW5kb21fbWF4X2F3YXJkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmluZm8oJ3VzZXI8JXM+IHRyeSBjb25uZWN0aW5nLi4uJyAlIHVzZXJfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3VzZXI8JXM+IGF1dGggb2snICUgdXNlcl9pZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJ2NoZWNrIHVzZXJpZCB0b2tlbiBzdWNjZXNzJwo=</text>
+        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmluZm8oJ3VzZXI8JXM+IHRyeSBjb25uZWN0aW5nLi4uJyAlIHVzZXJfaWQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndXNlcjwlcz4gdHJ5IGNvbm5lY3RpbmcuLi4nICUgdXNlcl9pZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJ2NoZWNrIHVzZXJpZCB0b2tlbiBzdWNjZXNzJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgndXNlcjwlcz4gdHJ5IGNvbm5lY3RpbmcuLi4nICUgdXNlcl9pZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
