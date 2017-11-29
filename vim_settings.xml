@@ -46,7 +46,13 @@
         <mark key="^" line="24" column="1" />
         <mark key="." line="24" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511925959935">
+      <file name="$USER_HOME$/workspace/KFCService/scripts/heka/kfc.toml" timestamp="1511926109803">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="39" />
+        <mark key="." line="13" column="30" />
+        <mark key="^" line="13" column="564" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1511926038919">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/monitor_pay.py" timestamp="1511230532070">
@@ -63,7 +69,7 @@
         <mark key="]" line="51" column="25" />
         <mark key="." line="51" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/KFCService/luckyplatform/settings_test.py" timestamp="1511925933400" />
+      <file name="$USER_HOME$/workspace/KFCService/luckyplatform/settings_test.py" timestamp="1511926080448" />
       <file name="$USER_HOME$/workspace/KFCService/bullapi/longconnect/handler.py" timestamp="1511919400684">
         <mark key="'" line="107" column="46" />
       </file>
@@ -228,16 +234,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>103.230.243.167</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb3R0ZXJ5Q29sbGVjdGlvblw+</text>
       </register>
       <register name="0" type="4">
-        <text>BullPart</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="p" type="4">
         <text />
