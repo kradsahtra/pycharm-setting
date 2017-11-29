@@ -34,6 +34,9 @@
         <mark key="^" line="61" column="30" />
         <mark key="." line="61" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/activity.py" timestamp="1511946568870">
+        <mark key="'" line="6" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/LotteryService/luckycommon/timer/handler.py" timestamp="1511868566297">
         <mark key="'" line="89" column="54" />
       </file>
@@ -141,8 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
-      <jump line="150" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
       <jump line="53" column="24" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/justpay.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/justpay.py" />
       <jump line="24" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/justpay.py" />
@@ -241,6 +242,8 @@
       <jump line="1" column="2" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/show/work.json" />
       <jump line="107" column="46" filename="$USER_HOME$/workspace/KFCService/bullapi/longconnect/handler.py" />
       <jump line="90" column="29" filename="$USER_HOME$/workspace/KFCService/luckycommon/bulltimer/handler.py" />
+      <jump line="59" column="12" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/activity.py" />
+      <jump line="6" column="24" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/activity.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -253,7 +256,7 @@
         <text>103.230.243.167</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMb3R0ZXJ5Q29sbGVjdGlvblw+</text>
+        <text encoding="base64">XDxzbGF2ZVw+</text>
       </register>
       <register name="0" type="4">
         <text>127.0.0.1</text>
@@ -302,9 +305,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMb3R0ZXJ5Q29sbGVjdGlvblw+</last-search>
+      <last-search encoding="base64">XDxzbGF2ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMb3R0ZXJ5Q29sbGVjdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxzbGF2ZVw+</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>info</last-substitute>
       <last-dir>1</last-dir>
@@ -312,7 +315,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZmlsbF9wYXlfZXh0cmFcPg==</entry>
         <entry encoding="base64">XDxBY2NvdW50XD4=</entry>
         <entry encoding="base64">XDxjcmF3bF9vZmZpY2lhbF9wYWdlXD4=</entry>
         <entry encoding="base64">XDxjcmF3bF9uZXdlc3Rfb2ZmaWNpYWxcPg==</entry>
@@ -332,6 +334,7 @@
         <entry encoding="base64">XDxhZ2VudF9pbmZvXD4=</entry>
         <entry encoding="base64">XDxzbGF2ZV93cmFwcGVyXD4=</entry>
         <entry encoding="base64">XDxMb3R0ZXJ5Q29sbGVjdGlvblw+</entry>
+        <entry encoding="base64">XDxzbGF2ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLycvOiAxL2dj</entry>
