@@ -9,11 +9,6 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" timestamp="1511648298644">
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="10" column="48" />
-        <mark key="." line="10" column="48" />
-      </file>
       <file name="$USER_HOME$/workspace/LotteryService/luckycommon/activity/model/activity.py" timestamp="1511868530725" />
       <file name="$USER_HOME$/workspace/pay_loki/payservice/base/settings_prod.py" timestamp="1510754693241">
         <mark key="[" line="25" column="0" />
@@ -50,7 +45,7 @@
         <mark key="^" line="24" column="1" />
         <mark key="." line="24" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511868531399">
+      <file name="/Dummy.txt" timestamp="1511920299771">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/monitor_pay.py" timestamp="1511230532070">
@@ -61,6 +56,15 @@
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/handler.py" timestamp="1511764914842">
         <mark key="'" line="49" column="55" />
+      </file>
+      <file name="$USER_HOME$/workspace/KFCService/luckycommon/bull/db/bull.py" timestamp="1511920251622">
+        <mark key="[" line="51" column="25" />
+        <mark key="]" line="51" column="25" />
+        <mark key="." line="51" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/KFCService/luckyplatform/settings_test.py" timestamp="1511919349144" />
+      <file name="$USER_HOME$/workspace/KFCService/bullapi/longconnect/handler.py" timestamp="1511919400684">
+        <mark key="'" line="107" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/show/work.json" timestamp="1511868028678">
         <mark key="'" line="1" column="2" />
@@ -77,12 +81,6 @@
       </file>
       <file name="$USER_HOME$/workspace/BigBangService/bigbangweb/js/apps/op/lottery.js" timestamp="1511838148931">
         <mark key="'" line="19" column="41" />
-      </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" timestamp="1511648095833">
-        <mark key="'" line="92" column="35" />
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="12" column="22" />
-        <mark key="." line="12" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/coupon/db.py" timestamp="1511648002678">
         <mark key="[" line="161" column="45" />
@@ -103,32 +101,20 @@
         <mark key="." line="25" column="36" />
         <mark key="^" line="25" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/BigBangService/bigbang/admin/urls.py" timestamp="1511649172864">
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="126" column="45" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/wheel.py" timestamp="1511508224116">
         <mark key="[" line="107" column="8" />
         <mark key="]" line="107" column="11" />
         <mark key="^" line="107" column="11" />
         <mark key="." line="107" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/notification/db.py" timestamp="1511648173898">
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="1" column="22" />
-        <mark key="." line="1" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" timestamp="1511649204897">
-        <mark key="'" line="5" column="77" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/show/logic.py" timestamp="1511835178911">
         <mark key="[" line="63" column="31" />
         <mark key="]" line="63" column="49" />
         <mark key="^" line="63" column="30" />
         <mark key="." line="63" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/KFCService/luckycommon/bulltimer/handler.py" timestamp="1511920779719">
+        <mark key="'" line="90" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/LotteryService/luckycommon/account/model/transaction.py" timestamp="1511512674190">
         <mark key="[" line="31" column="68" />
@@ -138,8 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/yiaipay.py" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
       <jump line="150" column="0" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
       <jump line="53" column="24" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/justpay.py" />
@@ -238,19 +222,21 @@
       <jump line="26" column="22" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/show/work.json" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/show/work.json" />
       <jump line="1" column="2" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/show/work.json" />
+      <jump line="107" column="46" filename="$USER_HOME$/workspace/KFCService/bullapi/longconnect/handler.py" />
+      <jump line="90" column="29" filename="$USER_HOME$/workspace/KFCService/luckycommon/bulltimer/handler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb3R0ZXJ5Q29sbGVjdGlvblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15yZXBvcnQvb3ZlcnZpZXcvdXNlci8/JCcsCiAgICAgICAgImFkbWluLnJlcG9ydC5vdmVydmlldy5nZXRfdXNlcl9vdmVydmlldyIpLAogICAgdXJsKHIicmVwb3J0L292ZXJ2aWV3L2Nvc3QvPyQiLAogICAgICAgICJhZG1pbi5yZXBvcnQub3ZlcnZpZXcuZ2V0X2Nvc3Rfb3ZlcnZpZXciKSwKICAgIHVybChyIl5yZXBvcnQvY2hhbm5lbHMvPyQiLAogICAgICAgICJhZG1pbi5yZXBvcnQub3ZlcnZpZXcuZ2V0X2NoYW5uZWxzIiksCg==</text>
+      <register name="0" type="4">
+        <text>BullPart</text>
       </register>
       <register name="p" type="4">
         <text />
