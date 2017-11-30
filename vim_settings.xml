@@ -63,9 +63,9 @@
         <mark key="." line="106" column="75" />
         <mark key="^" line="106" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/tc_pls/crawler.py" timestamp="1512049380550">
-        <mark key="[" line="38" column="55" />
-        <mark key="]" line="38" column="63" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/tc_pls/crawler.py" timestamp="1512050488644">
+        <mark key="[" line="38" column="36" />
+        <mark key="]" line="38" column="64" />
         <mark key="." line="38" column="63" />
         <mark key="^" line="38" column="63" />
       </file>
@@ -138,6 +138,12 @@
       </file>
       <file name="$USER_HOME$/workspace/BigBangService/bigbangweb/js/apps/op/lottery.js" timestamp="1511838148931">
         <mark key="'" line="19" column="41" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/gd_11x5/crawler.py" timestamp="1512050520116">
+        <mark key="[" line="112" column="35" />
+        <mark key="]" line="112" column="64" />
+        <mark key="." line="112" column="35" />
+        <mark key="^" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/coupon/db.py" timestamp="1511648002678">
         <mark key="[" line="161" column="45" />
@@ -297,7 +303,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'http://10.11.4.254:3128'</text>
+        <text>, proxies={'http': PROXY_URL}</text>
       </register>
       <register name="-" type="4">
         <text>'http://10.11.4.254:3128'</text>
@@ -305,8 +311,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxDb2xsZWN0aW9uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSB7CiAgICAgICAgJ3RhcmdldCc6IHVybAogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>, proxies={'http': PROXY_URL}</text>
       </register>
       <register name="p" type="4">
         <text />
