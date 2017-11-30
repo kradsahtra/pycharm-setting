@@ -89,7 +89,9 @@
         <mark key="." line="20" column="22" />
         <mark key="^" line="20" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/KFCService/luckycommon/timer/handler.py" timestamp="1512011947845" />
+      <file name="$USER_HOME$/workspace/KFCService/luckycommon/timer/handler.py" timestamp="1512012893099">
+        <mark key="'" line="121" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/KFCService/bullapi/longconnect/handler.py" timestamp="1511919400684">
         <mark key="'" line="107" column="46" />
       </file>
@@ -160,7 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="4" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/kailianpay.py" />
       <jump line="51" column="28" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/duotpay.py" />
       <jump line="4" column="16" filename="$USER_HOME$/workspace/payservice/payservice/base/test.html" />
       <jump line="37" column="6" filename="$USER_HOME$/workspace/payservice/payservice/base/test.html" />
@@ -260,6 +261,7 @@
       <jump line="16" column="49" filename="$USER_HOME$/workspace/KFCService/luckyapi/views/kfc.py" />
       <jump line="83" column="22" filename="$USER_HOME$/workspace/KFCService/luckyapi/views/kfc.py" />
       <jump line="89" column="41" filename="$USER_HOME$/workspace/KFCService/luckyapi/views/kfc.py" />
+      <jump line="121" column="12" filename="$USER_HOME$/workspace/KFCService/luckycommon/timer/handler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -269,7 +271,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHYW1lU3RhdHVzXD4=</text>
+        <text encoding="base64">XDxfTE9HR0VSXD4=</text>
       </register>
       <register name="0" type="4">
         <text>_LOGGER</text>
@@ -318,9 +320,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHYW1lU3RhdHVzXD4=</last-search>
+      <last-search encoding="base64">XDxfTE9HR0VSXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHYW1lU3RhdHVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfTE9HR0VSXD4=</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>info</last-substitute>
       <last-dir>1</last-dir>
@@ -328,7 +330,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmF3bF9vZmZpY2lhbF9wYWdlXD4=</entry>
         <entry encoding="base64">XDxjcmF3bF9uZXdlc3Rfb2ZmaWNpYWxcPg==</entry>
         <entry encoding="base64">XDxVUkxfT0ZGSUNJQUxcPg==</entry>
         <entry encoding="base64">XDxVUkxcPg==</entry>
@@ -348,6 +349,7 @@
         <entry encoding="base64">XDxMb3R0ZXJ5Q29sbGVjdGlvblw+</entry>
         <entry encoding="base64">XDxzbGF2ZVw+</entry>
         <entry encoding="base64">XDxHYW1lU3RhdHVzXD4=</entry>
+        <entry encoding="base64">XDxfTE9HR0VSXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLycvOiAxL2dj</entry>
