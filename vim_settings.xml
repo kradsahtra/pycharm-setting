@@ -35,11 +35,12 @@
         <mark key="^" line="61" column="30" />
         <mark key="." line="61" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/activity.py" timestamp="1511947640763">
-        <mark key="'" line="59" column="37" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/activity.py" timestamp="1512023646377">
+        <mark key="'" line="59" column="12" />
+        <mark key="[" line="59" column="12" />
+        <mark key="]" line="59" column="14" />
+        <mark key="." line="59" column="14" />
+        <mark key="^" line="59" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/LotteryService/luckycommon/timer/handler.py" timestamp="1512009490239">
         <mark key="'" line="94" column="30" />
@@ -254,7 +255,6 @@
       <jump line="107" column="46" filename="$USER_HOME$/workspace/KFCService/bullapi/longconnect/handler.py" />
       <jump line="90" column="29" filename="$USER_HOME$/workspace/KFCService/luckycommon/bulltimer/handler.py" />
       <jump line="6" column="24" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/activity.py" />
-      <jump line="59" column="37" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/activity.py" />
       <jump line="97" column="53" filename="$USER_HOME$/workspace/LotteryService/luckycommon/timer/handler.py" />
       <jump line="94" column="30" filename="$USER_HOME$/workspace/LotteryService/luckycommon/timer/handler.py" />
       <jump line="125" column="29" filename="$USER_HOME$/workspace/KFCService/luckyapi/views/kfc.py" />
@@ -262,16 +262,17 @@
       <jump line="83" column="22" filename="$USER_HOME$/workspace/KFCService/luckyapi/views/kfc.py" />
       <jump line="89" column="41" filename="$USER_HOME$/workspace/KFCService/luckyapi/views/kfc.py" />
       <jump line="121" column="12" filename="$USER_HOME$/workspace/KFCService/luckycommon/timer/handler.py" />
+      <jump line="59" column="12" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/activity.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>slave</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>slave</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfTE9HR0VSXD4=</text>
+        <text encoding="base64">XDxzbGF2ZVw+</text>
       </register>
       <register name="0" type="4">
         <text>_LOGGER</text>
@@ -320,9 +321,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfTE9HR0VSXD4=</last-search>
+      <last-search encoding="base64">XDxzbGF2ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfTE9HR0VSXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzbGF2ZVw+</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>info</last-substitute>
       <last-dir>1</last-dir>
@@ -347,9 +348,9 @@
         <entry encoding="base64">XDxhZ2VudF9pbmZvXD4=</entry>
         <entry encoding="base64">XDxzbGF2ZV93cmFwcGVyXD4=</entry>
         <entry encoding="base64">XDxMb3R0ZXJ5Q29sbGVjdGlvblw+</entry>
-        <entry encoding="base64">XDxzbGF2ZVw+</entry>
         <entry encoding="base64">XDxHYW1lU3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxfTE9HR0VSXD4=</entry>
+        <entry encoding="base64">XDxzbGF2ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLycvOiAxL2dj</entry>
