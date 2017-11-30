@@ -40,8 +40,12 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/LotteryService/luckycommon/timer/handler.py" timestamp="1511868566297">
-        <mark key="'" line="89" column="54" />
+      <file name="$USER_HOME$/workspace/LotteryService/luckycommon/timer/handler.py" timestamp="1512009490239">
+        <mark key="'" line="94" column="30" />
+        <mark key="[" line="106" column="75" />
+        <mark key="]" line="106" column="75" />
+        <mark key="." line="106" column="75" />
+        <mark key="^" line="106" column="75" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/show/failed.json" timestamp="1511868243436">
         <mark key="[" line="23" column="3" />
@@ -61,7 +65,7 @@
         <mark key="." line="18" column="22" />
         <mark key="^" line="18" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511945582913">
+      <file name="/Dummy.txt" timestamp="1512009497162">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/monitor_pay.py" timestamp="1511230532070">
@@ -147,8 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="24" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/justpay.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/justpay.py" />
       <jump line="24" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/justpay.py" />
       <jump line="43" column="4" filename="$USER_HOME$/workspace/pay_loki/payservice/common/channel/pay/youpay.py" />
       <jump line="59" column="4" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/youpay.py" />
@@ -247,13 +249,15 @@
       <jump line="90" column="29" filename="$USER_HOME$/workspace/KFCService/luckycommon/bulltimer/handler.py" />
       <jump line="6" column="24" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/activity.py" />
       <jump line="59" column="37" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/activity.py" />
+      <jump line="97" column="53" filename="$USER_HOME$/workspace/LotteryService/luckycommon/timer/handler.py" />
+      <jump line="94" column="30" filename="$USER_HOME$/workspace/LotteryService/luckycommon/timer/handler.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygnZ2V0IGhpc3Rvcnkgc3RhdHVzOiAlcycpCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>103.230.243.167</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbGF2ZVw+</text>
