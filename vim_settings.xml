@@ -63,11 +63,11 @@
         <mark key="." line="106" column="75" />
         <mark key="^" line="106" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/tc_pls/crawler.py" timestamp="1512046751618">
-        <mark key="[" line="22" column="20" />
-        <mark key="]" line="22" column="32" />
-        <mark key="." line="22" column="32" />
-        <mark key="^" line="22" column="32" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/tc_pls/crawler.py" timestamp="1512049380550">
+        <mark key="[" line="38" column="55" />
+        <mark key="]" line="38" column="63" />
+        <mark key="." line="38" column="63" />
+        <mark key="^" line="38" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/show/failed.json" timestamp="1511868243436">
         <mark key="[" line="23" column="3" />
@@ -297,10 +297,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>103.230.243.40</text>
+        <text>'http://10.11.4.254:3128'</text>
       </register>
       <register name="-" type="4">
-        <text>103.230.243.40</text>
+        <text>'http://10.11.4.254:3128'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2xsZWN0aW9uXD4=</text>
@@ -312,34 +312,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLmdldCh1cmwsIHRpbWVvdXQ9MTApCg==</text>
+        <text encoding="base64">ICAgIGRhdGEgPSB7CiAgICAgICAgJ3RhcmdldCc6IHVybAogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcl9pZDogJycsCiAgICAgICAgICAgIHR5cGU6ICcnLAogICAgICAgICAgICB0aXRsZTogJycsCiAgICAgICAgICAgIHByaWNlOiAwLAogICAgICAgICAgICBiYWxhbmNlOiAwLjAsCiAgICAgICAgICAgIG9yZGVyX2lkOiAnJywKICAgICAgICAgICAgY3JlYXRlZF9hdDogJycsCiAgICAgICAgICAgIHVwZGF0ZWRfYXQ6ICcnLAogICAgICAgICAgICBwYXlfaWQ6ICcnLAogICAgICAgICAgICBzdGF0dXM6ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLmdldCh1cmwsIHRpbWVvdXQ9MTApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXh0ZW5kOiAnJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcl9pZDogJycsCiAgICAgICAgICAgIHR5cGU6ICcnLAogICAgICAgICAgICB0aXRsZTogJycsCiAgICAgICAgICAgIHByaWNlOiAwLAogICAgICAgICAgICBiYWxhbmNlOiAwLjAsCiAgICAgICAgICAgIG9yZGVyX2lkOiAnJywKICAgICAgICAgICAgY3JlYXRlZF9hdDogJycsCiAgICAgICAgICAgIHVwZGF0ZWRfYXQ6ICcnLAogICAgICAgICAgICBwYXlfaWQ6ICcnLAogICAgICAgICAgICBzdGF0dXM6ICcnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXh0ZW5kOiB7fSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXh0ZW5kOiAnJywK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXh0ZW5kOiB7fSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogJycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXh0ZW5kOiB7fSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcl9pZDogJycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogJycsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdHVzOiAnJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcl9pZDogJycsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpY2U6IDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdHVzOiAnJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
