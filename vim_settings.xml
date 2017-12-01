@@ -49,6 +49,12 @@
         <mark key="^" line="61" column="30" />
         <mark key="." line="61" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" timestamp="1512092519234">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="46" />
+        <mark key="." line="102" column="46" />
+        <mark key="^" line="102" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/activity.py" timestamp="1512023646377">
         <mark key="'" line="59" column="12" />
         <mark key="[" line="59" column="12" />
@@ -303,10 +309,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, proxies={'http': PROXY_URL}</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>'http://10.11.4.254:3128'</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2xsZWN0aW9uXD4=</text>
