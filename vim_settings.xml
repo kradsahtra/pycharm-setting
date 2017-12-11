@@ -3,9 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/BigBangService/bigbang/common/lottery/cyclical/cq_ssc/crawler.py" timestamp="1512046183788">
+      <file name="$USER_HOME$/workspace/BigBangService/bigbang/common/lottery/cyclical/cq_ssc/crawler.py" timestamp="1512978499464">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="39" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/processor.py" timestamp="1512095404142">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="66" />
+        <mark key="." line="121" column="66" />
+        <mark key="^" line="121" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/tc_pls/logic/activity.py" timestamp="1512098035790">
         <mark key="'" line="100" column="0" />
@@ -14,8 +21,6 @@
         <mark key="^" line="94" column="65" />
         <mark key="." line="94" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" timestamp="1512113381806" />
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/cache/redis_cache.py" timestamp="1512094589663" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/management/commands/trans_alipay.py" timestamp="1512875714335">
         <mark key="'" line="1" column="9" />
       </file>
@@ -25,49 +30,6 @@
         <mark key="^" line="191" column="40" />
         <mark key="." line="191" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" timestamp="1512096729654">
-        <mark key="[" line="326" column="27" />
-        <mark key="]" line="326" column="67" />
-        <mark key="." line="326" column="27" />
-        <mark key="^" line="296" column="36" />
-      </file>
-      <file name="$USER_HOME$/workspace/LotteryService/luckycommon/timer/handler.py" timestamp="1512009490239">
-        <mark key="'" line="94" column="30" />
-        <mark key="[" line="106" column="75" />
-        <mark key="]" line="106" column="75" />
-        <mark key="." line="106" column="75" />
-        <mark key="^" line="106" column="75" />
-      </file>
-      <file name="$USER_HOME$/workspace/BigBangService/bigbang/api/urls.py" timestamp="1512045252735" />
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/show/work.json" timestamp="1511868028678">
-        <mark key="'" line="1" column="2" />
-        <mark key="[" line="47" column="3" />
-        <mark key="]" line="48" column="267" />
-        <mark key="^" line="48" column="267" />
-        <mark key="." line="48" column="267" />
-      </file>
-      <file name="$USER_HOME$/workspace/deploy/config_files/bigbang-admin.supervisor.conf" timestamp="1512119475619">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="21" />
-        <mark key="." line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/gd_11x5/crawler.py" timestamp="1512114065582">
-        <mark key="[" line="112" column="35" />
-        <mark key="]" line="112" column="64" />
-        <mark key="." line="112" column="35" />
-        <mark key="^" line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" timestamp="1512119923844" />
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/processor.py" timestamp="1512095404142">
-        <mark key="'" line="134" column="0" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="66" />
-        <mark key="." line="121" column="66" />
-        <mark key="^" line="121" column="66" />
-      </file>
-      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1512112178967" />
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" timestamp="1512119825814" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/exceptions.py" timestamp="1512051435442">
         <mark key="[" line="87" column="24" />
         <mark key="]" line="87" column="33" />
@@ -87,6 +49,12 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" timestamp="1512096729654">
+        <mark key="[" line="326" column="27" />
+        <mark key="]" line="326" column="67" />
+        <mark key="." line="326" column="27" />
+        <mark key="^" line="296" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/activity.py" timestamp="1512023646377">
         <mark key="'" line="59" column="12" />
         <mark key="[" line="59" column="12" />
@@ -94,7 +62,13 @@
         <mark key="." line="59" column="14" />
         <mark key="^" line="59" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/tz.py" timestamp="1512097560155" />
+      <file name="$USER_HOME$/workspace/LotteryService/luckycommon/timer/handler.py" timestamp="1512009490239">
+        <mark key="'" line="94" column="30" />
+        <mark key="[" line="106" column="75" />
+        <mark key="]" line="106" column="75" />
+        <mark key="." line="106" column="75" />
+        <mark key="^" line="106" column="75" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/tc_pls/crawler.py" timestamp="1512050488644">
         <mark key="[" line="38" column="36" />
         <mark key="]" line="38" column="64" />
@@ -104,13 +78,31 @@
       <file name="/Dummy.txt" timestamp="1512186276586">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/show/work.json" timestamp="1511868028678">
+        <mark key="'" line="1" column="2" />
+        <mark key="[" line="47" column="3" />
+        <mark key="]" line="48" column="267" />
+        <mark key="^" line="48" column="267" />
+        <mark key="." line="48" column="267" />
+      </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/bigbang-admin.supervisor.conf" timestamp="1512119475619">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/admin/stats/account.py" timestamp="1512043864077">
         <mark key="[" line="100" column="7" />
         <mark key="]" line="161" column="94" />
         <mark key="^" line="161" column="94" />
         <mark key="." line="161" column="94" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/admin/views/withdraw.py" timestamp="1512118866021" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/gd_11x5/crawler.py" timestamp="1512114065582">
+        <mark key="[" line="112" column="35" />
+        <mark key="]" line="112" column="64" />
+        <mark key="." line="112" column="35" />
+        <mark key="^" line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/apps/stats/models.js" timestamp="1512043756386">
         <mark key="'" line="153" column="38" />
         <mark key="[" line="91" column="0" />
