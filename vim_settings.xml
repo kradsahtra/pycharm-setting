@@ -80,6 +80,13 @@
       <file name="/Dummy.txt" timestamp="1513045584082">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/preset/model/preset.py" timestamp="1513048345058">
+        <mark key="'" line="11" column="17" />
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="13" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/show/work.json" timestamp="1511868028678">
         <mark key="'" line="1" column="2" />
         <mark key="[" line="47" column="3" />
@@ -129,13 +136,8 @@
         <mark key="^" line="89" column="34" />
         <mark key="." line="89" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/__init__.py" timestamp="1512096252156">
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="16" column="9" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="50" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
       <jump line="125" column="45" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
       <jump line="25" column="100" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
       <jump line="700" column="66" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/create_daily_report.py" />
@@ -235,19 +237,20 @@
       <jump line="74" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/async/async_job.py" />
       <jump line="31" column="50" filename="$USER_HOME$/workspace/bigbang-server/bigbang/async/async_job.py" />
       <jump line="41" column="8" filename="$USER_HOME$/workspace/bigbang-server/bigbang/async/async_job.py" />
+      <jump line="11" column="17" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/preset/model/preset.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ios</text>
       </register>
       <register name="-" type="4">
-        <text>bigbang</text>
+        <text>ios</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYWlseV9yZWNoYXJnZV9jYW1wYWlnblw+</text>
+        <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c3Rkb3V0X2xvZ2ZpbGUgPSAvdmFyL2xvZy9iaWdiYW5nLWFkbWluL3V3c2dpLmxvZwpzdGRlcnJfbG9nZmlsZT0vdmFyL2xvZy9iaWdiYW5nLWFkbWluL3V3c2dpLmxvZwo=</text>
+      <register name="0" type="4">
+        <text>campaign</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -283,21 +286,20 @@
         <text encoding="base64">ICAgICAgICAgICAgZXh0ZW5kOiAnJywK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLyIvJy9n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYWlseV9yZWNoYXJnZV9jYW1wYWlnblw+</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYWlseV9yZWNoYXJnZV9jYW1wYWlnblw+</last-pattern>
-      <last-replace>data</last-replace>
-      <last-substitute>info</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxORVhUX1RFUk1cPg==</entry>
         <entry encoding="base64">XDxmcmVzaF9sb3R0ZXJ5X3BhcnRcPg==</entry>
         <entry encoding="base64">XDxnZXRfZnJ1aXRfcmVwb3J0XD4=</entry>
         <entry encoding="base64">XDxnZXRfYnVsbF9yZXBvcnRcPg==</entry>
@@ -317,9 +319,9 @@
         <entry encoding="base64">XDxkYWlseV9yZWNoYXJnZVw+</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry encoding="base64">XDxkYWlseV9yZWNoYXJnZV9jYW1wYWlnblw+</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLycvOiAxL2dj</entry>
         <entry encoding="base64">JzwsJz4lcy90b3AvYm90dG9tL2dj</entry>
         <entry encoding="base64">JzwsJz5zL2FkbWluL2FnZW5jeS9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL0FkbWluL0FnZW5jeS9nYw==</entry>
@@ -339,6 +341,7 @@
         <entry>108</entry>
         <entry>193</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
