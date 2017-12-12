@@ -100,12 +100,6 @@
         <mark key="^" line="52" column="35" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_recharge.py" timestamp="1513064742098">
-        <mark key="'" line="7" column="49" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="45" />
-        <mark key="." line="72" column="24" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/gd_11x5/crawler.py" timestamp="1512114065582">
         <mark key="[" line="112" column="35" />
         <mark key="]" line="112" column="64" />
@@ -119,11 +113,11 @@
         <mark key="." line="121" column="66" />
         <mark key="^" line="121" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/templates/preset/BannerList.html" timestamp="1513069002407">
-        <mark key="[" line="45" column="51" />
-        <mark key="]" line="45" column="62" />
-        <mark key="." line="45" column="51" />
-        <mark key="^" line="29" column="62" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/templates/preset/BannerList.html" timestamp="1513072691712">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="43" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/db/daily_recharge.py" timestamp="1513064804563">
         <mark key="'" line="3" column="28" />
@@ -146,9 +140,9 @@
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/templates/preset/BannerDetail.html" timestamp="1513070483815">
         <mark key="'" line="36" column="37" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
         <mark key="^" line="35" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/exceptions.py" timestamp="1512051435442">
@@ -186,11 +180,21 @@
         <mark key="." line="59" column="14" />
         <mark key="^" line="59" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/templates/preset/PayList.html" timestamp="1513072662326">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="69" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/tc_pls/crawler.py" timestamp="1512050488644">
         <mark key="[" line="38" column="36" />
         <mark key="]" line="38" column="64" />
         <mark key="." line="38" column="63" />
         <mark key="^" line="38" column="63" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/apps/preset/banner.js" timestamp="1513071737564">
+        <mark key="[" line="141" column="45" />
+        <mark key="]" line="141" column="56" />
+        <mark key="." line="141" column="45" />
+        <mark key="^" line="141" column="28" />
       </file>
       <file name="/Dummy.txt" timestamp="1513070909125">
         <mark key="[" line="0" column="0" />
@@ -349,50 +353,50 @@
       <jump line="76" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/preset/model/preset.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjwlPSBiYW5uZXIudHlwZSAlPjwvdGQ+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>pay.pay_type</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmZvXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFidGVzdCI6IC0xLAo=</text>
+      <register name="0" type="4">
+        <text>banner.type</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC00Ij4KICAgICAgICAgICAgICAgICAgICA8c2VsZWN0IGRhdGEtZmllbGQ9ImFidGVzdCIgZGF0YS10eXBlPSJpbnQiIGNsYXNzPSJmb3JtLWNvbnRyb2wgbXVsdGlzZWxlY3QiPgogICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSItMSIgPCU9IGluZm8uYWJ0ZXN0ID8gIiIgOiAic2VsZWN0ZWQiICU+PuaJgOacieeUqOaIt+WPr+ingTwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8JSBfLmVhY2goYWJ0ZXN0cywgZnVuY3Rpb24obyl7ICU+CiAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IjwlPSBvLmlkICU+IiA8JT0gby5pZCA9PSBpbmZvLmFidGVzdCA/ICJzZWxlY3RlZCIgOiAiIiAlPj48JT0gby5uYW1lICU+PC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlIH0pICU+CiAgICAgICAgICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjwlPSBiYW5uZXIudHlwZSAlPjwvdGQ+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC00Ij4KICAgICAgICAgICAgICAgICAgICA8c2VsZWN0IGRhdGEtZmllbGQ9ImFidGVzdCIgZGF0YS10eXBlPSJpbnQiIGNsYXNzPSJmb3JtLWNvbnRyb2wgbXVsdGlzZWxlY3QiPgogICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSItMSIgPCU9IGluZm8uYWJ0ZXN0ID8gIiIgOiAic2VsZWN0ZWQiICU+PuaJgOacieeUqOaIt+WPr+ingTwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8JSBfLmVhY2goYWJ0ZXN0cywgZnVuY3Rpb24obyl7ICU+CiAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IjwlPSBvLmlkICU+IiA8JT0gby5pZCA9PSBpbmZvLmFidGVzdCA/ICJzZWxlY3RlZCIgOiAiIiAlPj48JT0gby5uYW1lICU+PC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlIH0pICU+CiAgICAgICAgICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9ImlucHV0QWJ0ZXN0IiBjbGFzcz0iY29sLW1kLTEgY29udHJvbC1sYWJlbCI+54Gw5bqm562W55Wl77yaPC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGggY2xhc3M9InNvcnRhYmxlIiBkYXRhLWZpZWxkPSJ2aXNpYmxlX3N0YXJ0Ij7nlJ/mlYjml7bpl7Q8L3RoPgogICAgICAgICAgICAgICAgICAgIDx0aCBjbGFzcz0ic29ydGFibGUiIGRhdGEtZmllbGQ9InZpc2libGVfZW5kIj7nu5PmnZ/ml7bpl7Q8L3RoPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9ImlucHV0QWJ0ZXN0IiBjbGFzcz0iY29sLW1kLTEgY29udHJvbC1sYWJlbCI+54Gw5bqm562W55Wl77yaPC9sYWJlbD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjwlPSBiYW5uZXIuY21kICU+PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGggY2xhc3M9InNvcnRhYmxlIiBkYXRhLWZpZWxkPSJ2aXNpYmxlX3N0YXJ0Ij7nlJ/mlYjml7bpl7Q8L3RoPgogICAgICAgICAgICAgICAgICAgIDx0aCBjbGFzcz0ic29ydGFibGUiIGRhdGEtZmllbGQ9InZpc2libGVfZW5kIj7nu5PmnZ/ml7bpl7Q8L3RoPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGg+5ZG95LukPC90aD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjwlPSBiYW5uZXIuY21kICU+PC90ZD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjwlPSBiYW5uZXIuYWJ0ZXN0IHx8ICctJyU+PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGg+5ZG95LukPC90aD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGg+54Gw5bqm562W55WlPC90aD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjwlPSBiYW5uZXIuYWJ0ZXN0IHx8ICctJyU+PC90ZD4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
