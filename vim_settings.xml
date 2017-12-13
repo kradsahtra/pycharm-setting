@@ -200,7 +200,7 @@
         <mark key="." line="141" column="45" />
         <mark key="^" line="141" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513135261685">
+      <file name="/Dummy.txt" timestamp="1513146264560">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/preset/model/preset.py" timestamp="1513069837938">
@@ -210,12 +210,12 @@
         <mark key="." line="76" column="10" />
         <mark key="^" line="76" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_bet_return.py" timestamp="1513137008844">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="45" column="25" />
-        <mark key="]" line="45" column="65" />
-        <mark key="." line="45" column="25" />
-        <mark key="^" line="45" column="24" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_bet_return.py" timestamp="1513146904942">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="38" column="11" />
+        <mark key="]" line="38" column="21" />
+        <mark key="." line="38" column="21" />
+        <mark key="^" line="38" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/daily_bet_return.py" timestamp="1513135041185">
         <mark key="'" line="18" column="0" />
@@ -374,16 +374,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user_data.get('fruit').get('bet_amount')</text>
+        <text>amount</text>
       </register>
       <register name="-" type="4">
-        <text>user_data.get('fruit').get('bet_amount')</text>
+        <text>amount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmZvXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByb3VuZChhbW91bnQsIDIpCg==</text>
+      <register name="0" type="4">
+        <text>amount - coupon</text>
       </register>
       <register name="p" type="4">
         <text />
