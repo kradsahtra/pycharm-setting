@@ -109,12 +109,12 @@
         <mark key="^" line="67" column="33" />
         <mark key="." line="67" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/db/daily_bet_return.py" timestamp="1513156632470">
-        <mark key="'" line="23" column="4" />
-        <mark key="[" line="59" column="32" />
-        <mark key="]" line="59" column="48" />
-        <mark key="." line="59" column="48" />
-        <mark key="^" line="59" column="48" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/db/daily_bet_return.py" timestamp="1513157447195">
+        <mark key="'" line="49" column="39" />
+        <mark key="[" line="49" column="26" />
+        <mark key="]" line="49" column="39" />
+        <mark key="." line="49" column="39" />
+        <mark key="^" line="49" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/exceptions.py" timestamp="1513152463346">
         <mark key="'" line="5" column="6" />
@@ -181,19 +181,19 @@
         <mark key="." line="46" column="62" />
         <mark key="^" line="43" column="81" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/daily_bet_return.py" timestamp="1513156625734">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/daily_bet_return.py" timestamp="1513157633299">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="46" column="4" />
-        <mark key="]" line="46" column="17" />
-        <mark key="." line="30" column="17" />
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="9" />
+        <mark key="." line="11" column="9" />
         <mark key="^" line="29" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_daily_bet_return.py" timestamp="1513151712319">
-        <mark key="'" line="6" column="29" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="71" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="46" column="69" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_daily_bet_return.py" timestamp="1513157487139">
+        <mark key="'" line="50" column="65" />
+        <mark key="[" line="18" column="35" />
+        <mark key="]" line="18" column="35" />
+        <mark key="." line="18" column="35" />
+        <mark key="^" line="17" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/admin/stats/account.py" timestamp="1512043864077">
         <mark key="[" line="100" column="7" />
@@ -239,8 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="53" filename="$USER_HOME$/workspace/LotteryService/luckycommon/timer/handler.py" />
-      <jump line="94" column="30" filename="$USER_HOME$/workspace/LotteryService/luckycommon/timer/handler.py" />
       <jump line="125" column="29" filename="$USER_HOME$/workspace/KFCService/luckyapi/views/kfc.py" />
       <jump line="16" column="49" filename="$USER_HOME$/workspace/KFCService/luckyapi/views/kfc.py" />
       <jump line="83" column="22" filename="$USER_HOME$/workspace/KFCService/luckyapi/views/kfc.py" />
@@ -339,19 +337,21 @@
       <jump line="47" column="8" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_recharge.py" />
       <jump line="63" column="8" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/db/daily_bet_return.py" />
       <jump line="23" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/db/daily_bet_return.py" />
+      <jump line="49" column="39" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/db/daily_bet_return.py" />
+      <jump line="51" column="65" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_daily_bet_return.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>transaction_id</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWlzZV93aXRoX3RyYWNlYmFja1w+</text>
       </register>
       <register name="0" type="4">
-        <text>transaction_id</text>
+        <text>award_amount</text>
       </register>
       <register name="p" type="4">
         <text />
