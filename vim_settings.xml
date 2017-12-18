@@ -96,7 +96,9 @@
         <mark key="." line="45" column="9" />
         <mark key="^" line="45" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/async/async_job.py" timestamp="1513582349122" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/async/async_job.py" timestamp="1513584768546">
+        <mark key="'" line="114" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/gd_11x5/crawler.py" timestamp="1512114065582">
         <mark key="[" line="112" column="35" />
         <mark key="]" line="112" column="64" />
@@ -130,6 +132,7 @@
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/async/celery.py" timestamp="1513584888074" />
       <file name="/account.py" timestamp="1513563525545" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/templates/preset/BannerList.html" timestamp="1513221940488">
         <mark key="[" line="46" column="0" />
@@ -198,7 +201,7 @@
         <mark key="." line="141" column="45" />
         <mark key="^" line="141" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513581865547">
+      <file name="/Dummy.txt" timestamp="1513584290720">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/preset/model/preset.py" timestamp="1513222147852">
@@ -277,8 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="19" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_recharge.py" />
-      <jump line="2" column="18" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/daily_bet_return.py" />
       <jump line="50" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/wheel.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/daily_bet_return.py" />
       <jump line="75" column="43" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/preset/model/preset.py" />
@@ -377,6 +378,8 @@
       <jump line="171" column="72" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/handler.py" />
       <jump line="63" column="39" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/notification/db.py" />
       <jump line="87" column="34" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/stats/report.py" />
+      <jump line="13" column="15" filename="$USER_HOME$/workspace/bigbang-server/bigbang/async/async_job.py" />
+      <jump line="114" column="15" filename="$USER_HOME$/workspace/bigbang-server/bigbang/async/async_job.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
