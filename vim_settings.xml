@@ -68,12 +68,12 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/db.py" timestamp="1513665819976">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/db.py" timestamp="1513667127720">
         <mark key="'" line="12" column="24" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="46" />
-        <mark key="." line="137" column="42" />
-        <mark key="^" line="137" column="40" />
+        <mark key="[" line="97" column="72" />
+        <mark key="]" line="97" column="87" />
+        <mark key="." line="97" column="87" />
+        <mark key="^" line="97" column="87" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/bigbang-admin.supervisor.conf" timestamp="1512119475619">
         <mark key="[" line="1" column="14" />
@@ -354,16 +354,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>info</text>
+        <text>total_amount</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>total_amount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbGF2ZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>detail_data</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygndHJhY2tfaW5mbyBpcyAlcycgJSB0cmFja19pbmZvKQo=</text>
       </register>
       <register name="p" type="4">
         <text />
