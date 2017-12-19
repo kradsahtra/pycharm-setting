@@ -68,11 +68,12 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/db.py" timestamp="1513668917626">
-        <mark key="'" line="266" column="4" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/db.py" timestamp="1513670801510">
+        <mark key="'" line="268" column="4" />
+        <mark key="[" line="140" column="26" />
+        <mark key="]" line="140" column="26" />
+        <mark key="." line="140" column="26" />
+        <mark key="^" line="140" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/bigbang-admin.supervisor.conf" timestamp="1512119475619">
         <mark key="[" line="1" column="14" />
@@ -170,7 +171,7 @@
         <mark key="." line="141" column="45" />
         <mark key="^" line="141" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513648734903">
+      <file name="/Dummy.txt" timestamp="1513670704470">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="13" />
@@ -190,11 +191,11 @@
         <mark key="." line="67" column="43" />
         <mark key="^" line="67" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_bet_return.py" timestamp="1513668587687">
-        <mark key="[" line="71" column="26" />
-        <mark key="]" line="71" column="27" />
-        <mark key="^" line="71" column="27" />
-        <mark key="." line="71" column="27" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_bet_return.py" timestamp="1513670741075">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="62" />
+        <mark key="^" line="67" column="15" />
+        <mark key="." line="67" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/daily_bet_return.py" timestamp="1513560747937">
         <mark key="'" line="36" column="6" />
@@ -203,7 +204,7 @@
         <mark key="." line="47" column="40" />
         <mark key="^" line="44" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_daily_bet_return.py" timestamp="1513668205772">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_daily_bet_return.py" timestamp="1513670124228">
         <mark key="'" line="52" column="76" />
         <mark key="[" line="62" column="71" />
         <mark key="]" line="62" column="79" />
@@ -352,17 +353,17 @@
       <jump line="266" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/db.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24udHJhbnNhY3Rpb24ubW9kZWwgaW1wb3J0ICoK</text>
+      <register name="&quot;" type="4">
+        <text>'track_index detail json decode error. track_id: %s' % item.id</text>
       </register>
       <register name="-" type="4">
-        <text>slave</text>
+        <text>'track_index detail json decode error. track_id: %s' % item.id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcm1cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>scalar</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW5mbyA9IGpzb24ubG9hZHModHJhY2tfaW5kZXguZGV0YWlsKQo=</text>
       </register>
       <register name="p" type="4">
         <text />
