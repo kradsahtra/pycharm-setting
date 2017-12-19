@@ -68,12 +68,12 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/db.py" timestamp="1513654636840">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/db.py" timestamp="1513665819976">
         <mark key="'" line="12" column="24" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="85" />
-        <mark key="." line="135" column="81" />
-        <mark key="^" line="135" column="81" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="46" />
+        <mark key="." line="137" column="42" />
+        <mark key="^" line="137" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/bigbang-admin.supervisor.conf" timestamp="1512119475619">
         <mark key="[" line="1" column="14" />
@@ -191,11 +191,11 @@
         <mark key="." line="67" column="43" />
         <mark key="^" line="67" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_bet_return.py" timestamp="1513654640242">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="85" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="71" column="15" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_bet_return.py" timestamp="1513665837106">
+        <mark key="[" line="74" column="48" />
+        <mark key="]" line="74" column="59" />
+        <mark key="." line="74" column="48" />
+        <mark key="^" line="72" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/daily_bet_return.py" timestamp="1513560747937">
         <mark key="'" line="36" column="6" />
@@ -353,17 +353,17 @@
       <jump line="12" column="24" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/db.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCJ0cmFja19pbmRleCBhbW91bnQ6ICVzLCB0eXBlOiAlcyIgJSAoYW1vdW50LCB0eXBlKGFtb3VudCkpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>info</text>
       </register>
       <register name="-" type="4">
-        <text>amount</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbGF2ZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCJ0cmFja19pbmRleCBhbW91bnQ6ICVzLCB0eXBlOiAlcyIgJSAoYW1vdW50LCB0eXBlKGFtb3VudCkpKQo=</text>
+      <register name="0" type="4">
+        <text>detail_data</text>
       </register>
       <register name="p" type="4">
         <text />
