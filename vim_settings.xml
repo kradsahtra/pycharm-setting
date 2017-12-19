@@ -76,12 +76,12 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/db.py" timestamp="1513592507578">
-        <mark key="'" line="12" column="45" />
-        <mark key="[" line="135" column="78" />
-        <mark key="]" line="135" column="87" />
-        <mark key="." line="135" column="87" />
-        <mark key="^" line="135" column="87" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/db.py" timestamp="1513647268353">
+        <mark key="'" line="13" column="45" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="45" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="137" column="87" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/bigbang-admin.supervisor.conf" timestamp="1512119475619">
         <mark key="[" line="1" column="14" />
@@ -269,6 +269,10 @@
         <mark key="." line="91" column="55" />
         <mark key="^" line="91" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/handler.py" timestamp="1513647264823">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/__init__.py" timestamp="1513066662949">
         <mark key="[" line="17" column="5" />
         <mark key="]" line="17" column="10" />
@@ -384,7 +388,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3luY19qb2IuZ2VuZXJhdGVfdHJhY2tfZGV0YWlsKHRyYWNrX2lkKQo=</text>
       </register>
       <register name="-" type="4">
         <text>activity_type</text>
@@ -393,7 +397,7 @@
         <text encoding="base64">XDxDWUNJQ0FMX09GRlNFVFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygib3JkZXJfaWQ6ICVzLCBhY3Rpdml0eV90eXBlOiAlcyIgJSAob3JkZXIuaWQsIGFjdGl2aXR5X3R5cGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3luY19qb2IuZ2VuZXJhdGVfdHJhY2tfZGV0YWlsKHRyYWNrX2lkKQo=</text>
       </register>
       <register name="p" type="4">
         <text />
