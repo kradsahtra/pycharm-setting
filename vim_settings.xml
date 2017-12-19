@@ -76,12 +76,12 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/db.py" timestamp="1513647910203">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/db.py" timestamp="1513648638431">
         <mark key="'" line="13" column="45" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="45" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="137" column="87" />
+        <mark key="[" line="71" column="15" />
+        <mark key="]" line="72" column="67" />
+        <mark key="." line="72" column="67" />
+        <mark key="^" line="72" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/bigbang-admin.supervisor.conf" timestamp="1512119475619">
         <mark key="[" line="1" column="14" />
@@ -199,11 +199,11 @@
         <mark key="." line="141" column="45" />
         <mark key="^" line="141" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513592536855">
+      <file name="/Dummy.txt" timestamp="1513648734903">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="38" />
-        <mark key="^" line="0" column="38" />
-        <mark key="." line="0" column="38" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/preset/model/preset.py" timestamp="1513222147852">
         <mark key="'" line="76" column="4" />
@@ -387,11 +387,11 @@
       <jump line="114" column="15" filename="$USER_HOME$/workspace/bigbang-server/bigbang/async/async_job.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luY19qb2IuZ2VuZXJhdGVfdHJhY2tfZGV0YWlsKHRyYWNrX2lkKQo=</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>activity_type</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDWUNJQ0FMX09GRlNFVFw+</text>
