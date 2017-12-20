@@ -28,6 +28,9 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/fix_user_stats.py" timestamp="1513758026953">
+        <mark key="'" line="9" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/frame/const.js" timestamp="1513069868807">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="67" column="31" />
@@ -222,11 +225,12 @@
         <mark key="." line="54" column="53" />
         <mark key="^" line="54" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" timestamp="1513415777251">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="55" />
-        <mark key="." line="91" column="55" />
-        <mark key="^" line="91" column="55" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" timestamp="1513759698697">
+        <mark key="'" line="50" column="21" />
+        <mark key="[" line="50" column="17" />
+        <mark key="]" line="50" column="21" />
+        <mark key="^" line="50" column="21" />
+        <mark key="." line="50" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/notification/db.py" timestamp="1513563240129">
         <mark key="'" line="62" column="39" />
@@ -249,15 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/daily_bet_return.py" />
-      <jump line="32" column="22" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/db/daily_bet_return.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/db/daily_bet_return.py" />
-      <jump line="21" column="24" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/campaign/view.py" />
-      <jump line="5" column="35" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/campaign/view.py" />
-      <jump line="470" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/scripts/sql/bigbang_production.sql" />
-      <jump line="123" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/scripts/sql/bigbang_production.sql" />
-      <jump line="1887" column="16" filename="$USER_HOME$/workspace/bigbang-server/bigbang/scripts/sql/bigbang_production.sql" />
-      <jump line="307" column="123" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" />
       <jump line="47" column="28" filename="$USER_HOME$/workspace/bigbang-server/bigbangweb/templates/preset/BannerDetail.html" />
       <jump line="36" column="37" filename="$USER_HOME$/workspace/bigbang-server/bigbangweb/templates/preset/BannerDetail.html" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/frame/const.js" />
@@ -349,61 +344,70 @@
       <jump line="37" column="11" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/db/daily_bet_return.py" />
       <jump line="41" column="13" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/db/daily_bet_return.py" />
       <jump line="43" column="45" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/db/daily_bet_return.py" />
+      <jump line="9" column="25" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/fix_user_stats.py" />
+      <jump line="176" column="45" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
+      <jump line="172" column="39" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
+      <jump line="47" column="27" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
+      <jump line="48" column="28" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
+      <jump line="178" column="56" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
+      <jump line="179" column="44" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
+      <jump line="50" column="21" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>justpay</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>justpay</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhd2FyZF9zZXR0aW5nc1w+</text>
+        <text encoding="base64">XDxhY2NvdW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5mbyA9IGpzb24ubG9hZHModHJhY2tfaW5kZXguZGV0YWlsKQo=</text>
+        <text encoding="base64">aW1wb3J0IGFwaS50aGlyZC5qdXN0cGF5Cg==</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24udHJhbnNhY3Rpb24ubW9kZWwgaW1wb3J0ICoK</text>
+        <text encoding="base64">ZnJvbSBhcGkubG90dGVyeSBpbXBvcnQgdmlldyBhcyBjb21tb24K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCJkZXRhaWxfZGF0YSBpczogJXMiICUgZGV0YWlsX2RhdGEpCg==</text>
+        <text encoding="base64">ZnJvbSBhcGkubm90aWZpY2F0aW9uIGltcG9ydCB2aWV3IGFzIG5vdGlmeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW1vdW50ID0gZmxvYXQoZGV0YWlsX2RhdGEuZ2V0KCd0b3RhbF9hbW91bnQnLCAwKSkK</text>
+        <text encoding="base64">ZnJvbSBhcGkucmVjaGFyZ2UgaW1wb3J0IHZpZXcgYXMgcmVjaGFyZ2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV0YWlsX2RhdGEgPSBqc29uLmxvYWRzKHRyYWNrX2luZGV4LmRldGFpbCkK</text>
+        <text encoding="base64">ZnJvbSBhcGkudHJhbnNhY3Rpb24gaW1wb3J0IHZpZXcgYXMgdHJhbnNhY3Rpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3X3RyYWNrX2luZGV4ID0gZ2VuZXJhdGVfdHJhY2tfZGV0YWlsKHRyYWNrX2luZGV4LnRyYWNrX2lkKQo=</text>
+        <text encoding="base64">ZnJvbSBhcGkuYWNjb3VudCBpbXBvcnQgdmlldyBhcyBhY2NvdW50Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV0YWlsX2RhdGEgPSBqc29uLmxvYWRzKG5ld190cmFja19pbmRleC5kZXRhaWwpCg==</text>
+        <text encoding="base64">aW1wb3J0IGFwaS5jb3Vwb24udmlldwppbXBvcnQgYXBpLnNjcm9sbGluZy52aWV3CmltcG9ydCBhcGkuZmVlZGJhY2sudmlldwppbXBvcnQgYXBpLnNob3cudmlldwppbXBvcnQgYXBpLnByZXNldC52aWV3CmltcG9ydCBhcGkudGhpcmQucWluaXUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgYW1vdW50ID09IDA6Cg==</text>
+        <text encoding="base64">ZnJvbSBjb21tb24udHJhbnNhY3Rpb24ubW9kZWwgaW1wb3J0ICoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCJ0cmFja19pbmRleCBhbW91bnQ6ICVzLCB0eXBlOiAlcyIgJSAoYW1vdW50LCB0eXBlKGFtb3VudCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCJkZXRhaWxfZGF0YSBpczogJXMiICUgZGV0YWlsX2RhdGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9MT0dHRVIuaW5mbygiYW1vdW50IGlzIDAiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW1vdW50ID0gZmxvYXQoZGV0YWlsX2RhdGEuZ2V0KCd0b3RhbF9hbW91bnQnLCAwKSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhd2FyZF9zZXR0aW5nc1w+</last-search>
+      <last-search encoding="base64">XDxhY2NvdW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhd2FyZF9zZXR0aW5nc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxhY2NvdW50XD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -411,9 +415,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhc3luY19qb2JcPg==</entry>
-        <entry encoding="base64">XDx0cmFja19wYXlcPg==</entry>
-        <entry encoding="base64">XDxub3dfdHNcPg==</entry>
         <entry encoding="base64">XDxfQkFOTkVSX0lEXD4=</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry encoding="base64">XDxEYWlseVJlY2hhcmdlQ2FtcGFpZ25EYlw+</entry>
@@ -431,6 +432,9 @@
         <entry encoding="base64">XDxXT1JLRVJfTE9HX0VSUl9GSUxFXD4=</entry>
         <entry encoding="base64">XDxXYXRjaGVkRmlsZUhhbmRsZXJcPg==</entry>
         <entry encoding="base64">XDxhd2FyZF9zZXR0aW5nc1w+</entry>
+        <entry encoding="base64">XDxNR19CSUdCQU5HX0NPTExcPg==</entry>
+        <entry encoding="base64">XDxxaW5pdVw+</entry>
+        <entry encoding="base64">XDxhY2NvdW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy90b3AvYm90dG9tL2dj</entry>
