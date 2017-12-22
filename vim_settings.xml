@@ -151,12 +151,12 @@
         <mark key="^" line="316" column="18" />
         <mark key="." line="316" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/common/controllers.py" timestamp="1513857465907">
+      <file name="$USER_HOME$/workspace/bagent/common/controllers.py" timestamp="1513908300387">
         <mark key="'" line="53" column="8" />
-        <mark key="[" line="54" column="41" />
-        <mark key="]" line="57" column="58" />
-        <mark key="^" line="57" column="58" />
-        <mark key="." line="57" column="58" />
+        <mark key="[" line="57" column="60" />
+        <mark key="]" line="58" column="7" />
+        <mark key="^" line="58" column="7" />
+        <mark key="." line="58" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/notification/handler.py" timestamp="1513220481100">
         <mark key="[" line="49" column="62" />
@@ -326,8 +326,8 @@
         <mark key="^" line="161" column="94" />
         <mark key="." line="161" column="94" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/common/models.py" timestamp="1513907268001">
-        <mark key="'" line="71" column="16" />
+      <file name="$USER_HOME$/workspace/bagent/common/models.py" timestamp="1513908291263">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="71" column="6" />
         <mark key="]" line="71" column="15" />
         <mark key="." line="71" column="15" />
@@ -368,9 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="16" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings.py" />
       <jump line="282" column="9" filename="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings.py" />
       <jump line="314" column="87" filename="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings.py" />
       <jump line="316" column="30" filename="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings.py" />
@@ -468,6 +465,9 @@
       <jump line="53" column="0" filename="$USER_HOME$/workspace/bagent/common/models.py" />
       <jump line="66" column="4" filename="$USER_HOME$/workspace/bagent/common/models.py" />
       <jump line="71" column="16" filename="$USER_HOME$/workspace/bagent/common/models.py" />
+      <jump line="27" column="41" filename="$USER_HOME$/workspace/bagent/common/models.py" />
+      <jump line="75" column="4" filename="$USER_HOME$/workspace/bagent/common/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/bagent/common/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
