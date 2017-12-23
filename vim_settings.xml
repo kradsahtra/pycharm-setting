@@ -119,6 +119,7 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/requirements.txt" timestamp="1514020067143" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/db.py" timestamp="1513855905114">
         <mark key="'" line="218" column="87" />
         <mark key="[" line="140" column="26" />
@@ -181,11 +182,15 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="28" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/apps/admin/views/agent_view.py" timestamp="1514017724454">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="6" />
-        <mark key="^" line="7" column="18" />
-        <mark key="." line="7" column="6" />
+      <file name="$USER_HOME$/workspace/bagent/common/utils/logs.py" timestamp="1514020305625">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/bagent/apps/admin/views/agent_view.py" timestamp="1514020318783">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="64" />
+        <mark key="^" line="26" column="19" />
+        <mark key="." line="26" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/templates/preset/BannerList.html" timestamp="1513221940488">
         <mark key="[" line="46" column="0" />
@@ -265,7 +270,7 @@
         <mark key="^" line="41" column="11" />
         <mark key="." line="41" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513913948020">
+      <file name="/Dummy.txt" timestamp="1514020054122">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="13" />
@@ -298,11 +303,11 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/admin_app.py" timestamp="1514017874439">
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="10" column="51" />
-        <mark key="^" line="10" column="51" />
-        <mark key="." line="10" column="51" />
+      <file name="$USER_HOME$/workspace/bagent/admin_app.py" timestamp="1514019944783">
+        <mark key="[" line="9" column="71" />
+        <mark key="]" line="9" column="75" />
+        <mark key="^" line="9" column="75" />
+        <mark key="." line="9" column="75" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_bet_return.py" timestamp="1513670741075">
         <mark key="[" line="65" column="0" />
@@ -330,12 +335,12 @@
         <mark key="^" line="161" column="94" />
         <mark key="." line="161" column="94" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/common/models.py" timestamp="1514018091788">
+      <file name="$USER_HOME$/workspace/bagent/common/models.py" timestamp="1514019981802">
         <mark key="'" line="14" column="20" />
         <mark key="[" line="48" column="22" />
-        <mark key="]" line="48" column="28" />
+        <mark key="]" line="48" column="32" />
         <mark key="^" line="48" column="28" />
-        <mark key="." line="48" column="28" />
+        <mark key="." line="48" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/respcode.py" timestamp="1513732892865">
         <mark key="'" line="20" column="4" />
@@ -475,49 +480,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BigInteger</text>
+        <text>'agent: %s, type: %s' % (agent, type(agent))</text>
       </register>
       <register name="-" type="4">
-        <text>BigInteger</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZWV3ZWVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YXBwLmNvbmZpZ1snU1FMQUxDSEVNWV9EQVRBQkFTRV9VUkknXSA9ICdzcWxpdGU6Ly8vL3RtcC90ZXN0LmRiJwo=</text>
+      <register name="0" type="4">
+        <text>'agent: %s, type: %s' % (agent, type(agent))</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERCLmNyZWF0ZV9hbGwoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIERCLmRyb3BfYWxsKCkK</text>
+        <text encoding="base64">ICAgIERCLmNyZWF0ZV9hbGwoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJpZ2h0ID0gcGVld2VlLkludGVnZXJGaWVsZCgpCg==</text>
+        <text encoding="base64">ICAgIERCLmRyb3BfYWxsKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxlZnQgPSBwZWV3ZWUuSW50ZWdlckZpZWxkKCkK</text>
+        <text encoding="base64">ICAgIHJpZ2h0ID0gcGVld2VlLkludGVnZXJGaWVsZCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldmVsID0gcGVld2VlLlNtYWxsSW50ZWdlckZpZWxkKGRlZmF1bHQ9MCkK</text>
+        <text encoding="base64">ICAgIGxlZnQgPSBwZWV3ZWUuSW50ZWdlckZpZWxkKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6CiAgICAgICAgZGJfdGFibGUgPSAnYWdlbnQnCg==</text>
+        <text encoding="base64">ICAgIGxldmVsID0gcGVld2VlLlNtYWxsSW50ZWdlckZpZWxkKGRlZmF1bHQ9MCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">REIgPSBTUUxBbGNoZW15KGFwcCkK</text>
+        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6CiAgICAgICAgZGJfdGFibGUgPSAnYWdlbnQnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBmbGFza19zcWxhbGNoZW15IGltcG9ydCBTUUxBbGNoZW15Cg==</text>
+        <text encoding="base64">REIgPSBTUUxBbGNoZW15KGFwcCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">REIgPSBTUUxBbGNoZW15KCkK</text>
+        <text encoding="base64">ZnJvbSBmbGFza19zcWxhbGNoZW15IGltcG9ydCBTUUxBbGNoZW15Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
