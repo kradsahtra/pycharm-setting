@@ -309,11 +309,11 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/admin_app.py" timestamp="1514084145880">
-        <mark key="[" line="9" column="71" />
-        <mark key="]" line="9" column="77" />
-        <mark key="^" line="9" column="77" />
-        <mark key="." line="9" column="77" />
+      <file name="$USER_HOME$/workspace/bagent/admin_app.py" timestamp="1514188414430">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="31" />
+        <mark key="^" line="19" column="31" />
+        <mark key="." line="19" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_bet_return.py" timestamp="1513670741075">
         <mark key="[" line="65" column="0" />
@@ -489,7 +489,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24ubW9kZWxzIGltcG9ydCBBZ2VudCwgREIK</text>
+        <text encoding="base64">ICAgICIiIkluaXRpYWxpemUgdGhlIGRhdGFiYXNlLiIiIgo=</text>
       </register>
       <register name="-" type="4">
         <text>get_agent_detail(agent_id)</text>
@@ -504,25 +504,25 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24ubW9kZWxzIGltcG9ydCBBZ2VudCwgREIK</text>
+        <text encoding="base64">ICAgICIiIkluaXRpYWxpemUgdGhlIGRhdGFiYXNlLiIiIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb21tb24ubW9kZWxzIGltcG9ydCBBZ2VudCwgREIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGhlbGxvX3dvcmxkKCk6CiAgICBEQi5zZXNzaW9uLmFkZChBZ2VudCh1c2VyX2lkPTEpKQogICAgREIuc2Vzc2lvbi5hZGRfYWxsKAogICAgICAgIFsKICAgICAgICAgICAgQWdlbnQodXNlcl9pZD0yLCBwYXJlbnRfaWQ9MSksCiAgICAgICAgICAgIEFnZW50KHVzZXJfaWQ9MywgcGFyZW50X2lkPTIpLAogICAgICAgICAgICBBZ2VudCh1c2VyX2lkPTQsIHBhcmVudF9pZD0zKSwKICAgICAgICBdCiAgICApCiAgICBEQi5zZXNzaW9uLmFkZF9hbGwoCiAgICAgICAgWwogICAgICAgICAgICBBZ2VudCh1c2VyX2lkPTUsIHBhcmVudF9pZD0xKSwKICAgICAgICAgICAgQWdlbnQodXNlcl9pZD02LCBwYXJlbnRfaWQ9NSksCiAgICAgICAgICAgIEFnZW50KHVzZXJfaWQ9NywgcGFyZW50X2lkPTUpLAogICAgICAgIF0KICAgICkKCiAgICBEQi5kcm9wX2FsbCgpCiAgICBEQi5jcmVhdGVfYWxsKCkKICAgIERCLnNlc3Npb24uY29tbWl0KCkKICAgIGFnZW50ID0gQWdlbnQucXVlcnkuZmlsdGVyKEFnZW50LmlkID09IDEpLmZpcnN0KCkKICAgIEFQSV9MT0dHRVIuaW5mbygnYWdlbnQ6ICVzLCB0eXBlOiAlcycgJSAoYWdlbnQsIHR5cGUoYWdlbnQpKSkKICAgIHJldHVybiAnYWdlbnQ6ICVzLCB0eXBlOiAlcycgJSAoYWdlbnQsIHR5cGUoYWdlbnQpKQogICAgIyByZXR1cm4gJ2FnZW50OiAlcywgbGV2ZWw6ICVzLCB0cmVlOiAlcycgJSAoYWdlbnQsIGFnZW50LmxldmVsLCBhZ2VudC5nZXRfdHJlZSgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICgnLycsIGhlbGxvX3dvcmxkKSwK</text>
+        <text encoding="base64">ZGVmIGhlbGxvX3dvcmxkKCk6CiAgICBEQi5zZXNzaW9uLmFkZChBZ2VudCh1c2VyX2lkPTEpKQogICAgREIuc2Vzc2lvbi5hZGRfYWxsKAogICAgICAgIFsKICAgICAgICAgICAgQWdlbnQodXNlcl9pZD0yLCBwYXJlbnRfaWQ9MSksCiAgICAgICAgICAgIEFnZW50KHVzZXJfaWQ9MywgcGFyZW50X2lkPTIpLAogICAgICAgICAgICBBZ2VudCh1c2VyX2lkPTQsIHBhcmVudF9pZD0zKSwKICAgICAgICBdCiAgICApCiAgICBEQi5zZXNzaW9uLmFkZF9hbGwoCiAgICAgICAgWwogICAgICAgICAgICBBZ2VudCh1c2VyX2lkPTUsIHBhcmVudF9pZD0xKSwKICAgICAgICAgICAgQWdlbnQodXNlcl9pZD02LCBwYXJlbnRfaWQ9NSksCiAgICAgICAgICAgIEFnZW50KHVzZXJfaWQ9NywgcGFyZW50X2lkPTUpLAogICAgICAgIF0KICAgICkKCiAgICBEQi5kcm9wX2FsbCgpCiAgICBEQi5jcmVhdGVfYWxsKCkKICAgIERCLnNlc3Npb24uY29tbWl0KCkKICAgIGFnZW50ID0gQWdlbnQucXVlcnkuZmlsdGVyKEFnZW50LmlkID09IDEpLmZpcnN0KCkKICAgIEFQSV9MT0dHRVIuaW5mbygnYWdlbnQ6ICVzLCB0eXBlOiAlcycgJSAoYWdlbnQsIHR5cGUoYWdlbnQpKSkKICAgIHJldHVybiAnYWdlbnQ6ICVzLCB0eXBlOiAlcycgJSAoYWdlbnQsIHR5cGUoYWdlbnQpKQogICAgIyByZXR1cm4gJ2FnZW50OiAlcywgbGV2ZWw6ICVzLCB0cmVlOiAlcycgJSAoYWdlbnQsIGFnZW50LmxldmVsLCBhZ2VudC5nZXRfdHJlZSgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MjAxNzEyMjMwMDEsCg==</text>
+        <text encoding="base64">ICAgICgnLycsIGhlbGxvX3dvcmxkKSwK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">MjAxNzEyMjMwMDEsCg==</text>
