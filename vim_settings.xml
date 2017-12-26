@@ -106,11 +106,11 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/apps/admin/urls.py" timestamp="1514191003965">
-        <mark key="[" line="4" column="36" />
-        <mark key="]" line="4" column="41" />
-        <mark key="." line="4" column="41" />
-        <mark key="^" line="4" column="41" />
+      <file name="$USER_HOME$/workspace/bagent/apps/admin/urls.py" timestamp="1514252547868">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="39" />
+        <mark key="." line="5" column="39" />
+        <mark key="^" line="5" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/db.py" timestamp="1513855905114">
         <mark key="'" line="218" column="87" />
@@ -173,11 +173,11 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/apps/admin/views/agent_view.py" timestamp="1514193503798">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="46" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/workspace/bagent/apps/admin/views/agent_view.py" timestamp="1514252569737">
+        <mark key="'" line="7" column="4" />
+        <mark key="]" line="19" column="12" />
+        <mark key="^" line="19" column="12" />
+        <mark key="." line="19" column="12" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/3.6.2/lib/python3.6/hashlib.py" timestamp="1514191434710">
         <mark key="'" line="216" column="15" />
@@ -441,7 +441,6 @@
       <jump line="59" column="10" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/bagent/common/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bagent/common/models.py" />
-      <jump line="7" column="4" filename="$USER_HOME$/workspace/bagent/apps/admin/views/agent_view.py" />
       <jump line="63" column="17" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
       <jump line="5" column="4" filename="$USER_HOME$/workspace/bagent/apps/admin/views/agent_view.py" />
       <jump line="121" column="4" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
@@ -465,19 +464,20 @@
       <jump line="76" column="8" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
       <jump line="79" column="8" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
       <jump line="92" column="8" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
+      <jump line="7" column="4" filename="$USER_HOME$/workspace/bagent/apps/admin/views/agent_view.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhYm9ydF9qc29uKDQwMCwgZSkK</text>
+      <register name="&quot;" type="4">
+        <text>POST</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>POST</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhYm9ydF9qc29uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhYm9ydF9qc29uKDQwMCwgJ2R1cGxpY2F0ZSB1c2VyJywgRXJyb3JDb2RlLkRVUExJQ0FURURfVVNFUiwgZSkK</text>
+        <text encoding="base64">ICAgICgnL2NyZWF0ZV9hZ2VudCcsIGNyZWF0ZV9hZ2VudCwgWydQT1NUJ10pLAo=</text>
       </register>
       <register name="p" type="4">
         <text />
