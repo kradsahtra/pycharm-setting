@@ -89,11 +89,11 @@
         <mark key="^" line="28" column="49" />
         <mark key="." line="29" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/common/controllers.py" timestamp="1514290208770">
-        <mark key="[" line="185" column="31" />
-        <mark key="]" line="185" column="31" />
-        <mark key="." line="185" column="31" />
-        <mark key="^" line="188" column="72" />
+      <file name="$USER_HOME$/workspace/bagent/common/controllers.py" timestamp="1514345433537">
+        <mark key="[" line="155" column="29" />
+        <mark key="]" line="155" column="67" />
+        <mark key="." line="155" column="67" />
+        <mark key="^" line="155" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/notification/handler.py" timestamp="1513220481100">
         <mark key="[" line="49" column="62" />
@@ -317,49 +317,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>list_agents</text>
+        <text>receiver_id invalid</text>
       </register>
       <register name="-" type="4">
-        <text>list_agents</text>
+        <text>receiver_id invalid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElfTE9HR0VSXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>apply_return_rate</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWJvcnRfanNvbig0MDAsICdyZWNlaXZlcl9pZCBpbnZhbGlkJykK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICgnL2dldF9hdmFpbGFibGVfcmV0dXJuX3JhdGUnLCBnZXRfYXZhaWxhYmxlX3JldHVybl9yYXRlLCBbJ0dFVCddKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBUElfTE9HR0VSLmVycm9yKGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWJvcnRfanNvbig0MDAsICdyZXR1cm4gcmF0ZSA8JXM+IGNvdW50IG5vdCBlbm91Z2guJyAlIHJldHVybl9yYXRlKQo=</text>
+        <text encoding="base64">ZGVmIGdldF9sZXZlbF9ieV9zdXBlcmlvcihzdXBlcmlvcl9pZCk6CiAgICBzdXBlcmlvciA9IGdldF9hZ2VudF9ieV9hZ2VudF9pZChzdXBlcmlvcl9pZCkKICAgIHJldHVybiBzdXBlcmlvci5sZXZlbCArIDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICgnL2dldF9hdmFpbGFibGVfcmV0dXJuX3JhdGUnLCBnZXRfYXZhaWxhYmxlX3JldHVybl9yYXRlLCBbJ0dFVCddKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBBUElfTE9HR0VSLmVycm9yKGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbi5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWJvcnRfanNvbig0MDAsICdyZXR1cm4gcmF0ZSA8JXM+IGNvdW50IG5vdCBlbm91Z2guJyAlIHJldHVybl9yYXRlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbi5yb2xsYmFjaygpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBUElfTE9HR0VSLmluZm8oJ3JldHVybl9yYXRlX2l0ZW1zIGxlbjogJXMsIGNvdW50OiAlcycgJSAobGVuKHJldHVybl9yYXRlX2l0ZW1zKSwgY291bnQpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBUElfTE9HR0VSLmluZm8oJ3JldHVybl9yYXRlX2l0ZW1zOiAlcycgJSByZXR1cm5fcmF0ZV9pdGVtcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbi5jbG9zZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>170</text>
