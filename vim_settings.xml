@@ -102,13 +102,14 @@
         <mark key="." line="10" column="48" />
         <mark key="^" line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/db.py" timestamp="1513855905114">
-        <mark key="'" line="218" column="87" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/db.py" timestamp="1514442195919">
+        <mark key="'" line="162" column="0" />
         <mark key="[" line="140" column="26" />
         <mark key="]" line="140" column="26" />
         <mark key="." line="140" column="26" />
         <mark key="^" line="140" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/ssc/model.py" timestamp="1514442315046" />
       <file name="$USER_HOME$/workspace/deploy/config_files/bigbang-admin.supervisor.conf" timestamp="1512119475619">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="21" />
@@ -244,7 +245,7 @@
         <mark key="^" line="41" column="11" />
         <mark key="." line="41" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514364027926">
+      <file name="/Dummy.txt" timestamp="1514442283714">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="13" />
@@ -358,7 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="46" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
       <jump line="3" column="5" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
       <jump line="115" column="6" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/preset/model/preset.py" />
       <jump line="53" column="0" filename="$USER_HOME$/workspace/bagent/common/models.py" />
@@ -458,6 +458,7 @@
       <jump line="61" column="17" filename="$USER_HOME$/workspace/bagent/apps/admin/views/agent_view.py" />
       <jump line="222" column="4" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
       <jump line="251" column="4" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
+      <jump line="162" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/db.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
