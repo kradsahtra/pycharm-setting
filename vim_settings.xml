@@ -138,11 +138,11 @@
         <mark key="^" line="316" column="18" />
         <mark key="." line="316" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/common/controllers.py" timestamp="1514515258799">
+      <file name="$USER_HOME$/workspace/bagent/common/controllers.py" timestamp="1514531143355">
         <mark key="'" line="261" column="27" />
-        <mark key="[" line="260" column="28" />
-        <mark key="]" line="261" column="29" />
-        <mark key="." line="261" column="29" />
+        <mark key="[" line="118" column="88" />
+        <mark key="]" line="118" column="88" />
+        <mark key="." line="118" column="88" />
         <mark key="^" line="261" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/notification/handler.py" timestamp="1513220481100">
@@ -456,11 +456,11 @@
       <jump line="35" column="0" filename="$USER_HOME$/workspace/bagent/common/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YXBwLmNvbmZpZ1snU1FMQUxDSEVNWV9EQVRBQkFTRV9VUkknXSA9ICdteXNxbDovL3Jvb3Q6MTIzNDU2QGxvY2FsaG9zdC9iaWdiYW5nJwo=</text>
+      <register name="&quot;" type="4">
+        <text>.all()</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>.all()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aXRoX2Zvcl91cGRhdGVcPg==</text>
@@ -509,7 +509,7 @@
         <text encoding="base64">Uk9MRSA9IEVudW0oewogICAgIkZPUkJJRERFTiI6ICgwLCAiZm9yYmlkZGVuIiksCiAgICAiVVNFUiI6ICgxLCAidXNlciIpLAogICAgIlNFTklPUl9VU0VSIjogKDIsICJzZW5pb3JfdXNlciIpLAogICAgIk1BTkFHRVIiOiAoMywgIm1hbmFnZXIiKSwKICAgICJTRU5JT1JfTUFOQUdFUiI6ICg0LCAic2VuaW9yX21hbmFnZXIiKSwKICAgICJBRE1JTiI6ICg1LCAiYWRtaW4iKQp9KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>170</text>
+        <text>121</text>
       </register>
     </registers>
     <search>
@@ -545,7 +545,6 @@
         <entry encoding="base64">XDx3aXRoX2Zvcl91cGRhdGVcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2FkbWluL2FnZW5jeS9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL0FkbWluL0FnZW5jeS9nYw==</entry>
         <entry>101</entry>
         <entry>295</entry>
@@ -565,6 +564,7 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>170</entry>
+        <entry>121</entry>
       </history-cmd>
       <history-expr />
       <history-input />
