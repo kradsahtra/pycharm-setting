@@ -45,11 +45,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/shared/utils/auth.py" timestamp="1514623130318">
+      <file name="$USER_HOME$/workspace/bagent/shared/utils/auth.py" timestamp="1514625291312">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings.py" timestamp="1513858515009">
         <mark key="'" line="291" column="39" />
@@ -202,7 +202,7 @@
         <mark key="." line="141" column="45" />
         <mark key="^" line="141" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514622829692">
+      <file name="/Dummy.txt" timestamp="1514625379392">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="13" />
@@ -394,7 +394,7 @@
         <text encoding="base64">XDxQUk9YWV9VUkxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YmFzZV9kaXIgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQpzeXMucGF0aC5hcHBlbmQoYmFzZV9kaXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWJvcnRfanNvbig0MDEsICd1bmF1dGhvcml6ZWQnKQo=</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -406,28 +406,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YmFzZV9kaXIgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKc3lzLnBhdGguYXBwZW5kKGJhc2VfZGlyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoJyMjIyMgYWRtaW5fYXBwICMjIyMgJXMnICUgc3lzLnBhdGgpCg==</text>
+        <text encoding="base64">YmFzZV9kaXIgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKc3lzLnBhdGguYXBwZW5kKGJhc2VfZGlyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBoYXNoIHNhbHQgZm9yIGJpZ2JhbmcgcHJvamVjdCwgZGlmZmVyZW50IHByb2plY3QgZGlmZmVyZW50IHNhbHQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">cHJpbnQoJyMjIyMgYWRtaW5fYXBwICMjIyMgJXMnICUgc3lzLnBhdGgpCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBoYXNoIHNhbHQgZm9yIGJpZ2JhbmcgcHJvamVjdCwgZGlmZmVyZW50IHByb2plY3QgZGlmZmVyZW50IHNhbHQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBzaGFyZWQudXRpbHMuYXV0aCBpbXBvcnQgZW5jb2RlX3Bhc3N3b3JkCg==</text>
+        <text encoding="base64">cHJpbnQoJyMjIyMgYWRtaW5fYXBwICMjIyMgJXMnICUgc3lzLnBhdGgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">X0JJR0JBTkdfU0FMVCA9IHUiVjckI2cqQk4iCgoKZGVmIGVuY29kZV9wYXNzd29yZChwYXNzd29yZCk6CiAgICByZXR1cm4gaGFzaGxpYi5tZDUoKHBhc3N3b3JkICsgX0JJR0JBTkdfU0FMVCkuZW5jb2RlKCJ1dGY4IikpLmhleGRpZ2VzdCgpCg==</text>
+        <text encoding="base64">ZnJvbSBzaGFyZWQudXRpbHMuYXV0aCBpbXBvcnQgZW5jb2RlX3Bhc3N3b3JkCg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
