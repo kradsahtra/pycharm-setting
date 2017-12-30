@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/model/account.py" timestamp="1514290763144">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="35" column="40" />
-      </file>
       <file name="$USER_HOME$/workspace/bagent/deploy/config_files/bagent.nginx.conf" timestamp="1514603760896">
         <mark key="'" line="16" column="40" />
         <mark key="[" line="14" column="0" />
@@ -192,6 +188,9 @@
         <mark key="]" line="47" column="93" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="43" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1514616352433">
+        <mark key="'" line="314" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/frame/const.js" timestamp="1513069868807">
         <mark key="'" line="0" column="0" />
@@ -411,7 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="13" filename="$USER_HOME$/workspace/bagent/common/models.py" />
       <jump line="28" column="14" filename="$USER_HOME$/workspace/bagent/common/models.py" />
       <jump line="29" column="17" filename="$USER_HOME$/workspace/bagent/common/models.py" />
       <jump line="30" column="18" filename="$USER_HOME$/workspace/bagent/common/models.py" />
@@ -511,6 +509,7 @@
       <jump line="17" column="0" filename="$USER_HOME$/workspace/bagent/main_uwsgi.ini" />
       <jump line="71" column="16" filename="$USER_HOME$/workspace/bagent/settings.py" />
       <jump line="16" column="40" filename="$USER_HOME$/workspace/bagent/deploy/config_files/bagent.nginx.conf" />
+      <jump line="314" column="26" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
