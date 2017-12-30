@@ -7,6 +7,12 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="35" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/bagent/deploy/config_files/bagent.nginx.conf" timestamp="1514603760896">
+        <mark key="'" line="16" column="40" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/campaign/view.py" timestamp="1513136624058">
         <mark key="'" line="5" column="35" />
         <mark key="[" line="33" column="4" />
@@ -131,12 +137,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="80" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/fabfile.py" timestamp="1514537868335">
+      <file name="$USER_HOME$/workspace/bagent/fabfile.py" timestamp="1514603758135">
         <mark key="'" line="234" column="4" />
-        <mark key="[" line="207" column="106" />
-        <mark key="]" line="208" column="29" />
-        <mark key="^" line="208" column="29" />
-        <mark key="." line="208" column="29" />
+        <mark key="[" line="94" column="68" />
+        <mark key="]" line="94" column="74" />
+        <mark key="^" line="94" column="34" />
+        <mark key="." line="94" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/gd_11x5/crawler.py" timestamp="1514271788654">
         <mark key="'" line="74" column="12" />
@@ -152,12 +158,12 @@
         <mark key="^" line="316" column="18" />
         <mark key="." line="316" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/common/controllers.py" timestamp="1514531143355">
-        <mark key="'" line="261" column="27" />
-        <mark key="[" line="118" column="88" />
-        <mark key="]" line="118" column="88" />
-        <mark key="." line="118" column="88" />
-        <mark key="^" line="261" column="29" />
+      <file name="$USER_HOME$/workspace/bagent/common/controllers.py" timestamp="1514604260837">
+        <mark key="'" line="263" column="27" />
+        <mark key="[" line="119" column="51" />
+        <mark key="]" line="119" column="62" />
+        <mark key="." line="119" column="62" />
+        <mark key="^" line="119" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/notification/handler.py" timestamp="1513220481100">
         <mark key="[" line="49" column="62" />
@@ -355,6 +361,12 @@
         <mark key="." line="54" column="53" />
         <mark key="^" line="54" column="53" />
       </file>
+      <file name="$USER_HOME$/workspace/bagent/deploy/config_files/agency.nginx.conf" timestamp="1514603188299">
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="34" />
+        <mark key="." line="25" column="34" />
+        <mark key="^" line="25" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" timestamp="1513820399214">
         <mark key="'" line="50" column="21" />
         <mark key="[" line="50" column="17" />
@@ -399,7 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="16" filename="$USER_HOME$/workspace/bagent/common/models.py" />
       <jump line="27" column="13" filename="$USER_HOME$/workspace/bagent/common/models.py" />
       <jump line="28" column="14" filename="$USER_HOME$/workspace/bagent/common/models.py" />
       <jump line="29" column="17" filename="$USER_HOME$/workspace/bagent/common/models.py" />
@@ -499,13 +510,14 @@
       <jump line="24" column="0" filename="$USER_HOME$/workspace/bagent/deploy/config_files/bagent.supervisor.conf" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/bagent/main_uwsgi.ini" />
       <jump line="71" column="16" filename="$USER_HOME$/workspace/bagent/settings.py" />
+      <jump line="16" column="40" filename="$USER_HOME$/workspace/bagent/deploy/config_files/bagent.nginx.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">REFUQUJBU0UgPSB7CiAgICAnRU5HSU5FJzogJ215c3FsJywKICAgICdOQU1FJzogJ2FnZW5jeV9wYXknLAogICAgJ0hPU1QnOiAnbG9jYWxob3N0JywKICAgICdQT1JUJzogMzMwNiwKICAgICdVU0VSJzogJ3Jvb3QnLAogICAgJ1BBU1NXT1JEJzogJzEyMzQ1NicsCn0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>agency</text>
       </register>
       <register name="-" type="4">
-        <text>agency_pay</text>
+        <text>agency</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXR1cF9uZ2lueFw+</text>
@@ -517,37 +529,37 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">REFUQUJBU0UgPSB7CiAgICAnRU5HSU5FJzogJ215c3FsJywKICAgICdOQU1FJzogJ2FnZW5jeV9wYXknLAogICAgJ0hPU1QnOiAnbG9jYWxob3N0JywKICAgICdQT1JUJzogMzMwNiwKICAgICdVU0VSJzogJ3Jvb3QnLAogICAgJ1BBU1NXT1JEJzogJzEyMzQ1NicsCn0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UkVESVNfUFJFRklYID0gJ2FnZW5jeV9wYXknClJFRElTX0NPTkYgPSB7CiAgICAnaG9zdCc6ICdsb2NhbGhvc3QnLAogICAgJ3BvcnQnOiA2Mzc5Cn0K</text>
+        <text encoding="base64">ICAgIHJvb3QgL29wdC9kb2NzLzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBycSB3b3JrZXIgc2V0dGluZ3MKUkVESVNfVVJMID0gJ3JlZGlzOi8vbG9jYWxob3N0OjYzNzkvMCcKUVVFVUVTID0gWydzZW5kJywgXQoK</text>
+        <text encoding="base64">REFUQUJBU0UgPSB7CiAgICAnRU5HSU5FJzogJ215c3FsJywKICAgICdOQU1FJzogJ2FnZW5jeV9wYXknLAogICAgJ0hPU1QnOiAnbG9jYWxob3N0JywKICAgICdQT1JUJzogMzMwNiwKICAgICdVU0VSJzogJ3Jvb3QnLAogICAgJ1BBU1NXT1JEJzogJzEyMzQ1NicsCn0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBycSB3b3JrZXIgc2V0dGluZ3MKUkVESVNfVVJMID0gJ3JlZGlzOi8vbG9jYWxob3N0OjYzNzkvMCcKUVVFVUVTID0gWydzZW5kJywgXQoK</text>
+        <text encoding="base64">UkVESVNfUFJFRklYID0gJ2FnZW5jeV9wYXknClJFRElTX0NPTkYgPSB7CiAgICAnaG9zdCc6ICdsb2NhbGhvc3QnLAogICAgJ3BvcnQnOiA2Mzc5Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiMgSG93IGxvbmcgdGhlIHVzZXIgc2Vzc2lvbiB3aWxsIGxhc3QgKGluIGhvdXJzKS4gRGVmYXVsdDogMTY4ICg3IGRheXMpClNFU1NJT05fRVhQSVJFUyA9IDE2OAoK</text>
+        <text encoding="base64">IyBycSB3b3JrZXIgc2V0dGluZ3MKUkVESVNfVVJMID0gJ3JlZGlzOi8vbG9jYWxob3N0OjYzNzkvMCcKUVVFVUVTID0gWydzZW5kJywgXQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBUaGlzIHJld3JpdGVzIHRoZSByZXNwb25zZSAiU2VydmVyIiBoZWFkZXIsIHNvIHlvdSBjYW4gaGlkZSB5b3VyIHNlcnZlciBuYW1lCiMgZm9yIHByb3RlY3Rpb24KU0VSVkVSX05BTUUgPSAiIgo=</text>
+        <text encoding="base64">IyBycSB3b3JrZXIgc2V0dGluZ3MKUkVESVNfVVJMID0gJ3JlZGlzOi8vbG9jYWxob3N0OjYzNzkvMCcKUVVFVUVTID0gWydzZW5kJywgXQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBTaXRlIGRvbWFpbiwgeW91IHVzdWFsbHkgd2FudCB0aGlzIHRvIGJlIHlvdXIgZnJvbnRlbmQgdXJsLiBUaGlzIGlzIHVzZWQgZm9yCiMgbG9naW4gdmVyaWZpY2F0aW9uIGJldHdlZW4gb3RoZXIgdGhpbmdzIGxpa2UgQ09SUwoK</text>
+        <text encoding="base64">CiMgSG93IGxvbmcgdGhlIHVzZXIgc2Vzc2lvbiB3aWxsIGxhc3QgKGluIGhvdXJzKS4gRGVmYXVsdDogMTY4ICg3IGRheXMpClNFU1NJT05fRVhQSVJFUyA9IDE2OAoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q09SU19BQ1RJVkUgPSBUcnVlCg==</text>
+        <text encoding="base64">IyBUaGlzIHJld3JpdGVzIHRoZSByZXNwb25zZSAiU2VydmVyIiBoZWFkZXIsIHNvIHlvdSBjYW4gaGlkZSB5b3VyIHNlcnZlciBuYW1lCiMgZm9yIHByb3RlY3Rpb24KU0VSVkVSX05BTUUgPSAiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TE9HSU5fVVJMID0gJycK</text>
+        <text encoding="base64">IyBTaXRlIGRvbWFpbiwgeW91IHVzdWFsbHkgd2FudCB0aGlzIHRvIGJlIHlvdXIgZnJvbnRlbmQgdXJsLiBUaGlzIGlzIHVzZWQgZm9yCiMgbG9naW4gdmVyaWZpY2F0aW9uIGJldHdlZW4gb3RoZXIgdGhpbmdzIGxpa2UgQ09SUwoK</text>
       </register>
       <register name=":" type="4">
-        <text>121</text>
+        <text>119</text>
       </register>
     </registers>
     <search>
@@ -583,7 +595,6 @@
         <entry encoding="base64">XDxzZXR1cF9uZ2lueFw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0FkbWluL0FnZW5jeS9nYw==</entry>
         <entry>101</entry>
         <entry>295</entry>
         <entry>155</entry>
@@ -603,6 +614,7 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>170</entry>
         <entry>121</entry>
+        <entry>119</entry>
       </history-cmd>
       <history-expr />
       <history-input />
