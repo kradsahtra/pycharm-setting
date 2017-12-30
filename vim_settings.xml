@@ -165,7 +165,13 @@
         <mark key="^" line="49" column="66" />
         <mark key="." line="49" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/apps/admin/views/agent_view.py" timestamp="1514361230368">
+      <file name="$USER_HOME$/workspace/bagent/common/utils/logs.py" timestamp="1514602275017">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="37" />
+        <mark key="." line="11" column="37" />
+        <mark key="^" line="11" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/bagent/apps/admin/views/agent_view.py" timestamp="1514602266070">
         <mark key="'" line="61" column="17" />
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -266,7 +272,7 @@
         <mark key="^" line="41" column="11" />
         <mark key="." line="41" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514513542443">
+      <file name="/Dummy.txt" timestamp="1514602276564">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="13" />
@@ -356,6 +362,13 @@
         <mark key="^" line="50" column="21" />
         <mark key="." line="50" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/bagent/settings.py" timestamp="1514602447303">
+        <mark key="'" line="71" column="16" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="121" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/bagent/common/utils/routes.py" timestamp="1514190944075">
         <mark key="'" line="5" column="94" />
         <mark key="[" line="5" column="94" />
@@ -386,7 +399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="13" filename="$USER_HOME$/workspace/bagent/common/models.py" />
       <jump line="26" column="16" filename="$USER_HOME$/workspace/bagent/common/models.py" />
       <jump line="27" column="13" filename="$USER_HOME$/workspace/bagent/common/models.py" />
       <jump line="28" column="14" filename="$USER_HOME$/workspace/bagent/common/models.py" />
@@ -486,52 +498,53 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bagent/deploy/config_files/bagent.supervisor.conf" />
       <jump line="24" column="0" filename="$USER_HOME$/workspace/bagent/deploy/config_files/bagent.supervisor.conf" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/bagent/main_uwsgi.ini" />
+      <jump line="71" column="16" filename="$USER_HOME$/workspace/bagent/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>admin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">REFUQUJBU0UgPSB7CiAgICAnRU5HSU5FJzogJ215c3FsJywKICAgICdOQU1FJzogJ2FnZW5jeV9wYXknLAogICAgJ0hPU1QnOiAnbG9jYWxob3N0JywKICAgICdQT1JUJzogMzMwNiwKICAgICdVU0VSJzogJ3Jvb3QnLAogICAgJ1BBU1NXT1JEJzogJzEyMzQ1NicsCn0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text>admin</text>
+        <text>agency_pay</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXR1cF9uZ2lueFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">W3Byb2dyYW06YmFnZW50X21haW5fYXBpXQpkaXJlY3RvcnkgPSAvb3B0L2JhZ2VudF9tYWluX2FwaS9lbmFibGVkL2FwcC8KY29tbWFuZCA9IC9ob21lL3VidW50dS8ucHllbnYvdmVyc2lvbnMvYmFnZW50L2Jpbi91d3NnaSAtaSBtYWluX3V3c2dpLmluaQp1c2VyID0gdWJ1bnR1CmF1dG9yZXN0YXJ0ID0gdHJ1ZQpyZWRpcmVjdF9zdGRlcnIgPSB0cnVlCnN0ZG91dF9sb2dmaWxlID0gL3Zhci9sb2cvYmFnZW50L21haW5fdXdzZ2kubG9nCnN0b3BzaWduYWwgPSBRVUlUCg==</text>
+      <register name="0" type="4">
+        <text>bagent</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cltwcm9ncmFtOmFnZW5jeV9wYXlfYWRtaW5fYXBpXQpkaXJlY3RvcnkgPSAvb3B0L2FnZW5jeV9wYXlfYWRtaW5fYXBpL2VuYWJsZWQvYXBwLwpjb21tYW5kID0gL2hvbWUvdWJ1bnR1Ly5weWVudi92ZXJzaW9ucy9hZ2VuY3kvYmluL3V3c2dpIC1pIGFkbWluX3V3c2dpLmluaQp1c2VyID0gdWJ1bnR1CmF1dG9yZXN0YXJ0ID0gdHJ1ZQpyZWRpcmVjdF9zdGRlcnIgPSB0cnVlCnN0ZG91dF9sb2dmaWxlID0gL3Zhci9sb2cvYWdlbmN5X3BheS9hZG1pbl91d3NnaS5sb2cKc3RvcHNpZ25hbCA9IFFVSVQKCltwcm9ncmFtOmFnZW5jeV9wYXlfd29ya2VyXQpkaXJlY3RvcnkgPSAvb3B0L2FnZW5jeV9wYXlfd29ya2VyL2VuYWJsZWQvYXBwLwpjb21tYW5kPS9ob21lL3VidW50dS8ucHllbnYvdmVyc2lvbnMvYWdlbmN5L2Jpbi9ycSB3b3JrZXIgLWMgc2V0dGluZ3MKdXNlcj11YnVudHUKYXV0b3Jlc3RhcnQ9dHJ1ZQpyZWRpcmVjdF9zdGRlcnI9dHJ1ZQpzdGRvdXRfbG9nZmlsZT0vdmFyL2xvZy9hZ2VuY3lfcGF5L2FnZW5jeV9wYXlfd29ya2VyLmxvZwpzdG9wc2lnbmFsPVFVSVQK</text>
+        <text encoding="base64">REFUQUJBU0UgPSB7CiAgICAnRU5HSU5FJzogJ215c3FsJywKICAgICdOQU1FJzogJ2FnZW5jeV9wYXknLAogICAgJ0hPU1QnOiAnbG9jYWxob3N0JywKICAgICdQT1JUJzogMzMwNiwKICAgICdVU0VSJzogJ3Jvb3QnLAogICAgJ1BBU1NXT1JEJzogJzEyMzQ1NicsCn0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN1ZG8oImFwdC1nZXQgaW5zdGFsbCAteSBsaWJjdXJsNC1nbnV0bHMtZGV2IGxpYmdudXRscy1kZXYiKQo=</text>
+        <text encoding="base64">UkVESVNfUFJFRklYID0gJ2FnZW5jeV9wYXknClJFRElTX0NPTkYgPSB7CiAgICAnaG9zdCc6ICdsb2NhbGhvc3QnLAogICAgJ3BvcnQnOiA2Mzc5Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgcnVuX3Rlc3QoKQo=</text>
+        <text encoding="base64">IyBycSB3b3JrZXIgc2V0dGluZ3MKUkVESVNfVVJMID0gJ3JlZGlzOi8vbG9jYWxob3N0OjYzNzkvMCcKUVVFVUVTID0gWydzZW5kJywgXQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGVudi5zdGFnZSA9PSAicHJvZHVjdGlvbiI6CiAgICAgICAgY2hlY2tfcmVwbygpCg==</text>
+        <text encoding="base64">IyBycSB3b3JrZXIgc2V0dGluZ3MKUkVESVNfVVJMID0gJ3JlZGlzOi8vbG9jYWxob3N0OjYzNzkvMCcKUVVFVUVTID0gWydzZW5kJywgXQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMgSG93IGxvbmcgdGhlIHVzZXIgc2Vzc2lvbiB3aWxsIGxhc3QgKGluIGhvdXJzKS4gRGVmYXVsdDogMTY4ICg3IGRheXMpClNFU1NJT05fRVhQSVJFUyA9IDE2OAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBUaGlzIHJld3JpdGVzIHRoZSByZXNwb25zZSAiU2VydmVyIiBoZWFkZXIsIHNvIHlvdSBjYW4gaGlkZSB5b3VyIHNlcnZlciBuYW1lCiMgZm9yIHByb3RlY3Rpb24KU0VSVkVSX05BTUUgPSAiIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHNldHVwX2hhcHJveHkoKToKICAgIHByaW50X3N0YXJ0KCJTZXR0aW5nIHVwIEhBUHJveHkiKQogICAgaWYgbm90IGV4aXN0cygiL3Vzci9zYmluL2hhcHJveHkiKToKICAgICAgICBzdWRvKCJhcHQtZ2V0IHVwZGF0ZSIpCiAgICAgICAgc3VkbygiYXB0LWdldCBpbnN0YWxsIC15IHNvZnR3YXJlLXByb3BlcnRpZXMtY29tbW9uIikKICAgICAgICBzdWRvKCJhZGQtYXB0LXJlcG9zaXRvcnkgLXkgcHBhOnZiZXJuYXQvaGFwcm94eS0xLjUiKQogICAgICAgIHN1ZG8oImFwdC1nZXQgdXBkYXRlIikKICAgICAgICBzdWRvKCJhcHQtZ2V0IGluc3RhbGwgLXkgaGFwcm94eSIpCiAgICBwdXQoX0NPTkZJR19GSUxFX1BBVEggKyAiaGFwcm94eS5jZmciLCAiL2V0Yy9oYXByb3h5L2hhcHJveHkuY2ZnIiwgdXNlX3N1ZG89VHJ1ZSkKICAgIHN1ZG8oInNlcnZpY2UgaGFwcm94eSByZXN0YXJ0IikKICAgIHByaW50X2RvbmUoIlNldHRpbmcgdXAgSEFQcm94eSBkb25lLiIpCg==</text>
+        <text encoding="base64">IyBTaXRlIGRvbWFpbiwgeW91IHVzdWFsbHkgd2FudCB0aGlzIHRvIGJlIHlvdXIgZnJvbnRlbmQgdXJsLiBUaGlzIGlzIHVzZWQgZm9yCiMgbG9naW4gdmVyaWZpY2F0aW9uIGJldHdlZW4gb3RoZXIgdGhpbmdzIGxpa2UgQ09SUwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbihlbnYucm9sZXMpICE9IDEgb3IgX1JPTEUgbm90IGluIF9BTExPV19ERVBMT1lfUk9MRVM6CiAgICAgICAgcHJpbnRfZXJyb3IoIlJvbGVzIGludmFsaWQhIikK</text>
+        <text encoding="base64">Q09SU19BQ1RJVkUgPSBUcnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">X0FMTE9XX0RFUExPWV9ST0xFUyA9IFsiYWdlbmN5X3BheV9tYWluX2FwaSIsICJhZ2VuY3lfcGF5X2FkbWluX2FwaSIsICJhZ2VuY3lfcGF5X3dvcmtlciJdCg==</text>
+        <text encoding="base64">TE9HSU5fVVJMID0gJycK</text>
       </register>
       <register name=":" type="4">
         <text>121</text>
