@@ -217,10 +217,10 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/apps/admin/views/agent_view.py" timestamp="1514776437527">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="20" column="7" />
-        <mark key="]" line="20" column="9" />
+      <file name="$USER_HOME$/workspace/bagent/apps/admin/views/agent_view.py" timestamp="1514777838538">
+        <mark key="'" line="22" column="30" />
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="39" />
         <mark key="." line="20" column="9" />
         <mark key="^" line="20" column="9" />
       </file>
@@ -367,12 +367,12 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/admin_app.py" timestamp="1514775378411">
-        <mark key="'" line="9" column="20" />
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="8" />
-        <mark key="." line="16" column="8" />
-        <mark key="^" line="16" column="9" />
+      <file name="$USER_HOME$/workspace/bagent/admin_app.py" timestamp="1514777855173">
+        <mark key="'" line="10" column="20" />
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+        <mark key="^" line="22" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_bet_return.py" timestamp="1513670741075">
         <mark key="[" line="65" column="0" />
@@ -478,7 +478,6 @@
       <jump line="7" column="4" filename="$USER_HOME$/workspace/bagent/apps/admin/views/agent_view.py" />
       <jump line="93" column="0" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
       <jump line="63" column="42" filename="$USER_HOME$/workspace/bagent/common/models.py" />
-      <jump line="22" column="23" filename="$USER_HOME$/workspace/bagent/apps/admin/views/agent_view.py" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
       <jump line="115" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/cache/account.py" />
       <jump line="121" column="11" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/cache/account.py" />
@@ -568,19 +567,20 @@
       <jump line="46" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/preset/view.py" />
       <jump line="163" column="25" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/js_ks/logic/order.py" />
       <jump line="60" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/preset/handler.py" />
+      <jump line="22" column="30" filename="$USER_HOME$/workspace/bagent/apps/admin/views/agent_view.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>in</text>
+        <text>API_LOGGER</text>
       </register>
       <register name="-" type="4">
-        <text>in</text>
+        <text>logger</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfY2FsY19yZXdhcmRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QHJlcXVpcmVzX2F1dGgK</text>
+      <register name="0" type="4">
+        <text>API_LOGGER</text>
       </register>
       <register name="p" type="4">
         <text />
