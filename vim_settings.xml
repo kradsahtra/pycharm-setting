@@ -72,8 +72,8 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" timestamp="1513735847201">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" timestamp="1514861556627">
+        <mark key="'" line="106" column="22" />
         <mark key="[" line="138" column="0" />
         <mark key="]" line="138" column="47" />
         <mark key="." line="138" column="47" />
@@ -101,7 +101,7 @@
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1513856033611">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1514862152246">
         <mark key="'" line="579" column="39" />
         <mark key="[" line="479" column="44" />
         <mark key="]" line="479" column="44" />
@@ -124,7 +124,7 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/db.py" timestamp="1514442195919">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/db.py" timestamp="1514861311826">
         <mark key="'" line="162" column="0" />
         <mark key="[" line="140" column="26" />
         <mark key="]" line="140" column="26" />
@@ -162,6 +162,10 @@
         <mark key="]" line="13" column="15" />
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_daily_recharge_return.py" timestamp="1514860867951">
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/fabfile.py" timestamp="1514603758135">
         <mark key="'" line="234" column="4" />
@@ -461,7 +465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="8" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
       <jump line="92" column="8" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
       <jump line="7" column="4" filename="$USER_HOME$/workspace/bagent/apps/admin/views/agent_view.py" />
       <jump line="93" column="0" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
@@ -561,19 +564,20 @@
       <jump line="22" column="3" filename="$USER_HOME$/workspace/bagent/admin_app.py" />
       <jump line="351" column="8" filename="$USER_HOME$/workspace/bagent/shared/controllers.py" />
       <jump line="90" column="0" filename="$USER_HOME$/workspace/bagent/shared/models.py" />
+      <jump line="106" column="22" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>['id']</text>
+        <text>(local_now() - timedelta(days=days_before)).</text>
       </register>
       <register name="-" type="4">
         <text>['id']</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2FsY19yZXdhcmRcPg==</text>
+        <text encoding="base64">XDxtb3ZlX3RvX3RyYWNrZWRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvLnVwZGF0ZSh7J2FnZW50X2lkJzogYWdlbnQuaWR9KQo=</text>
+      <register name="0" type="4">
+        <text>(local_now() - timedelta(days=days_before)).</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -613,9 +617,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY2FsY19yZXdhcmRcPg==</last-search>
+      <last-search encoding="base64">XDxtb3ZlX3RvX3RyYWNrZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2FsY19yZXdhcmRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtb3ZlX3RvX3RyYWNrZWRcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -623,7 +627,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhd2FyZF9zZXR0aW5nc1w+</entry>
         <entry encoding="base64">XDxNR19CSUdCQU5HX0NPTExcPg==</entry>
         <entry encoding="base64">XDxxaW5pdVw+</entry>
         <entry encoding="base64">XDxhY2NvdW50XD4=</entry>
@@ -643,6 +646,7 @@
         <entry encoding="base64">XDxjb252ZXJ0X3R5cGVcPg==</entry>
         <entry encoding="base64">XDxfTE9HR0VSXD4=</entry>
         <entry encoding="base64">XDxfY2FsY19yZXdhcmRcPg==</entry>
+        <entry encoding="base64">XDxtb3ZlX3RvX3RyYWNrZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>101</entry>
