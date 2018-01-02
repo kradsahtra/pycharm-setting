@@ -279,6 +279,12 @@
         <mark key="." line="115" column="24" />
         <mark key="^" line="113" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/tracker.py" timestamp="1514863031451">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="12" column="48" />
+        <mark key="." line="12" column="30" />
+        <mark key="^" line="11" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/scripts/sql/bigbang_production.sql" timestamp="1513131545290">
         <mark key="'" line="1887" column="16" />
         <mark key="[" line="2076" column="0" />
@@ -568,49 +574,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(local_now() - timedelta(days=days_before)).</text>
+        <text>self_return_rate</text>
       </register>
       <register name="-" type="4">
-        <text>['id']</text>
+        <text>self_return_rate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb3ZlX3RvX3RyYWNrZWRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>(local_now() - timedelta(days=days_before)).</text>
+        <text>parent_return_rate</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvLnVwZGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAnY2hhbm5lbCc6IGNoYW5uZWwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF9fYmluZF9rZXlfXyA9ICdiaWdiYW5nJwo=</text>
+        <text encoding="base64">ICAgIGNvdXBvbi51cGRhdGUoewogICAgICAgICd0eXBlJzogJ2NvdXBvbicsCiAgICAgICAgJ2FjdGlvbic6IGFjdGlvbgogICAgfSkKICAgIF9UUkFDS0VSLmluZm8oY291cG9uKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyZWVfaWQgPSBvCg==</text>
+        <text encoding="base64">ICAgICAgICBpbmZvLnVwZGF0ZQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIF9fYmluZF9rZXlfXyA9ICdiaWdiYW5nJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZXJfdG9rZW4uc2F2ZSgpCg==</text>
+        <text encoding="base64">ICAgIHRyZWVfaWQgPSBvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcyA9IHJlcXVlc3QuZ2V0X2pzb24oKQogICAgZW1haWwgPSBwYXJhbXMuZ2V0KCdlbWFpbCcpCiAgICBwYXNzd29yZCA9IHBhcmFtcy5nZXQoJ3Bhc3N3b3JkJykK</text>
+        <text encoding="base64">ICAgIF9fYmluZF9rZXlfXyA9ICdiaWdiYW5nJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludmFsaWRhdGVfdG9rZW4odXNlcl9pZCwgdG9rZW4pCg==</text>
+        <text encoding="base64">ICAgIHVzZXJfdG9rZW4uc2F2ZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFQSV9MT0dHRVIuaW5mbygnYmVmb3JlIGNhbGxlZCcpCg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcyA9IHJlcXVlc3QuZ2V0X2pzb24oKQogICAgZW1haWwgPSBwYXJhbXMuZ2V0KCdlbWFpbCcpCiAgICBwYXNzd29yZCA9IHBhcmFtcy5nZXQoJ3Bhc3N3b3JkJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFQSV9MT0dHRVIuaW5mbygnYmVmb3JlIGNhbGxlZCcpCg==</text>
+        <text encoding="base64">ICAgIGludmFsaWRhdGVfdG9rZW4odXNlcl9pZCwgdG9rZW4pCg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
