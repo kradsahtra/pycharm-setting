@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/model/account.py" timestamp="1514796541864">
-        <mark key="[" line="71" column="35" />
-        <mark key="]" line="71" column="35" />
-        <mark key="." line="71" column="35" />
-        <mark key="^" line="62" column="12" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/model/account.py" timestamp="1514876854438">
+        <mark key="'" line="20" column="6" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="87" column="41" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="84" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/deploy/config_files/bagent.nginx.conf" timestamp="1514775120403">
         <mark key="'" line="16" column="40" />
@@ -279,11 +280,10 @@
         <mark key="." line="115" column="24" />
         <mark key="^" line="113" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/tracker.py" timestamp="1514863031451">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="48" />
-        <mark key="." line="12" column="30" />
-        <mark key="^" line="11" column="13" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/tracker.py" timestamp="1514877409936">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/scripts/sql/bigbang_production.sql" timestamp="1513131545290">
         <mark key="'" line="1887" column="16" />
@@ -471,7 +471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="8" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
       <jump line="7" column="4" filename="$USER_HOME$/workspace/bagent/apps/admin/views/agent_view.py" />
       <jump line="93" column="0" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
       <jump line="63" column="42" filename="$USER_HOME$/workspace/bagent/common/models.py" />
@@ -571,52 +570,53 @@
       <jump line="351" column="8" filename="$USER_HOME$/workspace/bagent/shared/controllers.py" />
       <jump line="90" column="0" filename="$USER_HOME$/workspace/bagent/shared/models.py" />
       <jump line="106" column="22" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" />
+      <jump line="20" column="6" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/model/account.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self_return_rate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>self_return_rate</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb3ZlX3RvX3RyYWNrZWRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>parent_return_rate</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNyZWF0ZWRfYXQgPSBvcm0uQ29sdW1uKG9ybS5EQVRFVElNRSkKICAgIHVwZGF0ZWRfYXQgPSBvcm0uQ29sdW1uKG9ybS5EQVRFVElNRSkK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnY2hhbm5lbCc6IGNoYW5uZWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvdXBvbi51cGRhdGUoewogICAgICAgICd0eXBlJzogJ2NvdXBvbicsCiAgICAgICAgJ2FjdGlvbic6IGFjdGlvbgogICAgfSkKICAgIF9UUkFDS0VSLmluZm8oY291cG9uKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvLnVwZGF0ZQo=</text>
+        <text encoding="base64">ZGVmIHRyYWNrX2FnZW50X3JldHVybih1c2VyX2lkLCBiZXRfYW1vdW50LCBzZWxmX3JldHVybl9yYXRlLCBwYXJlbnRfcmV0dXJuX3JhdGUpOgogICAgX1RSQUNLRVIuaW5mbyh7CiAgICAgICAgJ3R5cGUnOiAnYWdlbnRfcmV0dXJuJywKICAgICAgICAndXNlcl9pZCc6IHVzZXJfaWQsCiAgICAgICAgJ2JldF9hbW91bnQnOiBiZXRfYW1vdW50LAogICAgICAgICdzZWxmX3JldHVybl9yYXRlJzogc2VsZl9yZXR1cm5fcmF0ZSwKICAgICAgICAncGFyZW50X3JldHVybl9yYXRlJzogcGFyZW50X3JldHVybl9yYXRlLAogICAgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF9fYmluZF9rZXlfXyA9ICdiaWdiYW5nJwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyZWVfaWQgPSBvCg==</text>
+        <text encoding="base64">ICAgIHVzZXJfaWQgPSBvcm0uQ29sdW1uKG9ybS5CaWdJbnRlZ2VyLCB1bmlxdWU9VHJ1ZSwgbnVsbGFibGU9VHJ1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF9fYmluZF9rZXlfXyA9ICdiaWdiYW5nJwo=</text>
+        <text encoding="base64">ICAgIGJldF9hbW91bnQgPSBvcm0uQ29sdW1uKG9ybS5GbG9hdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVzZXJfdG9rZW4uc2F2ZSgpCg==</text>
+        <text encoding="base64">ICAgIG93bmVyX2lkID0gb3JtLkNvbHVtbihvcm0uQmlnSW50ZWdlcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcyA9IHJlcXVlc3QuZ2V0X2pzb24oKQogICAgZW1haWwgPSBwYXJhbXMuZ2V0KCdlbWFpbCcpCiAgICBwYXNzd29yZCA9IHBhcmFtcy5nZXQoJ3Bhc3N3b3JkJykK</text>
+        <text encoding="base64">ICAgICAgICAnY2hhbm5lbCc6IGNoYW5uZWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludmFsaWRhdGVfdG9rZW4odXNlcl9pZCwgdG9rZW4pCg==</text>
+        <text encoding="base64">ICAgIGNvdXBvbi51cGRhdGUoewogICAgICAgICd0eXBlJzogJ2NvdXBvbicsCiAgICAgICAgJ2FjdGlvbic6IGFjdGlvbgogICAgfSkKICAgIF9UUkFDS0VSLmluZm8oY291cG9uKQo=</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
