@@ -167,12 +167,6 @@
         <mark key="^" line="94" column="34" />
         <mark key="." line="94" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/gd_11x5/crawler.py" timestamp="1514961992035">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="25" column="11" />
-        <mark key="]" line="25" column="33" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" timestamp="1514796809079">
         <mark key="'" line="30" column="10" />
         <mark key="[" line="54" column="4" />
@@ -440,8 +434,11 @@
         <mark key="." line="33" column="18" />
         <mark key="^" line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/__init__.py" timestamp="1514948031072">
-        <mark key="]" line="1" column="2" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/__init__.py" timestamp="1514964507386">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/preset/db/banner.py" timestamp="1513064590673">
         <mark key="[" line="16" column="4" />
@@ -553,17 +550,17 @@
       <jump line="27" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/gd_11x5/crawler.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ok</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdodHRwOi8vNTQuMTc5LjE4Ni4yMTg6MzEyOCcsCiAgICAnaHR0cDovLzU0LjE2OS4yMDcuNDI6MzEyOCcsCiAgICAnaHR0cDovLzUyLjE1LjE5MC4xNTQ6MzEyOCcsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ok</text>
+        <text>8080</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQUk9YWV9VUkxcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>http://kaijiang.500.com</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICdodHRwOi8vNTQuMTc5LjE4Ni4yMTg6MzEyOCcsCiAgICAnaHR0cDovLzU0LjE2OS4yMDcuNDI6MzEyOCcsCiAgICAnaHR0cDovLzUyLjE1LjE5MC4xNTQ6MzEyOCcsCg==</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -599,7 +596,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>77</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -635,7 +632,6 @@
         <entry encoding="base64">XDxQUk9YWV9VUkxcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>295</entry>
         <entry>155</entry>
         <entry>85</entry>
         <entry>74</entry>
@@ -655,6 +651,7 @@
         <entry>121</entry>
         <entry>119</entry>
         <entry>77</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
