@@ -167,12 +167,12 @@
         <mark key="^" line="94" column="34" />
         <mark key="." line="94" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" timestamp="1514796809079">
-        <mark key="'" line="30" column="10" />
-        <mark key="[" line="54" column="4" />
-        <mark key="]" line="54" column="23" />
-        <mark key="^" line="55" column="10" />
-        <mark key="." line="55" column="10" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" timestamp="1515031193629">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="397" column="4" />
+        <mark key="]" line="397" column="3" />
+        <mark key="^" line="397" column="3" />
+        <mark key="." line="397" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/common/controllers.py" timestamp="1514617439967">
         <mark key="'" line="330" column="0" />
@@ -449,8 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/cache/account.py" />
-      <jump line="96" column="0" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
       <jump line="209" column="4" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
       <jump line="210" column="4" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
@@ -549,6 +547,8 @@
       <jump line="90" column="55" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/jx_11x5/crawler.py" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/gd_11x5/crawler.py" />
       <jump line="24" column="29" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/__init__.py" />
+      <jump line="243" column="18" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
