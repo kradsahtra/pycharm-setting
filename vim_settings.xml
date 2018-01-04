@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/model/account.py" timestamp="1515052533820">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/model/account.py" timestamp="1515057839923">
         <mark key="'" line="20" column="8" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="47" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="90" column="40" />
         <mark key="." line="88" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
@@ -29,6 +29,10 @@
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/create_daily_report.py" timestamp="1515057969347">
+        <mark key="[" line="700" column="34" />
+        <mark key="]" line="700" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/db/daily_recharge_return.py" timestamp="1513061997742">
         <mark key="[" line="8" column="27" />
@@ -137,12 +141,12 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/shared/controllers.py" timestamp="1515033770573">
-        <mark key="'" line="365" column="8" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="66" column="22" />
-        <mark key="." line="37" column="21" />
-        <mark key="^" line="37" column="21" />
+      <file name="$USER_HOME$/workspace/bagent/shared/controllers.py" timestamp="1515058254232">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="129" column="31" />
+        <mark key="]" line="129" column="58" />
+        <mark key="." line="129" column="31" />
+        <mark key="^" line="129" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/notification/templates.py" timestamp="1513417756780">
         <mark key="'" line="25" column="0" />
@@ -212,12 +216,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="43" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/shared/models.py" timestamp="1515032027790">
-        <mark key="'" line="73" column="27" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="20" />
+      <file name="$USER_HOME$/workspace/bagent/shared/models.py" timestamp="1515057930651">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="91" column="6" />
+        <mark key="]" line="91" column="22" />
         <mark key="^" line="16" column="0" />
-        <mark key="." line="118" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/frame/const.js" timestamp="1513069868807">
         <mark key="'" line="0" column="0" />
@@ -315,7 +319,7 @@
         <mark key="^" line="41" column="11" />
         <mark key="." line="41" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515057711716">
+      <file name="/Dummy.txt" timestamp="1515058704927">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="13" />
@@ -455,8 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="278" column="25" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
-      <jump line="62" column="34" filename="$USER_HOME$/workspace/bagent/apps/admin/views/agent_view.py" />
       <jump line="61" column="17" filename="$USER_HOME$/workspace/bagent/apps/admin/views/agent_view.py" />
       <jump line="222" column="4" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
       <jump line="251" column="4" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
@@ -555,19 +557,21 @@
       <jump line="462" column="43" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
       <jump line="411" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
       <jump line="479" column="8" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/order.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/bagent/shared/models.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/workspace/bagent/shared/controllers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QHNxbF93cmFwcGVyCg==</text>
+      <register name="&quot;" type="4">
+        <text>get_return_amount(agent.id)</text>
       </register>
       <register name="-" type="4">
-        <text>(agent.parent_id)</text>
+        <text>get_return_amount(agent.id)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjX2FnZW50X3JldHVyblw+</text>
       </register>
       <register name="0" type="4">
-        <text>agent.parent_id</text>
+        <text>get_return_amount</text>
       </register>
       <register name="p" type="4">
         <text />
