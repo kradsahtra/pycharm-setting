@@ -141,12 +141,12 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/shared/controllers.py" timestamp="1515122278214">
+      <file name="$USER_HOME$/workspace/bagent/shared/controllers.py" timestamp="1515123603173">
         <mark key="'" line="72" column="0" />
-        <mark key="[" line="130" column="9" />
-        <mark key="]" line="130" column="19" />
-        <mark key="." line="130" column="19" />
-        <mark key="^" line="130" column="19" />
+        <mark key="[" line="135" column="28" />
+        <mark key="]" line="135" column="24" />
+        <mark key="." line="135" column="24" />
+        <mark key="^" line="135" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/notification/templates.py" timestamp="1513417756780">
         <mark key="'" line="25" column="0" />
@@ -217,10 +217,10 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="43" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/shared/models.py" timestamp="1515121968962">
+      <file name="$USER_HOME$/workspace/bagent/shared/models.py" timestamp="1515123139211">
         <mark key="'" line="93" column="6" />
-        <mark key="[" line="123" column="33" />
-        <mark key="]" line="123" column="33" />
+        <mark key="[" line="108" column="6" />
+        <mark key="]" line="108" column="16" />
         <mark key="^" line="16" column="0" />
         <mark key="." line="123" column="33" />
       </file>
@@ -562,17 +562,17 @@
       <jump line="95" column="38" filename="$USER_HOME$/workspace/bagent/apps/admin/views/agent_view.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text># JSON，关联购买信息</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmaWx0ZXIoVHJhbnNhY3Rpb24udXNlcl9pZCA9PSBhZ2VudC51c2VyX2lkKS5cCg==</text>
       </register>
       <register name="-" type="4">
-        <text># JSON，关联购买信息</text>
+        <text>gain_amount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjX2FnZW50X3JldHVyblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIF9fYmluZF9rZXlfXyA9ICdiaWdiYW5nJwo=</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXIoVHJhbnNhY3Rpb24udXNlcl9pZCA9PSBhZ2VudC51c2VyX2lkKS5cCg==</text>
       </register>
       <register name="p" type="4">
         <text />
