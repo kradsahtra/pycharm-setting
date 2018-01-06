@@ -136,11 +136,12 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/shared/controllers.py" timestamp="1515140856586">
+      <file name="$USER_HOME$/workspace/bagent/shared/controllers.py" timestamp="1515221303069">
         <mark key="'" line="50" column="8" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
+        <mark key="[" line="131" column="25" />
+        <mark key="]" line="132" column="27" />
+        <mark key="." line="132" column="27" />
+        <mark key="^" line="132" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/notification/templates.py" timestamp="1513417756780">
         <mark key="'" line="25" column="0" />
@@ -558,17 +559,17 @@
       <jump line="21" column="0" filename="$USER_HOME$/workspace/bagent/shared/cache.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdyZXR1cm5fcmF0ZV9saXN0JzogZ2V0X3JldHVybl9yYXRlX2l0ZW1zKGFnZW50KSwK</text>
+      <register name="&quot;" type="4">
+        <text>bet_amount</text>
       </register>
       <register name="-" type="4">
-        <text>, value.encode('utf-8')</text>
+        <text>bet_amount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjX2FnZW50X3JldHVyblw+</text>
       </register>
-      <register name="0" type="4">
-        <text>cache_team_profit</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAnYmV0X2Ftb3VudCc6IDAsCg==</text>
       </register>
       <register name="p" type="4">
         <text />
