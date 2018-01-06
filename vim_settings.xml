@@ -142,12 +142,12 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/shared/controllers.py" timestamp="1515225358006">
+      <file name="$USER_HOME$/workspace/bagent/shared/controllers.py" timestamp="1515227844928">
         <mark key="'" line="52" column="8" />
-        <mark key="[" line="143" column="4" />
-        <mark key="]" line="143" column="10" />
-        <mark key="." line="143" column="10" />
-        <mark key="^" line="143" column="10" />
+        <mark key="[" line="133" column="22" />
+        <mark key="]" line="133" column="41" />
+        <mark key="." line="133" column="41" />
+        <mark key="^" line="133" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/notification/templates.py" timestamp="1513417756780">
         <mark key="'" line="25" column="0" />
@@ -214,7 +214,7 @@
         <mark key="^" line="24" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/preset/handler.py" timestamp="1515226205641" />
-      <file name="$USER_HOME$/workspace/bagent/shared/mongodb.py" timestamp="1515224853808">
+      <file name="$USER_HOME$/workspace/bagent/shared/mongodb.py" timestamp="1515227120689">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="11" />
         <mark key="^" line="3" column="11" />
@@ -582,49 +582,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>10000</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>10000</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjX2FnZW50X3JldHVyblw+</text>
       </register>
       <register name="0" type="4">
-        <text>JUSTPAY_WX</text>
+        <text>bonus_amount</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHsidXNlcl9pZCI6IDI1MDk2MSwgInByaWNlIjogMTAuMCwgInR5cGUiOiAicmVjaGFyZ2UiLCAiQHRpbWVzdGFtcCI6ICIyMDE3LTEyLTIyVDA5OjI0OjMwLjE2MTM5NiIsICJjaGFubmVsIjogImp1c3RwYXkifQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAndGVhbV9wcm9maXQnOiBnZXRfdGVhbV9wcm9maXQoYWdlbnQpLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gKCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1rdGltZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHsidXNlcl9pZCI6IDI1MDk2MSwgInByaWNlIjogMTAuMCwgInR5cGUiOiAicmVjaGFyZ2UiLCAiQHRpbWVzdGFtcCI6ICIyMDE3LTEyLTIyVDA5OjI0OjMwLjE2MTM5NiIsICJjaGFubmVsIjogImp1c3RwYXkifQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdyZXR1cm5fcmF0ZV9saXN0JzogZ2V0X3JldHVybl9yYXRlX2l0ZW1zKGFnZW50KSwK</text>
+        <text encoding="base64">ICAgICAgICAndGVhbV9wcm9maXQnOiBnZXRfdGVhbV9wcm9maXQoYWdlbnQpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGdldF9yZXR1cm5fbGkK</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAncmV0dXJuX3JhdGVfbGlzdCc6IGdldF9yZXR1cm5fcmF0ZV9pdGVtcyhhZ2VudCksCg==</text>
+        <text encoding="base64">ICAgIG1rdGltZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICdyZXR1cm5fcmF0ZV9saXN0JzogZ2V0X3JldHVybl9yYXRlX2l0ZW1zKGFnZW50KSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZGVmIGdldF9yZXR1cm5fbGkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
