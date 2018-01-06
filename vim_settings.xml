@@ -136,12 +136,12 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/shared/controllers.py" timestamp="1515221303069">
-        <mark key="'" line="50" column="8" />
-        <mark key="[" line="131" column="25" />
-        <mark key="]" line="132" column="27" />
-        <mark key="." line="132" column="27" />
-        <mark key="^" line="132" column="27" />
+      <file name="$USER_HOME$/workspace/bagent/shared/controllers.py" timestamp="1515223198511">
+        <mark key="'" line="52" column="8" />
+        <mark key="[" line="128" column="38" />
+        <mark key="]" line="128" column="43" />
+        <mark key="." line="128" column="43" />
+        <mark key="^" line="128" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/notification/templates.py" timestamp="1513417756780">
         <mark key="'" line="25" column="0" />
@@ -560,49 +560,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bet_amount</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>bet_amount</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjX2FnZW50X3JldHVyblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnYmV0X2Ftb3VudCc6IDAsCg==</text>
+      <register name="0" type="4">
+        <text>get_month_bonus</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdyZXR1cm5fcmF0ZV9saXN0JzogZ2V0X3JldHVybl9yYXRlX2l0ZW1zKGFnZW50KSwK</text>
+        <text encoding="base64">ICAgICAgICAndGVhbV9wcm9maXQnOiBnZXRfdGVhbV9wcm9maXQoYWdlbnQpLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGdldF9yZXR1cm5fbGkK</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAncmV0dXJuX3JhdGVfbGlzdCc6IGdldF9yZXR1cm5fcmF0ZV9pdGVtcyhhZ2VudCksCg==</text>
+        <text encoding="base64">ICAgIG1rdGltZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICdyZXR1cm5fcmF0ZV9saXN0JzogZ2V0X3JldHVybl9yYXRlX2l0ZW1zKGFnZW50KSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZGVmIGdldF9yZXR1cm5fbGkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAncmV0dXJuX3JhdGVfbGlzdCc6IGdldF9yZXR1cm5fcmF0ZV9pdGVtcyhhZ2VudCksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UodmFsdWUsIGludCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q2FjaGUuaW5pdF9hcHAoYXBwKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVkaXNfc3RvcmUgPSBGbGFza1JlZGlzKGFwcCkK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
