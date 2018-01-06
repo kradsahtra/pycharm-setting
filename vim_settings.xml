@@ -142,12 +142,12 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/shared/controllers.py" timestamp="1515227844928">
+      <file name="$USER_HOME$/workspace/bagent/shared/controllers.py" timestamp="1515229799639">
         <mark key="'" line="52" column="8" />
-        <mark key="[" line="133" column="22" />
-        <mark key="]" line="133" column="41" />
-        <mark key="." line="133" column="41" />
-        <mark key="^" line="133" column="41" />
+        <mark key="[" line="137" column="39" />
+        <mark key="]" line="137" column="61" />
+        <mark key="." line="137" column="61" />
+        <mark key="^" line="137" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/notification/templates.py" timestamp="1513417756780">
         <mark key="'" line="25" column="0" />
@@ -582,16 +582,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>get_win_amount(agent)</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>get_win_amount(agent)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjX2FnZW50X3JldHVyblw+</text>
       </register>
       <register name="0" type="4">
-        <text>bonus_amount</text>
+        <text>float(get_return_amount(agent.id))</text>
       </register>
       <register name="p" type="4">
         <text />
