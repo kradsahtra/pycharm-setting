@@ -24,11 +24,11 @@
         <mark key="^" line="33" column="54" />
         <mark key="." line="33" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1513841932596">
+      <file name="/a.dummy" timestamp="1515230535020">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/create_daily_report.py" timestamp="1515057969347">
         <mark key="[" line="700" column="34" />
@@ -335,7 +335,7 @@
         <mark key="^" line="41" column="11" />
         <mark key="." line="41" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515226197019">
+      <file name="/Dummy.txt" timestamp="1515230543028">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="13" />
@@ -582,10 +582,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get_win_amount(agent)</text>
+        <text>recharge_test</text>
       </register>
       <register name="-" type="4">
-        <text>get_win_amount(agent)</text>
+        <text>recharge_test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjX2FnZW50X3JldHVyblw+</text>
