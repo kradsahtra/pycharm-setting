@@ -51,6 +51,12 @@
         <mark key="^" line="4" column="86" />
         <mark key="." line="4" column="86" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/recharge_test.py" timestamp="1515226304560">
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
+        <mark key="^" line="22" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/apps/preset/models.js" timestamp="1513222072368">
         <mark key="[" line="94" column="20" />
         <mark key="]" line="94" column="20" />
@@ -136,12 +142,12 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/shared/controllers.py" timestamp="1515223198511">
+      <file name="$USER_HOME$/workspace/bagent/shared/controllers.py" timestamp="1515225358006">
         <mark key="'" line="52" column="8" />
-        <mark key="[" line="128" column="38" />
-        <mark key="]" line="128" column="43" />
-        <mark key="." line="128" column="43" />
-        <mark key="^" line="128" column="43" />
+        <mark key="[" line="143" column="4" />
+        <mark key="]" line="143" column="10" />
+        <mark key="." line="143" column="10" />
+        <mark key="^" line="143" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/notification/templates.py" timestamp="1513417756780">
         <mark key="'" line="25" column="0" />
@@ -193,6 +199,7 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="96" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/stats/__init__.py" timestamp="1515224816285" />
       <file name="$USER_HOME$/workspace/bagent/common/utils/logs.py" timestamp="1514602275017">
         <mark key="[" line="11" column="32" />
         <mark key="]" line="11" column="37" />
@@ -205,6 +212,13 @@
         <mark key="]" line="23" column="4" />
         <mark key="." line="23" column="4" />
         <mark key="^" line="24" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/preset/handler.py" timestamp="1515226205641" />
+      <file name="$USER_HOME$/workspace/bagent/shared/mongodb.py" timestamp="1515224853808">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/templates/preset/BannerList.html" timestamp="1513221940488">
         <mark key="[" line="46" column="0" />
@@ -246,12 +260,12 @@
         <mark key="." line="50" column="54" />
         <mark key="^" line="35" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/requirements.txt" timestamp="1515136743945">
+      <file name="$USER_HOME$/workspace/bagent/requirements.txt" timestamp="1515224106812">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="12" />
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="14" />
+        <mark key="^" line="10" column="14" />
+        <mark key="." line="10" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/exceptions.py" timestamp="1513732909521">
         <mark key="'" line="5" column="6" />
@@ -266,12 +280,16 @@
         <mark key="." line="12" column="22" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/shared/cache.py" timestamp="1515140509390">
-        <mark key="'" line="22" column="0" />
+      <file name="$USER_HOME$/workspace/bagent/shared/cache.py" timestamp="1515224046515">
+        <mark key="'" line="29" column="17" />
         <mark key="[" line="14" column="40" />
         <mark key="]" line="14" column="63" />
         <mark key="." line="14" column="40" />
         <mark key="^" line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_test.py" timestamp="1515224945353">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/scripts/sql/bigbang_production.sql" timestamp="1513131545290">
         <mark key="'" line="1887" column="16" />
@@ -317,7 +335,7 @@
         <mark key="^" line="41" column="11" />
         <mark key="." line="41" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515209240687">
+      <file name="/Dummy.txt" timestamp="1515226197019">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="13" />
@@ -337,6 +355,10 @@
         <mark key="." line="76" column="4" />
         <mark key="^" line="75" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/pay/model.py" timestamp="1515226293378">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/notification/view.py" timestamp="1513415339954">
         <mark key="'" line="60" column="19" />
         <mark key="[" line="67" column="43" />
@@ -350,12 +372,12 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/admin_app.py" timestamp="1515137499156">
+      <file name="$USER_HOME$/workspace/bagent/admin_app.py" timestamp="1515224957577">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="17" column="43" />
-        <mark key="." line="17" column="43" />
-        <mark key="^" line="17" column="43" />
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="44" />
+        <mark key="^" line="21" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_bet_return.py" timestamp="1513670741075">
         <mark key="[" line="65" column="0" />
@@ -457,7 +479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/bagent/common/models.py" />
       <jump line="70" column="0" filename="$USER_HOME$/workspace/bagent/common/models.py" />
       <jump line="163" column="28" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/ssc/model.py" />
       <jump line="261" column="27" filename="$USER_HOME$/workspace/bagent/common/controllers.py" />
@@ -557,52 +578,53 @@
       <jump line="393" column="4" filename="$USER_HOME$/workspace/bagent/shared/controllers.py" />
       <jump line="49" column="8" filename="$USER_HOME$/workspace/bagent/shared/controllers.py" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/bagent/shared/cache.py" />
+      <jump line="29" column="17" filename="$USER_HOME$/workspace/bagent/shared/cache.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>10000</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>10000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjX2FnZW50X3JldHVyblw+</text>
       </register>
       <register name="0" type="4">
-        <text>get_month_bonus</text>
+        <text>JUSTPAY_WX</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAndGVhbV9wcm9maXQnOiBnZXRfdGVhbV9wcm9maXQoYWdlbnQpLAo=</text>
+        <text encoding="base64">ICAgICAgICAjIHsidXNlcl9pZCI6IDI1MDk2MSwgInByaWNlIjogMTAuMCwgInR5cGUiOiAicmVjaGFyZ2UiLCAiQHRpbWVzdGFtcCI6ICIyMDE3LTEyLTIyVDA5OjI0OjMwLjE2MTM5NiIsICJjaGFubmVsIjogImp1c3RwYXkifQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gKCkK</text>
+        <text encoding="base64">ICAgICAgICAndGVhbV9wcm9maXQnOiBnZXRfdGVhbV9wcm9maXQoYWdlbnQpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1rdGltZSgpCg==</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdyZXR1cm5fcmF0ZV9saXN0JzogZ2V0X3JldHVybl9yYXRlX2l0ZW1zKGFnZW50KSwK</text>
+        <text encoding="base64">ICAgIG1rdGltZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGdldF9yZXR1cm5fbGkK</text>
+        <text encoding="base64">ICAgICdyZXR1cm5fcmF0ZV9saXN0JzogZ2V0X3JldHVybl9yYXRlX2l0ZW1zKGFnZW50KSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAncmV0dXJuX3JhdGVfbGlzdCc6IGdldF9yZXR1cm5fcmF0ZV9pdGVtcyhhZ2VudCksCg==</text>
+        <text encoding="base64">ZGVmIGdldF9yZXR1cm5fbGkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAncmV0dXJuX3JhdGVfbGlzdCc6IGdldF9yZXR1cm5fcmF0ZV9pdGVtcyhhZ2VudCksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
