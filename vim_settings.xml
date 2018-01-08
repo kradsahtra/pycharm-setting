@@ -226,12 +226,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="43" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/shared/models.py" timestamp="1515134920774">
-        <mark key="'" line="118" column="6" />
-        <mark key="[" line="44" column="4" />
-        <mark key="]" line="44" column="8" />
-        <mark key="^" line="47" column="11" />
-        <mark key="." line="47" column="11" />
+      <file name="$USER_HOME$/workspace/bagent/shared/models.py" timestamp="1515380013875">
+        <mark key="'" line="123" column="6" />
+        <mark key="[" line="120" column="27" />
+        <mark key="]" line="120" column="36" />
+        <mark key="^" line="120" column="36" />
+        <mark key="." line="120" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/frame/const.js" timestamp="1513069868807">
         <mark key="'" line="0" column="0" />
@@ -582,16 +582,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>recharge_test</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>recharge_test</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjX2FnZW50X3JldHVyblw+</text>
       </register>
-      <register name="0" type="4">
-        <text>float(get_return_amount(agent.id))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIF9fdGFibGVuYW1lX18gPSAnYWdlbnRfcmV0dXJuJwogICAgX19iaW5kX2tleV9fID0gJ2JpZ2JhbmcnCg==</text>
       </register>
       <register name="p" type="4">
         <text />
