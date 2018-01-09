@@ -187,6 +187,12 @@
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/db.py" timestamp="1515410257243">
         <mark key="'" line="242" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/bagent/apps/main/templates/register_by_invitation.html" timestamp="1515471365092">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_test.py" timestamp="1515224945353">
         <mark key="[" line="21" column="14" />
         <mark key="]" line="21" column="22" />
@@ -197,12 +203,12 @@
         <mark key="." line="16" column="27" />
         <mark key="^" line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/apps/main/main_view.py" timestamp="1515467635012">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="23" column="86" />
-        <mark key="]" line="23" column="91" />
-        <mark key="^" line="23" column="91" />
-        <mark key="." line="23" column="91" />
+      <file name="$USER_HOME$/workspace/bagent/apps/main/main_view.py" timestamp="1515471475758">
+        <mark key="'" line="20" column="4" />
+        <mark key="[" line="33" column="25" />
+        <mark key="]" line="34" column="7" />
+        <mark key="^" line="34" column="7" />
+        <mark key="." line="34" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/deploy/config_files/bagent.supervisor.conf" timestamp="1514538149885">
         <mark key="[" line="15" column="33" />
@@ -210,11 +216,11 @@
         <mark key="." line="15" column="37" />
         <mark key="^" line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/apps/main/urls.py" timestamp="1515464973502">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="54" />
-        <mark key="." line="4" column="32" />
-        <mark key="^" line="4" column="31" />
+      <file name="$USER_HOME$/workspace/bagent/apps/main/urls.py" timestamp="1515471470775">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="42" />
+        <mark key="." line="5" column="42" />
+        <mark key="^" line="5" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/tz.py" timestamp="1513562144376">
         <mark key="[" line="111" column="4" />
@@ -311,7 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="441" column="26" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
       <jump line="444" column="55" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
       <jump line="456" column="16" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
       <jump line="582" column="8" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/order.py" />
@@ -411,19 +416,20 @@
       <jump line="4" column="9" filename="$USER_HOME$/workspace/bagent/deploy/config_files/bagent.nginx.conf" />
       <jump line="161" column="64" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
       <jump line="510" column="41" filename="$USER_HOME$/workspace/bagent/shared/controllers.py" />
+      <jump line="20" column="4" filename="$USER_HOME$/workspace/bagent/apps/main/main_view.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_apply_normal_return_rate</text>
+        <text>agent_register_page</text>
       </register>
       <register name="-" type="4">
-        <text>_apply_normal_return_rate</text>
+        <text>register_by_invitation</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYWdlbnRfYWRtaW5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>apply_return_rate_by_invitation</text>
+        <text>agent_register_page</text>
       </register>
       <register name="p" type="4">
         <text />
