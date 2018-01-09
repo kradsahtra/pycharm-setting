@@ -127,11 +127,12 @@
       <file name="$USER_HOME$/workspace/bagent/fabfile.py" timestamp="1515464490997">
         <mark key="'" line="22" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" timestamp="1515411334943">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" timestamp="1515467013752">
         <mark key="'" line="467" column="4" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+        <mark key="[" line="490" column="43" />
+        <mark key="]" line="490" column="55" />
+        <mark key="." line="490" column="43" />
+        <mark key="^" line="490" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/notification/handler.py" timestamp="1513220481100">
         <mark key="[" line="49" column="62" />
@@ -195,7 +196,7 @@
         <mark key="." line="16" column="27" />
         <mark key="^" line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/apps/main/main_view.py" timestamp="1515411787663">
+      <file name="$USER_HOME$/workspace/bagent/apps/main/main_view.py" timestamp="1515467635012">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="23" column="86" />
         <mark key="]" line="23" column="91" />
@@ -232,7 +233,7 @@
         <mark key="." line="141" column="45" />
         <mark key="^" line="141" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515464712444">
+      <file name="/Dummy.txt" timestamp="1515466991943">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="13" />
@@ -412,16 +413,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BigInteger</text>
+        <text>uuid.uuid4()</text>
       </register>
       <register name="-" type="4">
-        <text>BigInteger</text>
+        <text>uuid.uuid4()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYWdlbnRfYWRtaW5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>VARCHAR</text>
+        <text>item</text>
       </register>
       <register name="p" type="4">
         <text />
