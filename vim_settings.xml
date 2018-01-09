@@ -197,12 +197,12 @@
         <mark key="." line="16" column="27" />
         <mark key="^" line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/apps/main/main_view.py" timestamp="1515488567637">
+      <file name="$USER_HOME$/workspace/bagent/apps/main/main_view.py" timestamp="1515490152740">
         <mark key="'" line="21" column="36" />
-        <mark key="[" line="39" column="62" />
-        <mark key="]" line="39" column="66" />
-        <mark key="^" line="39" column="66" />
-        <mark key="." line="39" column="66" />
+        <mark key="[" line="37" column="51" />
+        <mark key="]" line="37" column="51" />
+        <mark key="^" line="39" column="91" />
+        <mark key="." line="37" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/deploy/config_files/bagent.supervisor.conf" timestamp="1514538149885">
         <mark key="[" line="15" column="33" />
@@ -240,6 +240,10 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/bagent/shared/utils/logs.py" timestamp="1515489927921">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_bet_return.py" timestamp="1513670741075">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="62" />
@@ -274,6 +278,7 @@
         <mark key="." line="204" column="0" />
         <mark key="^" line="203" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/bagent/settings.py" timestamp="1515489912330" />
       <file name="$USER_HOME$/workspace/bagent/deploy/stages.py" timestamp="1515464530823">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="23" />
@@ -396,50 +401,50 @@
       <jump line="15" column="4" filename="$USER_HOME$/workspace/bagent/shared/utils/exceptions.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGhlbGxvIHdvcmxkCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>abor</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYWdlbnRfYWRtaW5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>get_invitation_by_code</text>
+        <text>API_LOGGER</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlbGxvIHdvcmxkCg==</text>
+        <text encoding="base64">ICAgIEFQSV9MT0dHRVIuaW5mbygnY29kZTogJXMsIDwlcz4nICUgKGNvZGUsIHR5cGUoY29kZSkpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWdlbnRfc2VydmVyX3Jvb3QgPSAnJwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWdlbnRfc2VydmVyX3Jvb3QgPSAnJwo=</text>
+        <text encoding="base64">ICAgIGhlbGxvIHdvcmxkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VSVkVSX1JPT1QgPSAnaHR0cDovLzUyLjE1LjE5MC4xNTQ6ODAwLycK</text>
+        <text encoding="base64">YWdlbnRfc2VydmVyX3Jvb3QgPSAnJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIERCLnNlc3Npb24uY29tbWl0KCkK</text>
+        <text encoding="base64">YWdlbnRfc2VydmVyX3Jvb3QgPSAnJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBEQi5zZXNzaW9uLmNsb3NlKCkK</text>
+        <text encoding="base64">U0VSVkVSX1JPT1QgPSAnaHR0cDovLzUyLjE1LjE5MC4xNTQ6ODAwLycK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIERCLnNlc3Npb24uY29tbWl0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGludml0YXRpb25fY29kZSA9IERCLkNvbHVtbihEQi5WQVJDSEFSLCB1bmlxdWU9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBEQi5zZXNzaW9uLmNsb3NlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERCLnNlc3Npb24uY29tbWl0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>303</text>
