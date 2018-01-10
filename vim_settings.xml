@@ -10,6 +10,12 @@
         <mark key="^" line="115" column="42" />
         <mark key="." line="119" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/bagent/deploy/config_files/bagent.nginx.conf" timestamp="1515574966391">
+        <mark key="'" line="4" column="9" />
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+      </file>
       <file name="/a.dummy" timestamp="1515230535020">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -69,21 +75,29 @@
         <mark key="^" line="32" column="20" />
         <mark key="." line="35" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/main_uwsgi.ini" timestamp="1515464731568">
+      <file name="$USER_HOME$/workspace/bagent/main_uwsgi.ini" timestamp="1515575030192">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/apps/admin/agent_view.py" timestamp="1515488153085">
+      <file name="$USER_HOME$/workspace/bagent/apps/admin/agent_view.py" timestamp="1515573956859">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="25" />
+        <mark key="[" line="40" column="10" />
+        <mark key="]" line="40" column="14" />
+        <mark key="." line="40" column="14" />
+        <mark key="^" line="40" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_recharge_return.py" timestamp="1513065685752">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="35" />
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/bagent/apps/admin/urls.py" timestamp="1515575196378">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+        <mark key="^" line="7" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/bigbang-admin.supervisor.conf" timestamp="1512119475619">
         <mark key="[" line="1" column="14" />
@@ -104,8 +118,8 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/fabfile.py" timestamp="1515464490997">
-        <mark key="'" line="22" column="4" />
+      <file name="$USER_HOME$/workspace/bagent/fabfile.py" timestamp="1515574843999">
+        <mark key="'" line="230" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/gd_11x5/crawler.py" timestamp="1515549043066">
         <mark key="'" line="79" column="20" />
@@ -135,11 +149,6 @@
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/settings_env.py" timestamp="1515487566683">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/bagent/shared/mongodb.py" timestamp="1515227120689">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="11" />
@@ -159,7 +168,7 @@
         <mark key="^" line="55" column="13" />
         <mark key="." line="55" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/shared/models.py" timestamp="1515469949872">
+      <file name="$USER_HOME$/workspace/bagent/shared/models.py" timestamp="1515575358653">
         <mark key="'" line="92" column="6" />
         <mark key="[" line="154" column="4" />
         <mark key="]" line="154" column="13" />
@@ -208,13 +217,13 @@
         <mark key="^" line="39" column="91" />
         <mark key="." line="37" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/deploy/config_files/bagent.supervisor.conf" timestamp="1514538149885">
+      <file name="$USER_HOME$/workspace/bagent/deploy/config_files/bagent.supervisor.conf" timestamp="1515575002920">
         <mark key="[" line="15" column="33" />
         <mark key="]" line="15" column="37" />
         <mark key="." line="15" column="37" />
         <mark key="^" line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/apps/main/urls.py" timestamp="1515487435368">
+      <file name="$USER_HOME$/workspace/bagent/apps/main/urls.py" timestamp="1515575116889">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="42" />
         <mark key="." line="5" column="42" />
@@ -302,7 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="40" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
       <jump line="6" column="9" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
       <jump line="56" column="27" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
@@ -402,19 +410,20 @@
       <jump line="443" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" />
       <jump line="440" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" />
       <jump line="405" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" />
+      <jump line="230" column="38" filename="$USER_HOME$/workspace/bagent/fabfile.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>create_invitation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QHJlcXVpcmVzX2FkbWluX2F1dGgKZGVmIGNyZWF0ZV9hZ2VudCgpOgogICAgcGFyYW1zID0gcmVxdWVzdC5nZXRfanNvbigpCiAgICB1c2VybmFtZSA9IHBhcmFtcy5nZXQoJ3VzZXJuYW1lJykKICAgIHBhc3N3b3JkID0gcGFyYW1zLmdldCgncGFzc3dvcmQnKQogICAgaXNfcm9vdCA9IHBhcmFtcy5nZXQoJ2lzX3Jvb3QnKQogICAgc3VwZXJpb3JfaWQgPSBwYXJhbXMuZ2V0KCdzdXBlcmlvcl9pZCcpCiAgICBib251c19yYXRlID0gcGFyYW1zLmdldCgnYm9udXNfcmF0ZScpCiAgICBhZ2VudF9pZCA9IGNyZWF0ZV9hZ2VudF9ieV9hZG1pbih1c2VybmFtZSwgcGFzc3dvcmQsIGlzX3Jvb3QsIHN1cGVyaW9yX2lkLCBib251c19yYXRlKQogICAgcmV0dXJuIGpzb25pZnkoZ2V0X2FnZW50X2RldGFpbChhZ2VudF9pZCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>create_invitation</text>
+        <text>logout</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQUk9YWV9VUkxcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>validate_return_rate</text>
+      <register name="0" type="2">
+        <text encoding="base64">QHJlcXVpcmVzX2FkbWluX2F1dGgKZGVmIGNyZWF0ZV9hZ2VudCgpOgogICAgcGFyYW1zID0gcmVxdWVzdC5nZXRfanNvbigpCiAgICB1c2VybmFtZSA9IHBhcmFtcy5nZXQoJ3VzZXJuYW1lJykKICAgIHBhc3N3b3JkID0gcGFyYW1zLmdldCgncGFzc3dvcmQnKQogICAgaXNfcm9vdCA9IHBhcmFtcy5nZXQoJ2lzX3Jvb3QnKQogICAgc3VwZXJpb3JfaWQgPSBwYXJhbXMuZ2V0KCdzdXBlcmlvcl9pZCcpCiAgICBib251c19yYXRlID0gcGFyYW1zLmdldCgnYm9udXNfcmF0ZScpCiAgICBhZ2VudF9pZCA9IGNyZWF0ZV9hZ2VudF9ieV9hZG1pbih1c2VybmFtZSwgcGFzc3dvcmQsIGlzX3Jvb3QsIHN1cGVyaW9yX2lkLCBib251c19yYXRlKQogICAgcmV0dXJuIGpzb25pZnkoZ2V0X2FnZW50X2RldGFpbChhZ2VudF9pZCkpCg==</text>
       </register>
       <register name="p" type="4">
         <text />
