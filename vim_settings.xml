@@ -166,6 +166,13 @@
         <mark key="^" line="148" column="28" />
         <mark key="." line="153" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" timestamp="1515569808916">
+        <mark key="'" line="378" column="0" />
+        <mark key="[" line="421" column="0" />
+        <mark key="]" line="421" column="0" />
+        <mark key="." line="421" column="0" />
+        <mark key="^" line="419" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/model.py" timestamp="1515133353135">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="13" column="1" />
@@ -247,11 +254,11 @@
         <mark key="^" line="67" column="15" />
         <mark key="." line="67" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/handler.py" timestamp="1514797377323">
-        <mark key="[" line="62" column="37" />
-        <mark key="]" line="62" column="40" />
-        <mark key="^" line="62" column="40" />
-        <mark key="." line="62" column="40" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/handler.py" timestamp="1515569432326">
+        <mark key="[" line="66" column="33" />
+        <mark key="]" line="66" column="34" />
+        <mark key="^" line="66" column="34" />
+        <mark key="." line="66" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/admin/stats/account.py" timestamp="1512043864077">
         <mark key="[" line="100" column="7" />
@@ -268,12 +275,12 @@
         <mark key="." line="25" column="34" />
         <mark key="^" line="25" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" timestamp="1515565747216">
-        <mark key="'" line="200" column="0" />
-        <mark key="[" line="204" column="11" />
-        <mark key="]" line="204" column="42" />
-        <mark key="^" line="204" column="41" />
-        <mark key="." line="204" column="41" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" timestamp="1515569701466">
+        <mark key="'" line="55" column="30" />
+        <mark key="[" line="204" column="31" />
+        <mark key="]" line="204" column="45" />
+        <mark key="." line="204" column="31" />
+        <mark key="^" line="208" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/deploy/stages.py" timestamp="1515464530823">
         <mark key="[" line="10" column="20" />
@@ -295,12 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="393" column="4" filename="$USER_HOME$/workspace/bagent/shared/controllers.py" />
-      <jump line="49" column="8" filename="$USER_HOME$/workspace/bagent/shared/controllers.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/bagent/shared/cache.py" />
-      <jump line="29" column="17" filename="$USER_HOME$/workspace/bagent/shared/cache.py" />
-      <jump line="108" column="19" filename="$USER_HOME$/workspace/bagent/shared/models.py" />
-      <jump line="127" column="22" filename="$USER_HOME$/workspace/bagent/shared/models.py" />
       <jump line="99" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/model/account.py" />
       <jump line="130" column="0" filename="$USER_HOME$/workspace/bagent/shared/models.py" />
       <jump line="20" column="2" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/model/account.py" />
@@ -395,52 +396,58 @@
       <jump line="107" column="74" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
       <jump line="201" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
       <jump line="200" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
+      <jump line="54" column="30" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
+      <jump line="347" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" />
+      <jump line="362" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" />
+      <jump line="343" column="8" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" />
+      <jump line="361" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" />
+      <jump line="378" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>agent/get_available_return_rate/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnYXZhaWxhYmxlX2Ftb3VudCc6IDMwMCwKICAgICAgICAnY2hpbGRfbGlzdCc6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ3VzZXJfaWQnOiAxMjM0NSwKICAgICAgICAgICAgICAgICdhZ2VudF9pZCc6IDEyMzQ1LAogICAgICAgICAgICAgICAgJ3VzZXJuYW1lJzogdSflpKfpurvlrZAnCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICd1c2VyX2lkJzogMTIzNDUsCiAgICAgICAgICAgICAgICAnYWdlbnRfaWQnOiAxMjM0NSwKICAgICAgICAgICAgICAgICd1c2VybmFtZSc6IHUn5aSn6bq75a2QJwogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAndXNlcl9pZCc6IDEyMzQ1LAogICAgICAgICAgICAgICAgJ2FnZW50X2lkJzogMTIzNDUsCiAgICAgICAgICAgICAgICAndXNlcm5hbWUnOiB1J+Wkp+m6u+WtkCcKICAgICAgICAgICAgfSwKICAgICAgICBdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>create_invitation</text>
+        <text>transfer_info</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQUk9YWV9VUkxcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>agent/get_available_return_rate/</text>
+      <register name="0" type="2">
+        <text encoding="base64">QHJlcXVpcmVfR0VUCkByZXNwb25zZV93cmFwcGVyCkB0b2tlbl9yZXF1aXJlZApkZWYgZ2V0X3RyYW5zZmVyX2luZm8ocmVxKToKICAgIHJlc3VsdCA9IHsKICAgICAgICAnYXZhaWxhYmxlX2Ftb3VudCc6IDMwMCwKICAgICAgICAnY2hpbGRfbGlzdCc6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ3VzZXJfaWQnOiAxMjM0NSwKICAgICAgICAgICAgICAgICdhZ2VudF9pZCc6IDEyMzQ1LAogICAgICAgICAgICAgICAgJ3VzZXJuYW1lJzogdSflpKfpurvlrZAnCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICd1c2VyX2lkJzogMTIzNDUsCiAgICAgICAgICAgICAgICAnYWdlbnRfaWQnOiAxMjM0NSwKICAgICAgICAgICAgICAgICd1c2VybmFtZSc6IHUn5aSn6bq75a2QJwogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAndXNlcl9pZCc6IDEyMzQ1LAogICAgICAgICAgICAgICAgJ2FnZW50X2lkJzogMTIzNDUsCiAgICAgICAgICAgICAgICAndXNlcm5hbWUnOiB1J+Wkp+m6u+WtkCcKICAgICAgICAgICAgfSwKICAgICAgICBdCiAgICB9CiAgICByZXR1cm4gcmVzdWx0Cgo=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15hZ2VudC9jcmVhdGVfaW52aXRhdGlvbi8/JCcsIGNyZWF0ZV9pbnZpdGF0aW9uKSwK</text>
+        <text encoding="base64">ICAgICAgICAnYXZhaWxhYmxlX2Ftb3VudCc6IDMwMCwKICAgICAgICAnY2hpbGRfbGlzdCc6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ3VzZXJfaWQnOiAxMjM0NSwKICAgICAgICAgICAgICAgICdhZ2VudF9pZCc6IDEyMzQ1LAogICAgICAgICAgICAgICAgJ3VzZXJuYW1lJzogdSflpKfpurvlrZAnCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICd1c2VyX2lkJzogMTIzNDUsCiAgICAgICAgICAgICAgICAnYWdlbnRfaWQnOiAxMjM0NSwKICAgICAgICAgICAgICAgICd1c2VybmFtZSc6IHUn5aSn6bq75a2QJwogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAndXNlcl9pZCc6IDEyMzQ1LAogICAgICAgICAgICAgICAgJ2FnZW50X2lkJzogMTIzNDUsCiAgICAgICAgICAgICAgICAndXNlcm5hbWUnOiB1J+Wkp+m6u+WtkCcKICAgICAgICAgICAgfSwKICAgICAgICBdCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15hZ2VudC9wcm9maXQvPyQnLCBnZXRfaW52aXRhdGlvbl9saXN0KSwK</text>
+        <text encoding="base64">ICAgICAgICAnbGluayc6IGxpbmsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByZXNwb25zZS50ZXh0Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybl9yYXRlID0gcGFyYW1zLmdldCgncmV0dXJuX3JhdGUnKQogICAgcmV0dXJuX3JhdGVfZGljdCA9IHBhcmFtcy5nZXQoJ3JldHVybl9yYXRlX2RpY3QnKQogICAgaWYgbm90IHJldHVybl9yYXRlIG9yIG5vdCByZXR1cm5fcmF0ZV9kaWN0OgogICAgICAgIHJhaXNlIFBhcmFtRXJyb3IoJ3JldHVybl9yYXRlIGFuZCByZXR1cm5faXRlbXMgcmVxdWlyZWQnKQogICAgdXNlcl9pZCA9IHJlcS51c2VyX2lkCiAgICBhZ2VudCA9IGdldF9hZ2VudF9ieV91c2VyX2lkKHVzZXJfaWQpCiAgICBpZiBub3QgYWdlbnQ6CiAgICAgICAgcmFpc2UgUGVybWlzc2lvbkVycm9yKCdhY2NvdW50IGlzIG5vdCBhZ2VudCcpCiAgICBjb2RlID0gY3JlYXRlX2ludml0YXRpb25fbGluayhhZ2VudCwgcmV0dXJuX3JhdGUsIHJldHVybl9yYXRlX2RpY3QpCiAgICBsaW5rID0gc2V0dGluZ3MuQUdFTlRfU0VSVkVSX1JPT1QgKyAnL2JhZ2VudC9hZ2VudF9yZWdpc3Rlcj9jb2RlPSVzJyAlIGNvZGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50IHVybAo=</text>
+        <text encoding="base64">ICAgIHVybChyJ15hZ2VudC9nZXRfaW52aXRhdGlvbl9saXN0Lz8kJywgZ2V0X2ludml0YXRpb25fbGlzdCksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVybChyJ15hZ2VudC9jcmVhdGVfaW52aXRhdGlvbi8/JCcsIGNyZWF0ZV9pbnZpdGF0aW9uKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGgyPkxvZ2luIEZvcm08L2gyPgo=</text>
+        <text encoding="base64">ICAgIHVzZXJfaWQgPSByZXEudXNlcl9pZAogICAgYWdlbnQgPSBnZXRfYWdlbnRfYnlfdXNlcl9pZCh1c2VyX2lkKQogICAgaWYgbm90IGFnZW50OgogICAgICAgIHJhaXNlIFBlcm1pc3Npb25FcnJvcignYWNjb3VudCBpcyBub3QgYWdlbnQnKQogICAgcmVjb3JkcyA9IGdldF9pbnZpdGF0aW9ucyhhZ2VudCkKICAgIHJlc3VsdCA9IFtdCiAgICBmb3IgcmVjb3JkIGluIHJlY29yZHM6CiAgICAgICAgcmVzdWx0LmFwcGVuZChyZWNvcmQuYXNfZGljdCgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvZGU6IDQwNzJjOTRjLTFkNTgtNDBmOS1iMjYxLWIyMmY2ZWNjNDJjOAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHVybChyJ15hZ2VudC9nZXRfaW52aXRhdGlvbl9saXN0Lz8kJywgZ2V0X2ludml0YXRpb25fbGlzdCksCiAgICB1cmwocideYWdlbnQvZ2V0X2F2YWlsYWJsZV9yZXR1cm5fcmF0ZS8/JCcsIGNyZWF0ZV9pbnZpdGF0aW9uKSwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">LmNhbmNlbGJ0biB7CiAgICB3aWR0aDogYXV0bzsKICAgIHBhZGRpbmc6IDEwcHggMThweDsKICAgIGJhY2tncm91bmQtY29sb3I6ICNmNDQzMzY7Cn0K</text>
+        <text encoding="base64">ICAgIHVybChyJ15hZ2VudC9wcm9maXQvPyQnLCBnZXRfaW52aXRhdGlvbl9saXN0KSwK</text>
       </register>
       <register name=":" type="4">
         <text>303</text>
