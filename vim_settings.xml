@@ -80,12 +80,12 @@
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/apps/admin/agent_view.py" timestamp="1515577124278">
+      <file name="$USER_HOME$/workspace/bagent/apps/admin/agent_view.py" timestamp="1515578762125">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="45" column="41" />
-        <mark key="]" line="45" column="42" />
-        <mark key="^" line="44" column="50" />
-        <mark key="." line="45" column="42" />
+        <mark key="[" line="43" column="34" />
+        <mark key="]" line="43" column="41" />
+        <mark key="^" line="43" column="41" />
+        <mark key="." line="43" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_recharge_return.py" timestamp="1513065685752">
         <mark key="[" line="3" column="21" />
@@ -413,16 +413,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>superior_id</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>superior_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQUk9YWV9VUkxcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>superior_id</text>
+        <text>get_agent_by_agent_id(superior_id)</text>
       </register>
       <register name="p" type="4">
         <text />
