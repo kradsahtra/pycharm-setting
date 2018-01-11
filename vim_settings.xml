@@ -174,12 +174,12 @@
         <mark key="^" line="148" column="28" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" timestamp="1515571036036">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" timestamp="1515636824095">
         <mark key="'" line="405" column="0" />
-        <mark key="[" line="478" column="4" />
-        <mark key="]" line="478" column="23" />
-        <mark key="." line="482" column="27" />
-        <mark key="^" line="482" column="27" />
+        <mark key="[" line="412" column="30" />
+        <mark key="]" line="412" column="37" />
+        <mark key="." line="412" column="37" />
+        <mark key="^" line="412" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/model.py" timestamp="1515133353135">
         <mark key="[" line="4" column="0" />
@@ -283,7 +283,7 @@
         <mark key="." line="25" column="34" />
         <mark key="^" line="25" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" timestamp="1515635736396">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" timestamp="1515636879479">
         <mark key="'" line="55" column="30" />
         <mark key="[" line="208" column="43" />
         <mark key="]" line="208" column="63" />
@@ -413,10 +413,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>superior_id</text>
+        <text>user_id</text>
       </register>
       <register name="-" type="4">
-        <text>superior_id</text>
+        <text>user_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQUk9YWV9VUkxcPg==</text>
