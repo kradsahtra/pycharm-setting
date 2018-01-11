@@ -115,12 +115,12 @@
       <file name="$USER_HOME$/workspace/bagent/fabfile.py" timestamp="1515574843999">
         <mark key="'" line="230" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/apps/admin/admin_view.py" timestamp="1515663666374">
+      <file name="$USER_HOME$/workspace/bagent/apps/admin/admin_view.py" timestamp="1515669097040">
         <mark key="'" line="113" column="0" />
-        <mark key="[" line="134" column="19" />
-        <mark key="]" line="134" column="40" />
-        <mark key="^" line="134" column="18" />
-        <mark key="." line="134" column="19" />
+        <mark key="[" line="135" column="19" />
+        <mark key="]" line="135" column="19" />
+        <mark key="^" line="135" column="19" />
+        <mark key="." line="135" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" timestamp="1515660982421">
         <mark key="'" line="536" column="41" />
@@ -389,10 +389,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>params.get('approve')</text>
+        <text>result</text>
       </register>
       <register name="-" type="4">
-        <text>params.get('approve')</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja190cmFkZV9wd2RcPg==</text>
@@ -404,36 +404,36 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKCkK</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IFtdCiAgICBmb3IgaXRlbSBpbiBnZXRfcGVuZGluZ190cmFuc2Zlcl9yZWNvcmQoKToKICAgICAgICByZXN1bHQuYXBwZW5kKHRvX2RpY3QoaXRlbSkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IFtdCiAgICBmb3IgaXRlbSBpbiBnZXRfcGVuZGluZ190cmFuc2Zlcl9yZWNvcmQoKToKICAgICAgICByZXN1bHQuYXBwZW5kKHRvX2RpY3QoaXRlbSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdCA9IFtdCiAgICBmb3IgaXRlbSBpbiBnZXRfcGVuZGluZ190cmFuc2Zlcl9yZWNvcmQoKToKICAgICAgICByZXN1bHQuYXBwZW5kKHRvX2RpY3QoaXRlbSkpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>'
 '
 '</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">QUdFTlRfVFJBTlNGRVJfU1RBVFVTID0gRW51bSh7Cn0pCgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdQRU5ESU5HJzogKCdwZW5kaW5nJywgdSflvoXlrqHmoLgnKSwKICAgICdBUFBST1ZFRCc6ICgnYXBwcm92ZWQnLCB1J+W3sumAmui/hycpLAogICAgJ1JFSkVDVEVEJzogKCdyZWplY3RlZCcsIHUn5ouS57udJyksCg==</text>
+        <text encoding="base64">QUdFTlRfVFJBTlNGRVJfU1RBVFVTID0gRW51bSh7Cn0pCgo=</text>
       </register>
       <register name=":" type="4">
         <text>303</text>
