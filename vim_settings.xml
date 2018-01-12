@@ -120,12 +120,12 @@
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/gd_11x5/crawler.py" timestamp="1515549043066">
         <mark key="'" line="79" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" timestamp="1515750119418">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" timestamp="1515753354881">
         <mark key="'" line="600" column="40" />
-        <mark key="[" line="595" column="4" />
-        <mark key="]" line="595" column="20" />
+        <mark key="[" line="607" column="49" />
+        <mark key="]" line="607" column="55" />
         <mark key="." line="607" column="49" />
-        <mark key="^" line="607" column="49" />
+        <mark key="^" line="607" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/notification/handler.py" timestamp="1513220481100">
         <mark key="[" line="49" column="62" />
@@ -398,10 +398,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get_person_profit</text>
+        <text>result</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVJWSUNFX0lEXD4=</text>
