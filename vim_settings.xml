@@ -163,12 +163,11 @@
         <mark key="." line="24" column="10" />
         <mark key="^" line="24" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" timestamp="1515661148647">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" timestamp="1515721388128">
         <mark key="'" line="332" column="10" />
-        <mark key="[" line="396" column="29" />
-        <mark key="]" line="396" column="32" />
-        <mark key="." line="396" column="32" />
-        <mark key="^" line="396" column="32" />
+        <mark key="[" line="491" column="0" />
+        <mark key="]" line="491" column="0" />
+        <mark key="." line="491" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/model.py" timestamp="1515669804686">
         <mark key="'" line="75" column="6" />
@@ -390,8 +389,8 @@
       <jump line="381" column="78" filename="$USER_HOME$/workspace/bagent/shared/controllers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>handle_transfer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="-" type="4">
         <text>receiver_user_id</text>
@@ -406,38 +405,42 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IFsKICAgICAgICB7fQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="3" type="4">
+        <text>{
+        '7.7': 2,
+        '7.6': 20,
+        '7.5': 200,
+    }</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>&quot;: (
-&quot;: (
-&quot;: (</text>
-      </register>
-      <register name="5" type="8">
-        <text>&quot;
-&quot;
-&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="8">
+        <text>&quot;: (
+&quot;: (
+&quot;: (</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="8" type="8">
+        <text>&quot;
+&quot;
+&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb24gPSBEQi5zZXNzaW9uKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>303</text>
