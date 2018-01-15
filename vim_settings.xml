@@ -60,6 +60,10 @@
         <mark key="^" line="191" column="40" />
         <mark key="." line="191" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/bigbang-admin.nginx.conf" timestamp="1516005269907">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="33" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/bagent/shared/utils/orm.py" timestamp="1515662746758">
         <mark key="[" line="13" column="27" />
         <mark key="]" line="13" column="31" />
@@ -100,6 +104,12 @@
         <mark key="]" line="17" column="56" />
         <mark key="." line="17" column="30" />
         <mark key="^" line="17" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/bagent.nginx.conf" timestamp="1516005315083">
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="37" column="23" />
+        <mark key="^" line="37" column="23" />
+        <mark key="." line="37" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/requirements.txt" timestamp="1515834929861">
         <mark key="'" line="59" column="1" />
@@ -270,7 +280,7 @@
         <mark key="." line="141" column="45" />
         <mark key="^" line="141" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1516000134732">
+      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1516005654517">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="61" column="5" />
         <mark key="]" line="61" column="7" />
@@ -459,17 +469,17 @@
       <jump line="48" column="0" filename="$USER_HOME$/workspace/deploy/config.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">VFJBTlNBQ1RJT05fVFlQRSA9IEVudW0oewogICAgIklOIjogKDFMLCB1IuWFheWAvCIpLAogICAgIkFXQVJEIjogKDJMLCB1Iua0vuWlliIpLAogICAgIkJBTEFOQ0VfQlVZIjogKDRMLCB1Iui0reW9qSIpLAogICAgIlJFRlVORCI6ICg4TCwgdSLpgIDmrL4iKSwKICAgICJXSVRIRFJBVyI6ICgxNkwsIHUi5o+Q546wIiksCiAgICAiUEFZX09GRiI6ICgzMkwsIHUi6LWU5LuYIiksCiAgICAiQUdFTlRfUkVUVVJOIjogKDMzTCwgdSLku6PnkIbov5TngrkiKSwKICAgICJBR0VOVF9CT05VUyI6ICgzNEwsIHUi5Luj55CG5YiG57qiIiksCiAgICAiQUdFTlRfVFJBTlNGRVIiOiAoMzVMLCB1IuS7o+eQhui9rOi0piIpLAogICAgIlBMQVRGT1JNX1RSQU5TRkVSIjogKDM2TCwgdSLlubPlj7DovazotKYiKSwKfSkK</text>
+      <register name="&quot;" type="4">
+        <text>bigbang</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>bigbang</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYWdpbmF0ZV9vYmpcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VFJBTlNBQ1RJT05fVFlQRSA9IEVudW0oewogICAgIklOIjogKDFMLCB1IuWFheWAvCIpLAogICAgIkFXQVJEIjogKDJMLCB1Iua0vuWlliIpLAogICAgIkJBTEFOQ0VfQlVZIjogKDRMLCB1Iui0reW9qSIpLAogICAgIlJFRlVORCI6ICg4TCwgdSLpgIDmrL4iKSwKICAgICJXSVRIRFJBVyI6ICgxNkwsIHUi5o+Q546wIiksCiAgICAiUEFZX09GRiI6ICgzMkwsIHUi6LWU5LuYIiksCiAgICAiQUdFTlRfUkVUVVJOIjogKDMzTCwgdSLku6PnkIbov5TngrkiKSwKICAgICJBR0VOVF9CT05VUyI6ICgzNEwsIHUi5Luj55CG5YiG57qiIiksCiAgICAiQUdFTlRfVFJBTlNGRVIiOiAoMzVMLCB1IuS7o+eQhui9rOi0piIpLAogICAgIlBMQVRGT1JNX1RSQU5TRkVSIjogKDM2TCwgdSLlubPlj7DovazotKYiKSwKfSkK</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uID0gL2Zhdmljb24uaWNvIHsgZGVueSBhbGw7ZXJyb3JfbG9nIG9mZjsgYWNjZXNzX2xvZyBvZmY7IGxvZ19ub3RfZm91bmQgb2ZmOyB9CgogICAgbG9jYXRpb24gLyB7CgkgICAgaWYgKCRyZXF1ZXN0X21ldGhvZCA9IE9QVElPTlMgKSB7CgkJICAgIGFkZF9oZWFkZXIgQ29udGVudC1MZW5ndGggMDsKCQkgICAgYWRkX2hlYWRlciBDb250ZW50LVR5cGUgdGV4dC9wbGFpbjsKCQkgICAgYWRkX2hlYWRlciBBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW4gKjsKCQkgICAgYWRkX2hlYWRlciBBY2Nlc3MtQ29udHJvbC1BbGxvdy1IZWFkZXJzICdvcmlnaW4sIHgtcmVxdWVzdGVkLXdpdGgsIGNvbnRlbnQtdHlwZSwgYWNjZXB0LCBYLUFVVEgtVVNFUiwgWC1BVVRILVRPS0VOLCBYLVNJR04nOwoJCSAgICBhZGRfaGVhZGVyIEFjY2Vzcy1Db250cm9sLUFsbG93LU1ldGhvZHMgJ0dFVCwgUE9TVCwgUFVUJzsKCQkgICAgcmV0dXJuIDIwMDsKCSAgICB9CgkgICAgcm9vdCAvb3B0L2JpZ2JhbmctYWRtaW4td2ViL2VuYWJsZWQvYXBwLzsKCSAgICBpbmRleCBpbmRleC5odG1sOwogICAgfQo=</text>
       </register>
       <register name="p" type="4">
         <text />
