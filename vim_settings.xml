@@ -118,12 +118,12 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/apps/admin/admin_view.py" timestamp="1515836145843">
+      <file name="$USER_HOME$/workspace/bagent/apps/admin/admin_view.py" timestamp="1516085523522">
         <mark key="'" line="59" column="24" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="165" column="5" />
-        <mark key="^" line="61" column="86" />
-        <mark key="." line="61" column="86" />
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="34" column="40" />
+        <mark key="^" line="34" column="18" />
+        <mark key="." line="34" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/notification/handler.py" timestamp="1513220481100">
         <mark key="[" line="49" column="62" />
@@ -443,10 +443,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>52.15.190.154</text>
+        <text>params.get('is_root')</text>
       </register>
       <register name="-" type="4">
-        <text>52.15.190.154</text>
+        <text>params.get('is_root')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjX2FnZW50X3JldHVyblw+</text>
