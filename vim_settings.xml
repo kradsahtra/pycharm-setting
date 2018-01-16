@@ -73,12 +73,12 @@
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" timestamp="1516086197628">
         <mark key="'" line="171" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1516091511848">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1516092765999">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="332" column="36" />
-        <mark key="]" line="332" column="41" />
-        <mark key="^" line="332" column="41" />
-        <mark key="." line="332" column="41" />
+        <mark key="[" line="333" column="87" />
+        <mark key="]" line="333" column="88" />
+        <mark key="^" line="333" column="88" />
+        <mark key="." line="333" column="88" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/apps/admin/agent_view.py" timestamp="1515578762125">
         <mark key="'" line="19" column="0" />
@@ -131,6 +131,13 @@
         <mark key="]" line="34" column="40" />
         <mark key="^" line="34" column="18" />
         <mark key="." line="34" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" timestamp="1516092686061">
+        <mark key="'" line="624" column="5" />
+        <mark key="[" line="425" column="4" />
+        <mark key="]" line="425" column="29" />
+        <mark key="." line="431" column="0" />
+        <mark key="^" line="430" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/notification/handler.py" timestamp="1513220481100">
         <mark key="[" line="49" column="62" />
@@ -454,51 +461,50 @@
       <jump line="34" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/order.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxjX2FnZW50X3JldHVybihvcmRlci51c2VyX2lkLCBvcmRlci5wcmljZSkKCg==</text>
+      <register name="&quot;" type="4">
+        <text>hit['rate']</text>
       </register>
       <register name="-" type="4">
-        <text>price</text>
+        <text>hit['rate']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjX2FnZW50X3JldHVyblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxjX2FnZW50X3JldHVybihpbmZvWyd1c2VyX2lkJ10sIHByaWNlKQo=</text>
+      <register name="0" type="4">
+        <text>get_return_rate_by_user_id</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxjX2FnZW50X3JldHVybihvcmRlci51c2VyX2lkLCBvcmRlci5wcmljZSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCdoaXQgaXMgJXMnICUgaGl0KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBmbG9hdChyZXR1cm5fcmF0ZV9pdGVtLmFtb3VudCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybl9yYXRlX2l0ZW0gPSBSZXR1cm5SYXRlSXRlbS5xdWVyeS5maWx0ZXIoUmV0dXJuUmF0ZUl0ZW0udXNlcl9pZCA9PSBhZ2VudF9pZCkuZmlyc3QoKQogICAgaWYgbm90IHJldHVybl9yYXRlX2l0ZW06CiAgICAgICAgcmV0dXJuIE1JTl9SRVRVUk5fUkFURQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygnaW5mbyBpcyAlcycgJSBpbmZvKQo=</text>
+        <text encoding="base64">ICAgICAgICBjYWxjX2FnZW50X3JldHVybihvcmRlci51c2VyX2lkLCBvcmRlci5wcmljZSkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmluZm8oJ2luZm8gaXMgJXMnICUgaW5mbykK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxjX2FnZW50X3JldHVybihpbmZvWyd1c2VyX2lkJ10sIGluZm9bJ3ByaWNlJ10pCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>apt-get install -y make build-essential zlib1g-dev libbz2-dev libreadline-dev \
-                  libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev libmysqlclient-dev python-dev</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygnaW5mbyBpcyAlcycgJSBpbmZvKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmluZm8oJ2luZm8gaXMgJXMnICUgaW5mbykK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">W3Rvb2wtc2VydmVyXQpiaWdiYW5nLXRvb2wgYW5zaWJsZV9weXRob25faW50ZXJwcmV0ZXI9L3Vzci9iaW4vcHl0aG9uMwo=</text>
+        <text encoding="base64">ICAgICAgICBjYWxjX2FnZW50X3JldHVybihpbmZvWyd1c2VyX2lkJ10sIGluZm9bJ3ByaWNlJ10pCg==</text>
       </register>
       <register name=":" type="4">
         <text>303</text>
