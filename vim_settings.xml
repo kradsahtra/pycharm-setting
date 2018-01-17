@@ -79,7 +79,7 @@
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" timestamp="1516086197628">
         <mark key="'" line="171" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/demo.py" timestamp="1516101982026">
+      <file name="$USER_HOME$/workspace/loki_bot/demo.py" timestamp="1516154847411">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -205,6 +205,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="43" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" timestamp="1516155268221">
+        <mark key="'" line="66" column="65" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1516014105540">
         <mark key="'" line="105" column="64" />
         <mark key="[" line="75" column="0" />
@@ -327,6 +333,7 @@
         <mark key="^" line="161" column="94" />
         <mark key="." line="161" column="94" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/crawler.py" timestamp="1516154987059" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_dev.py" timestamp="1516070247893">
         <mark key="'" line="16" column="27" />
         <mark key="[" line="25" column="28" />
@@ -393,7 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="74" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
       <jump line="201" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
       <jump line="200" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
       <jump line="54" column="30" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
@@ -493,13 +499,14 @@
       <jump line="49" column="6" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/model/account.py" />
       <jump line="7" column="17" filename="$USER_HOME$/workspace/loki_bot/.gitignore" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/loki_bot/demo.py" />
+      <jump line="66" column="65" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>params.get('superior_id')</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjX2FnZW50X3JldHVyblw+</text>
@@ -511,7 +518,7 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoc3lzLnBhdGgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -520,25 +527,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWlyZW1lbnRzLnR4dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UkVBRE1FLm1kCg==</text>
+        <text encoding="base64">cmVxdWlyZW1lbnRzLnR4dAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
+        <text encoding="base64">UkVBRE1FLm1kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
+        <text encoding="base64">LmlkZWEvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dG8K</text>
+        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCdoaXQgaXMgJXMsIHdpbl9wcmljZSBpcyAlcycgJSAoaGl0LCB3aW5fcHJpY2UpKQo=</text>
+        <text encoding="base64">dG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCdoaXQgaXMgJXMnICUgaGl0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCdoaXQgaXMgJXMsIHdpbl9wcmljZSBpcyAlcycgJSAoaGl0LCB3aW5fcHJpY2UpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>303</text>
