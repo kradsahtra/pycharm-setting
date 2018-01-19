@@ -144,12 +144,12 @@
         <mark key="^" line="68" column="11" />
         <mark key="." line="68" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" timestamp="1516330823711">
-        <mark key="'" line="644" column="5" />
-        <mark key="[" line="562" column="19" />
-        <mark key="]" line="562" column="31" />
-        <mark key="." line="562" column="31" />
-        <mark key="^" line="562" column="31" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" timestamp="1516332056536">
+        <mark key="'" line="650" column="5" />
+        <mark key="[" line="605" column="0" />
+        <mark key="]" line="605" column="0" />
+        <mark key="." line="605" column="0" />
+        <mark key="^" line="604" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/notification/handler.py" timestamp="1513220481100">
         <mark key="[" line="49" column="62" />
@@ -469,55 +469,53 @@
       <jump line="570" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>balance</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>balance</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjX2FnZW50X3JldHVyblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlbmRlcl90cmFucy51c2VyX2lkID0gc2VuZGVyX3VzZXJfaWQK</text>
+        <text encoding="base64">ICAgICAgICByZWNlaXZlcl9hY2NvdW50LmFnZW50X2JhbGFuY2UgKz0gYW1vdW50Cg==</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="8">
         <text>sender
 sender
 sender
 sender</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHBhcmFtcyA9IGpzb24ubG9hZHMocmVxLmJvZHkpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4geydpc192YWxpZCc6IEZhbHNlfQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4geydpc192YWxpZCc6IFRydWV9Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGlmIGdldF9hdmFpbGFibGVfcmV0dXJuX3JhdGVfaXRlbShhZ2VudC5pZCwgcmV0dXJuX3JhdGUpOgo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHJldHVybl9yYXRlID0gZmxvYXQocGFyYW1zLmdldCgncmV0dXJuX3JhdGUnKSkK</text>
-      </register>
-      <register name="9" type="4">
-        <text>get_team_stats(child_account.id, start_date, end_date, &quot;win&quot;) +
-                                          get_team_stats(child_account.id, start_date, end_date, &quot;agent_return&quot;) -
-                                          get_team_stats(child_account.id, start_date, end_date, &quot;pay&quot;)</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
