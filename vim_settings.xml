@@ -130,12 +130,12 @@
         <mark key="[" line="151" column="0" />
         <mark key="]" line="152" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/shared/controllers.py" timestamp="1516329925049">
+      <file name="$USER_HOME$/workspace/bagent/shared/controllers.py" timestamp="1516350260798">
         <mark key="'" line="411" column="4" />
-        <mark key="[" line="666" column="0" />
-        <mark key="]" line="667" column="61" />
-        <mark key="^" line="660" column="32" />
-        <mark key="." line="666" column="0" />
+        <mark key="[" line="127" column="38" />
+        <mark key="]" line="127" column="63" />
+        <mark key="^" line="127" column="37" />
+        <mark key="." line="127" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/common/utils/auth.py" timestamp="1514622572392">
         <mark key="[" line="13" column="12" />
@@ -488,16 +488,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>36L</text>
+        <text>float(item.get('amount'))</text>
       </register>
       <register name="-" type="4">
-        <text>36L</text>
+        <text>return_rate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjX2FnZW50X3JldHVyblw+</text>
       </register>
       <register name="0" type="4">
-        <text>AGENT_TRANSACTION_MAGIC_TYPE</text>
+        <text>float(item.get('amount'))</text>
       </register>
       <register name="p" type="4">
         <text />
