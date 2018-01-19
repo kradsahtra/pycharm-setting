@@ -144,12 +144,12 @@
         <mark key="^" line="68" column="11" />
         <mark key="." line="68" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" timestamp="1516265959143">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" timestamp="1516328849616">
         <mark key="'" line="627" column="5" />
-        <mark key="[" line="383" column="42" />
-        <mark key="]" line="383" column="42" />
-        <mark key="." line="383" column="42" />
-        <mark key="^" line="374" column="20" />
+        <mark key="[" line="582" column="12" />
+        <mark key="]" line="582" column="24" />
+        <mark key="." line="582" column="24" />
+        <mark key="^" line="582" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/notification/handler.py" timestamp="1513220481100">
         <mark key="[" line="49" column="62" />
@@ -466,16 +466,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC0gYWNjb3VudC5hZ2VudF9iYWxhbmNl</text>
+        <text>agent_amount</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0gYWNjb3VudC5hZ2VudF9iYWxhbmNl</text>
+        <text>agent_amount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjX2FnZW50X3JldHVyblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFjY291bnQud2l0aGRyYXcgPSBtaW4oYWNjb3VudC5iYWxhbmNlLCBhY2NvdW50LndpdGhkcmF3KQo=</text>
+        <text encoding="base64">ICAgIGFjY291bnQud2l0aGRyYXcgLT0gYW1vdW50Cg==</text>
       </register>
       <register name="p" type="4">
         <text />
