@@ -219,8 +219,8 @@
         <mark key="]" line="39" column="53" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/parse_track_log.py" timestamp="1516444462569">
-        <mark key="'" line="198" column="0" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/parse_track_log.py" timestamp="1516647392125">
+        <mark key="'" line="260" column="32" />
         <mark key="[" line="242" column="0" />
         <mark key="]" line="242" column="18" />
         <mark key="." line="242" column="0" />
@@ -338,7 +338,8 @@
         <mark key="." line="141" column="45" />
         <mark key="^" line="141" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1516589067582">
+      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1516647712365">
+        <mark key="'" line="41" column="13" />
         <mark key="[" line="56" column="38" />
         <mark key="]" line="56" column="43" />
         <mark key="." line="56" column="38" />
@@ -438,8 +439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" />
-      <jump line="416" column="11" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" />
       <jump line="329" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" />
       <jump line="332" column="10" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" />
       <jump line="276" column="30" filename="$USER_HOME$/workspace/bagent/shared/controllers.py" />
@@ -538,6 +537,8 @@
       <jump line="197" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/parse_track_log.py" />
       <jump line="83" column="6" filename="$USER_HOME$/workspace/bagent/shared/models.py" />
       <jump line="203" column="7" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
+      <jump line="260" column="32" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/parse_track_log.py" />
+      <jump line="41" column="13" filename="$USER_HOME$/workspace/deploy/config.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
