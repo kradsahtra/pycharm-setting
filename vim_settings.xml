@@ -114,12 +114,12 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" timestamp="1516604378804">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" timestamp="1516606144553">
         <mark key="'" line="592" column="4" />
-        <mark key="[" line="194" column="44" />
-        <mark key="]" line="194" column="52" />
-        <mark key="." line="194" column="52" />
-        <mark key="^" line="194" column="52" />
+        <mark key="[" line="195" column="48" />
+        <mark key="]" line="195" column="67" />
+        <mark key="." line="195" column="48" />
+        <mark key="^" line="195" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/tracker.py" timestamp="1516440125518">
         <mark key="'" line="119" column="0" />
@@ -173,9 +173,9 @@
         <mark key="^" line="228" column="79" />
         <mark key="." line="228" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/limit.py" timestamp="1516605196849">
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="23" column="70" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/limit.py" timestamp="1516606129951">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="20" />
         <mark key="^" line="23" column="70" />
         <mark key="." line="23" column="70" />
       </file>
@@ -296,17 +296,17 @@
       <jump line="203" column="7" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>params['user_name']</text>
       </register>
       <register name="-" type="4">
-        <text>har</text>
+        <text>params['user_name'].replace(' ', '')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjX2FnZW50X3JldHVyblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIG0gaXMgTm9uZToKICAgICAgICByZXR1cm4gRmFsc2UKICAgIHJldHVybiBUcnVlCg==</text>
+      <register name="0" type="4">
+        <text>params['user_name']</text>
       </register>
       <register name="p" type="4">
         <text />
