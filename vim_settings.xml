@@ -115,6 +115,12 @@
         <mark key="^" line="196" column="23" />
         <mark key="." line="196" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" timestamp="1516697318968">
+        <mark key="'" line="47" column="4" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/pay_loki/payservice/base/settings_prod.py" timestamp="1516649715465">
         <mark key="[" line="20" column="36" />
         <mark key="]" line="20" column="36" />
@@ -372,7 +378,7 @@
         <mark key="." line="25" column="34" />
         <mark key="^" line="25" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" timestamp="1516695553021">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" timestamp="1516697829718">
         <mark key="'" line="203" column="7" />
         <mark key="[" line="214" column="58" />
         <mark key="]" line="214" column="58" />
@@ -393,7 +399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="10" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" />
       <jump line="276" column="30" filename="$USER_HOME$/workspace/bagent/shared/controllers.py" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/bagent/apps/admin/urls.py" />
       <jump line="47" column="0" filename="$USER_HOME$/workspace/bagent/apps/admin/admin_view.py" />
@@ -493,6 +498,7 @@
       <jump line="260" column="32" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/parse_track_log.py" />
       <jump line="41" column="13" filename="$USER_HOME$/workspace/deploy/config.py" />
       <jump line="77" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" />
+      <jump line="47" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
