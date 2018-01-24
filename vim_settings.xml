@@ -104,6 +104,13 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/bagent/apps/admin/admin_view.py" timestamp="1516240165807">
+        <mark key="'" line="60" column="24" />
+        <mark key="[" line="68" column="4" />
+        <mark key="]" line="68" column="11" />
+        <mark key="^" line="68" column="11" />
+        <mark key="." line="68" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/scrolling/view.py" timestamp="1516695601535" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" timestamp="1516702180104">
         <mark key="'" line="703" column="43" />
@@ -239,6 +246,13 @@
         <mark key="^" line="161" column="94" />
         <mark key="." line="161" column="94" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_dev.py" timestamp="1516070247893">
+        <mark key="'" line="16" column="27" />
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="25" column="40" />
+        <mark key="." line="25" column="28" />
+        <mark key="^" line="16" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/bigbang.nginx.conf" timestamp="1516013385454">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="11" column="27" />
@@ -349,6 +363,13 @@
         <mark key="[" line="132" column="18" />
         <mark key="]" line="132" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/bagent/apps/admin/urls.py" timestamp="1516173589384">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="47" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/bagent.nginx.conf" timestamp="1516589611826">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="28" />
@@ -402,6 +423,13 @@
         <mark key="]" line="47" column="93" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="43" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/js_ks/logic/activity.py" timestamp="1516761290198">
+        <mark key="'" line="7" column="26" />
+        <mark key="[" line="90" column="15" />
+        <mark key="]" line="90" column="62" />
+        <mark key="." line="90" column="62" />
+        <mark key="^" line="90" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/shared/models.py" timestamp="1516447196417">
         <mark key="'" line="84" column="6" />
@@ -509,8 +537,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="510" column="4" filename="$USER_HOME$/workspace/bagent/shared/controllers.py" />
-      <jump line="122" column="0" filename="$USER_HOME$/workspace/bagent/apps/admin/admin_view.py" />
       <jump line="113" column="0" filename="$USER_HOME$/workspace/bagent/apps/admin/admin_view.py" />
       <jump line="165" column="4" filename="$USER_HOME$/workspace/bagent/shared/controllers.py" />
       <jump line="564" column="11" filename="$USER_HOME$/workspace/bagent/shared/controllers.py" />
@@ -609,6 +635,8 @@
       <jump line="690" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/requirements.txt" />
       <jump line="703" column="43" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
+      <jump line="90" column="11" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/js_ks/logic/activity.py" />
+      <jump line="7" column="26" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/js_ks/logic/activity.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -618,7 +646,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmdW5jXD4=</text>
+        <text encoding="base64">XDxjYWxjX3Rlcm1fYnlfdHNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>NoTerm</text>
@@ -661,9 +689,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmdW5jXD4=</last-search>
+      <last-search encoding="base64">XDxjYWxjX3Rlcm1fYnlfdHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmdW5jXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxjX3Rlcm1fYnlfdHNcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -671,7 +699,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnZpdGF0aW9uX3JlY29yZFw+</entry>
         <entry encoding="base64">XDxfYXNzaWduX25vcm1hbF9yZXR1cm5fcmF0ZVw+</entry>
         <entry encoding="base64">XDxiYWdlbnRfYWRtaW5cPg==</entry>
         <entry encoding="base64">XDxQUk9YWV9VUkxcPg==</entry>
@@ -691,6 +718,7 @@
         <entry encoding="base64">XDxudW1weVw+</entry>
         <entry encoding="base64">XDxjaG9pY2VcPg==</entry>
         <entry encoding="base64">XDxmdW5jXD4=</entry>
+        <entry encoding="base64">XDxjYWxjX3Rlcm1fYnlfdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
