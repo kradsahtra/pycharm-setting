@@ -55,6 +55,9 @@
         <mark key="." line="104" column="68" />
         <mark key="^" line="104" column="68" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/manual_apply_winner.py" timestamp="1516781959768">
+        <mark key="'" line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/loki_bot/requirements.txt" timestamp="1516100621726">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="20" />
@@ -418,6 +421,7 @@
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/__init__.py" timestamp="1516781714045" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/preset/handler.py" timestamp="1516705505529">
         <mark key="[" line="197" column="39" />
         <mark key="]" line="197" column="42" />
@@ -501,7 +505,7 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516763319620">
+      <file name="/Dummy.txt" timestamp="1516781714723">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/model.py" timestamp="1516776659148">
@@ -546,7 +550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="4" filename="$USER_HOME$/workspace/bagent/shared/models.py" />
       <jump line="75" column="6" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/model.py" />
       <jump line="408" column="14" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
       <jump line="381" column="78" filename="$USER_HOME$/workspace/bagent/shared/controllers.py" />
@@ -646,6 +649,7 @@
       <jump line="53" column="20" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/handler.py" />
       <jump line="114" column="11" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/handler.py" />
       <jump line="50" column="43" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/handler.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/manual_apply_winner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
