@@ -101,6 +101,11 @@
         <mark key="^" line="68" column="11" />
         <mark key="." line="68" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/gd_11x5/crawler.py" timestamp="1516846353934">
+        <mark key="'" line="19" column="41" />
+        <mark key="[" line="67" column="37" />
+        <mark key="]" line="67" column="63" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" timestamp="1516702180104">
         <mark key="'" line="703" column="43" />
         <mark key="[" line="702" column="4" />
@@ -265,6 +270,13 @@
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/cq_ssc/crawler.py" timestamp="1516846419062">
+        <mark key="'" line="73" column="15" />
+        <mark key="[" line="102" column="50" />
+        <mark key="]" line="102" column="78" />
+        <mark key="^" line="72" column="64" />
+        <mark key="." line="102" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/fix_track_detail.py" timestamp="1516785421379">
         <mark key="'" line="1" column="8" />
@@ -493,12 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="596" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
-      <jump line="595" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
-      <jump line="531" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
-      <jump line="597" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
-      <jump line="534" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
-      <jump line="477" column="42" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/view.py" />
       <jump line="603" column="20" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
       <jump line="20" column="25" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
       <jump line="608" column="5" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/account/db/account.py" />
@@ -593,19 +599,25 @@
       <jump line="23" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/winner_ranking.py" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/daily_bet_return.py" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/winner_ranking.py" />
+      <jump line="19" column="41" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/gd_11x5/crawler.py" />
+      <jump line="72" column="15" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/cq_ssc/crawler.py" />
+      <jump line="101" column="15" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/cq_ssc/crawler.py" />
+      <jump line="7" column="7" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/cq_ssc/crawler.py" />
+      <jump line="35" column="19" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/cq_ssc/crawler.py" />
+      <jump line="73" column="15" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/cq_ssc/crawler.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRyYW5zYWN0aW9uX2lkID0gb3JtLkNvbHVtbihvcm0uQmlnSW50ZWdlcikK</text>
+      <register name="&quot;" type="4">
+        <text>proxies={'http': PROXY_URL},</text>
       </register>
       <register name="-" type="4">
-        <text>VARCHAR</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUcmFja1JlY29yZFYyXD4=</text>
+        <text encoding="base64">XDxyZXF1ZXN0c1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyYW5zYWN0aW9uX2lkID0gb3JtLkNvbHVtbihvcm0uQmlnSW50ZWdlcikK</text>
+      <register name="0" type="4">
+        <text>proxies={'http': PROXY_URL},</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -645,9 +657,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUcmFja1JlY29yZFYyXD4=</last-search>
+      <last-search encoding="base64">XDxyZXF1ZXN0c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUcmFja1JlY29yZFYyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZXF1ZXN0c1w+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -655,8 +667,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiYWdlbnRfYWRtaW5cPg==</entry>
-        <entry encoding="base64">XDxQUk9YWV9VUkxcPg==</entry>
         <entry encoding="base64">XDxBZ2VudEludml0YXRpb25SZWNvcmRcPg==</entry>
         <entry encoding="base64">XDxjaGVja190cmFkZV9wd2RcPg==</entry>
         <entry encoding="base64">XDxTRVJWSUNFX0lEXD4=</entry>
@@ -675,6 +685,8 @@
         <entry encoding="base64">XDxmdW5jXD4=</entry>
         <entry encoding="base64">XDxjYWxjX3Rlcm1fYnlfdHNcPg==</entry>
         <entry encoding="base64">XDxUcmFja1JlY29yZFYyXD4=</entry>
+        <entry encoding="base64">XDxQUk9YWV9VUkxcPg==</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
