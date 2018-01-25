@@ -39,6 +39,12 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/devops/public_keys/max.pub" timestamp="1516848654600">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="416" />
+        <mark key="^" line="0" column="416" />
+        <mark key="." line="0" column="416" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" timestamp="1516759650329">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="68" />
@@ -324,6 +330,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="58" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/devops/bootstrap.yml" timestamp="1516848675601">
+        <mark key="[" line="81" column="20" />
+        <mark key="]" line="81" column="22" />
+        <mark key="." line="81" column="22" />
+        <mark key="^" line="81" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/handler.py" timestamp="1516780954790">
         <mark key="'" line="50" column="43" />
@@ -614,16 +626,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>proxies={'http': PROXY_URL},</text>
+        <text>eason</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+        <text>eason</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0c1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>proxies={'http': PROXY_URL},</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgLSBwdWJsaWNfa2V5cy9lYXNvbi5wdWIK</text>
       </register>
       <register name="p" type="4">
         <text />
