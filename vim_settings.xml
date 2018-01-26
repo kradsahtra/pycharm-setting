@@ -272,19 +272,15 @@
         <mark key="^" line="67" column="15" />
         <mark key="." line="67" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" timestamp="1516953783766">
-        <mark key="'" line="202" column="7" />
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="^" line="97" column="83" />
-        <mark key="." line="180" column="0" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" timestamp="1516955263247">
+        <mark key="'" line="26" column="48" />
+        <mark key="[" line="146" column="42" />
+        <mark key="]" line="146" column="45" />
+        <mark key="^" line="146" column="45" />
+        <mark key="." line="146" column="45" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/daily_bet_return.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/daily_bet_return.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/winner_ranking.py" />
-      <jump line="16" column="18" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/daily_bet_return.py" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/winner_ranking.py" />
       <jump line="18" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/winner_ranking.py" />
       <jump line="23" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/winner_ranking.py" />
@@ -381,19 +377,23 @@
       <jump line="66" column="38" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/__init__.py" />
       <jump line="26" column="7" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/ff_pk10/order/handler.py" />
       <jump line="55" column="44" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/ff_pk10/order/handler.py" />
+      <jump line="27" column="45" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
+      <jump line="179" column="43" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
+      <jump line="145" column="38" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
+      <jump line="26" column="48" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHRlbmRcPg==</text>
+        <text encoding="base64">XDxmZl9zc2NfYWN0aXZpdHlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExPVFRFUllfVFlQRS5GRl9QSzEwOiBmZl9wazEwX2hhbmRsZXIsCg==</text>
+        <text encoding="base64">ICAgIHVybChyJ15hY3Rpdml0eS9mZl9zc2MvdHJlbmQvPyQnLCBmZl9zc2NfYWN0aXZpdHkuZ2V0X3RyZW5kKSwK</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -433,9 +433,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleHRlbmRcPg==</last-search>
+      <last-search encoding="base64">XDxmZl9zc2NfYWN0aXZpdHlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHRlbmRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmZl9zc2NfYWN0aXZpdHlcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -443,8 +443,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfY3JlYXRlX25vcm1hbF9hZ2VudFw+</entry>
-        <entry encoding="base64">XDxwYWdpbmF0ZVw+</entry>
         <entry encoding="base64">XDxwYWdpbmF0ZV9vYmpcPg==</entry>
         <entry encoding="base64">XDxtb3ZlX3RvX3RyYWNrZWRcPg==</entry>
         <entry encoding="base64">XDxfTE9HR0VSXD4=</entry>
@@ -463,6 +461,8 @@
         <entry encoding="base64">XDxiYW5uZXJcPg==</entry>
         <entry encoding="base64">XDxjYW1wYWlnbl9lbmRcPg==</entry>
         <entry encoding="base64">XDxleHRlbmRcPg==</entry>
+        <entry encoding="base64">XDxmZl9zc2Nfb3JkZXJcPg==</entry>
+        <entry encoding="base64">XDxmZl9zc2NfYWN0aXZpdHlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
