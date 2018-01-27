@@ -52,12 +52,12 @@
         <mark key="^" line="0" column="416" />
         <mark key="." line="0" column="416" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" timestamp="1517041922946">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" timestamp="1517044185226">
         <mark key="'" line="127" column="0" />
-        <mark key="[" line="91" column="48" />
-        <mark key="]" line="91" column="48" />
-        <mark key="." line="91" column="48" />
-        <mark key="^" line="91" column="48" />
+        <mark key="[" line="149" column="100" />
+        <mark key="]" line="149" column="109" />
+        <mark key="." line="149" column="100" />
+        <mark key="^" line="149" column="102" />
       </file>
       <file name="$USER_HOME$/workspace/loki_bot/requirements.txt" timestamp="1516100621726">
         <mark key="[" line="0" column="19" />
@@ -116,7 +116,7 @@
         <mark key="." line="702" column="6" />
         <mark key="^" line="702" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/ff_pk10/logic/activity.py" timestamp="1516959120528">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/ff_pk10/logic/activity.py" timestamp="1517043631638">
         <mark key="'" line="83" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/ff_pk10/crawler.py" timestamp="1517040655940">
@@ -584,7 +584,7 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517040920571">
+      <file name="/Dummy.txt" timestamp="1517044452661">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/preset/model/preset.py" timestamp="1516873114647">
@@ -726,20 +726,20 @@
       <jump line="159" column="20" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/preset/view.py" />
       <jump line="16" column="83" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/preset/view.py" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/ff_pk10/logic/activity.py" />
-      <jump line="83" column="11" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/ff_pk10/logic/activity.py" />
       <jump line="34" column="23" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" />
       <jump line="187" column="30" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" />
       <jump line="92" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/model.py" />
       <jump line="88" column="55" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/processor.py" />
       <jump line="127" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" />
       <jump line="53" column="6" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/model.py" />
+      <jump line="83" column="11" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/ff_pk10/logic/activity.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>, exec_ts</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>, exec_ts</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTVEFSVF9EQVRFXD4=</text>
