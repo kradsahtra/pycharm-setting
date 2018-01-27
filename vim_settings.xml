@@ -164,6 +164,12 @@
       </file>
       <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1517036660032" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/bj_pk10/order/view.py" timestamp="1516954450457" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/ff_pk10/activity/handler.py" timestamp="1517045838787">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/db/winner_ranking_award.py" timestamp="1516935299077">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="16" column="76" />
@@ -584,7 +590,7 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517044452661">
+      <file name="/Dummy.txt" timestamp="1517045540398">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/preset/model/preset.py" timestamp="1516873114647">
@@ -736,10 +742,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, exec_ts</text>
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>, exec_ts</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTVEFSVF9EQVRFXD4=</text>
