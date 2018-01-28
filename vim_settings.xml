@@ -162,7 +162,9 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1517036660032" />
+      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1517134285546">
+        <mark key="'" line="182" column="44" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/bj_pk10/order/view.py" timestamp="1516954450457" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/ff_pk10/activity/handler.py" timestamp="1517045838787">
         <mark key="[" line="2" column="29" />
@@ -639,7 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_bet_return.py" />
       <jump line="68" column="9" filename="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/frame/const.js" />
       <jump line="21" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_bet_return.py" />
       <jump line="34" column="44" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
@@ -739,6 +740,7 @@
       <jump line="127" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" />
       <jump line="53" column="6" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/model.py" />
       <jump line="83" column="11" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/ff_pk10/logic/activity.py" />
+      <jump line="182" column="44" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -748,7 +750,7 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTVEFSVF9EQVRFXD4=</text>
+        <text encoding="base64">XDxfRU5BQkxFRF9BUFBfRElSXD4=</text>
       </register>
       <register name="0" type="4">
         <text>LOTTERY_TYPE.get_label(activity_type)</text>
@@ -791,9 +793,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTVEFSVF9EQVRFXD4=</last-search>
+      <last-search encoding="base64">XDxfRU5BQkxFRF9BUFBfRElSXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTVEFSVF9EQVRFXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfRU5BQkxFRF9BUFBfRElSXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -801,7 +803,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleGNlcHRcPg==</entry>
         <entry encoding="base64">XDxjYWxjX2FnZW50X3JldHVyblw+</entry>
         <entry encoding="base64">XDxudW1weVw+</entry>
         <entry encoding="base64">XDxjaG9pY2VcPg==</entry>
@@ -821,6 +822,7 @@
         <entry encoding="base64">XDxwazEwX2dldF9hdmFsaWFibGVfdHlwZV92M1w+</entry>
         <entry encoding="base64">XDxrc19nZXRfYXZhbGlhYmxlX3R5cGVfdjNcPg==</entry>
         <entry encoding="base64">XDxTVEFSVF9EQVRFXD4=</entry>
+        <entry encoding="base64">XDxfRU5BQkxFRF9BUFBfRElSXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
