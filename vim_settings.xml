@@ -477,11 +477,11 @@
         <mark key="[" line="113" column="6" />
         <mark key="]" line="113" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/db.py" timestamp="1516347382106">
-        <mark key="[" line="41" column="65" />
-        <mark key="]" line="41" column="65" />
-        <mark key="." line="41" column="65" />
-        <mark key="^" line="41" column="48" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/db.py" timestamp="1517295232784">
+        <mark key="[" line="240" column="26" />
+        <mark key="]" line="240" column="27" />
+        <mark key="." line="240" column="27" />
+        <mark key="^" line="240" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/admin_uwsgi.ini" timestamp="1514538294879">
         <mark key="[" line="16" column="22" />
@@ -678,10 +678,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bigbang</text>
+        <text>account.agent_balance + amount - account.withdraw</text>
       </register>
       <register name="-" type="4">
-        <text>bigbang</text>
+        <text>account.agent_balance + amount - account.withdraw</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmZpbml0ZV9wcm9jZXNzXD4=</text>
