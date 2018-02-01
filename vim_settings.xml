@@ -85,6 +85,12 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/bagent/shared/controllers.py" timestamp="1517473052225">
+        <mark key="[" line="91" column="60" />
+        <mark key="]" line="91" column="70" />
+        <mark key="^" line="91" column="46" />
+        <mark key="." line="91" column="60" />
+      </file>
       <file name="$USER_HOME$/workspace/bagent/common/utils/auth.py" timestamp="1514622572392">
         <mark key="[" line="13" column="12" />
         <mark key="]" line="13" column="15" />
@@ -231,6 +237,10 @@
         <mark key="]" line="11" column="27" />
         <mark key="." line="11" column="27" />
         <mark key="^" line="11" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/bagent/shared/utils/exceptions.py" timestamp="1517473049524">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/admin/stats/total.py" timestamp="1515756711143">
         <mark key="[" line="44" column="0" />
@@ -657,17 +667,17 @@
       <jump line="11" column="0" filename="$USER_HOME$/workspace/bagent/settings_prod.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RU5WX0RFViA9IEZhbHNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>DUPLICATED_USER</text>
       </register>
       <register name="-" type="4">
-        <text>admin.views.lottery.</text>
+        <text>DUPLICATED_USER</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZ1bmRfb3JkZXJzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">RU5WX0RFViA9IEZhbHNlCg==</text>
+      <register name="0" type="4">
+        <text>DATA_ERROR</text>
       </register>
       <register name="p" type="4">
         <text />
