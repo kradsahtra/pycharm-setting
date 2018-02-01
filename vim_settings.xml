@@ -80,7 +80,7 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/middleware.py" timestamp="1517021310544">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/middleware.py" timestamp="1517452473839">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -300,11 +300,6 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/cq_ssc/crawler.py" timestamp="1517191484920">
-        <mark key="[" line="17" column="50" />
-        <mark key="]" line="17" column="78" />
-        <mark key="." line="17" column="50" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/recharge_test.py" timestamp="1515226304560">
         <mark key="[" line="22" column="16" />
         <mark key="]" line="22" column="21" />
@@ -418,11 +413,6 @@
         <mark key="." line="197" column="42" />
         <mark key="^" line="197" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/bagent/settings_env.py" timestamp="1517214346675">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/templates/preset/BannerList.html" timestamp="1513221940488">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="47" column="93" />
@@ -498,11 +488,6 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls_v2.py" timestamp="1517037257104">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/tz.py" timestamp="1516866706381">
         <mark key="[" line="108" column="11" />
         <mark key="]" line="108" column="62" />
@@ -562,6 +547,11 @@
         <mark key="^" line="146" column="45" />
         <mark key="." line="146" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" timestamp="1517452206544">
+        <mark key="[" line="131" column="61" />
+        <mark key="]" line="131" column="61" />
+        <mark key="." line="131" column="61" />
+      </file>
       <file name="$USER_HOME$/workspace/bagent/deploy/stages.py" timestamp="1517216600304">
         <mark key="[" line="4" column="33" />
         <mark key="]" line="4" column="47" />
@@ -576,8 +566,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="10" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
-      <jump line="108" column="66" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
       <jump line="28" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/winner_ranking.py" />
       <jump line="80" column="67" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
       <jump line="124" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
@@ -676,16 +664,18 @@
       <jump line="24" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/bj_pk10/crawler.py" />
       <jump line="47" column="72" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/bj_pk10/crawler.py" />
       <jump line="145" column="45" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" />
+      <jump line="130" column="61" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
+      <jump line="15" column="65" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>admin.views.lottery.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>admin.views.lottery.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVUkxfMTY4XD4=</text>
+        <text encoding="base64">XDxyZWZ1bmRfb3JkZXJzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YXBwLmNvbmZpZ1snU1FMQUxDSEVNWV9QT09MX1JFQ1lDTEUnXSA9IDM2MDAK</text>
@@ -728,9 +718,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVUkxfMTY4XD4=</last-search>
+      <last-search encoding="base64">XDxyZWZ1bmRfb3JkZXJzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVUkxfMTY4XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZWZ1bmRfb3JkZXJzXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -738,7 +728,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYWxjX3Rlcm1fYnlfdHNcPg==</entry>
         <entry encoding="base64">XDxUcmFja1JlY29yZFYyXD4=</entry>
         <entry encoding="base64">XDxQUk9YWV9VUkxcPg==</entry>
         <entry encoding="base64">XDxyZXF1ZXN0c1w+</entry>
@@ -758,6 +747,7 @@
         <entry encoding="base64">XDxpbmZpbml0ZV9wcm9jZXNzXD4=</entry>
         <entry encoding="base64">XDxVUkxcPg==</entry>
         <entry encoding="base64">XDxVUkxfMTY4XD4=</entry>
+        <entry encoding="base64">XDxyZWZ1bmRfb3JkZXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
