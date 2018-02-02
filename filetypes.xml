@@ -5,6 +5,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="postman_collection" type="JSON" />
       <mapping ext="postman_environment" type="JSON" />
+      <mapping pattern="monitor_host" type="PLAIN_TEXT" />
       <mapping pattern="zshrc" type="PLAIN_TEXT" />
       <mapping pattern="._management" type="PLAIN_TEXT" />
       <mapping pattern="flower" type="PLAIN_TEXT" />
