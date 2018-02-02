@@ -343,6 +343,12 @@
         <mark key="^" line="191" column="40" />
         <mark key="." line="191" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/cabot/conf/production.env" timestamp="1517565756849">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="81" />
+        <mark key="." line="24" column="81" />
+        <mark key="^" line="24" column="81" />
+      </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/bigbang-admin.nginx.conf" timestamp="1516013483063">
         <mark key="[" line="6" column="16" />
         <mark key="]" line="6" column="27" />
@@ -685,10 +691,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user_id</text>
+        <text>CREATE_A_KEY</text>
       </register>
       <register name="-" type="4">
-        <text>user_id</text>
+        <text>CREATE_A_KEY</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZ1bmRfb3JkZXJzXD4=</text>
