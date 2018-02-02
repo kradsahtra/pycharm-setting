@@ -123,8 +123,8 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" timestamp="1516950221253">
-        <mark key="'" line="74" column="3" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" timestamp="1517537406600">
+        <mark key="'" line="15" column="0" />
         <mark key="[" line="107" column="50" />
         <mark key="]" line="107" column="51" />
         <mark key="^" line="73" column="60" />
@@ -167,6 +167,12 @@
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/bagent/apps/main/main_view.py" timestamp="1517537973300">
+        <mark key="[" line="39" column="30" />
+        <mark key="]" line="39" column="34" />
+        <mark key="." line="39" column="34" />
+        <mark key="^" line="39" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/deploy/config_files/bagent.supervisor.conf" timestamp="1515575002920">
         <mark key="[" line="15" column="33" />
@@ -380,9 +386,6 @@
         <mark key="." line="28" column="14" />
         <mark key="^" line="28" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/bj_pk10/crawler.py" timestamp="1517303383372">
-        <mark key="'" line="47" column="72" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/notification/handler.py" timestamp="1513220481100">
         <mark key="[" line="49" column="62" />
         <mark key="]" line="49" column="66" />
@@ -481,9 +484,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/scripts/sql/bigbang_production.sql" timestamp="1517211672099">
-        <mark key="'" line="2269" column="35" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/activity.py" timestamp="1517042162530">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="60" />
@@ -513,7 +513,7 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517537071243">
+      <file name="/Dummy.txt" timestamp="1517537976048">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -574,7 +574,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="30" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/winner_ranking.py" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/winner_ranking.py" />
       <jump line="115" column="24" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
@@ -674,13 +673,14 @@
       <jump line="3" column="48" filename="$USER_HOME$/workspace/bagent/settings_test.py" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/bagent/settings_prod.py" />
       <jump line="69" column="6" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/model.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoYXBwKQo=</text>
+      <register name="&quot;" type="4">
+        <text>非法邀请码</text>
       </register>
       <register name="-" type="4">
-        <text>err</text>
+        <text>非法邀请码</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZ1bmRfb3JkZXJzXD4=</text>
