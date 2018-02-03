@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1517646458958">
+      <file name="/a.dummy" timestamp="1517648934181">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="3" />
+        <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/handler.py" timestamp="1516346913903">
@@ -68,6 +68,11 @@
         <mark key="." line="72" column="37" />
         <mark key="^" line="72" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/bagent/main_uwsgi.ini" timestamp="1517476199092">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/loki_bot/requirements.txt" timestamp="1516100621726">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="20" />
@@ -77,17 +82,18 @@
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1517640486006">
         <mark key="'" line="366" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/ff_pk10/order/handler.py" timestamp="1516954413034">
-        <mark key="'" line="55" column="44" />
-        <mark key="[" line="55" column="44" />
-        <mark key="]" line="55" column="51" />
-        <mark key="." line="55" column="51" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_recharge_return.py" timestamp="1513065685752">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="35" />
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/Heimdall/api/urls.py" timestamp="1517650574124">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="36" />
+        <mark key="^" line="6" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/middleware.py" timestamp="1517452473839">
         <mark key="[" line="15" column="0" />
@@ -117,6 +123,13 @@
         <mark key="]" line="24" column="35" />
         <mark key="." line="24" column="35" />
         <mark key="^" line="24" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/Heimdall/app/urls.py" timestamp="1517648964731">
+        <mark key="'" line="3" column="15" />
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/common/utils/logs.py" timestamp="1514602275017">
         <mark key="[" line="11" column="32" />
@@ -160,12 +173,6 @@
         <mark key="]" line="26" column="22" />
         <mark key="^" line="26" column="22" />
         <mark key="." line="26" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1517212043969">
-        <mark key="'" line="182" column="44" />
-        <mark key="[" line="48" column="41" />
-        <mark key="]" line="48" column="41" />
-        <mark key="." line="48" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/ff_pk10/activity/handler.py" timestamp="1517045838787">
         <mark key="[" line="2" column="29" />
@@ -229,11 +236,11 @@
         <mark key="." line="56" column="38" />
         <mark key="^" line="50" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/Heimdall/requirements.txt" timestamp="1517640796161">
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="12" column="7" />
-        <mark key="^" line="12" column="7" />
-        <mark key="." line="12" column="7" />
+      <file name="$USER_HOME$/workspace/Heimdall/requirements.txt" timestamp="1517650218774">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/__init__.py" timestamp="1517450864099">
         <mark key="[" line="39" column="19" />
@@ -271,11 +278,12 @@
         <mark key="." line="34" column="86" />
         <mark key="^" line="34" column="86" />
       </file>
-      <file name="$USER_HOME$/workspace/Heimdall/shared/queue.py" timestamp="1517647794658">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/workspace/Heimdall/shared/queue.py" timestamp="1517650293977">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="6" />
+        <mark key="^" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/bigbang.nginx.conf" timestamp="1516013385454">
         <mark key="[" line="11" column="16" />
@@ -301,11 +309,25 @@
         <mark key="^" line="23" column="70" />
         <mark key="." line="23" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/Heimdall/uwsgi.ini" timestamp="1517641213763">
+      <file name="$USER_HOME$/workspace/Heimdall/main.py" timestamp="1517651528396">
+        <mark key="'" line="32" column="8" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Heimdall/uwsgi.ini" timestamp="1517649216261">
         <mark key="[" line="5" column="38" />
-        <mark key="]" line="5" column="38" />
-        <mark key="." line="5" column="38" />
-        <mark key="^" line="4" column="25" />
+        <mark key="]" line="5" column="41" />
+        <mark key="." line="5" column="41" />
+        <mark key="^" line="5" column="41" />
+      </file>
+      <file name="$USER_HOME$/workspace/Heimdall/app/view.py" timestamp="1517649467265">
+        <mark key="'" line="9" column="29" />
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="35" />
+        <mark key="." line="26" column="35" />
+        <mark key="^" line="26" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/handler.py" timestamp="1516088611709">
         <mark key="[" line="21" column="0" />
@@ -350,6 +372,11 @@
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/cq_ssc/crawler.py" timestamp="1517191484920">
+        <mark key="[" line="17" column="50" />
+        <mark key="]" line="17" column="78" />
+        <mark key="." line="17" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/Heimdall/settings.py" timestamp="1517640502774">
         <mark key="[" line="13" column="34" />
@@ -484,6 +511,11 @@
         <mark key="." line="197" column="42" />
         <mark key="^" line="197" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/bagent/settings_env.py" timestamp="1517214346675">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/templates/preset/BannerList.html" timestamp="1513221940488">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="47" column="93" />
@@ -535,6 +567,11 @@
         <mark key="." line="240" column="27" />
         <mark key="^" line="240" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/bagent/admin_uwsgi.ini" timestamp="1517476193093">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/scripts/sql/bigbang_production.sql" timestamp="1517211672099">
         <mark key="'" line="2269" column="35" />
       </file>
@@ -554,6 +591,11 @@
         <mark key="]" line="5" column="50" />
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls_v2.py" timestamp="1517037257104">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/tz.py" timestamp="1516866706381">
         <mark key="[" line="108" column="11" />
@@ -602,6 +644,11 @@
         <mark key="^" line="0" column="398" />
         <mark key="." line="0" column="398" />
       </file>
+      <file name="$USER_HOME$/workspace/Heimdall/shared/utils/auth.py" timestamp="1517648998747">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bagent/deploy/config_files/agency.nginx.conf" timestamp="1514603188299">
         <mark key="[" line="25" column="29" />
         <mark key="]" line="25" column="34" />
@@ -633,10 +680,10 @@
         <mark key="." line="4" column="47" />
         <mark key="^" line="4" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/Heimdall/tasks.py" timestamp="1517647896530">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/workspace/Heimdall/tasks.py" timestamp="1517651520923">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/preset/db/banner.py" timestamp="1513064590673">
         <mark key="[" line="16" column="4" />
@@ -646,23 +693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="10" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/db/winner_ranking_award.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/db/daily_bet_return.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/db/winner_ranking_award.py" />
-      <jump line="13" column="8" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/db/winner_ranking_award.py" />
-      <jump line="26" column="35" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/db/winner_ranking_award.py" />
-      <jump line="98" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
-      <jump line="6" column="8" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/winner_ranking.py" />
-      <jump line="57" column="6" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/winner_ranking.py" />
-      <jump line="5" column="5" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/winner_ranking.py" />
-      <jump line="56" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/winner_ranking.py" />
-      <jump line="62" column="10" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/notification/templates.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/notification/templates.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/notification/templates.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/notification/templates.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/db/winner_ranking_award.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" />
       <jump line="60" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" />
       <jump line="54" column="30" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" />
       <jump line="44" column="10" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" />
@@ -746,61 +776,78 @@
       <jump line="31" column="4" filename="$USER_HOME$/workspace/Heimdall/app.py" />
       <jump line="8" column="25" filename="$USER_HOME$/workspace/Heimdall/app.py" />
       <jump line="35" column="23" filename="$USER_HOME$/workspace/Heimdall/app.py" />
+      <jump line="5" column="15" filename="$USER_HOME$/workspace/Heimdall/app/urls.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/Heimdall/app/view.py" />
+      <jump line="24" column="13" filename="$USER_HOME$/workspace/Heimdall/app/view.py" />
+      <jump line="9" column="29" filename="$USER_HOME$/workspace/Heimdall/app/view.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/Heimdall/main.py" />
+      <jump line="11" column="7" filename="$USER_HOME$/workspace/Heimdall/main.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/Heimdall/api/urls.py" />
+      <jump line="34" column="29" filename="$USER_HOME$/workspace/Heimdall/main.py" />
+      <jump line="31" column="23" filename="$USER_HOME$/workspace/Heimdall/main.py" />
+      <jump line="8" column="3" filename="$USER_HOME$/workspace/Heimdall/shared/queue.py" />
+      <jump line="21" column="20" filename="$USER_HOME$/workspace/Heimdall/shared/queue.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/Heimdall/shared/queue.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/Heimdall/shared/queue.py" />
+      <jump line="26" column="6" filename="$USER_HOME$/workspace/Heimdall/main.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/Heimdall/tasks.py" />
+      <jump line="13" column="28" filename="$USER_HOME$/workspace/Heimdall/tasks.py" />
+      <jump line="32" column="8" filename="$USER_HOME$/workspace/Heimdall/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IAo=</text>
+        <text encoding="base64">QENFTEVSWS5vbl9hZnRlcl9jb25maWd1cmUuY29ubmVjdApkZWYgc2V0dXBfcGVyaW9kaWNfdGFza3Moc2VuZGVyLCAqKmt3YXJncyk6CiAgICAjIENhbGxzIHRlc3QoJ2hlbGxvJykgZXZlcnkgMTAgc2Vjb25kcy4KICAgIHNlbmRlci5hZGRfcGVyaW9kaWNfdGFzaygxMC4wLCBhZGRfdG9nZXRoZXIucygzLCAxMCksIG5hbWU9J2FkZCBldmVyeSAxMCcpCgogICAgIyBDYWxscyB0ZXN0KCd3b3JsZCcpIGV2ZXJ5IDMwIHNlY29uZHMKICAgIHNlbmRlci5hZGRfcGVyaW9kaWNfdGFzaygzMC4wLCB0ZXN0LnMoJ3dvcmxkJyksIGV4cGlyZXM9MTApCgogICAgIyBFeGVjdXRlcyBldmVyeSBNb25kYXkgbW9ybmluZyBhdCA3OjMwIGEubS4KICAgIHNlbmRlci5hZGRfcGVyaW9kaWNfdGFzaygKICAgICAgICBjcm9udGFiKGhvdXI9NywgbWludXRlPTMwLCBkYXlfb2Zfd2Vlaz0xKSwKICAgICAgICB0ZXN0LnMoJ0hhcHB5IE1vbmRheXMhJyksCiAgICApCgoK</text>
       </register>
       <register name="-" type="4">
-        <text>celery</text>
+        <text>add_together</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxRVUVVRVw+</text>
+        <text encoding="base64">XDx1cmxfcGF0dGVybnNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>QUEUE</text>
+        <text>CELERY</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IAo=</text>
+        <text encoding="base64">QENFTEVSWS5vbl9hZnRlcl9jb25maWd1cmUuY29ubmVjdApkZWYgc2V0dXBfcGVyaW9kaWNfdGFza3Moc2VuZGVyLCAqKmt3YXJncyk6CiAgICAjIENhbGxzIHRlc3QoJ2hlbGxvJykgZXZlcnkgMTAgc2Vjb25kcy4KICAgIHNlbmRlci5hZGRfcGVyaW9kaWNfdGFzaygxMC4wLCBhZGRfdG9nZXRoZXIucygzLCAxMCksIG5hbWU9J2FkZCBldmVyeSAxMCcpCgogICAgIyBDYWxscyB0ZXN0KCd3b3JsZCcpIGV2ZXJ5IDMwIHNlY29uZHMKICAgIHNlbmRlci5hZGRfcGVyaW9kaWNfdGFzaygzMC4wLCB0ZXN0LnMoJ3dvcmxkJyksIGV4cGlyZXM9MTApCgogICAgIyBFeGVjdXRlcyBldmVyeSBNb25kYXkgbW9ybmluZyBhdCA3OjMwIGEubS4KICAgIHNlbmRlci5hZGRfcGVyaW9kaWNfdGFzaygKICAgICAgICBjcm9udGFiKGhvdXI9NywgbWludXRlPTMwLCBkYXlfb2Zfd2Vlaz0xKSwKICAgICAgICB0ZXN0LnMoJ0hhcHB5IE1vbmRheXMhJyksCiAgICApCgoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzaGFyZWQucXVldWUgaW1wb3J0IFFVRVVFCg==</text>
+        <text encoding="base64">ZnJvbSBtYWluIGltcG9ydCBRVUVVRQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">UVVFVUUgPSBDZWxlcnkoKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">UVVFVUUgPSBtYWtlX2NlbGVyeShhcHApCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBjZWxlcnkgaW1wb3J0IENlbGVyeQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y2xhc3MgUXVldWUob2JqZWN0KToKCiAgICBkZWYgbWFrZV9jZWxlcnkoc2VsZiwgYXBwKToKICAgICAgICBjZWxlcnkgPSBDZWxlcnkoYXBwLmltcG9ydF9uYW1lLCBiYWNrZW5kPWFwcC5jb25maWdbJ0NFTEVSWV9SRVNVTFRfQkFDS0VORCddLAogICAgICAgICAgICAgICAgICAgICAgICBicm9rZXI9YXBwLmNvbmZpZ1snQ0VMRVJZX0JST0tFUl9VUkwnXSkKICAgICAgICBjZWxlcnkuY29uZi51cGRhdGUoYXBwLmNvbmZpZykKICAgICAgICB0YXNrX2Jhc2UgPSBjZWxlcnkuVGFzawoKICAgICAgICBjbGFzcyBDb250ZXh0VGFzayh0YXNrX2Jhc2UpOgogICAgICAgICAgICBhYnN0cmFjdCA9IFRydWUKCiAgICAgICAgICAgIGRlZiBfX2NhbGxfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgICAgICAgICAgd2l0aCBhcHAuYXBwX2NvbnRleHQoKToKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdGFza19iYXNlLl9fY2FsbF9fKHNlbGYsICphcmdzLCAqKmt3YXJncykKCiAgICAgICAgY2VsZXJ5LlRhc2sgPSBDb250ZXh0VGFzawogICAgICAgIHJldHVybiBjZWxlcnkKCgpRVUVVRSA9IFF1ZXVlKCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBmbGFza19jZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjZWxlcnkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIG1ha2VfY2VsZXJ5KGFwcCk6Cg==</text>
+        <text encoding="base64">ZnJvbSBhcGkudmlldyBpbXBvcnQgbG9naW4sIGxvZ291dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzaGFyZWQudXRpbHMuYXV0aCBpbXBvcnQgcmVxdWlyZXNfYWRtaW5fYXV0aAo=</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxRVUVVRVw+</last-search>
+      <last-search encoding="base64">XDx1cmxfcGF0dGVybnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxRVUVVRVw+</last-pattern>
+      <last-pattern encoding="base64">XDx1cmxfcGF0dGVybnNcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -808,7 +855,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3aW5uZXJfcmFua2luZ19hd2FyZFw+</entry>
         <entry encoding="base64">XDxEQUlMWV9UUkVBU1VSRVw+</entry>
         <entry encoding="base64">XDxmdW5jXD4=</entry>
         <entry encoding="base64">XDx0aW1lZGVsdGFcPg==</entry>
@@ -828,6 +874,7 @@
         <entry encoding="base64">XDxmdW5jc1w+</entry>
         <entry encoding="base64">XDxudW1iZXJcPg==</entry>
         <entry encoding="base64">XDxRVUVVRVw+</entry>
+        <entry encoding="base64">XDx1cmxfcGF0dGVybnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
