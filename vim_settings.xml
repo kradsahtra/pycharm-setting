@@ -21,9 +21,6 @@
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/ff_ssc/logic/activity.py" timestamp="1517640060245">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/cpstats/cpsservice/service/settings_prod.py" timestamp="1516652920996">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="12" column="22" />
@@ -174,6 +171,13 @@
         <mark key="^" line="26" column="22" />
         <mark key="." line="26" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" timestamp="1517795701329">
+        <mark key="'" line="52" column="4" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="63" />
+        <mark key="." line="86" column="63" />
+        <mark key="^" line="86" column="63" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/ff_pk10/activity/handler.py" timestamp="1517045838787">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="30" />
@@ -259,6 +263,12 @@
         <mark key="]" line="10" column="36" />
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/cq_ssc/db/activity.py" timestamp="1517795576121">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="37" />
+        <mark key="." line="96" column="37" />
+        <mark key="^" line="96" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/account/handler.py" timestamp="1515569432326">
         <mark key="[" line="66" column="33" />
@@ -465,9 +475,6 @@
         <mark key="." line="28" column="14" />
         <mark key="^" line="28" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/bj_pk10/crawler.py" timestamp="1517303383372">
-        <mark key="'" line="47" column="72" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/notification/handler.py" timestamp="1513220481100">
         <mark key="[" line="49" column="62" />
         <mark key="]" line="49" column="66" />
@@ -571,9 +578,6 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/scripts/sql/bigbang_production.sql" timestamp="1517211672099">
-        <mark key="'" line="2269" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/Heimdall/app.py" timestamp="1517647893498">
         <mark key="'" line="34" column="23" />
@@ -693,23 +697,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" />
-      <jump line="54" column="30" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" />
-      <jump line="44" column="10" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" />
-      <jump line="15" column="50" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" />
-      <jump line="95" column="3" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" />
-      <jump line="18" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" />
-      <jump line="96" column="20" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" />
-      <jump line="97" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" />
-      <jump line="42" column="19" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" />
-      <jump line="118" column="23" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
-      <jump line="111" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
-      <jump line="20" column="19" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
-      <jump line="73" column="3" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/__init__.py" />
-      <jump line="48" column="40" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/__init__.py" />
-      <jump line="66" column="38" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/__init__.py" />
-      <jump line="26" column="7" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/ff_pk10/order/handler.py" />
       <jump line="55" column="44" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/lottery/ff_pk10/order/handler.py" />
       <jump line="27" column="45" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
       <jump line="179" column="43" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
@@ -793,16 +780,33 @@
       <jump line="8" column="0" filename="$USER_HOME$/workspace/Heimdall/tasks.py" />
       <jump line="13" column="28" filename="$USER_HOME$/workspace/Heimdall/tasks.py" />
       <jump line="32" column="8" filename="$USER_HOME$/workspace/Heimdall/main.py" />
+      <jump line="90" column="25" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
+      <jump line="16" column="36" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
+      <jump line="17" column="35" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
+      <jump line="18" column="36" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
+      <jump line="19" column="36" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
+      <jump line="20" column="37" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
+      <jump line="21" column="37" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
+      <jump line="22" column="37" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
+      <jump line="23" column="37" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
+      <jump line="24" column="36" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
+      <jump line="25" column="36" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
+      <jump line="26" column="35" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
+      <jump line="27" column="35" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
+      <jump line="28" column="37" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
+      <jump line="29" column="36" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
+      <jump line="30" column="34" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
+      <jump line="52" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QENFTEVSWS5vbl9hZnRlcl9jb25maWd1cmUuY29ubmVjdApkZWYgc2V0dXBfcGVyaW9kaWNfdGFza3Moc2VuZGVyLCAqKmt3YXJncyk6CiAgICAjIENhbGxzIHRlc3QoJ2hlbGxvJykgZXZlcnkgMTAgc2Vjb25kcy4KICAgIHNlbmRlci5hZGRfcGVyaW9kaWNfdGFzaygxMC4wLCBhZGRfdG9nZXRoZXIucygzLCAxMCksIG5hbWU9J2FkZCBldmVyeSAxMCcpCgogICAgIyBDYWxscyB0ZXN0KCd3b3JsZCcpIGV2ZXJ5IDMwIHNlY29uZHMKICAgIHNlbmRlci5hZGRfcGVyaW9kaWNfdGFzaygzMC4wLCB0ZXN0LnMoJ3dvcmxkJyksIGV4cGlyZXM9MTApCgogICAgIyBFeGVjdXRlcyBldmVyeSBNb25kYXkgbW9ybmluZyBhdCA3OjMwIGEubS4KICAgIHNlbmRlci5hZGRfcGVyaW9kaWNfdGFzaygKICAgICAgICBjcm9udGFiKGhvdXI9NywgbWludXRlPTMwLCBkYXlfb2Zfd2Vlaz0xKSwKICAgICAgICB0ZXN0LnMoJ0hhcHB5IE1vbmRheXMhJyksCiAgICApCgoK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>add_together</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cmxfcGF0dGVybnNcPg==</text>
+        <text encoding="base64">XDxkYlw+</text>
       </register>
       <register name="0" type="4">
         <text>CELERY</text>
@@ -845,9 +849,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cmxfcGF0dGVybnNcPg==</last-search>
+      <last-search encoding="base64">XDxkYlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cmxfcGF0dGVybnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkYlw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -855,7 +859,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEQUlMWV9UUkVBU1VSRVw+</entry>
         <entry encoding="base64">XDxmdW5jXD4=</entry>
         <entry encoding="base64">XDx0aW1lZGVsdGFcPg==</entry>
         <entry encoding="base64">XDxiYW5uZXJcPg==</entry>
@@ -875,6 +878,7 @@
         <entry encoding="base64">XDxudW1iZXJcPg==</entry>
         <entry encoding="base64">XDxRVUVVRVw+</entry>
         <entry encoding="base64">XDx1cmxfcGF0dGVybnNcPg==</entry>
+        <entry encoding="base64">XDxkYlw+</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
