@@ -79,9 +79,6 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1517640486006">
-        <mark key="'" line="366" column="25" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_recharge_return.py" timestamp="1513065685752">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="35" />
@@ -325,12 +322,12 @@
         <mark key="^" line="23" column="70" />
         <mark key="." line="23" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/Heimdall/main.py" timestamp="1517651528396">
-        <mark key="'" line="32" column="8" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="35" column="0" />
+      <file name="$USER_HOME$/workspace/Heimdall/main.py" timestamp="1517813956723">
+        <mark key="'" line="13" column="35" />
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="35" />
+        <mark key="^" line="13" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/Heimdall/uwsgi.ini" timestamp="1517649216261">
         <mark key="[" line="5" column="38" />
@@ -619,13 +616,20 @@
         <mark key="." line="112" column="62" />
         <mark key="^" line="112" column="62" />
       </file>
+      <file name="$USER_HOME$/workspace/Heimdall/.gitignore" timestamp="1517813498220">
+        <mark key="'" line="51" column="18" />
+        <mark key="[" line="184" column="5" />
+        <mark key="]" line="185" column="18" />
+        <mark key="^" line="185" column="18" />
+        <mark key="." line="185" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/tc_pls/crawler.py" timestamp="1514945371582">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="77" />
         <mark key="^" line="36" column="63" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517641159948">
+      <file name="/Dummy.txt" timestamp="1517813588182">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -696,10 +700,12 @@
         <mark key="." line="4" column="47" />
         <mark key="^" line="4" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/Heimdall/tasks.py" timestamp="1517651520923">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/workspace/Heimdall/tasks.py" timestamp="1517813949419">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+        <mark key="^" line="17" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/preset/db/banner.py" timestamp="1513064590673">
         <mark key="[" line="16" column="4" />
@@ -709,14 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="45" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
-      <jump line="179" column="43" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
-      <jump line="145" column="38" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
-      <jump line="26" column="48" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
-      <jump line="154" column="20" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/preset/view.py" />
-      <jump line="14" column="85" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/preset/view.py" />
-      <jump line="159" column="20" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/preset/view.py" />
-      <jump line="16" column="83" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/preset/view.py" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/ff_pk10/logic/activity.py" />
       <jump line="34" column="23" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" />
       <jump line="187" column="30" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" />
@@ -809,16 +807,24 @@
       <jump line="30" column="34" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
       <jump line="52" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/crawler_ffc.py" />
+      <jump line="39" column="42" filename="$USER_HOME$/workspace/Heimdall/main.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/Heimdall/tasks.py" />
+      <jump line="47" column="8" filename="$USER_HOME$/workspace/Heimdall/main.py" />
+      <jump line="1" column="29" filename="$USER_HOME$/workspace/Heimdall/main.py" />
+      <jump line="40" column="35" filename="$USER_HOME$/workspace/Heimdall/main.py" />
+      <jump line="13" column="35" filename="$USER_HOME$/workspace/Heimdall/main.py" />
+      <jump line="51" column="18" filename="$USER_HOME$/workspace/Heimdall/.gitignore" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/Heimdall/tasks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>uri</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>uri</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYlw+</text>
+        <text encoding="base64">XDxjcm9udGFiXD4=</text>
       </register>
       <register name="0" type="4">
         <text>CELERY</text>
@@ -861,9 +867,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYlw+</last-search>
+      <last-search encoding="base64">XDxjcm9udGFiXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYlw+</last-pattern>
+      <last-pattern encoding="base64">XDxjcm9udGFiXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -871,8 +877,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmdW5jXD4=</entry>
-        <entry encoding="base64">XDx0aW1lZGVsdGFcPg==</entry>
         <entry encoding="base64">XDxiYW5uZXJcPg==</entry>
         <entry encoding="base64">XDxjYW1wYWlnbl9lbmRcPg==</entry>
         <entry encoding="base64">XDxleHRlbmRcPg==</entry>
@@ -891,6 +895,8 @@
         <entry encoding="base64">XDxRVUVVRVw+</entry>
         <entry encoding="base64">XDx1cmxfcGF0dGVybnNcPg==</entry>
         <entry encoding="base64">XDxkYlw+</entry>
+        <entry encoding="base64">XDxhZGRfdG9nZXRoZXJcPg==</entry>
+        <entry encoding="base64">XDxjcm9udGFiXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
