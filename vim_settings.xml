@@ -141,12 +141,12 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" timestamp="1517541808640">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="225" column="31" />
-        <mark key="]" line="225" column="38" />
-        <mark key="^" line="225" column="30" />
-        <mark key="." line="225" column="31" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" timestamp="1517828403134">
+        <mark key="'" line="167" column="23" />
+        <mark key="[" line="168" column="84" />
+        <mark key="]" line="168" column="85" />
+        <mark key="^" line="168" column="85" />
+        <mark key="." line="168" column="85" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/templates/register_by_invitation.html" timestamp="1516359909205">
         <mark key="[" line="196" column="23" />
@@ -688,28 +688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="72" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/bj_pk10/crawler.py" />
-      <jump line="145" column="45" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" />
-      <jump line="130" column="61" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
-      <jump line="15" column="65" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
-      <jump line="3" column="48" filename="$USER_HOME$/workspace/bagent/settings_test.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/bagent/settings_prod.py" />
-      <jump line="69" column="6" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/model.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
-      <jump line="105" column="27" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
-      <jump line="221" column="41" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/cache/redis_cache.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/cache/redis_cache.py" />
-      <jump line="464" column="3" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/cache/redis_cache.py" />
-      <jump line="456" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/cache/redis_cache.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/cache/redis_cache.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/cache/redis_cache.py" />
-      <jump line="469" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/cache/redis_cache.py" />
-      <jump line="471" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/cache/redis_cache.py" />
-      <jump line="36" column="7" filename="$USER_HOME$/workspace/devops/bootstrap.yml" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/devops/monitor_bootstrap.yml" />
-      <jump line="28" column="23" filename="$USER_HOME$/workspace/devops/bootstrap.yml" />
-      <jump line="7" column="14" filename="$USER_HOME$/workspace/devops/monitor_bootstrap.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/ff_ssc/logic/activity.py" />
       <jump line="238" column="22" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/order.py" />
       <jump line="240" column="52" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/order.py" />
       <jump line="366" column="25" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/order.py" />
@@ -788,19 +766,41 @@
       <jump line="21" column="4" filename="$USER_HOME$/workspace/Heimdall/api/view.py" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/Heimdall/api/urls.py" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/Heimdall/settings.py" />
+      <jump line="197" column="25" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="200" column="25" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="207" column="25" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="210" column="24" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="214" column="25" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="217" column="18" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="218" column="42" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="222" column="29" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="225" column="31" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="29" column="24" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="66" column="11" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="67" column="50" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="70" column="49" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="71" column="51" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="72" column="49" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="74" column="39" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="148" column="42" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="152" column="29" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="161" column="8" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="162" column="30" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="194" column="24" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="167" column="23" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdkamFuZ28ubWlkZGxld2FyZS5jc3JmLkNzcmZWaWV3TWlkZGxld2FyZScsCg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>, name='index'</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBZG1pblVzZXJcPg==</text>
+        <text encoding="base64">XDx1c2VyX2lkXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>requires_admin_auth</text>
+        <text>str(account.user_name)[:2]</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -840,9 +840,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBZG1pblVzZXJcPg==</last-search>
+      <last-search encoding="base64">XDx1c2VyX2lkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBZG1pblVzZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyX2lkXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -850,7 +850,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYW1wYWlnbl9lbmRcPg==</entry>
         <entry encoding="base64">XDxleHRlbmRcPg==</entry>
         <entry encoding="base64">XDxmZl9zc2Nfb3JkZXJcPg==</entry>
         <entry encoding="base64">XDxmZl9zc2NfYWN0aXZpdHlcPg==</entry>
@@ -870,6 +869,7 @@
         <entry encoding="base64">XDxhZGRfdG9nZXRoZXJcPg==</entry>
         <entry encoding="base64">XDxjcm9udGFiXD4=</entry>
         <entry encoding="base64">XDxBZG1pblVzZXJcPg==</entry>
+        <entry encoding="base64">XDx1c2VyX2lkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
