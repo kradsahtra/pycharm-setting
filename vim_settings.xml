@@ -68,11 +68,10 @@
         <mark key="." line="72" column="37" />
         <mark key="^" line="72" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/heimdall/heimdall/tasks.py" timestamp="1517914464820">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="22" />
-        <mark key="." line="1" column="22" />
-        <mark key="^" line="1" column="22" />
+      <file name="$USER_HOME$/workspace/heimdall/heimdall/tasks.py" timestamp="1517971689540">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/main_uwsgi.ini" timestamp="1517476199092">
         <mark key="[" line="16" column="0" />
@@ -349,11 +348,11 @@
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/crawler_ffc.py" timestamp="1517811864289">
         <mark key="'" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/heimdall/heimdall/views.py" timestamp="1517915287672">
-        <mark key="[" line="12" column="44" />
-        <mark key="]" line="12" column="44" />
-        <mark key="^" line="5" column="29" />
-        <mark key="." line="12" column="44" />
+      <file name="$USER_HOME$/workspace/heimdall/heimdall/views.py" timestamp="1517971760501">
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="48" />
+        <mark key="^" line="11" column="48" />
+        <mark key="." line="11" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/admin/stats/total.py" timestamp="1515756711143">
         <mark key="[" line="44" column="0" />
@@ -566,11 +565,11 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/heimdall/requirements.txt" timestamp="1517909011314">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="13" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/workspace/heimdall/requirements.txt" timestamp="1517971345260">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/heimdall/.gitignore" timestamp="1517907848860">
         <mark key="'" line="14" column="29" />
@@ -620,11 +619,10 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="43" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/heimdall/heimdall/settings.py" timestamp="1517914932530">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="3" />
-        <mark key="." line="39" column="3" />
-        <mark key="^" line="39" column="3" />
+      <file name="$USER_HOME$/workspace/heimdall/heimdall/settings.py" timestamp="1517971442341">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/deploy/config_files/bagent-admin.nginx.conf" timestamp="1517216181343">
         <mark key="'" line="20" column="0" />
@@ -772,6 +770,12 @@
         <mark key="^" line="146" column="45" />
         <mark key="." line="146" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/heimdall/heimdall/__init__.py" timestamp="1517971562903">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" timestamp="1517452206544">
         <mark key="[" line="131" column="61" />
         <mark key="]" line="131" column="61" />
@@ -798,7 +802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="3" filename="$USER_HOME$/workspace/Heimdall/shared/queue.py" />
       <jump line="21" column="20" filename="$USER_HOME$/workspace/Heimdall/shared/queue.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Heimdall/shared/queue.py" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/Heimdall/shared/queue.py" />
@@ -898,37 +901,38 @@
       <jump line="2" column="0" filename="$USER_HOME$/workspace/heimdall/heimdall/views.py" />
       <jump line="9" column="20" filename="$USER_HOME$/workspace/heimdall/heimdall/views.py" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/heimdall/heimdall/views.py" />
+      <jump line="93" column="0" filename="$USER_HOME$/workspace/heimdall/heimdall/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uZmlnLnVwZGF0ZSh7J2FnZW50X3Jld2FyZCc6IDB9KQo=</text>
+      <register name="&quot;" type="4">
+        <text>contacts</text>
       </register>
       <register name="-" type="4">
-        <text>agent_reward</text>
+        <text>contacts</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmdWxsZmlsbF9yZXN1bHRcPg==</text>
+        <text encoding="base64">XDxDRUxFUllfUkVTVUxUX0JBQ0tFTkRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uZmlnLnVwZGF0ZSh7J2FnZW50X3Jld2FyZCc6IGFnZW50X3Jld2FyZH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAnVVNFUic6ICdyb290JywK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uZmlnLnVwZGF0ZSh7J2FnZW50X3Jld2FyZCc6IDB9KQo=</text>
+        <text encoding="base64">ZnJvbSBoZWltZGFsbC5qb2JfcXVldWUgaW1wb3J0IGFwcAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KZnJvbSBoZWltZGFsbC5qb2JfcXVldWUgaW1wb3J0IGFwcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q0VMRVJZX1JFU1VMVF9CQUNLRU5EID0gJ2RiK3NxbGl0ZTovLy9yZXN1bHRzLnNxbGl0ZScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX2lkID0gcmVxLnVzZXJfaWQKICAgICAgICBpZiB1c2VyX2lkOgogICAgICAgICAgICBhZ2VudCA9IGdldF9hZ2VudF9ieV91c2VyX2lkKHVzZXJfaWQpCiAgICAgICAgICAgIGlmIGFnZW50Ogo=</text>
+        <text encoding="base64">Q0VMRVJZX1JFU1VMVF9CQUNLRU5EID0gJ2RqYW5nby1kYicK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -937,22 +941,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGFkZF9hZ2VudF9yZXdhcmQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uZmlnLnVwZGF0ZSh7J2FnZW50X3Jld2FyZCc6IDB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSBpbiBfbGlzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmdWxsZmlsbF9yZXN1bHRcPg==</last-search>
+      <last-search encoding="base64">XDxDRUxFUllfUkVTVUxUX0JBQ0tFTkRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmdWxsZmlsbF9yZXN1bHRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxDRUxFUllfUkVTVUxUX0JBQ0tFTkRcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -960,7 +964,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmZl9zc2NfYWN0aXZpdHlcPg==</entry>
         <entry encoding="base64">XDxwazEwX2dldF9hdmFsaWFibGVfdHlwZV92M1w+</entry>
         <entry encoding="base64">XDxrc19nZXRfYXZhbGlhYmxlX3R5cGVfdjNcPg==</entry>
         <entry encoding="base64">XDxTVEFSVF9EQVRFXD4=</entry>
@@ -980,6 +983,7 @@
         <entry encoding="base64">XDxVUkxcPg==</entry>
         <entry encoding="base64">XDxVUkxfNTAwXD4=</entry>
         <entry encoding="base64">XDxmdWxsZmlsbF9yZXN1bHRcPg==</entry>
+        <entry encoding="base64">XDxDRUxFUllfUkVTVUxUX0JBQ0tFTkRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
