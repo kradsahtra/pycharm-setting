@@ -348,11 +348,12 @@
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/crawler_ffc.py" timestamp="1517811864289">
         <mark key="'" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/heimdall/heimdall/views.py" timestamp="1517971760501">
-        <mark key="[" line="11" column="45" />
-        <mark key="]" line="11" column="48" />
-        <mark key="^" line="11" column="48" />
-        <mark key="." line="11" column="48" />
+      <file name="$USER_HOME$/workspace/heimdall/heimdall/views.py" timestamp="1517973151878">
+        <mark key="'" line="16" column="26" />
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="25" column="46" />
+        <mark key="^" line="25" column="38" />
+        <mark key="." line="25" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/admin/stats/total.py" timestamp="1515756711143">
         <mark key="[" line="44" column="0" />
@@ -397,11 +398,11 @@
         <mark key="." line="21" column="47" />
         <mark key="^" line="21" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/heimdall/heimdall/urls.py" timestamp="1517910018645">
-        <mark key="[" line="22" column="24" />
-        <mark key="]" line="22" column="33" />
-        <mark key="." line="22" column="33" />
-        <mark key="^" line="22" column="33" />
+      <file name="$USER_HOME$/workspace/heimdall/heimdall/urls.py" timestamp="1517972852750">
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="23" column="32" />
+        <mark key="." line="23" column="23" />
+        <mark key="^" line="23" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/__init__.py" timestamp="1517209207833">
         <mark key="[" line="29" column="0" />
@@ -619,10 +620,10 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="43" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/heimdall/heimdall/settings.py" timestamp="1517971442341">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/workspace/heimdall/heimdall/settings.py" timestamp="1517972941447">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/deploy/config_files/bagent-admin.nginx.conf" timestamp="1517216181343">
         <mark key="'" line="20" column="0" />
@@ -802,7 +803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="20" filename="$USER_HOME$/workspace/Heimdall/shared/queue.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Heimdall/shared/queue.py" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/Heimdall/shared/queue.py" />
       <jump line="26" column="6" filename="$USER_HOME$/workspace/Heimdall/main.py" />
@@ -902,52 +902,53 @@
       <jump line="9" column="20" filename="$USER_HOME$/workspace/heimdall/heimdall/views.py" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/heimdall/heimdall/views.py" />
       <jump line="93" column="0" filename="$USER_HOME$/workspace/heimdall/heimdall/settings.py" />
+      <jump line="16" column="26" filename="$USER_HOME$/workspace/heimdall/heimdall/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>contacts</text>
+        <text>task_id</text>
       </register>
       <register name="-" type="4">
-        <text>contacts</text>
+        <text>task_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDRUxFUllfUkVTVUxUX0JBQ0tFTkRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnVVNFUic6ICdyb290JywK</text>
+        <text encoding="base64">ICAgIHJldHVybiBKc29uUmVzcG9uc2Uoeyd0YXNrX2lkJzogdGFzay5pZH0pCg==</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBoZWltZGFsbC5qb2JfcXVldWUgaW1wb3J0IGFwcAo=</text>
+        <text encoding="base64">ICAgICdkamFuZ28ubWlkZGxld2FyZS5jc3JmLkNzcmZWaWV3TWlkZGxld2FyZScsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KZnJvbSBoZWltZGFsbC5qb2JfcXVldWUgaW1wb3J0IGFwcAo=</text>
+        <text encoding="base64">ZnJvbSBoZWltZGFsbC5qb2JfcXVldWUgaW1wb3J0IGFwcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q0VMRVJZX1JFU1VMVF9CQUNLRU5EID0gJ2RiK3NxbGl0ZTovLy9yZXN1bHRzLnNxbGl0ZScK</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KZnJvbSBoZWltZGFsbC5qb2JfcXVldWUgaW1wb3J0IGFwcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q0VMRVJZX1JFU1VMVF9CQUNLRU5EID0gJ2RqYW5nby1kYicK</text>
+        <text encoding="base64">Q0VMRVJZX1JFU1VMVF9CQUNLRU5EID0gJ2RiK3NxbGl0ZTovLy9yZXN1bHRzLnNxbGl0ZScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q0VMRVJZX1JFU1VMVF9CQUNLRU5EID0gJ2RqYW5nby1kYicK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uZmlnLnVwZGF0ZSh7J2FnZW50X3Jld2FyZCc6IDB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uZmlnLnVwZGF0ZSh7J2FnZW50X3Jld2FyZCc6IDB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
