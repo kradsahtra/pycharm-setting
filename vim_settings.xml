@@ -167,12 +167,12 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" timestamp="1518072524856">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" timestamp="1518073491506">
         <mark key="'" line="51" column="8" />
-        <mark key="[" line="141" column="18" />
-        <mark key="]" line="141" column="22" />
-        <mark key="." line="141" column="22" />
-        <mark key="^" line="141" column="22" />
+        <mark key="[" line="125" column="28" />
+        <mark key="]" line="125" column="46" />
+        <mark key="." line="125" column="46" />
+        <mark key="^" line="125" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/templates/register_by_invitation.html" timestamp="1516359909205">
         <mark key="[" line="196" column="23" />
@@ -810,16 +810,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>weekly</text>
+        <text>now</text>
       </register>
       <register name="-" type="4">
-        <text>weekly</text>
+        <text>now</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFbnVtXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygnd2Vla2x5IHN0YXJ0OiAlcywgZW5kOiAlcycgJSAoc3RhcnQsIGVuZCkpCg==</text>
+      <register name="0" type="4">
+        <text>start</text>
       </register>
       <register name="p" type="4">
         <text />
