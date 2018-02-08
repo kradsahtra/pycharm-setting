@@ -167,12 +167,12 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" timestamp="1518062366443">
-        <mark key="'" line="164" column="23" />
-        <mark key="[" line="124" column="64" />
-        <mark key="]" line="124" column="85" />
-        <mark key="^" line="39" column="35" />
-        <mark key="." line="124" column="64" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" timestamp="1518067089911">
+        <mark key="'" line="51" column="8" />
+        <mark key="[" line="158" column="43" />
+        <mark key="]" line="158" column="43" />
+        <mark key="." line="158" column="43" />
+        <mark key="^" line="86" column="91" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/templates/register_by_invitation.html" timestamp="1516359909205">
         <mark key="[" line="196" column="23" />
@@ -399,6 +399,7 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="8" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/campaign/view.py" timestamp="1518067356079" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/db/daily_recharge_return.py" timestamp="1513061997742">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="34" />
@@ -620,7 +621,7 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518061931639">
+      <file name="/Dummy.txt" timestamp="1518067141462">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -706,10 +707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="35" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
-      <jump line="27" column="35" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
-      <jump line="28" column="37" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
-      <jump line="29" column="36" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
       <jump line="30" column="34" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
       <jump line="52" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/generate_cyclical_trend.py" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/crawler_ffc.py" />
@@ -806,52 +803,56 @@
       <jump line="17" column="0" filename="$USER_HOME$/workspace/heimdall/heimdall/views.py" />
       <jump line="47" column="4" filename="$USER_HOME$/workspace/heimdall/heimdall/views.py" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/heimdall/heimdall/views.py" />
+      <jump line="163" column="49" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="87" column="90" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="176" column="54" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="51" column="8" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.strftime('%Y-%m-%d')</text>
+        <text encoding="base64">IC0gMjQgKiA2MCAqIDYw</text>
       </register>
       <register name="-" type="4">
-        <text>.strftime('%Y-%m-%d')</text>
+        <text encoding="base64">IC0gMjQgKiA2MCAqIDYw</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFbnVtXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>.strftime('%Y-%m-%d')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHN0YXJ0ID0gdXRjX3RvX2xvY2FsKGRhdGV0aW1lLnV0Y25vdygpLnJlcGxhY2UoaG91cj0wLCBtaW51dGU9MCwgc2Vjb25kPTAsIG1pY3Jvc2Vjb25kPTApKQogICAgZW5kID0gdXRjX3RvX2xvY2FsKGRhdGV0aW1lLnV0Y25vdygpLnJlcGxhY2UoaG91cj0wLCBtaW51dGU9MCwgc2Vjb25kPTAsIG1pY3Jvc2Vjb25kPTApICsgdGltZWRlbHRhKGRheXM9MSkpCg==</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0X2RhdGUgPSBkYXRldGltZS5zdHJwdGltZShzdGFydCwgJyVZLSVtLSVkJykKICAgIGVuZF9kYXRlID0gZGF0ZXRpbWUuc3RycHRpbWUoZW5kLCAnJVktJW0tJWQnKQo=</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gdG9kYXlfc3RyKCkKICAgIGVuZCA9IHV0Y190b19sb2NhbChkYXRldGltZS51dGNub3coKSArIHRpbWVkZWx0YShkYXlzPTEpKS5zdHJmdGltZSgnJVktJW0tJWQnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">b3JtLnNlc3Npb24ucXVlcnkoZnVuYy5zdW0oVHJhbnNhY3Rpb24ucHJpY2UpKS4gXAogICAgICAgIGZpbHRlcihUcmFuc2FjdGlvbi51cGRhdGVkX2F0ID49IHN0YXJ0KS4gXAogICAgICAgIGZpbHRlcihUcmFuc2FjdGlvbi51cGRhdGVkX2F0IDw9IGVuZCkuIFwKICAgICAgICBmaWx0ZXIoVHJhbnNhY3Rpb24udHlwZSA9PSBUUkFOU0FDVElPTl9UWVBFLkFXQVJEKS5zY2FsYXIoKQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygnc3RhcnQgaXMgJXMsIGVuZCBpcyAlcycgJSAoc3RhcnQsIGVuZCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF3YXJkX3Bvb2wgPSBvcm0uc2Vzc2lvbi5xdWVyeShmdW5jLnN1bShUcmFuc2FjdGlvbi5wcmljZSkpLiBcCiAgICAgICAgZmlsdGVyKFRyYW5zYWN0aW9uLnVwZGF0ZWRfYXQgPj0gc3RhcnQpLiBcCiAgICAgICAgZmlsdGVyKFRyYW5zYWN0aW9uLnVwZGF0ZWRfYXQgPD0gZW5kKS4gXAogICAgICAgIGZpbHRlcihUcmFuc2FjdGlvbi50eXBlID09IFRSQU5TQUNUSU9OX1RZUEUuQVdBUkQpLnNjYWxhcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0X2F3YXJkX3JhbmtpbmcoanNvbi5kdW1wcyhhd2FyZF9yYW5raW5nKSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBhd2FyZF9yYW5raW5nID0ganNvbi5sb2Fkcyhhd2FyZF9yYW5raW5nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE1HX0JJR0JBTkdfQ09MTC5kYWlseV9yZXBvcnQK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgYXdhcmRfcmFua2luZzoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAidXNlcl9pZCI6IHVzZXJfaWQK</text>
+        <text encoding="base64">ICAgICAgICBhd2FyZF9yYW5raW5nID0gZ2V0X2F3YXJkX3JhbmtpbmcoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlkID0gbW9kZWxzLkJpZ0ludGVnZXJGaWVsZChwcmltYXJ5X2tleT1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldF91c2VyX2F3YXJkX3JhbmtpbmcodXNlcl9pZCwganNvbi5kdW1wcyh1c2VyX3JhbmtpbmcpKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgdXNlcl9yYW5raW5nID0ganNvbi5sb2Fkcyh1c2VyX3JhbmtpbmcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlkID0gbW9kZWxzLkJpZ0ludGVnZXJGaWVsZChwcmltYXJ5X2tleT1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcl9yYW5raW5nID0gZ2V0X3VzZXJfYXdhcmRfcmFua2luZyh1c2VyX2lkKQogICAgICAgICAgICBpZiBub3QgdXNlcl9yYW5raW5nOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHF1ZXJ5ID0gb3JtLnNlc3Npb24ucXVlcnkoVHJhbnNhY3Rpb24udXNlcl9pZCwgZnVuYy5zdW0oVHJhbnNhY3Rpb24ucHJpY2UpLmxhYmVsKCdhbW91bnQnKSkuIFwKICAgICAgICBmaWx0ZXIoVHJhbnNhY3Rpb24udHlwZSA9PSBUUkFOU0FDVElPTl9UWVBFLkFXQVJEKS4gXAogICAgICAgIGZpbHRlcihUcmFuc2FjdGlvbi51cGRhdGVkX2F0ID49IHN0YXJ0KS4gXAogICAgICAgIGZpbHRlcihUcmFuc2FjdGlvbi51cGRhdGVkX2F0IDw9IGVuZCkuIFwKICAgICAgICBncm91cF9ieShUcmFuc2FjdGlvbi51c2VyX2lkKS5vcmRlcl9ieShkZXNjKCdhbW91bnQnKSkuYWxsKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QVBQRU5EX1NMQVNIID0gRmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
