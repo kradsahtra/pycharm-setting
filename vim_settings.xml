@@ -167,12 +167,12 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" timestamp="1518060401391">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" timestamp="1518062366443">
         <mark key="'" line="164" column="23" />
-        <mark key="[" line="39" column="30" />
-        <mark key="]" line="39" column="35" />
+        <mark key="[" line="124" column="64" />
+        <mark key="]" line="124" column="85" />
         <mark key="^" line="39" column="35" />
-        <mark key="." line="39" column="35" />
+        <mark key="." line="124" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/templates/register_by_invitation.html" timestamp="1516359909205">
         <mark key="[" line="196" column="23" />
@@ -620,7 +620,7 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518059011281">
+      <file name="/Dummy.txt" timestamp="1518061931639">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -809,16 +809,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>.strftime('%Y-%m-%d')</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>.strftime('%Y-%m-%d')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFbnVtXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpbl9jdXJzb3IgPSBNR19CSUdCQU5HX0NPTEwuZGFpbHlfcmVwb3J0LmFnZ3JlZ2F0ZShbCiAgICAgICAgeyIkbWF0Y2giOiBjb25kfSwKICAgICAgICB7IiRncm91cCI6IHsiX2lkIjogTm9uZSwgInRvdGFsX3dpbiI6IHsiJHN1bSI6ICIkd2luX3ByaWNlIn19fQogICAgXSkK</text>
+      <register name="0" type="4">
+        <text>.strftime('%Y-%m-%d')</text>
       </register>
       <register name="p" type="4">
         <text />
