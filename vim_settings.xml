@@ -162,10 +162,10 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" timestamp="1518142976569">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" timestamp="1518146873932">
         <mark key="'" line="175" column="0" />
-        <mark key="[" line="118" column="43" />
-        <mark key="]" line="118" column="43" />
+        <mark key="[" line="118" column="12" />
+        <mark key="]" line="118" column="23" />
         <mark key="^" line="118" column="93" />
         <mark key="." line="118" column="43" />
       </file>
@@ -249,12 +249,12 @@
         <mark key="." line="158" column="27" />
         <mark key="^" line="158" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" timestamp="1518145693957">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" timestamp="1518146880742">
         <mark key="'" line="94" column="30" />
-        <mark key="[" line="18" column="10" />
-        <mark key="]" line="18" column="9" />
-        <mark key="." line="18" column="9" />
-        <mark key="^" line="18" column="9" />
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="37" />
+        <mark key="." line="18" column="37" />
+        <mark key="^" line="18" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/apps/preset/banner.js" timestamp="1513071737564">
         <mark key="[" line="141" column="45" />
@@ -778,7 +778,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>datetime.now()</text>
+        <text>utc_to_local</text>
       </register>
       <register name="-" type="4">
         <text>datetime.now()</text>
@@ -786,8 +786,8 @@
       <register name="/" type="4">
         <text>lottery</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhcmRfd2lubmVyX3JhbmtpbmcodXNlcl9pZCwgV0lOTkVSX0FXQVJEX1RZUEUuREFJTFksIHJhbmssIGFtb3VudCwgc3RhcnQsIGVuZCkKICAgICAgICAgICAgbm90aWZ5X3dpbm5lcl9yYW5rX2RhaWx5KHVzZXJfaWQsIHN0YXJ0LnN0cmZ0aW1lKCIlbS0lZCIpLCByYW5rLCBhbW91bnQpCg==</text>
+      <register name="0" type="4">
+        <text>utc_to_local</text>
       </register>
       <register name="p" type="4">
         <text />
