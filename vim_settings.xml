@@ -249,11 +249,11 @@
         <mark key="." line="158" column="27" />
         <mark key="^" line="158" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" timestamp="1518146880742">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" timestamp="1518147776477">
         <mark key="'" line="94" column="30" />
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="18" column="37" />
-        <mark key="." line="18" column="37" />
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="24" />
         <mark key="^" line="18" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/apps/preset/banner.js" timestamp="1513071737564">
@@ -778,10 +778,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>utc_to_local</text>
+        <text>.replace(hour=0, minute=0, second=0, microsecond=0)</text>
       </register>
       <register name="-" type="4">
-        <text>datetime.now()</text>
+        <text>.replace(hour=0, minute=0, second=0, microsecond=0)</text>
       </register>
       <register name="/" type="4">
         <text>lottery</text>
