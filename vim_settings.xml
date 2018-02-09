@@ -167,12 +167,12 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" timestamp="1518139863794">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" timestamp="1518141843749">
         <mark key="'" line="175" column="0" />
-        <mark key="[" line="185" column="22" />
-        <mark key="]" line="186" column="24" />
-        <mark key="^" line="186" column="24" />
-        <mark key="." line="186" column="24" />
+        <mark key="[" line="119" column="10" />
+        <mark key="]" line="119" column="10" />
+        <mark key="^" line="119" column="10" />
+        <mark key="." line="119" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/templates/register_by_invitation.html" timestamp="1516359909205">
         <mark key="[" line="196" column="23" />
@@ -680,6 +680,7 @@
         <mark key="." line="25" column="34" />
         <mark key="^" line="25" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" timestamp="1518142073395" />
       <file name="$USER_HOME$/workspace/heimdall/heimdall/__init__.py" timestamp="1517971562903">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="14" />
@@ -698,6 +699,7 @@
         <mark key="." line="4" column="47" />
         <mark key="^" line="4" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/justpay.py" timestamp="1518142210324" />
       <file name="$USER_HOME$/workspace/Heimdall/tasks.py" timestamp="1517815716878">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="16" column="17" />
@@ -816,10 +818,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.win_amount</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>.win_amount</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>lottery</text>
