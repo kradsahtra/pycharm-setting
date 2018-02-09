@@ -249,6 +249,13 @@
         <mark key="." line="158" column="27" />
         <mark key="^" line="158" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" timestamp="1518145693957">
+        <mark key="'" line="94" column="30" />
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="18" column="9" />
+        <mark key="." line="18" column="9" />
+        <mark key="^" line="18" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/apps/preset/banner.js" timestamp="1513071737564">
         <mark key="[" line="141" column="45" />
         <mark key="]" line="141" column="56" />
@@ -598,7 +605,7 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518074734352">
+      <file name="/Dummy.txt" timestamp="1518145598892">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -668,7 +675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="29" filename="$USER_HOME$/workspace/Heimdall/main.py" />
       <jump line="40" column="35" filename="$USER_HOME$/workspace/Heimdall/main.py" />
       <jump line="13" column="35" filename="$USER_HOME$/workspace/Heimdall/main.py" />
       <jump line="51" column="18" filename="$USER_HOME$/workspace/Heimdall/.gitignore" />
@@ -768,19 +774,20 @@
       <jump line="52" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
       <jump line="35" column="5" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/winner_ranking.py" />
       <jump line="179" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="94" column="30" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>datetime.now()</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>datetime.now()</text>
       </register>
       <register name="/" type="4">
         <text>lottery</text>
       </register>
-      <register name="0" type="4">
-        <text>.strftime('%Y-%m-%d')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXdhcmRfd2lubmVyX3JhbmtpbmcodXNlcl9pZCwgV0lOTkVSX0FXQVJEX1RZUEUuREFJTFksIHJhbmssIGFtb3VudCwgc3RhcnQsIGVuZCkKICAgICAgICAgICAgbm90aWZ5X3dpbm5lcl9yYW5rX2RhaWx5KHVzZXJfaWQsIHN0YXJ0LnN0cmZ0aW1lKCIlbS0lZCIpLCByYW5rLCBhbW91bnQpCg==</text>
       </register>
       <register name="p" type="4">
         <text />
