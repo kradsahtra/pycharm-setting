@@ -162,12 +162,12 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" timestamp="1518161249679">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" timestamp="1518163671903">
         <mark key="'" line="23" column="8" />
-        <mark key="[" line="278" column="0" />
-        <mark key="]" line="299" column="6" />
-        <mark key="^" line="206" column="41" />
-        <mark key="." line="278" column="0" />
+        <mark key="[" line="119" column="23" />
+        <mark key="]" line="119" column="53" />
+        <mark key="^" line="119" column="22" />
+        <mark key="." line="119" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/templates/register_by_invitation.html" timestamp="1516359909205">
         <mark key="[" line="196" column="23" />
@@ -782,11 +782,11 @@
       <jump line="23" column="8" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGN1cnNvciA9IE1HX0JJR0JBTkdfQ09MTC5kYWlseV9zdGF0cy5hZ2dyZWdhdGUoWwogICAgICAgIHsiJG1hdGNoIjogY29uZH0sCiAgICAgICAgeyIkcHJvamVjdCI6IHsidXNlcl9pZCI6IDEsICJ0b3RhbCI6IHsiJGFkZCI6IFsiJHdpbi50b3RhbCIsICIkYm9udXMudG90YWwiXX19fSwKICAgICAgICB7IiRzb3J0IjogeyJ0b3RhbCI6IC0xfX0sCiAgICAgICAgeyIkbGltaXQiOiAxMDB9LAogICAgXSkK</text>
+      <register name="&quot;" type="4">
+        <text>start_date + timedelta(days=1)</text>
       </register>
       <register name="-" type="4">
-        <text>end</text>
+        <text>start_date + timedelta(days=1)</text>
       </register>
       <register name="/" type="4">
         <text>lottery</text>
