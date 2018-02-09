@@ -249,12 +249,12 @@
         <mark key="." line="158" column="27" />
         <mark key="^" line="158" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" timestamp="1518147776477">
-        <mark key="'" line="94" column="30" />
-        <mark key="[" line="26" column="24" />
-        <mark key="]" line="26" column="24" />
-        <mark key="." line="26" column="24" />
-        <mark key="^" line="18" column="37" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" timestamp="1518157760135">
+        <mark key="'" line="25" column="21" />
+        <mark key="[" line="61" column="39" />
+        <mark key="]" line="61" column="44" />
+        <mark key="." line="61" column="44" />
+        <mark key="^" line="61" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/apps/preset/banner.js" timestamp="1513071737564">
         <mark key="[" line="141" column="45" />
@@ -675,7 +675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="35" filename="$USER_HOME$/workspace/Heimdall/main.py" />
       <jump line="13" column="35" filename="$USER_HOME$/workspace/Heimdall/main.py" />
       <jump line="51" column="18" filename="$USER_HOME$/workspace/Heimdall/.gitignore" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/Heimdall/tasks.py" />
@@ -775,10 +774,11 @@
       <jump line="35" column="5" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/winner_ranking.py" />
       <jump line="179" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
       <jump line="94" column="30" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" />
+      <jump line="25" column="21" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.replace(hour=0, minute=0, second=0, microsecond=0)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBjb21tb24udXRpbHMudHogaW1wb3J0IHV0Y190b19sb2NhbAo=</text>
       </register>
       <register name="-" type="4">
         <text>.replace(hour=0, minute=0, second=0, microsecond=0)</text>
@@ -793,18 +793,21 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gdG9kYXlfc3RyKCkK</text>
+        <text encoding="base64">ZnJvbSBjb21tb24udXRpbHMudHogaW1wb3J0IHV0Y190b19sb2NhbAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRvdGFsX3dpbiA9IHdpbl9jdXJzb3IubmV4dCgpLmdldCgndG90YWxfd2luJywgMCkgaWYgd2luX2N1cnNvci5hbGl2ZSBlbHNlIDAK</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gdG9kYXlfc3RyKCkK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHRvdGFsX3dpbiA9IHdpbl9jdXJzb3IubmV4dCgpLmdldCgndG90YWxfd2luJywgMCkgaWYgd2luX2N1cnNvci5hbGl2ZSBlbHNlIDAK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGJvbnVzX2N1cnNvciA9IE1HX0JJR0JBTkdfQ09MTC5kYWlseV9yZXBvcnQuYWdncmVnYXRlKFsKICAgICAgICB7IiRtYXRjaCI6IGNvbmR9LAogICAgICAgIHsiJGdyb3VwIjogeyJfaWQiOiBOb25lLCAidG90YWxfYm9udXMiOiB7IiRzdW0iOiAiJGJvbnVzX3ByaWNlIn19fQogICAgXSkK</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>0.04 * 0.60 *
 0.04 * 0.60 *
 0.04 * 0.60 *
@@ -815,7 +818,7 @@
 0.04 * 0.60 *
 0.04 * 0.60 *</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>0.04 * 0.15 *
 0.04 * 0.15 *
 0.04 * 0.15 *
@@ -826,7 +829,7 @@
 0.04 * 0.15 *
 0.04 * 0.15 *</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>0.04 * 0.25 *
 0.04 * 0.25 *
 0.04 * 0.25 *
@@ -837,11 +840,8 @@
 0.04 * 0.25 *
 0.04 * 0.25 *</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygnc3RhcnQgaXMgJXMsIGVuZCBpcyAlcycgJSAoc3RhcnQsIGVuZCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygnc3RhcnQgaXMgJXMsIGVuZCBpcyAlcycgJSAoc3RhcnQsIGVuZCkpCg==</text>
