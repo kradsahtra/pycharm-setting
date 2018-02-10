@@ -3,13 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/model.py" timestamp="1518249318562" />
       <file name="/a.dummy" timestamp="1517914448622">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/handler.py" timestamp="1516346913903">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/handler.py" timestamp="1518250436914">
         <mark key="[" line="40" column="4" />
         <mark key="]" line="40" column="25" />
         <mark key="." line="43" column="69" />
@@ -615,7 +616,10 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518227266842">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/view.py" timestamp="1518250114148">
+        <mark key="'" line="143" column="45" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1518249528593">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -656,6 +660,10 @@
         <mark key="." line="25" column="34" />
         <mark key="^" line="25" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" timestamp="1518249915248">
+        <mark key="[" line="79" column="15" />
+        <mark key="]" line="79" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/heimdall/heimdall/__init__.py" timestamp="1517971562903">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="14" />
@@ -668,6 +676,7 @@
         <mark key="." line="4" column="47" />
         <mark key="^" line="4" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/justpay.py" timestamp="1518249542066" />
       <file name="$USER_HOME$/workspace/Heimdall/tasks.py" timestamp="1517815716878">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="16" column="17" />
@@ -683,7 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="11" filename="$USER_HOME$/workspace/Heimdall/shared/models.py" />
       <jump line="85" column="0" filename="$USER_HOME$/workspace/Heimdall/shared/models.py" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/Heimdall/shared/models.py" />
       <jump line="16" column="9" filename="$USER_HOME$/workspace/Heimdall/settings.py" />
@@ -783,10 +791,11 @@
       <jump line="198" column="68" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
       <jump line="256" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
       <jump line="103" column="16" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="143" column="45" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/view.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ready</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -795,7 +804,7 @@
         <text>lottery</text>
       </register>
       <register name="0" type="4">
-        <text>weekly_start_date</text>
+        <text>ready</text>
       </register>
       <register name="p" type="4">
         <text />
