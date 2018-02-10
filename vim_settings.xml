@@ -120,7 +120,6 @@
         <mark key="." line="215" column="23" />
         <mark key="^" line="215" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/gx_ks/crawler.py" timestamp="1518143907134" />
       <file name="$USER_HOME$/workspace/bagent/shared/controllers.py" timestamp="1517475021771">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
@@ -162,12 +161,12 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" timestamp="1518167349004">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" timestamp="1518227264395">
         <mark key="'" line="103" column="16" />
-        <mark key="[" line="305" column="0" />
-        <mark key="]" line="305" column="0" />
-        <mark key="^" line="305" column="15" />
-        <mark key="." line="305" column="0" />
+        <mark key="[" line="205" column="67" />
+        <mark key="]" line="205" column="67" />
+        <mark key="^" line="205" column="48" />
+        <mark key="." line="205" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/templates/register_by_invitation.html" timestamp="1516359909205">
         <mark key="[" line="196" column="23" />
@@ -212,6 +211,7 @@
         <mark key="." line="20" column="36" />
         <mark key="^" line="20" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/tracker.py" timestamp="1518227049271" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/model.py" timestamp="1517479990361">
         <mark key="'" line="69" column="6" />
         <mark key="[" line="17" column="0" />
@@ -610,7 +610,7 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518169809280">
+      <file name="/Dummy.txt" timestamp="1518227266842">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -651,7 +651,6 @@
         <mark key="." line="25" column="34" />
         <mark key="^" line="25" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" timestamp="1518142073395" />
       <file name="$USER_HOME$/workspace/heimdall/heimdall/__init__.py" timestamp="1517971562903">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="14" />
@@ -664,7 +663,6 @@
         <mark key="." line="4" column="47" />
         <mark key="^" line="4" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/justpay.py" timestamp="1518142210324" />
       <file name="$USER_HOME$/workspace/Heimdall/tasks.py" timestamp="1517815716878">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="16" column="17" />
@@ -783,10 +781,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>start</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>lottery</text>
