@@ -211,8 +211,8 @@
         <mark key="." line="20" column="36" />
         <mark key="^" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/model.py" timestamp="1517479990361">
-        <mark key="'" line="69" column="6" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/model.py" timestamp="1518490367261">
+        <mark key="'" line="91" column="4" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -694,8 +694,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="21" filename="$USER_HOME$/workspace/Heimdall/settings.py" />
-      <jump line="78" column="40" filename="$USER_HOME$/workspace/Heimdall/settings.py" />
       <jump line="7" column="31" filename="$USER_HOME$/workspace/Heimdall/shared/controllers.py" />
       <jump line="39" column="34" filename="$USER_HOME$/workspace/Heimdall/shared/controllers.py" />
       <jump line="4" column="11" filename="$USER_HOME$/workspace/Heimdall/shared/controllers.py" />
@@ -794,6 +792,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_bet_return.py" />
       <jump line="25" column="60" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
       <jump line="9" column="12" filename="$USER_HOME$/workspace/bigbang-server/bigbang/uwsgi.ini" />
+      <jump line="69" column="6" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/model.py" />
+      <jump line="91" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -803,7 +803,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>lottery</text>
+        <text encoding="base64">XDx0YXJnZXRfdHlwZVw+</text>
       </register>
       <register name="0" type="4">
         <text>ready</text>
@@ -846,9 +846,9 @@
       </register>
     </registers>
     <search>
-      <last-search>lottery</last-search>
+      <last-search encoding="base64">XDx0YXJnZXRfdHlwZVw+</last-search>
       <last-offset />
-      <last-pattern>lottery</last-pattern>
+      <last-pattern encoding="base64">XDx0YXJnZXRfdHlwZVw+</last-pattern>
       <last-replace>fruit</last-replace>
       <last-substitute>lottery</last-substitute>
       <last-dir>1</last-dir>
@@ -856,7 +856,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVUkxfMTY4XD4=</entry>
         <entry encoding="base64">XDxyZWZ1bmRfb3JkZXJzXD4=</entry>
         <entry encoding="base64">XDxmdW5jc1w+</entry>
         <entry encoding="base64">XDxudW1iZXJcPg==</entry>
@@ -876,6 +875,7 @@
         <entry encoding="base64">XDxXSU5ORVJfQVdBUkRfVFlQRVw+</entry>
         <entry>kfc</entry>
         <entry>lottery</entry>
+        <entry encoding="base64">XDx0YXJnZXRfdHlwZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>292</entry>
