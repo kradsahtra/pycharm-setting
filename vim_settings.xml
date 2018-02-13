@@ -267,10 +267,11 @@
         <mark key="." line="141" column="45" />
         <mark key="^" line="141" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1518405219721">
-        <mark key="[" line="37" column="39" />
-        <mark key="]" line="37" column="40" />
-        <mark key="." line="37" column="40" />
+      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1518518919562">
+        <mark key="[" line="37" column="59" />
+        <mark key="]" line="37" column="60" />
+        <mark key="." line="37" column="60" />
+        <mark key="^" line="37" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/Heimdall/requirements.txt" timestamp="1517907136713">
         <mark key="[" line="14" column="0" />
@@ -489,7 +490,6 @@
         <mark key="." line="94" column="3" />
         <mark key="^" line="94" column="3" />
       </file>
-      <file name="$USER_HOME$/nginx_conf/kfc.conf" timestamp="1518512402143" />
       <file name="$USER_HOME$/workspace/deploy/config_files/bagent.nginx.conf" timestamp="1516589611826">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="28" />
@@ -551,7 +551,6 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/nginx_conf/bagent.conf" timestamp="1518504775235" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/preset/handler.py" timestamp="1517969336499">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -805,17 +804,17 @@
       <jump line="101" column="18" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/scrolling/logic.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'45.121.48.138:9478',</text>
       </register>
       <register name="-" type="4">
-        <text>0.04</text>
+        <text>162.222.165.245</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUSFJFRV9TVU1cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJ2F3YXJkaW5nIHVzZXIgPCVzPiwgYXdhcmRfYW1vdW50IDwlcz4sIHdpbl9hbW91bnQ6IDwlcz4nICUgKHVzZXJfaWQsIGFtb3VudCwgd2luX2Ftb3VudCkK</text>
+      <register name="0" type="4">
+        <text>'45.121.48.138:9478',</text>
       </register>
       <register name="p" type="4">
         <text />
