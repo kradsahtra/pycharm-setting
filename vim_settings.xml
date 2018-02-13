@@ -137,6 +137,9 @@
         <mark key="]" line="687" column="79" />
         <mark key="." line="433" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/js_ks/logic/order.py" timestamp="1518509091888">
+        <mark key="'" line="49" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/ff_pk10/crawler.py" timestamp="1518144020166">
         <mark key="[" line="32" column="24" />
         <mark key="]" line="32" column="28" />
@@ -577,7 +580,7 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/db.py" timestamp="1518507897905">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/db.py" timestamp="1518508634430">
         <mark key="[" line="234" column="0" />
         <mark key="]" line="234" column="0" />
         <mark key="." line="234" column="0" />
@@ -690,11 +693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="34" filename="$USER_HOME$/workspace/Heimdall/shared/controllers.py" />
-      <jump line="4" column="11" filename="$USER_HOME$/workspace/Heimdall/shared/controllers.py" />
-      <jump line="13" column="16" filename="$USER_HOME$/workspace/Heimdall/shared/models.py" />
-      <jump line="33" column="50" filename="$USER_HOME$/workspace/Heimdall/shared/controllers.py" />
-      <jump line="3" column="41" filename="$USER_HOME$/workspace/Heimdall/shared/controllers.py" />
       <jump line="40" column="0" filename="$USER_HOME$/workspace/Heimdall/shared/controllers.py" />
       <jump line="23" column="35" filename="$USER_HOME$/workspace/Heimdall/shared/models.py" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/bagent/shared/models.py" />
@@ -790,6 +788,11 @@
       <jump line="69" column="6" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/model.py" />
       <jump line="91" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/model.py" />
       <jump line="4" column="11" filename="$USER_HOME$/workspace/devops/ansible_hosts" />
+      <jump line="18" column="13" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/js_ks/logic/order.py" />
+      <jump line="65" column="30" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/js_ks/logic/order.py" />
+      <jump line="8" column="13" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/js_ks/logic/order.py" />
+      <jump line="35" column="36" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/js_ks/logic/order.py" />
+      <jump line="49" column="28" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/js_ks/logic/order.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -799,7 +802,7 @@
         <text>ansible_python_interpreter=/usr/bin/python3</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YXJnZXRfdHlwZVw+</text>
+        <text encoding="base64">XDxUSFJFRV9TVU1cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YmlnYmFuZy1uZ2lueDEK</text>
@@ -842,9 +845,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YXJnZXRfdHlwZVw+</last-search>
+      <last-search encoding="base64">XDxUSFJFRV9TVU1cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YXJnZXRfdHlwZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxUSFJFRV9TVU1cPg==</last-pattern>
       <last-replace>fruit</last-replace>
       <last-substitute>lottery</last-substitute>
       <last-dir>1</last-dir>
@@ -852,8 +855,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWZ1bmRfb3JkZXJzXD4=</entry>
-        <entry encoding="base64">XDxmdW5jc1w+</entry>
         <entry encoding="base64">XDxudW1iZXJcPg==</entry>
         <entry encoding="base64">XDxRVUVVRVw+</entry>
         <entry encoding="base64">XDx1cmxfcGF0dGVybnNcPg==</entry>
@@ -872,6 +873,8 @@
         <entry>kfc</entry>
         <entry>lottery</entry>
         <entry encoding="base64">XDx0YXJnZXRfdHlwZVw+</entry>
+        <entry encoding="base64">XDxPTkVfQU5ZXD4=</entry>
+        <entry encoding="base64">XDxUSFJFRV9TVU1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>292</entry>
