@@ -152,10 +152,12 @@
         <mark key="." line="32" column="28" />
         <mark key="^" line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/handler.py" timestamp="1518521963222">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/handler.py" timestamp="1518583916766">
+        <mark key="'" line="48" column="60" />
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="35" />
+        <mark key="." line="26" column="35" />
+        <mark key="^" line="26" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/common/utils/logs.py" timestamp="1514602275017">
         <mark key="[" line="11" column="32" />
@@ -606,9 +608,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/activity.py" timestamp="1518579090937">
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="189" column="0" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/activity.py" timestamp="1518583267531">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="37" />
         <mark key="." line="189" column="0" />
         <mark key="^" line="190" column="7" />
       </file>
@@ -638,7 +640,7 @@
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/view.py" timestamp="1518250114148">
         <mark key="'" line="143" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518521968290">
+      <file name="/Dummy.txt" timestamp="1518583294675">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -709,10 +711,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/workspace/Heimdall/shared/utils/auth.py" />
-      <jump line="16" column="2" filename="$USER_HOME$/workspace/Heimdall/api/view.py" />
-      <jump line="38" column="33" filename="$USER_HOME$/workspace/Heimdall/main.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/workspace/Heimdall/main.py" />
       <jump line="21" column="4" filename="$USER_HOME$/workspace/Heimdall/api/view.py" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/Heimdall/api/urls.py" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/Heimdall/settings.py" />
@@ -809,19 +807,23 @@
       <jump line="101" column="18" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/scrolling/logic.py" />
       <jump line="404" column="28" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/order.py" />
       <jump line="45" column="21" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/handler.py" />
+      <jump line="37" column="16" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/handler.py" />
+      <jump line="45" column="3" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/handler.py" />
+      <jump line="48" column="60" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/handler.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>worker</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>worker</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFja193aW5cPg==</text>
+        <text encoding="base64">XDxvcm1cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGNhY2hlX3dyYXBwZXIK</text>
+        <text encoding="base64">X0xPR0dFUiA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCd3b3JrZXInKQoK</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -861,9 +863,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFja193aW5cPg==</last-search>
+      <last-search encoding="base64">XDxvcm1cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFja193aW5cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxvcm1cPg==</last-pattern>
       <last-replace>fruit</last-replace>
       <last-substitute>lottery</last-substitute>
       <last-dir>1</last-dir>
@@ -871,9 +873,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxRVUVVRVw+</entry>
-        <entry encoding="base64">XDx1cmxfcGF0dGVybnNcPg==</entry>
-        <entry encoding="base64">XDxkYlw+</entry>
         <entry encoding="base64">XDxhZGRfdG9nZXRoZXJcPg==</entry>
         <entry encoding="base64">XDxjcm9udGFiXD4=</entry>
         <entry encoding="base64">XDxBZG1pblVzZXJcPg==</entry>
@@ -891,6 +890,9 @@
         <entry encoding="base64">XDxPTkVfQU5ZXD4=</entry>
         <entry encoding="base64">XDxUSFJFRV9TVU1cPg==</entry>
         <entry encoding="base64">XDx0cmFja193aW5cPg==</entry>
+        <entry encoding="base64">XDxzdW1cPg==</entry>
+        <entry encoding="base64">XDxmdW5jXD4=</entry>
+        <entry encoding="base64">XDxvcm1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>292</entry>
