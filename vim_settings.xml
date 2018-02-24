@@ -59,12 +59,15 @@
         <mark key="^" line="0" column="416" />
         <mark key="." line="0" column="416" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payweb/templates/op/PayList.html" timestamp="1519458643564" />
-      <file name="$USER_HOME$/workspace/FinanceService/finweb/templates/bank/BankOrderList.html" timestamp="1519458802506">
-        <mark key="[" line="47" column="62" />
-        <mark key="]" line="47" column="67" />
-        <mark key="." line="47" column="67" />
-        <mark key="^" line="47" column="67" />
+      <file name="$USER_HOME$/workspace/payservice/payweb/templates/op/PayList.html" timestamp="1519461658798">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="132" />
+      </file>
+      <file name="$USER_HOME$/workspace/FinanceService/finweb/templates/bank/BankOrderList.html" timestamp="1519461974133">
+        <mark key="[" line="25" column="49" />
+        <mark key="]" line="25" column="59" />
+        <mark key="." line="25" column="49" />
+        <mark key="^" line="51" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/loki_bot/requirements.txt" timestamp="1519033050477">
         <mark key="[" line="1" column="7" />
@@ -131,12 +134,12 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/FinanceService/finservice/admin/views/bankOrder.py" timestamp="1519460304516">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="99" column="46" />
-        <mark key="]" line="99" column="50" />
-        <mark key="." line="99" column="50" />
-        <mark key="^" line="99" column="50" />
+      <file name="$USER_HOME$/workspace/FinanceService/finservice/admin/views/bankOrder.py" timestamp="1519461763645">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="110" column="12" />
+        <mark key="]" line="110" column="12" />
+        <mark key="." line="110" column="12" />
+        <mark key="^" line="110" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/templates/register_by_invitation.html" timestamp="1516359909205">
         <mark key="[" line="196" column="23" />
@@ -268,7 +271,7 @@
         <mark key="." line="11" column="27" />
         <mark key="^" line="11" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payweb/js/frame/const.js" timestamp="1519458652468">
+      <file name="$USER_HOME$/workspace/payservice/payweb/js/frame/const.js" timestamp="1519461595499">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="115" column="4" />
       </file>
@@ -465,12 +468,12 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/FinanceService/finweb/js/frame/const.js" timestamp="1519458770572">
+      <file name="$USER_HOME$/workspace/FinanceService/finweb/js/frame/const.js" timestamp="1519461632172">
         <mark key="'" line="137" column="4" />
-        <mark key="[" line="151" column="11" />
-        <mark key="]" line="151" column="27" />
-        <mark key="^" line="154" column="14" />
-        <mark key="." line="154" column="14" />
+        <mark key="[" line="145" column="11" />
+        <mark key="]" line="145" column="29" />
+        <mark key="^" line="145" column="15" />
+        <mark key="." line="145" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/devops/dev_host" timestamp="1515999694564">
         <mark key="[" line="12" column="0" />
@@ -512,7 +515,7 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519458645336">
+      <file name="/Dummy.txt" timestamp="1519462069694">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -530,12 +533,12 @@
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/FinanceService/finservice/admin/urls.py" timestamp="1519458429313">
+      <file name="$USER_HOME$/workspace/FinanceService/finservice/admin/urls.py" timestamp="1519461724756">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="26" column="26" />
-        <mark key="]" line="26" column="38" />
-        <mark key="." line="27" column="74" />
-        <mark key="^" line="27" column="74" />
+        <mark key="[" line="28" column="57" />
+        <mark key="]" line="28" column="73" />
+        <mark key="." line="28" column="62" />
+        <mark key="^" line="28" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/db.py" timestamp="1519443045680" />
       <file name="$USER_HOME$/workspace/devops/public_keys/ranky.pub" timestamp="1517297801059">
@@ -576,12 +579,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="10" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/xj_ssc/crawler.py" />
-      <jump line="114" column="10" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/xj_ssc/crawler.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/xj_ssc/crawler.py" />
-      <jump line="12" column="17" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/xj_ssc/db/activity.py" />
-      <jump line="212" column="19" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" />
       <jump line="25" column="9" filename="$USER_HOME$/workspace/Heimdall/settings.py" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/Heimdall/shared/models.py" />
       <jump line="18" column="0" filename="$USER_HOME$/workspace/Heimdall/shared/models.py" />
@@ -675,62 +672,68 @@
       <jump line="4" column="64" filename="$USER_HOME$/workspace/FinanceService/finservice/admin/urls.py" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/FinanceService/finservice/admin/urls.py" />
       <jump line="137" column="4" filename="$USER_HOME$/workspace/FinanceService/finweb/js/frame/const.js" />
-      <jump line="82" column="0" filename="$USER_HOME$/workspace/FinanceService/finservice/admin/views/bankOrder.py" />
+      <jump line="93" column="11" filename="$USER_HOME$/workspace/FinanceService/finservice/admin/views/bankOrder.py" />
+      <jump line="96" column="32" filename="$USER_HOME$/workspace/FinanceService/finservice/admin/views/bankOrder.py" />
+      <jump line="78" column="4" filename="$USER_HOME$/workspace/FinanceService/finservice/admin/views/bankOrder.py" />
+      <jump line="79" column="11" filename="$USER_HOME$/workspace/FinanceService/finservice/admin/views/bankOrder.py" />
+      <jump line="82" column="32" filename="$USER_HOME$/workspace/FinanceService/finservice/admin/views/bankOrder.py" />
+      <jump line="92" column="4" filename="$USER_HOME$/workspace/FinanceService/finservice/admin/views/bankOrder.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/workspace/FinanceService/finservice/admin/views/bankOrder.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>success</text>
+        <text>updated_at</text>
       </register>
       <register name="-" type="4">
-        <text>success</text>
+        <text>updated_at</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dnaW5nXD4=</text>
+        <text encoding="base64">XDxiYW5rX29yZGVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4geydvcGVyYXRpb24nOiBUcnVlLCAnbm90aWZ5Jzogc3VjY2Vzc30K</text>
+      <register name="0" type="4">
+        <text>created_at</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4geydzdWNjZXNzJzogRmFsc2V9Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgcmV0dXJuIHsnb3BlcmF0aW9uJzogRmFsc2UsICdub3RpZnknOiBGYWxzZX0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4geydzdWNjZXNzJzogc3VjY2Vzc30K</text>
+        <text encoding="base64">ICAgIGlmIGFkZF9vcmRlcl9mYWlsKGJhbmtfb3JkZXJfaWQpOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4geydzdWNjZXNzJzogRmFsc2V9Cg==</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5QQVlfTk9USUZZX1NUQVRVUyA9IHsKICAgICAgICAwOiAn5pyq5Zue6LCDJywKICAgICAgICAxOiAn5Zue6LCD5aSx6LSlJywKICAgICAgICAyOiAn5Zue6LCD5oiQ5YqfJywKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIHJldHVybiB7fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iIj48JT0gQkFOS19PUkRFUl9TVEFUVVNbaXRlbS5zdGF0dXMgfHwgMF0gJT48L3RkPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCBjbGFzcz0iIj7nirbmgIE8L3RoPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCBjbGFzcz0iIj7nirbmgIE8L3RoPgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdWRvKCJzdXBlcnZpc29yY3RsIHN0YXJ0IGZpbjoiKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4geydzdWNjZXNzJzogRmFsc2V9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>132</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dnaW5nXD4=</last-search>
+      <last-search encoding="base64">XDxiYW5rX29yZGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dnaW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxiYW5rX29yZGVyXD4=</last-pattern>
       <last-replace>fruit</last-replace>
       <last-substitute>lottery</last-substitute>
       <last-dir>1</last-dir>
@@ -738,7 +741,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyX2lkXD4=</entry>
         <entry encoding="base64">XDxVUkxcPg==</entry>
         <entry encoding="base64">XDxVUkxfNTAwXD4=</entry>
         <entry encoding="base64">XDxmdWxsZmlsbF9yZXN1bHRcPg==</entry>
@@ -758,6 +760,7 @@
         <entry encoding="base64">XDxmZl9zc2NcPg==</entry>
         <entry encoding="base64">XDxmZl9zc2Nfb3JkZXJcPg==</entry>
         <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
+        <entry encoding="base64">XDxiYW5rX29yZGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
