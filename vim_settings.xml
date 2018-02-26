@@ -13,12 +13,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/handler.py" timestamp="1519463908111">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/transaction/handler.py" timestamp="1519613736443">
         <mark key="'" line="20" column="48" />
-        <mark key="[" line="73" column="26" />
-        <mark key="]" line="73" column="50" />
-        <mark key="^" line="73" column="50" />
-        <mark key="." line="73" column="50" />
+        <mark key="[" line="73" column="70" />
+        <mark key="]" line="73" column="74" />
+        <mark key="^" line="73" column="74" />
+        <mark key="." line="73" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/pay.nginx.conf" timestamp="1516013693360">
         <mark key="[" line="6" column="16" />
@@ -406,6 +406,9 @@
         <mark key="." line="5" column="41" />
         <mark key="^" line="5" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/third/unionagency.py" timestamp="1519614323837">
+        <mark key="'" line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/handler.py" timestamp="1516088611709">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="49" />
@@ -533,11 +536,11 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/unionagency.py" timestamp="1519608289092">
-        <mark key="'" line="111" column="0" />
-        <mark key="[" line="14" column="87" />
-        <mark key="]" line="14" column="87" />
-        <mark key="." line="14" column="87" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/unionagency.py" timestamp="1519614369927">
+        <mark key="'" line="47" column="31" />
+        <mark key="[" line="47" column="31" />
+        <mark key="]" line="47" column="53" />
+        <mark key="." line="47" column="31" />
         <mark key="^" line="14" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/devops/bootstrap.yml" timestamp="1518512215056">
@@ -643,10 +646,10 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_test.py" timestamp="1519609945525">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_test.py" timestamp="1519614168269">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="37" column="52" />
-        <mark key="]" line="37" column="54" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="21" />
         <mark key="^" line="37" column="54" />
         <mark key="." line="37" column="54" />
       </file>
@@ -747,11 +750,12 @@
         <mark key="." line="25" column="34" />
         <mark key="^" line="25" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" timestamp="1519610010565">
-        <mark key="[" line="80" column="15" />
-        <mark key="]" line="80" column="31" />
-        <mark key="." line="80" column="44" />
-        <mark key="^" line="80" column="44" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" timestamp="1519614429729">
+        <mark key="'" line="205" column="57" />
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+        <mark key="^" line="11" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/heimdall/heimdall/__init__.py" timestamp="1517971562903">
         <mark key="[" line="4" column="6" />
@@ -780,11 +784,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="20" filename="$USER_HOME$/workspace/heimdall/heimdall/models.py" />
-      <jump line="131" column="8" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
-      <jump line="42" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
-      <jump line="41" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/admin/urls.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/heimdall/heimdall/models.py" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/heimdall/heimdall/tasks.py" />
       <jump line="13" column="8" filename="$USER_HOME$/workspace/heimdall/heimdall/tasks.py" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/heimdall/heimdall/tasks.py" />
@@ -880,19 +879,24 @@
       <jump line="39" column="32" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/withdraw/just_withdraw.py" />
       <jump line="41" column="59" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/withdraw/just_withdraw.py" />
       <jump line="99" column="0" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
+      <jump line="47" column="31" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/unionagency.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/third/unionagency.py" />
+      <jump line="203" column="37" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
+      <jump line="204" column="57" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgY3JlYXRlIGNoYXJnZSAoY2FsbCB0aGlyZCBpbnRlcmZhY2UpCg==</text>
+      <register name="&quot;" type="4">
+        <text>justpay</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2hhcmdlX2luZm8gPSA=</text>
+        <text>justpay</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXR0aW5nc1w+</text>
+        <text encoding="base64">XDxhcGlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnb3Blbl90eXBlJzogb3Blbl90eXBlLAo=</text>
+        <text encoding="base64">aW1wb3J0IGFwaS50aGlyZC5qdXN0cGF5Cg==</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -932,9 +936,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXR0aW5nc1w+</last-search>
+      <last-search encoding="base64">XDxhcGlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXR0aW5nc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxhcGlcPg==</last-pattern>
       <last-replace>fruit</last-replace>
       <last-substitute>lottery</last-substitute>
       <last-dir>1</last-dir>
@@ -942,7 +946,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDRUxFUllfUkVTVUxUX0JBQ0tFTkRcPg==</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry encoding="base64">XDxFbnVtXD4=</entry>
         <entry encoding="base64">XDxXSU5ORVJfQVdBUkRfVFlQRVw+</entry>
@@ -962,6 +965,7 @@
         <entry encoding="base64">XDxqdXN0cGF5XD4=</entry>
         <entry encoding="base64">XDxKVVNUUEFZX1RSQU5TX1VSTFw+</entry>
         <entry encoding="base64">XDxzZXR0aW5nc1w+</entry>
+        <entry encoding="base64">XDxhcGlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
