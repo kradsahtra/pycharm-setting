@@ -646,12 +646,12 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_test.py" timestamp="1519614168269">
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_test.py" timestamp="1519627018945">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="21" />
-        <mark key="^" line="37" column="54" />
-        <mark key="." line="37" column="54" />
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="42" />
+        <mark key="^" line="34" column="41" />
+        <mark key="." line="37" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/activity.py" timestamp="1518662739447">
         <mark key="[" line="14" column="0" />
@@ -887,16 +887,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>justpay</text>
+        <text>45.121.48.151</text>
       </register>
       <register name="-" type="4">
-        <text>justpay</text>
+        <text>45.121.48.151</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcGlcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGFwaS50aGlyZC5qdXN0cGF5Cg==</text>
+      <register name="0" type="4">
+        <text>127.0.0.1</text>
       </register>
       <register name="p" type="4">
         <text />
