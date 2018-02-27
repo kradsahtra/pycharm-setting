@@ -81,7 +81,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="21" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/FinanceService/finservice/common/bank/model.py" timestamp="1519634903013">
+      <file name="$USER_HOME$/workspace/FinanceService/finservice/common/bank/model.py" timestamp="1519702041999">
         <mark key="[" line="62" column="4" />
         <mark key="]" line="62" column="15" />
         <mark key="." line="62" column="0" />
@@ -635,7 +635,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="43" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/FinanceService/finservice/common/bank/db.py" timestamp="1519634451808">
+      <file name="$USER_HOME$/workspace/FinanceService/finservice/common/bank/db.py" timestamp="1519702096495">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="34" />
         <mark key="^" line="41" column="64" />
@@ -708,12 +708,12 @@
         <mark key="." line="231" column="33" />
         <mark key="^" line="231" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" timestamp="1519636583239">
+      <file name="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" timestamp="1519702060674">
         <mark key="'" line="111" column="0" />
-        <mark key="[" line="71" column="26" />
-        <mark key="]" line="72" column="3" />
-        <mark key="." line="72" column="3" />
-        <mark key="^" line="72" column="3" />
+        <mark key="[" line="67" column="105" />
+        <mark key="]" line="67" column="112" />
+        <mark key="." line="67" column="112" />
+        <mark key="^" line="67" column="112" />
       </file>
       <file name="/Dummy.txt" timestamp="1519640152084">
         <mark key="[" line="0" column="0" />
@@ -777,6 +777,13 @@
         <mark key="." line="11" column="27" />
         <mark key="^" line="11" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/FinanceService/finservice/base/templates/custom.html" timestamp="1519701658045">
+        <mark key="'" line="26" column="71" />
+        <mark key="[" line="53" column="36" />
+        <mark key="]" line="53" column="42" />
+        <mark key="^" line="53" column="42" />
+        <mark key="." line="53" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/heimdall/heimdall/__init__.py" timestamp="1517971562903">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="14" />
@@ -804,10 +811,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="44" filename="$USER_HOME$/workspace/heimdall/heimdall/views.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/heimdall/heimdall/views.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/heimdall/heimdall/views.py" />
-      <jump line="47" column="4" filename="$USER_HOME$/workspace/heimdall/heimdall/views.py" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/heimdall/heimdall/views.py" />
       <jump line="163" column="49" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
       <jump line="87" column="90" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
@@ -904,52 +907,56 @@
       <jump line="59" column="6" filename="$USER_HOME$/workspace/FinanceService/finservice/common/bank/model.py" />
       <jump line="22" column="14" filename="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" />
       <jump line="203" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
+      <jump line="124" column="6" filename="$USER_HOME$/workspace/FinanceService/finservice/base/templates/custom.html" />
+      <jump line="29" column="61" filename="$USER_HOME$/workspace/FinanceService/finservice/base/templates/custom.html" />
+      <jump line="30" column="105" filename="$USER_HOME$/workspace/FinanceService/finservice/base/templates/custom.html" />
+      <jump line="32" column="71" filename="$USER_HOME$/workspace/FinanceService/finservice/base/templates/custom.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TOTAL</text>
+        <text>params['user_id']</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAg</text>
+        <text>123</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsX3R5cGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>TOTAL</text>
+        <text>params['user_id']</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZV9wYXJhbXNbJyddID0gIHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iIj48JT0gaXRlbS5hY2NvdW50X2hvbGRlciAlPjwvdGQ+Cg==</text>
+        <text encoding="base64">PGRpdj4KICAgIDxwPumTtuihjOWNoToge3tiYW5rY2FyZC5hY2NvdW50X251bWJlcn19PC9wPgogICAgPHA+5byA5oi36KGMOiB7e2JhbmtjYXJkLmJhbmt9fTwvcD4KICAgIDxwPuW8gOaIt+S6ujoge3tiYW5rY2FyZC5hY2NvdW50X2hvbGRlcn19PC9wPgo8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iIj48JT0gaXRlbS5hY2NvdW50ICU+PC90ZD4K</text>
+        <text encoding="base64">ICAgIHVwZGF0ZV9wYXJhbXNbJyddID0gIHt9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iIj48JT0gaXRlbS50eXBlICU+PC90ZD4K</text>
+        <text encoding="base64">ICAgIHBhcmFtcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iIj48JT0gaXRlbS5iYW5rICU+PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iIj48JT0gaXRlbS5hY2NvdW50X2hvbGRlciAlPjwvdGQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iIj48JT0gaXRlbS5iYW5rICU+PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iIj48JT0gaXRlbS5hY2NvdW50ICU+PC90ZD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iIj48JT0gaXRlbS51c2VyX2lkICU+PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iIj48JT0gaXRlbS50eXBlICU+PC90ZD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCBjbGFzcz0iIj7ovazotKbkuro8L3RoPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iIj48JT0gaXRlbS5iYW5rICU+PC90ZD4K</text>
       </register>
       <register name=":" type="4">
         <text>132</text>
