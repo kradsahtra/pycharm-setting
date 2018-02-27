@@ -3,9 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/FinanceService/finservice/common/mch/handler.py" timestamp="1519458955270">
-        <mark key="[" line="43" column="4" />
-        <mark key="]" line="43" column="13" />
+      <file name="$USER_HOME$/workspace/FinanceService/finservice/common/mch/handler.py" timestamp="1519723853562">
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="36" column="32" />
+        <mark key="." line="36" column="32" />
+        <mark key="^" line="36" column="32" />
       </file>
       <file name="/a.dummy" timestamp="1519632562841">
         <mark key="[" line="0" column="0" />
@@ -32,10 +34,6 @@
         <mark key="]" line="37" column="26" />
         <mark key="." line="37" column="26" />
         <mark key="^" line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/FinanceService/finservice/admin/views/user.py" timestamp="1519457124496">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/cpstats/cpsservice/service/settings_prod.py" timestamp="1516652920996">
         <mark key="[" line="12" column="19" />
@@ -81,11 +79,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="21" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/FinanceService/finservice/common/bank/model.py" timestamp="1519718632939">
-        <mark key="[" line="59" column="4" />
-        <mark key="]" line="59" column="19" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="59" column="22" />
+      <file name="$USER_HOME$/workspace/FinanceService/finservice/common/bank/model.py" timestamp="1519723684018">
+        <mark key="'" line="49" column="6" />
+        <mark key="[" line="62" column="4" />
+        <mark key="]" line="62" column="15" />
+        <mark key="." line="64" column="17" />
+        <mark key="^" line="64" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" timestamp="1518662411140">
         <mark key="'" line="0" column="0" />
@@ -101,13 +100,9 @@
         <mark key="." line="33" column="21" />
         <mark key="^" line="33" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payweb/templates/op/PayList.html" timestamp="1519461658798">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="132" />
-      </file>
-      <file name="$USER_HOME$/workspace/FinanceService/finweb/templates/bank/BankOrderList.html" timestamp="1519722165280">
-        <mark key="[" line="41" column="56" />
-        <mark key="]" line="41" column="56" />
+      <file name="$USER_HOME$/workspace/FinanceService/finweb/templates/bank/BankOrderList.html" timestamp="1519722510483">
+        <mark key="[" line="57" column="75" />
+        <mark key="]" line="57" column="86" />
         <mark key="." line="41" column="56" />
         <mark key="^" line="41" column="56" />
       </file>
@@ -201,8 +196,8 @@
         <mark key="^" line="269" column="63" />
         <mark key="." line="269" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/FinanceService/finservice/admin/views/bankOrder.py" timestamp="1519461763645">
-        <mark key="'" line="88" column="0" />
+      <file name="$USER_HOME$/workspace/FinanceService/finservice/admin/views/bankOrder.py" timestamp="1519722726852">
+        <mark key="'" line="109" column="25" />
         <mark key="[" line="110" column="12" />
         <mark key="]" line="110" column="12" />
         <mark key="." line="110" column="12" />
@@ -320,10 +315,6 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payweb/js/apps/op/pay.js" timestamp="1519456432221">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="128" column="14" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/__init__.py" timestamp="1517450864099">
         <mark key="[" line="39" column="19" />
         <mark key="]" line="39" column="20" />
@@ -387,10 +378,6 @@
         <mark key="." line="11" column="27" />
         <mark key="^" line="11" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payweb/js/frame/const.js" timestamp="1519461595499">
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="115" column="4" />
-      </file>
       <file name="$USER_HOME$/workspace/heimdall/heimdall/views.py" timestamp="1518002900317">
         <mark key="[" line="59" column="16" />
         <mark key="]" line="59" column="25" />
@@ -439,10 +426,6 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/common/timer/handler.py" timestamp="1519455817976">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="66" column="18" />
-      </file>
       <file name="$USER_HOME$/workspace/bagent/deploy/config_files/bagent.nginx.conf" timestamp="1517216186728">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="26" />
@@ -479,10 +462,6 @@
         <mark key="]" line="9" column="20" />
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="29" />
-      </file>
-      <file name="$USER_HOME$/workspace/FinanceService/finservice/common/utils/exceptions.py" timestamp="1519459280792">
-        <mark key="[" line="39" column="6" />
-        <mark key="]" line="39" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/js/apps/preset/models.js" timestamp="1513222072368">
         <mark key="[" line="94" column="20" />
@@ -521,10 +500,10 @@
         <mark key="^" line="58" column="27" />
         <mark key="." line="59" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/FinanceService/finweb/js/apps/bank/bankorder.js" timestamp="1519722025431">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/workspace/FinanceService/finweb/js/apps/bank/bankorder.js" timestamp="1519722541842">
+        <mark key="[" line="59" column="62" />
+        <mark key="]" line="59" column="68" />
+        <mark key="." line="59" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings.py" timestamp="1519463974309">
         <mark key="'" line="3" column="0" />
@@ -544,10 +523,10 @@
       <file name="$USER_HOME$/workspace/FinanceService/finservice/base/settings.py" timestamp="1519719586398">
         <mark key="'" line="265" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/unionagency.py" timestamp="1519629080739">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/unionagency.py" timestamp="1519723762484">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
         <mark key="^" line="42" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/devops/bootstrap.yml" timestamp="1518512215056">
@@ -605,10 +584,6 @@
         <mark key="." line="95" column="18" />
         <mark key="^" line="95" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/payservice/payservice/api/charge/view.py" timestamp="1519627734873">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="41" column="5" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/model/winner_ranking.py" timestamp="1519640140388">
         <mark key="'" line="38" column="5" />
         <mark key="[" line="10" column="5" />
@@ -622,11 +597,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="43" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/FinanceService/finservice/common/bank/db.py" timestamp="1519720854849">
-        <mark key="[" line="100" column="4" />
-        <mark key="]" line="100" column="28" />
-        <mark key="^" line="64" column="34" />
-        <mark key="." line="65" column="60" />
+      <file name="$USER_HOME$/workspace/FinanceService/finservice/common/bank/db.py" timestamp="1519723501217">
+        <mark key="'" line="140" column="28" />
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="172" column="35" />
+        <mark key="^" line="159" column="34" />
+        <mark key="." line="169" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/FinanceService/finweb/js/frame/const.js" timestamp="1519722150736">
         <mark key="'" line="137" column="4" />
@@ -672,10 +648,6 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/FinanceService/finservice/async/async_job.py" timestamp="1519459182376">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="17" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/utils/tz.py" timestamp="1516866706381">
         <mark key="[" line="108" column="11" />
         <mark key="]" line="108" column="62" />
@@ -695,14 +667,12 @@
         <mark key="." line="231" column="33" />
         <mark key="^" line="231" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" timestamp="1519721619279">
-        <mark key="'" line="85" column="47" />
-        <mark key="[" line="84" column="41" />
-        <mark key="]" line="84" column="41" />
-        <mark key="." line="84" column="41" />
-        <mark key="^" line="84" column="40" />
+      <file name="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" timestamp="1519723478977">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519640152084">
+      <file name="/Dummy.txt" timestamp="1519723457703">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -729,22 +699,22 @@
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_bet_return.py" timestamp="1518400011833">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/FinanceService/finservice/admin/urls.py" timestamp="1519461724756">
+      <file name="$USER_HOME$/workspace/FinanceService/finservice/admin/urls.py" timestamp="1519722538570">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="28" column="57" />
-        <mark key="]" line="28" column="73" />
+        <mark key="[" line="28" column="45" />
+        <mark key="]" line="28" column="50" />
         <mark key="." line="28" column="62" />
         <mark key="^" line="28" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/withdraw/just_withdraw.py" timestamp="1519464087884">
         <mark key="'" line="41" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/FinanceService/finservice/base/settings_test.py" timestamp="1519719595076">
+      <file name="$USER_HOME$/workspace/FinanceService/finservice/base/settings_test.py" timestamp="1519722424283">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="11" />
-        <mark key="." line="1" column="11" />
-        <mark key="^" line="1" column="11" />
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/devops/public_keys/ranky.pub" timestamp="1517297801059">
         <mark key="[" line="0" column="0" />
@@ -805,19 +775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="36" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/js_ks/logic/order.py" />
-      <jump line="49" column="28" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/js_ks/logic/order.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" />
-      <jump line="55" column="20" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/scrolling/logic.py" />
-      <jump line="101" column="18" filename="$USER_HOME$/workspace/bigbang-server/bigbang/api/scrolling/logic.py" />
-      <jump line="404" column="28" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/order.py" />
-      <jump line="45" column="21" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/handler.py" />
-      <jump line="37" column="16" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/handler.py" />
-      <jump line="45" column="3" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/handler.py" />
-      <jump line="48" column="60" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/handler.py" />
-      <jump line="69" column="6" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/transaction/model.py" />
-      <jump line="28" column="59" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/crawler.py" />
       <jump line="36" column="72" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/crawler.py" />
       <jump line="127" column="25" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/model.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/timer/cyclical_handler.py" />
@@ -897,69 +854,82 @@
       <jump line="27" column="0" filename="$USER_HOME$/workspace/FinanceService/finservice/base/settings_test.py" />
       <jump line="54" column="11" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
       <jump line="138" column="30" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
-      <jump line="29" column="6" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
-      <jump line="39" column="63" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
       <jump line="42" column="9" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
-      <jump line="53" column="59" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
       <jump line="68" column="19" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
       <jump line="70" column="27" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
       <jump line="84" column="52" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
       <jump line="85" column="47" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
+      <jump line="109" column="25" filename="$USER_HOME$/workspace/FinanceService/finservice/admin/views/bankOrder.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
+      <jump line="29" column="6" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
+      <jump line="39" column="63" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
+      <jump line="100" column="4" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
+      <jump line="53" column="30" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
+      <jump line="49" column="6" filename="$USER_HOME$/workspace/FinanceService/finservice/common/bank/model.py" />
+      <jump line="122" column="47" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
+      <jump line="121" column="36" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
+      <jump line="141" column="18" filename="$USER_HOME$/workspace/FinanceService/finservice/common/bank/db.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/FinanceService/finservice/common/bank/db.py" />
+      <jump line="51" column="28" filename="$USER_HOME$/workspace/FinanceService/finservice/common/bank/db.py" />
+      <jump line="124" column="28" filename="$USER_HOME$/workspace/FinanceService/finservice/common/bank/db.py" />
+      <jump line="125" column="18" filename="$USER_HOME$/workspace/FinanceService/finservice/common/bank/db.py" />
+      <jump line="140" column="28" filename="$USER_HOME$/workspace/FinanceService/finservice/common/bank/db.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PAY_TYPES</text>
+        <text>status</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>status</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvdXRfdHJhZGVfbm9cPg==</text>
+        <text encoding="base64">XDxCQU5LX09SREVSX1NUQVRVU1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>PAY_TYPES</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAncGF5X3Jlc3VsdCc6IG9yZGVyLnN0YXR1cywK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygndW5pb25hZ2VuY3kgbm90aWZ5LCBwYXlfaWQ6JXMsIGV4dHJhOiVzJywgcGF5X2lkLCBleHRyYSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4dHJhID0gZGF0YVsnZXh0cmEnXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZV9wYXJhbXMgPSBwYXJhbXMK</text>
+        <text encoding="base64">ZnJvbSBjb21tb24uYmFuay5tb2RlbCBpbXBvcnQgQkFOS19PUkRFUl9TVEFUVVMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhbmtfb3JkZXIubm90aWZ5X2NvdW50ICs9IDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjJ3RyYWRlX3R5cGUnOiBvcmRlci5jaGFubmVsX3R5cGUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZV9wYXJhbXMucG9wKCdyYW5kb21fbnVtJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy5wb3AoJ3BheV90eXBlJykKICAgIHBhcmFtcy5wb3AoJ3BheV9hY2NvdW50X251bScpCiAgICBwYXJhbXMucG9wKCdwYXlfYWNjb3VudF9iYW5rJykKICAgIHBhcmFtcy5wb3AoJ3BheV9hY2NvdW50X3VzZXJuYW1lJykKICAgIHBhcmFtcy5wb3AoJ2Ftb3VudCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG91Cg==</text>
+        <text encoding="base64">ICAgIHVwZGF0ZV9wYXJhbXMgPSBwYXJhbXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1jaF9pZCA9IHBhcmFtc1snbWNoX2lkJ10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>132</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvdXRfdHJhZGVfbm9cPg==</last-search>
+      <last-search encoding="base64">XDxCQU5LX09SREVSX1NUQVRVU1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvdXRfdHJhZGVfbm9cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxCQU5LX09SREVSX1NUQVRVU1w+</last-pattern>
       <last-replace>fruit</last-replace>
       <last-substitute>lottery</last-substitute>
       <last-dir>1</last-dir>
@@ -967,7 +937,6 @@
     </search>
     <history>
       <history-search>
-        <entry>kfc</entry>
         <entry>lottery</entry>
         <entry encoding="base64">XDx0YXJnZXRfdHlwZVw+</entry>
         <entry encoding="base64">XDxPTkVfQU5ZXD4=</entry>
@@ -987,6 +956,7 @@
         <entry encoding="base64">XDxjaGFyZ2VfcmVzcFw+</entry>
         <entry encoding="base64">XDxjaGFubmVsX3R5cGVcPg==</entry>
         <entry encoding="base64">XDxvdXRfdHJhZGVfbm9cPg==</entry>
+        <entry encoding="base64">XDxCQU5LX09SREVSX1NUQVRVU1w+</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
