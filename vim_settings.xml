@@ -119,9 +119,6 @@
         <mark key="^" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1518662607119">
-        <mark key="'" line="404" column="28" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_recharge_return.py" timestamp="1518058323427">
         <mark key="[" line="40" column="16" />
         <mark key="]" line="40" column="30" />
@@ -158,12 +155,6 @@
         <mark key="]" line="13" column="15" />
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
-      </file>
-      <file name="$USER_HOME$/workspace/loki_bot/tz.py" timestamp="1519032688819">
-        <mark key="'" line="136" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/js_ks/logic/order.py" timestamp="1518509091888">
-        <mark key="'" line="49" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/ff_pk10/crawler.py" timestamp="1518144020166">
         <mark key="[" line="32" column="24" />
@@ -403,6 +394,12 @@
         <mark key="^" line="23" column="70" />
         <mark key="." line="23" column="70" />
       </file>
+      <file name="$USER_HOME$/workspace/devops/union" timestamp="1519785813189">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/Heimdall/uwsgi.ini" timestamp="1517649216261">
         <mark key="[" line="5" column="38" />
         <mark key="]" line="5" column="41" />
@@ -512,12 +509,9 @@
         <mark key="]" line="59" column="68" />
         <mark key="." line="59" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings.py" timestamp="1519463974309">
-        <mark key="'" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/devops/monitor_host" timestamp="1517568226812">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="8" />
+      <file name="$USER_HOME$/workspace/devops/monitor_host" timestamp="1519785792396">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="50" />
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="8" />
       </file>
@@ -527,9 +521,6 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/FinanceService/finservice/base/settings.py" timestamp="1519719586398">
-        <mark key="'" line="265" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/unionagency.py" timestamp="1519783535444">
         <mark key="'" line="105" column="21" />
         <mark key="[" line="94" column="23" />
@@ -537,12 +528,12 @@
         <mark key="." line="94" column="24" />
         <mark key="^" line="42" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/devops/bootstrap.yml" timestamp="1518512215056">
-        <mark key="'" line="28" column="23" />
-        <mark key="[" line="93" column="32" />
-        <mark key="]" line="94" column="3" />
-        <mark key="." line="94" column="3" />
-        <mark key="^" line="94" column="3" />
+      <file name="$USER_HOME$/workspace/devops/bootstrap.yml" timestamp="1519785986045">
+        <mark key="'" line="34" column="23" />
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="22" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="10" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/bagent.nginx.conf" timestamp="1516589611826">
         <mark key="[" line="12" column="16" />
@@ -712,18 +703,12 @@
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_bet_return.py" timestamp="1518400011833">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/FinanceService/finservice/admin/urls.py" timestamp="1519722538570">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="28" column="45" />
         <mark key="]" line="28" column="50" />
         <mark key="." line="28" column="62" />
         <mark key="^" line="28" column="62" />
-      </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/withdraw/just_withdraw.py" timestamp="1519464087884">
-        <mark key="'" line="41" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/FinanceService/finservice/base/settings_test.py" timestamp="1519784565752">
         <mark key="'" line="30" column="0" />
@@ -894,49 +879,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>45.121.48.151:9478</text>
+        <text>admin</text>
       </register>
       <register name="-" type="4">
-        <text>45.121.48.151:9478</text>
+        <text>admin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXR0aW5nc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Zpbic6IFsnNDUuMTIxLjQ4LjE1MTo5NDc4JywgXSwKICAgICAgICAgICAgJ2Zpbi13ZWInOiBbJzQ1LjEyMS40OC4xNTE6OTQ3OCcsIF0sCg==</text>
+        <text encoding="base64">ICAtIG5hbWU6IGVuc3VyZSBhZG1pbiBncm91cAogICAgYmVjb21lOiB0cnVlCiAgICBncm91cDoKICAgICAgbmFtZTogYWRtaW4KICAgICAgc3RhdGU6IHByZXNlbnQK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygndW5pb25hZ2VuY3kgbm90aWZ5LCBwYXlfaWQ6JXMsIGV4dHJhOiVzJywgcGF5X2lkLCBleHRyYSkK</text>
+        <text encoding="base64">W3NlbnN1X21hc3RlcnNdCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4dHJhID0gZGF0YVsnZXh0cmEnXQo=</text>
+        <text encoding="base64">ICAgICAgLSBwdWJsaWNfa2V5cy9tYXgucHViCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24uYmFuay5tb2RlbCBpbXBvcnQgQkFOS19PUkRFUl9TVEFUVVMK</text>
+        <text encoding="base64">ICAgICAgLSBwdWJsaWNfa2V5cy9lYXNvbi5wdWIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJhbmtfb3JkZXIubm90aWZ5X2NvdW50ICs9IDEK</text>
+        <text encoding="base64">ICAgICAgLSBwdWJsaWNfa2V5cy9taWtlLnB1Ygo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjJ3RyYWRlX3R5cGUnOiBvcmRlci5jaGFubmVsX3R5cGUsCg==</text>
+        <text encoding="base64">ICAgICAgLSBwdWJsaWNfa2V5cy9rYWVsLnB1Ygo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgLSBwdWJsaWNfa2V5cy9kb25uaWUucHViCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygndW5pb25hZ2VuY3kgbm90aWZ5LCBwYXlfaWQ6JXMsIGV4dHJhOiVzJywgcGF5X2lkLCBleHRyYSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZV9wYXJhbXMgPSBwYXJhbXMK</text>
+        <text encoding="base64">ICAgIGV4dHJhID0gZGF0YVsnZXh0cmEnXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb21tb24uYmFuay5tb2RlbCBpbXBvcnQgQkFOS19PUkRFUl9TVEFUVVMK</text>
       </register>
       <register name=":" type="4">
         <text>132</text>

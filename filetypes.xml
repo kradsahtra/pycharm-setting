@@ -12,6 +12,7 @@
       <mapping pattern="dev_host" type="PLAIN_TEXT" />
       <mapping pattern="user_union_toml" type="PLAIN_TEXT" />
       <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
+      <mapping pattern="union" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
