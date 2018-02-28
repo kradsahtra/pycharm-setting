@@ -285,12 +285,12 @@
         <mark key="^" line="20" column="72" />
         <mark key="." line="20" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/FinanceService/finservice/base/settings_prod.py" timestamp="1519787808140">
+      <file name="$USER_HOME$/workspace/FinanceService/finservice/base/settings_prod.py" timestamp="1519801007083">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="13" column="58" />
-        <mark key="]" line="13" column="73" />
-        <mark key="." line="13" column="58" />
-        <mark key="^" line="29" column="0" />
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="34" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/model.py" timestamp="1518614117058">
         <mark key="'" line="127" column="25" />
@@ -906,16 +906,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>183.56.173.45</text>
+        <text>192.168.12.16</text>
       </register>
       <register name="-" type="4">
-        <text>183.56.173.45</text>
+        <text>192.168.12.16</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXR0aW5nc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bG9nX2Zvcm1hdCBzdGltZWRfY29tYmluZWQgJyRyZW1vdGVfYWRkciAtICRyZW1vdGVfdXNlciBbJHRpbWVfbG9jYWxdICAnCiAgICAgICAgICAgJyIkcmVxdWVzdCIgJHN0YXR1cyAkYm9keV9ieXRlc19zZW50ICcKICAgICAgICAgICAnIiRodHRwX3JlZmVyZXIiICIkaHR0cF91c2VyX2FnZW50IiAnCiAgICAgICAgICAgJyRyZXF1ZXN0X3RpbWUgJHVwc3RyZWFtX3Jlc3BvbnNlX3RpbWUgJHBpcGUnOwo=</text>
+      <register name="0" type="4">
+        <text>127.0.0.1</text>
       </register>
       <register name="p" type="4">
         <text />
