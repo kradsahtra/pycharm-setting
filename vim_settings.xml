@@ -143,10 +143,11 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/jobs.py" timestamp="1519892644280">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="19" column="73" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/workspace/loki_bot/jobs.py" timestamp="1519903417283">
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="16" column="47" />
+        <mark key="." line="16" column="47" />
+        <mark key="^" line="16" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/loki_bot/db.py" timestamp="1519893237505">
         <mark key="[" line="1" column="0" />
@@ -554,11 +555,11 @@
         <mark key="^" line="58" column="27" />
         <mark key="." line="59" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/main.py" timestamp="1519897161387">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
+      <file name="$USER_HOME$/workspace/loki_bot/main.py" timestamp="1519903202347">
+        <mark key="[" line="51" column="52" />
+        <mark key="]" line="51" column="52" />
         <mark key="^" line="25" column="23" />
-        <mark key="." line="12" column="0" />
+        <mark key="." line="51" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings.py" timestamp="1519892271365">
         <mark key="[" line="205" column="0" />
@@ -602,11 +603,12 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" timestamp="1519898126357">
-        <mark key="[" line="57" column="47" />
-        <mark key="]" line="57" column="59" />
-        <mark key="." line="57" column="47" />
-        <mark key="^" line="59" column="32" />
+      <file name="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" timestamp="1519902930152">
+        <mark key="'" line="40" column="11" />
+        <mark key="[" line="49" column="21" />
+        <mark key="]" line="49" column="23" />
+        <mark key="." line="49" column="23" />
+        <mark key="^" line="49" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/fabfile.py" timestamp="1517216514311">
         <mark key="[" line="28" column="14" />
@@ -746,12 +748,12 @@
         <mark key="." line="231" column="33" />
         <mark key="^" line="231" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/text_templates.py" timestamp="1519897924219">
-        <mark key="'" line="22" column="2" />
-        <mark key="[" line="28" column="25" />
-        <mark key="]" line="28" column="25" />
-        <mark key="^" line="28" column="25" />
-        <mark key="." line="28" column="25" />
+      <file name="$USER_HOME$/workspace/loki_bot/text_templates.py" timestamp="1519902947986">
+        <mark key="'" line="25" column="2" />
+        <mark key="[" line="27" column="40" />
+        <mark key="]" line="27" column="40" />
+        <mark key="^" line="27" column="40" />
+        <mark key="." line="27" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" timestamp="1519868463789">
         <mark key="'" line="137" column="24" />
@@ -760,7 +762,7 @@
         <mark key="." line="127" column="31" />
         <mark key="^" line="127" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519896855422">
+      <file name="/Dummy.txt" timestamp="1519903525344">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -784,12 +786,12 @@
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/commands.py" timestamp="1519898057470">
+      <file name="$USER_HOME$/workspace/loki_bot/commands.py" timestamp="1519901485236">
         <mark key="'" line="2" column="79" />
-        <mark key="[" line="24" column="29" />
-        <mark key="]" line="24" column="55" />
-        <mark key="." line="24" column="29" />
-        <mark key="^" line="2" column="104" />
+        <mark key="[" line="25" column="32" />
+        <mark key="]" line="25" column="39" />
+        <mark key="." line="25" column="39" />
+        <mark key="^" line="25" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/FinanceService/finservice/admin/urls.py" timestamp="1519722538570">
         <mark key="'" line="5" column="0" />
@@ -871,8 +873,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/winner_ranking_award.py" />
-      <jump line="124" column="6" filename="$USER_HOME$/workspace/FinanceService/finservice/base/templates/custom.html" />
       <jump line="29" column="61" filename="$USER_HOME$/workspace/FinanceService/finservice/base/templates/custom.html" />
       <jump line="30" column="105" filename="$USER_HOME$/workspace/FinanceService/finservice/base/templates/custom.html" />
       <jump line="32" column="71" filename="$USER_HOME$/workspace/FinanceService/finservice/base/templates/custom.html" />
@@ -971,19 +971,21 @@
       <jump line="44" column="8" filename="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" />
       <jump line="24" column="29" filename="$USER_HOME$/workspace/loki_bot/commands.py" />
       <jump line="2" column="79" filename="$USER_HOME$/workspace/loki_bot/commands.py" />
+      <jump line="40" column="11" filename="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" />
+      <jump line="25" column="2" filename="$USER_HOME$/workspace/loki_bot/text_templates.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YmV0X2Ftb3VudCwg</text>
+        <text>latency * 1000</text>
       </register>
       <register name="-" type="4">
-        <text>ACTIVITY_TEMPLATE</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBQ1RJVklUWV9URU1QTEFURVw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">YmV0X2Ftb3VudCwg</text>
+        <text>latency * 1000</text>
       </register>
       <register name="p" type="4">
         <text />
