@@ -9,7 +9,7 @@
         <mark key="." line="55" column="66" />
         <mark key="^" line="55" column="66" />
       </file>
-      <file name="/a.dummy" timestamp="1519632562841">
+      <file name="/a.dummy" timestamp="1519871403765">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="0" />
@@ -112,12 +112,12 @@
         <mark key="." line="41" column="56" />
         <mark key="^" line="41" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/demo.py" timestamp="1519869915842">
+      <file name="$USER_HOME$/workspace/loki_bot/demo.py" timestamp="1519870670076">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="23" column="55" />
-        <mark key="." line="23" column="33" />
-        <mark key="^" line="23" column="32" />
+        <mark key="[" line="46" column="11" />
+        <mark key="]" line="46" column="22" />
+        <mark key="." line="46" column="22" />
+        <mark key="^" line="46" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/loki_bot/requirements.txt" timestamp="1519033050477">
         <mark key="[" line="1" column="7" />
@@ -230,11 +230,18 @@
         <mark key="." line="86" column="63" />
         <mark key="^" line="86" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1519457706587">
-        <mark key="[" line="285" column="0" />
-        <mark key="]" line="285" column="0" />
-        <mark key="^" line="283" column="38" />
-        <mark key="." line="285" column="0" />
+      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1519871372246">
+        <mark key="[" line="294" column="37" />
+        <mark key="]" line="294" column="37" />
+        <mark key="^" line="294" column="36" />
+        <mark key="." line="294" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/bot.supervisor.conf.py" timestamp="1519871066389">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="50" column="14" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Heimdall/shared/models.py" timestamp="1517905655937">
         <mark key="[" line="27" column="18" />
@@ -312,11 +319,12 @@
         <mark key="." line="141" column="45" />
         <mark key="^" line="141" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1519869077033">
-        <mark key="[" line="48" column="25" />
-        <mark key="]" line="48" column="36" />
-        <mark key="^" line="48" column="36" />
-        <mark key="." line="48" column="36" />
+      <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1519870834670">
+        <mark key="'" line="67" column="9" />
+        <mark key="[" line="51" column="13" />
+        <mark key="]" line="51" column="15" />
+        <mark key="." line="51" column="15" />
+        <mark key="^" line="51" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/Heimdall/requirements.txt" timestamp="1517907136713">
         <mark key="[" line="14" column="0" />
@@ -536,6 +544,12 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/bot.supervisor.conf" timestamp="1519871170807">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="30" />
+        <mark key="^" line="6" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/pay/unionagency.py" timestamp="1519783535444">
         <mark key="'" line="105" column="21" />
         <mark key="[" line="94" column="23" />
@@ -656,6 +670,7 @@
         <mark key="^" line="34" column="41" />
         <mark key="." line="37" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/deploy/config_files/bigbang.supervisor.conf" timestamp="1519871050709" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/abstract/activity.py" timestamp="1518662739447">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="37" />
@@ -798,11 +813,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/fix_pay.py" />
-      <jump line="1" column="9" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/fix_pay.py" />
-      <jump line="13" column="4" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/get_user_bet_data.py" />
-      <jump line="16" column="5" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/get_user_bet_data.py" />
-      <jump line="17" column="24" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/get_user_bet_data.py" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/get_user_bet_data.py" />
       <jump line="19" column="41" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/get_user_bet_data.py" />
       <jump line="30" column="40" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/get_user_bet_data.py" />
@@ -898,52 +908,57 @@
       <jump line="2" column="0" filename="$USER_HOME$/workspace/FinanceService/finservice/base/settings_prod.py" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/devops/config_files/bigbang.conf" />
       <jump line="6" column="28" filename="$USER_HOME$/workspace/devops/config_files/fin.nginx.conf" />
+      <jump line="64" column="9" filename="$USER_HOME$/workspace/deploy/config.py" />
+      <jump line="51" column="14" filename="$USER_HOME$/workspace/deploy/config_files/bot.supervisor.conf.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/deploy/config_files/bot.supervisor.conf.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/deploy/config_files/bot.supervisor.conf" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/deploy/config_files/bot.supervisor.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>update.message.chat_id</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>45.121.48.151</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXR0aW5nc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>update.message.chat_id</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmICdjcHN0YXRzJyA9PSBfUk9MRToKICAgICAgICBzdWRvKCJzdXBlcnZpc29yY3RsIHN0b3AgY3BzdGF0czoiKQogICAgICAgIHNsZWVwKDUpCiAgICAgICAgc3VkbygiY2hvd24gdWJ1bnR1OnVidW50dSAtUiAlcyIgJSBfTE9HX0RJUikKICAgICAgICBzdWRvKCJzdXBlcnZpc29yY3RsIHN0YXJ0IGNwc3RhdHM6IikK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TVlTUUxfQ09ORiA9IHsKICAgICdkYic6ICdteXNxbDovL2JpZ2Jhbmc6bjByYUB3YW5nQDEwMy4yMzAuMjQzLjE2NzozMzA2L3BheT9jaGFyc2V0PXV0ZjgnLAogICAgJ0RFQlVHJzogREVCVUcKfQoKU0xBVkVfQ09ORiA9IE1ZU1FMX0NPTkYKCkFETUlOX0NPTkYgPSB7CiAgICAnZGInOiAnbXlzcWw6Ly9iaWdiYW5nOm4wcmFAd2FuZ0AxMDMuMjMwLjI0My4xNjc6MzMwNi9wYXlfYWRtaW4/Y2hhcnNldD11dGY4JywKICAgICdERUJVRyc6IERFQlVHCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">W3NlbnN1X21hc3RlcnNdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBwdWJsaWNfa2V5cy9tYXgucHViCg==</text>
+        <text encoding="base64">Cltwcm9ncmFtOmJpZ2JhbmdfY3Jhd2xlcl0KZGlyZWN0b3J5ID0gL29wdC9iaWdiYW5nL2VuYWJsZWQvYXBwLwpjb21tYW5kPS9ob21lL3VidW50dS8ucHllbnYvdmVyc2lvbnMvYmlnYmFuZy9iaW4vcHl0aG9uIC9vcHQvYmlnYmFuZy9lbmFibGVkL2FwcC9jb21tb24vbG90dGVyeS9jeWNsaWNhbC9jcmF3bGVyLnB5CnVzZXI9dWJ1bnR1CmF1dG9yZXN0YXJ0PXRydWUKcmVkaXJlY3Rfc3RkZXJyPXRydWUKc3Rkb3V0X2xvZ2ZpbGU9L3Zhci9sb2cvYmlnYmFuZy9jcmF3bGVyLmxvZwpzdG9wc2lnbmFsPUtJTEwKa2lsbGFzZ3JvdXA9dHJ1ZQpzdG9wYXNncm91cD10cnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBwdWJsaWNfa2V5cy9lYXNvbi5wdWIK</text>
+        <text encoding="base64">W3Byb2dyYW06YmlnYmFuZ19wcm9jZXNzb3JdCmRpcmVjdG9yeSA9IC9vcHQvYmlnYmFuZy9lbmFibGVkL2FwcC8KY29tbWFuZD0vaG9tZS91YnVudHUvLnB5ZW52L3ZlcnNpb25zL2JpZ2JhbmcvYmluL3B5dGhvbiAvb3B0L2JpZ2JhbmcvZW5hYmxlZC9hcHAvY29tbW9uL3RpbWVyL3Byb2Nlc3Nvci5weQp1c2VyPXVidW50dQphdXRvcmVzdGFydD10cnVlCnJlZGlyZWN0X3N0ZGVycj10cnVlCnN0ZG91dF9sb2dmaWxlPS92YXIvbG9nL2JpZ2JhbmcvcHJvY2Vzc29yLmxvZwpzdG9wc2lnbmFsPVRFUk0KCltwcm9ncmFtOmJpZ2JhbmdfY2VsZXJ5XQpkaXJlY3RvcnkgPSAvb3B0L2JpZ2JhbmcvZW5hYmxlZC9hcHAvCmNvbW1hbmQ9L2hvbWUvdWJ1bnR1Ly5weWVudi92ZXJzaW9ucy9iaWdiYW5nL2Jpbi9weXRob24gL2hvbWUvdWJ1bnR1Ly5weWVudi92ZXJzaW9ucy9iaWdiYW5nL2Jpbi9jZWxlcnkgLUEgYXN5bmMgd29ya2VyIC1jIDIgLWwgaW5mbwp1c2VyPXVidW50dQphdXRvcmVzdGFydD10cnVlCnJlZGlyZWN0X3N0ZGVycj10cnVlCnN0ZG91dF9sb2dmaWxlPS92YXIvbG9nL2JpZ2JhbmcvY2VsZXJ5LmxvZwpzdG9wc2lnbmFsPVFVSVQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBwdWJsaWNfa2V5cy9taWtlLnB1Ygo=</text>
+        <text encoding="base64">W3Byb2dyYW06YmlnYmFuZ191d3NnaV0KZGlyZWN0b3J5ID0gL29wdC9iaWdiYW5nL2VuYWJsZWQvYXBwLwpjb21tYW5kID0gL2hvbWUvdWJ1bnR1Ly5weWVudi92ZXJzaW9ucy9iaWdiYW5nL2Jpbi91d3NnaSAvb3B0L2JpZ2JhbmcvZW5hYmxlZC9hcHAvdXdzZ2kuaW5pCnVzZXIgPSB1YnVudHUKYXV0b3Jlc3RhcnQgPSB0cnVlCnJlZGlyZWN0X3N0ZGVyciA9IHRydWUKc3Rkb3V0X2xvZ2ZpbGUgPSAvdmFyL2xvZy9iaWdiYW5nL3V3c2dpLmxvZwpzdGRlcnJfbG9nZmlsZT0vdmFyL2xvZy9iaWdiYW5nL3V3c2dpLmxvZwpzdG9wc2lnbmFsID0gUVVJVApzdG9wYXNncm91cD10cnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBwdWJsaWNfa2V5cy9rYWVsLnB1Ygo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBwdWJsaWNfa2V5cy9kb25uaWUucHViCg==</text>
+        <text encoding="base64">cHJvZ3JhbXM9YmlnYmFuZ191d3NnaSxiaWdiYW5nX2NyYXdsZXIsYmlnYmFuZ19wcm9jZXNzb3IsYmlnYmFuZ19jZWxlcnksYmlnYmFuZ190cmFja2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygndW5pb25hZ2VuY3kgbm90aWZ5LCBwYXlfaWQ6JXMsIGV4dHJhOiVzJywgcGF5X2lkLCBleHRyYSkK</text>
+        <text encoding="base64">W2dyb3VwOmJpZ2JhbmddCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4dHJhID0gZGF0YVsnZXh0cmEnXQo=</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
       </register>
       <register name=":" type="4">
         <text>132</text>
