@@ -112,12 +112,12 @@
         <mark key="." line="41" column="56" />
         <mark key="^" line="41" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/demo.py" timestamp="1519033114593">
+      <file name="$USER_HOME$/workspace/loki_bot/demo.py" timestamp="1519869915842">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="35" column="46" />
-        <mark key="]" line="35" column="53" />
-        <mark key="." line="35" column="53" />
-        <mark key="^" line="35" column="53" />
+        <mark key="[" line="23" column="33" />
+        <mark key="]" line="23" column="55" />
+        <mark key="." line="23" column="33" />
+        <mark key="^" line="23" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/loki_bot/requirements.txt" timestamp="1519033050477">
         <mark key="[" line="1" column="7" />
@@ -901,7 +901,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>45.121.48.151</text>
+        <text>update.message.chat_id</text>
       </register>
       <register name="-" type="4">
         <text>45.121.48.151</text>
@@ -910,7 +910,7 @@
         <text encoding="base64">XDxzZXR0aW5nc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>www.luckycp365.com</text>
+        <text>update.message.chat_id</text>
       </register>
       <register name="p" type="4">
         <text />
