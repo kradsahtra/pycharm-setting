@@ -532,12 +532,12 @@
         <mark key="^" line="58" column="27" />
         <mark key="." line="59" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/main.py" timestamp="1519873791862">
-        <mark key="'" line="48" column="49" />
-        <mark key="[" line="39" column="26" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="0" />
+      <file name="$USER_HOME$/workspace/loki_bot/main.py" timestamp="1519875183716">
+        <mark key="'" line="17" column="44" />
+        <mark key="[" line="77" column="49" />
+        <mark key="]" line="77" column="53" />
+        <mark key="^" line="77" column="53" />
+        <mark key="." line="77" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/devops/monitor_host" timestamp="1519785792396">
         <mark key="[" line="0" column="0" />
@@ -820,9 +820,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="41" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/get_user_bet_data.py" />
-      <jump line="30" column="40" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/get_user_bet_data.py" />
-      <jump line="14" column="6" filename="$USER_HOME$/workspace/FinanceService/finservice/api/urls.py" />
       <jump line="15" column="27" filename="$USER_HOME$/workspace/FinanceService/finservice/admin/urls.py" />
       <jump line="71" column="0" filename="$USER_HOME$/workspace/FinanceService/finservice/admin/views/bankOrder.py" />
       <jump line="27" column="71" filename="$USER_HOME$/workspace/FinanceService/finservice/admin/urls.py" />
@@ -920,52 +917,55 @@
       <jump line="16" column="0" filename="$USER_HOME$/workspace/deploy/config_files/bot.supervisor.conf" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/deploy/config_files/bot.supervisor.conf" />
       <jump line="46" column="49" filename="$USER_HOME$/workspace/loki_bot/main.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/workspace/loki_bot/main.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/workspace/loki_bot/main.py" />
+      <jump line="17" column="44" filename="$USER_HOME$/workspace/loki_bot/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ay</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>ay</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXR0aW5nc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cGFyc2VfbW9kZT0nSFRNTCcsIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVmIG92ZXJ2aWV3KGJvdCwgdXBkYXRlKToKICAgIGxvZ2dlci5pbmZvKCdjaGF0X2lkOiAlcycgJSB1cGRhdGUubWVzc2FnZS5jaGF0X2lkKQogICAgYm90LnNlbmRfbWVzc2FnZShjaGF0X2lkPXVwZGF0ZS5tZXNzYWdlLmNoYXRfaWQsIHRleHQ9dSLku4rml6XliKnmtqY6ICVzLCDku4rml6XlhYXlgLw6ICVzIiAlIF9nZXRfb3ZlcnZpZXcoKSkK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxwcmU+cHJlLWZvcm1hdHRlZCBmaXhlZC13aWR0aCBjb2RlIGJsb2NrPC9wcmU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxiPmJvbGQ8L2I+LCA8c3Ryb25nPmJvbGQ8L3N0cm9uZz4K</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdjaGF0X2lkOiAlcycgJSB1cGRhdGUubWVzc2FnZS5jaGF0X2lkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGk+aXRhbGljPC9pPiwgPGVtPml0YWxpYzwvZW0+Cg==</text>
+        <text encoding="base64">ZGlzcGF0Y2hlci5hZGRfZXJyb3JfaGFuZGxlcihlcnJvcl9jYWxsYmFjaykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGEgaHJlZj0idGc6Ly91c2VyP2lkPSVzIj5pbmxpbmUgbWVudGlvbiBvZiBhIHVzZXI8L2E+Cg==</text>
+        <text encoding="base64">IyBoYW5kbGUgYWxsIG90aGVyIHRlbGVncmFtIHJlbGF0ZWQgZXJyb3JzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGEgaHJlZj0iaHR0cDovL3d3dy5leGFtcGxlLmNvbS8iPmlubGluZSBVUkw8L2E+Cg==</text>
+        <text encoding="base64">ICAgICMgdGhlIGNoYXRfaWQgb2YgYSBncm91cCBoYXMgY2hhbmdlZCwgdXNlIGUubmV3X2NoYXRfaWQgaW5zdGVhZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGEgaHJlZj0idGc6Ly91c2VyP2lkPTEyMzQ1Njc4OSI+aW5saW5lIG1lbnRpb24gb2YgYSB1c2VyPC9hPgo=</text>
+        <text encoding="base64">ICAgICMgaGFuZGxlIG90aGVyIGNvbm5lY3Rpb24gcHJvYmxlbXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgaGFuZGxlIG90aGVyIGNvbm5lY3Rpb24gcHJvYmxlbXMKICAgIGV4Y2VwdCBDaGF0TWlncmF0ZWQgYXMgZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxwPlNvcnJ5LCBJIGRvbid0IHVuZGVyc3RhbmQgd2hhdCB5b3UgYXJlIHRhbGtpbmcgYWJvdXQuPC9wPgogICAgPHA+Q29tbWFuZHMgc3RhcnQgd2l0aCBhIGAvYC48L3A+CiAgICA8cD5UcnkgYC9oZWxwYDwvcD4K</text>
+        <text encoding="base64">ICAgICMgaGFuZGxlIHNsb3cgY29ubmVjdGlvbiBwcm9ibGVtcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcmVtb3ZlIHVwZGF0ZS5tZXNzYWdlLmNoYXRfaWQgZnJvbSBjb252ZXJzYXRpb24gbGlzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>132</text>
