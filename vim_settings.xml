@@ -143,11 +143,11 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/jobs.py" timestamp="1519903417283">
-        <mark key="[" line="16" column="46" />
-        <mark key="]" line="16" column="47" />
-        <mark key="." line="16" column="47" />
-        <mark key="^" line="16" column="47" />
+      <file name="$USER_HOME$/workspace/loki_bot/jobs.py" timestamp="1519904348754">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="35" />
+        <mark key="." line="8" column="19" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/loki_bot/db.py" timestamp="1519893237505">
         <mark key="[" line="1" column="0" />
@@ -321,12 +321,12 @@
         <mark key="." line="158" column="27" />
         <mark key="^" line="158" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/settings.py" timestamp="1519897188589">
+      <file name="$USER_HOME$/workspace/loki_bot/settings.py" timestamp="1519904345809">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="14" />
-        <mark key="^" line="11" column="13" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="50" />
+        <mark key="." line="10" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/apply_winner_ranking_award.py" timestamp="1518517870272">
         <mark key="'" line="24" column="21" />
@@ -762,7 +762,7 @@
         <mark key="." line="127" column="31" />
         <mark key="^" line="127" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519903525344">
+      <file name="/Dummy.txt" timestamp="1519904389130">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -976,16 +976,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>latency * 1000</text>
+        <text>COMMAND_CHAT_IDS</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>GOD_CHAT_IDS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBQ1RJVklUWV9URU1QTEFURVw+</text>
       </register>
       <register name="0" type="4">
-        <text>latency * 1000</text>
+        <text>COMMAND_CHAT_IDS</text>
       </register>
       <register name="p" type="4">
         <text />
