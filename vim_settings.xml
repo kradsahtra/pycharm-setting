@@ -143,12 +143,12 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/jobs.py" timestamp="1519961697820">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="44" column="4" />
-        <mark key="]" line="44" column="29" />
-        <mark key="^" line="51" column="84" />
-        <mark key="." line="51" column="84" />
+      <file name="$USER_HOME$/workspace/loki_bot/jobs.py" timestamp="1519963163818">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="52" column="12" />
+        <mark key="]" line="52" column="19" />
+        <mark key="^" line="52" column="19" />
+        <mark key="." line="52" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/loki_bot/db.py" timestamp="1519893237505">
         <mark key="[" line="1" column="0" />
@@ -609,12 +609,12 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" timestamp="1519962006700">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="17" column="22" />
-        <mark key="." line="17" column="22" />
-        <mark key="^" line="17" column="22" />
+      <file name="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" timestamp="1519962997266">
+        <mark key="'" line="27" column="15" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="19" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="18" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/fabfile.py" timestamp="1517216514311">
         <mark key="[" line="28" column="14" />
@@ -768,7 +768,7 @@
         <mark key="." line="127" column="31" />
         <mark key="^" line="127" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519958178893">
+      <file name="/Dummy.txt" timestamp="1519963105699">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -879,7 +879,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="25" filename="$USER_HOME$/workspace/FinanceService/finservice/admin/views/bankOrder.py" />
       <jump line="18" column="0" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
       <jump line="29" column="6" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
       <jump line="39" column="63" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
@@ -979,10 +978,11 @@
       <jump line="58" column="0" filename="$USER_HOME$/workspace/loki_bot/text_templates.py" />
       <jump line="35" column="23" filename="$USER_HOME$/workspace/loki_bot/main.py" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" />
+      <jump line="26" column="15" filename="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>30</text>
+        <text>MIN_BET_AMOUNT_ALARM</text>
       </register>
       <register name="-" type="4">
         <text>30</text>
@@ -991,7 +991,7 @@
         <text encoding="base64">XDxqc29uXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>lottery_profit_monitor_job</text>
+        <text>MIN_BET_AMOUNT_ALARM</text>
       </register>
       <register name="p" type="4">
         <text />
