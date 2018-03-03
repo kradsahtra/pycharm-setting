@@ -93,12 +93,12 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/jobs.py" timestamp="1520062187197">
-        <mark key="'" line="16" column="60" />
-        <mark key="[" line="72" column="4" />
-        <mark key="]" line="72" column="29" />
-        <mark key="." line="75" column="33" />
-        <mark key="^" line="75" column="94" />
+      <file name="$USER_HOME$/workspace/loki_bot/jobs.py" timestamp="1520079434306">
+        <mark key="'" line="54" column="8" />
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="19" column="37" />
+        <mark key="." line="19" column="37" />
+        <mark key="^" line="19" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/loki_bot/db.py" timestamp="1519893237505">
         <mark key="[" line="1" column="0" />
@@ -413,12 +413,12 @@
         <mark key="^" line="58" column="27" />
         <mark key="." line="59" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/main.py" timestamp="1520062195905">
+      <file name="$USER_HOME$/workspace/loki_bot/main.py" timestamp="1520079396161">
         <mark key="'" line="39" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="77" />
-        <mark key="^" line="42" column="40" />
-        <mark key="." line="57" column="0" />
+        <mark key="[" line="54" column="68" />
+        <mark key="]" line="54" column="69" />
+        <mark key="^" line="54" column="69" />
+        <mark key="." line="54" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings.py" timestamp="1519892271365">
         <mark key="[" line="205" column="0" />
@@ -451,10 +451,12 @@
       <file name="$USER_HOME$/workspace/bagent/settings_prod.py" timestamp="1519979386503">
         <mark key="'" line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" timestamp="1520062271448">
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="." line="167" column="0" />
+      <file name="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" timestamp="1520079311425">
+        <mark key="'" line="192" column="0" />
+        <mark key="[" line="103" column="87" />
+        <mark key="]" line="103" column="89" />
+        <mark key="." line="103" column="89" />
+        <mark key="^" line="103" column="89" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/fabfile.py" timestamp="1517216514311">
         <mark key="[" line="28" column="14" />
@@ -576,12 +578,12 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/text_templates.py" timestamp="1520062106236">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="28" />
-        <mark key="^" line="77" column="12" />
-        <mark key="." line="77" column="8" />
+      <file name="$USER_HOME$/workspace/loki_bot/text_templates.py" timestamp="1520079556157">
+        <mark key="'" line="87" column="0" />
+        <mark key="[" line="32" column="11" />
+        <mark key="]" line="32" column="23" />
+        <mark key="." line="32" column="23" />
+        <mark key="^" line="32" column="23" />
       </file>
       <file name="/Dummy.txt" timestamp="1520068564094">
         <mark key="[" line="0" column="0" />
@@ -606,6 +608,13 @@
         <mark key="]" line="6" column="30" />
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/loki_bot/commands.py" timestamp="1520079442370">
+        <mark key="'" line="2" column="79" />
+        <mark key="[" line="29" column="33" />
+        <mark key="]" line="29" column="33" />
+        <mark key="." line="29" column="33" />
+        <mark key="^" line="29" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/trpay.py" timestamp="1520067257178" />
       <file name="$USER_HOME$/workspace/bagent/admin_app.py" timestamp="1519979523178">
@@ -652,8 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="44" filename="$USER_HOME$/workspace/loki_bot/main.py" />
-      <jump line="55" column="11" filename="$USER_HOME$/workspace/loki_bot/main.py" />
       <jump line="93" column="59" filename="$USER_HOME$/workspace/loki_bot/main.py" />
       <jump line="2" column="39" filename="$USER_HOME$/workspace/loki_bot/main.py" />
       <jump line="66" column="10" filename="$USER_HOME$/workspace/loki_bot/main.py" />
@@ -733,7 +740,6 @@
       <jump line="152" column="63" filename="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" />
       <jump line="10" column="25" filename="$USER_HOME$/workspace/bagent/settings_prod.py" />
       <jump line="103" column="46" filename="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" />
-      <jump line="180" column="0" filename="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" />
       <jump line="59" column="32" filename="$USER_HOME$/workspace/loki_bot/jobs.py" />
       <jump line="15" column="60" filename="$USER_HOME$/workspace/loki_bot/jobs.py" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/loki_bot/text_templates.py" />
@@ -752,52 +758,55 @@
       <jump line="41" column="0" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/albpay.py" />
       <jump line="45" column="16" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/albpay.py" />
       <jump line="7" column="24" filename="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/albpay.py" />
+      <jump line="180" column="0" filename="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/workspace/loki_bot/text_templates.py" />
+      <jump line="53" column="8" filename="$USER_HOME$/workspace/loki_bot/jobs.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgSXQncyBiZWluZyBhc3N1bWVkIHRoZSBkYXRhIGlzIGJhc2U2NCBlbmNvZGVkLCBzbyBpdCdzIGRlY29kZWQgYmVmb3JlIHVwZGF0aW5nIHRoZSBkaWdlc3QK</text>
+      <register name="&quot;" type="4">
+        <text>'\n' +</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>'\n' +</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTSEEyNTZcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHMgPSAnJwogICAgZm9yIGsgaW4gc29ydGVkKHBhcmFtZXRlci5rZXlzKCkpOgogICAgICAgIGlmIHBhcmFtZXRlcltrXSAhPSAnJyBhbmQgcGFyYW1ldGVyW2tdICE9IE5vbmU6CiAgICAgICAgICAgIHMgKz0gJyVzPSVzJicgJSAoaywgcGFyYW1ldGVyW2tdKQogICAgcyArPSAna2V5PSVzJyAlIGtleQo=</text>
+      <register name="0" type="4">
+        <text>new_register_device</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgSXQncyBiZWluZyBhc3N1bWVkIHRoZSBkYXRhIGlzIGJhc2U2NCBlbmNvZGVkLCBzbyBpdCdzIGRlY29kZWQgYmVmb3JlIHVwZGF0aW5nIHRoZSBkaWdlc3QK</text>
+        <text encoding="base64">ICAgICAgICB0b3RhbF90ZXh0ID0gb3ZlcnZpZXdfdGV4dCArICdcbicgKyBhY3Rpdml0eV90ZXh0ICsgJ1xuJyArIGdhbWVfdGV4dAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIHVzZXJfdGV4dCA9IFVTRVJfU1RBVFNfVEVNUExBVEUgJSBnZXRfdXNlcl9zdGF0cygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZyb20gQ3J5cHRvLlB1YmxpY0tleSBpbXBvcnQgUlNBCiAgICBmcm9tIENyeXB0by5TaWduYXR1cmUgaW1wb3J0IFBLQ1MxX3YxXzUKICAgIGZyb20gQ3J5cHRvLkhhc2ggaW1wb3J0IFNIQTI1NgogICAgZnJvbSBiYXNlNjQgaW1wb3J0IGI2NGVuY29kZSwgYjY0ZGVjb2RlCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQoaXRlbS5nZXQoJ2FjdGl2ZV9kZXZpY2UnLCAwKSksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGtleSA9IG9wZW4ocHJpdmF0ZV9rZXlfbG9jLCAiciIpLnJlYWQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNpZ24gPSBtLmhleGRpZ2VzdCgpCg==</text>
+        <text encoding="base64">PGNvZGU+5rS76LeD6K6+5aSHPC9jb2RlPjogJXMgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHMgKz0gJ2tleT0lcycgJSBrZXkK</text>
+        <text encoding="base64">ICAgICAgICBpbnQoaXRlbS5nZXQoJ2FjdGl2ZV9yZWdpc3Rlcl91c2VyJywgMCkpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHMgPSAne318e30me30me318e30me30nLmZvcm1hdCgKICAgICAgICBwYXJhbWV0ZXJbJ3Njb2RlJ10sIHBhcmFtZXRlclsnb3JkZXJpZCddLCBwYXJhbWV0ZXJbJ2Ftb3VudCddLAogICAgICAgIHBhcmFtZXRlclsnY3VycmNvZGUnXSwgcGFyYW1ldGVyWydjYWxsYmFja3VybCddLCBrZXkpCiAgICBtID0gaGFzaGxpYi5tZDUoKQogICAgbS51cGRhdGUocy5lbmNvZGUoJ3V0ZjgnKSkK</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdChpdGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHF1ZXJ5X2NoYXJnZShwYXlfb3JkZXIsIGFwcF9pZCk6CiAgICBwYXlfaWQgPSBwYXlfb3JkZXIuaWQKICAgIGtleSA9IF9nZXRfYXBpX2tleShhcHBfaWQpCiAgICBwX2RpY3QgPSB7CiAgICAgICAgJ3Njb2RlJzogYXBwX2lkLAogICAgICAgICdvcmRlcmlkJzogc3RyKHBheV9pZCksCiAgICB9CiAgICBoZWFkZXJzID0geydDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkJ30KICAgIHBfZGljdFsnc2lnbiddID0gZ2VuZXJhdGVfcXVlcnlfc2lnbihwX2RpY3QsIGtleSkKICAgIHJlc3BvbnNlID0gcmVxdWVzdHMucG9zdChfZ2V0X3F1ZXJ5X2dhdGV3YXkoYXBwX2lkKSwgZGF0YT1wX2RpY3QsIGhlYWRlcnM9aGVhZGVycywgdGltZW91dD0zKQogICAgX0xPR0dFUi5pbmZvKHUnYWxicGF5IGNyZWF0ZSBjaGFyZ2U6ICVzJywgcmVzcG9uc2UudGV4dCkKICAgIGRhdGEgPSBqc29uLmxvYWRzKHJlc3BvbnNlLnRleHQpCiAgICBpZiByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDA6CiAgICAgICAgdHJhZGVfc3RhdHVzID0gaW50KGRhdGFbJ3N0YXR1cyddKQogICAgICAgIHRyYWRlX25vID0gZGF0YVsnb3JkZXJubyddCiAgICAgICAgdG90YWxfZmVlID0gZmxvYXQoZGF0YVsnYW1vdW50J10pIC8gX2dldF91aW50KGFwcF9pZCkKCiAgICAgICAgZXh0ZW5kID0gewogICAgICAgICAgICAndHJhZGVfc3RhdHVzJzogdHJhZGVfc3RhdHVzLAogICAgICAgICAgICAndHJhZGVfbm8nOiB0cmFkZV9ubywKICAgICAgICAgICAgJ3RvdGFsX2ZlZSc6IHRvdGFsX2ZlZQogICAgICAgIH0KCiAgICAgICAgaWYgdHJhZGVfc3RhdHVzID09IDE6CiAgICAgICAgICAgIF9MT0dHRVIuaW5mbygnYWxicGF5IHF1ZXJ5IG9yZGVyIHN1Y2Nlc3MsIG1jaF9pZDolcyBwYXlfaWQ6JXMnICUgKHBheV9vcmRlci5tY2hfaWQsIHBheV9pZCkpCiAgICAgICAgICAgIHJlcyA9IGFkZF9wYXlfc3VjY2VzcyhwYXlfb3JkZXIubWNoX2lkLCBwYXlfaWQsIHRvdGFsX2ZlZSwgdHJhZGVfbm8sIGV4dGVuZCkKICAgICAgICAgICAgaWYgcmVzOgogICAgICAgICAgICAgICAgYXN5bmNfam9iLm5vdGlmeV9tY2gocGF5X29yZGVyLmlkKQogICAgZWxzZToKICAgICAgICBfTE9HR0VSLndhcm4oJ2FsYnBheSBkYXRhIGVycm9yLCBzdGF0dXNfY29kZTogJXMnLCByZXNwb25zZS5zdGF0dXNfY29kZSkK</text>
+        <text encoding="base64">ICAgIGl0ZW1zID0gTUdfQklHQkFOR19DT0xMLmRhaWx5X3JlcG9ydC5maW5kKHsiZGF0ZSI6IHV0Y190b19sb2NhbChkYXRldGltZS51dGNub3coKSkuc3RyZnRpbWUoJyVZLSVtLSVkJyl9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGtleSA9IF9nZXRfYXBpX2tleShhcHBfaWQpCg==</text>
+        <text encoding="base64">ICAgICMgSXQncyBiZWluZyBhc3N1bWVkIHRoZSBkYXRhIGlzIGJhc2U2NCBlbmNvZGVkLCBzbyBpdCdzIGRlY29kZWQgYmVmb3JlIHVwZGF0aW5nIHRoZSBkaWdlc3QK</text>
       </register>
       <register name=":" type="4">
         <text>132</text>
