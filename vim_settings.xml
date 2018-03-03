@@ -39,6 +39,9 @@
         <mark key="." line="5" column="30" />
         <mark key="^" line="5" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/payservice/payservice/base/settings.py" timestamp="1520063044789">
+        <mark key="'" line="123" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bagent/shared/utils/orm.py" timestamp="1515662746758">
         <mark key="[" line="13" column="27" />
         <mark key="]" line="13" column="31" />
@@ -56,6 +59,12 @@
         <mark key="]" line="0" column="416" />
         <mark key="^" line="0" column="416" />
         <mark key="." line="0" column="416" />
+      </file>
+      <file name="$USER_HOME$/workspace/payservice/payservice/api/notify/view.py" timestamp="1520063269063">
+        <mark key="'" line="1024" column="38" />
+        <mark key="[" line="1045" column="27" />
+        <mark key="]" line="1045" column="33" />
+        <mark key="." line="1045" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/FinanceService/finweb/templates/bank/BankOrderList.html" timestamp="1519722510483">
         <mark key="[" line="57" column="75" />
@@ -506,6 +515,12 @@
         <mark key="^" line="11" column="2" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/payservice/payservice/api/urls.py" timestamp="1520063246319">
+        <mark key="[" line="99" column="79" />
+        <mark key="]" line="99" column="92" />
+        <mark key="." line="99" column="79" />
+        <mark key="^" line="99" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/bagent/requirements.txt" timestamp="1517470407102">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="13" />
@@ -556,7 +571,7 @@
         <mark key="^" line="77" column="12" />
         <mark key="." line="77" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520059390091">
+      <file name="/Dummy.txt" timestamp="1520063733970">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -629,10 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="23" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
-      <jump line="57" column="10" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
-      <jump line="137" column="24" filename="$USER_HOME$/workspace/FinanceService/finservice/api/charge/view.py" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/FinanceService/finservice/base/settings_prod.py" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/devops/config_files/bigbang.conf" />
       <jump line="6" column="28" filename="$USER_HOME$/workspace/devops/config_files/fin.nginx.conf" />
@@ -729,19 +740,23 @@
       <jump line="15" column="60" filename="$USER_HOME$/workspace/loki_bot/jobs.py" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/loki_bot/text_templates.py" />
       <jump line="69" column="0" filename="$USER_HOME$/workspace/loki_bot/text_templates.py" />
+      <jump line="123" column="0" filename="$USER_HOME$/workspace/payservice/payservice/base/settings.py" />
+      <jump line="303" column="25" filename="$USER_HOME$/workspace/payservice/payservice/api/notify/view.py" />
+      <jump line="1010" column="0" filename="$USER_HOME$/workspace/payservice/payservice/api/notify/view.py" />
+      <jump line="1024" column="38" filename="$USER_HOME$/workspace/payservice/payservice/api/notify/view.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVybCA9ICJodHRwOi8vNDUuMTIxLjQ4LjE1MS9hcGkvdjMvcHJlc2V0L2xvdHRlcnkiCg==</text>
+      <register name="&quot;" type="4">
+        <text>hbtpay</text>
       </register>
       <register name="-" type="4">
-        <text>game_profit_monitor_job</text>
+        <text>hbtpay</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc29uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Sk9CX1FVRVVFLnJ1bl9yZXBlYXRpbmcobG90dGVyeV9zdGF0dXNfbW9uaXRvcl9qb2IsIGludGVydmFsPTYwICogNSwgZmlyc3Q9MCkK</text>
+      <register name="0" type="4">
+        <text>albpay</text>
       </register>
       <register name="p" type="4">
         <text />
