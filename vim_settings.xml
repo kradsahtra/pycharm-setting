@@ -451,12 +451,12 @@
       <file name="$USER_HOME$/workspace/bagent/settings_prod.py" timestamp="1519979386503">
         <mark key="'" line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" timestamp="1520079311425">
-        <mark key="'" line="192" column="0" />
-        <mark key="[" line="103" column="87" />
-        <mark key="]" line="103" column="89" />
-        <mark key="." line="103" column="89" />
-        <mark key="^" line="103" column="89" />
+      <file name="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" timestamp="1520214404498">
+        <mark key="'" line="111" column="21" />
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="28" />
+        <mark key="." line="18" column="28" />
+        <mark key="^" line="18" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/fabfile.py" timestamp="1517216514311">
         <mark key="[" line="28" column="14" />
@@ -585,7 +585,7 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520068564094">
+      <file name="/Dummy.txt" timestamp="1520214424124">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -661,7 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="59" filename="$USER_HOME$/workspace/loki_bot/main.py" />
       <jump line="2" column="39" filename="$USER_HOME$/workspace/loki_bot/main.py" />
       <jump line="66" column="10" filename="$USER_HOME$/workspace/loki_bot/main.py" />
       <jump line="8" column="14" filename="$USER_HOME$/workspace/loki_bot/main.py" />
@@ -761,19 +760,20 @@
       <jump line="180" column="0" filename="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" />
       <jump line="77" column="0" filename="$USER_HOME$/workspace/loki_bot/text_templates.py" />
       <jump line="53" column="8" filename="$USER_HOME$/workspace/loki_bot/jobs.py" />
+      <jump line="111" column="21" filename="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'\n' +</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>'\n' +</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTSEEyNTZcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>new_register_device</text>
+        <text>lottery_status.get('title')</text>
       </register>
       <register name="p" type="4">
         <text />
