@@ -31,6 +31,10 @@
         <mark key="^" line="99" column="21" />
         <mark key="." line="99" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings_prod.py" timestamp="1520580632425">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="81" />
+      </file>
       <file name="$USER_HOME$/workspace/cpstats/cpsservice/service/settings_prod.py" timestamp="1516652920996">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="12" column="22" />
@@ -67,11 +71,11 @@
         <mark key="." line="41" column="56" />
         <mark key="^" line="41" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/requirements.txt" timestamp="1519886173817">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="9" />
-        <mark key="^" line="2" column="9" />
-        <mark key="." line="2" column="9" />
+      <file name="$USER_HOME$/workspace/loki_bot/requirements.txt" timestamp="1520580564074">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/campaign/daily_recharge_return.py" timestamp="1518058323427">
         <mark key="[" line="40" column="16" />
@@ -85,6 +89,13 @@
         <mark key="]" line="19" column="37" />
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/loki_bot/db.py" timestamp="1520580661163">
+        <mark key="'" line="13" column="36" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/bigbang-admin.supervisor.conf" timestamp="1512119475619">
         <mark key="[" line="1" column="14" />
@@ -684,7 +695,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="2" filename="$USER_HOME$/workspace/loki_bot/text_templates.py" />
       <jump line="23" column="30" filename="$USER_HOME$/workspace/loki_bot/main.py" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/loki_bot/commands.py" />
       <jump line="11" column="10" filename="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" />
@@ -784,52 +794,53 @@
       <jump line="16" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/manual_award.py" />
       <jump line="32" column="62" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/manual_award.py" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" />
+      <jump line="13" column="36" filename="$USER_HOME$/workspace/loki_bot/db.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3.4.0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">J2RiJzogJ215c3FsOi8vbG9raTo0RnJiRmFQemRoQzhFU2tWQDE5Mi4xNjguMTEuMTozMzA2L2JpZ2Jhbmc/Y2hhcnNldD11dGY4JywK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>mb4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RpZmljYXRpb25fZGJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>3.4.0</text>
+        <text>4FrbFaPzdhC8ESkV</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0YWcnOiB1JycK</text>
+        <text encoding="base64">J2RiJzogJ215c3FsOi8vbG9raTo0RnJiRmFQemRoQzhFU2tWQDE5Mi4xNjguMTEuMTozMzA2L2JpZ2Jhbmc/Y2hhcnNldD11dGY4JywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24ubm90aWZpY2F0aW9uLm1vZGVsIGltcG9ydCBOT1RJRllfVFlQRQo=</text>
+        <text encoding="base64">cGVld2VlPT0zLjEuMgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24uYWNjb3VudC5kYi5hY2NvdW50IGltcG9ydCBhZGRfY2FtcGFpZ25fYXdhcmRfaW5fdHJhbnNhY3Rpb24K</text>
+        <text encoding="base64">REIgPQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm90aWZ5X3dpbm5lcl9yYW5rX2RhaWx5KHVzZXJfaWQsIHN0YXJ0LnN0cmZ0aW1lKCIlbS0lZCIpLCByYW5rLCBhbW91bnQpCg==</text>
+        <text encoding="base64">UHlNeVNRTD09MC44LjAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudFsndGl0bGUnXSA9IHRlbXBsYXRlWyd0aXRsZSddLmZvcm1hdCgqKmluZm8pCiAgICAgICAgICAgIGNvbnRlbnRbJ2JvZHknXSA9IHRlbXBsYXRlWydib2R5J10uZm9ybWF0KCoqaW5mbykKICAgICAgICAgICAgY29udGVudFsndGFnJ10gPSB0ZW1wbGF0ZVsndGFnJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0YWcnOiB1JycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm90aWZ5X3dpbm5lcl9yYW5rX2RhaWx5KHVzZXJfaWQsIHN0YXJ0LnN0cmZ0aW1lKCIlbS0lZCIpLCByYW5rLCBhbW91bnQpCg==</text>
+        <text encoding="base64">ZnJvbSBjb21tb24ubm90aWZpY2F0aW9uLm1vZGVsIGltcG9ydCBOT1RJRllfVFlQRQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnRbJ2NvbnRlbnQnXSA9IHRlbXBsYXRlWydib2R5J10uZm9ybWF0KCoqaW5mbykK</text>
+        <text encoding="base64">ZnJvbSBjb21tb24uYWNjb3VudC5kYi5hY2NvdW50IGltcG9ydCBhZGRfY2FtcGFpZ25fYXdhcmRfaW5fdHJhbnNhY3Rpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhcmRfd2lubmVyX3JhbmtpbmcodXNlcl9pZCwgV0lOTkVSX0FXQVJEX1RZUEUuREFJTFksIHJhbmssIGFtb3VudCwgc3RhcnQsIGVuZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm90aWZ5X3dpbm5lcl9yYW5rX2RhaWx5KHVzZXJfaWQsIHN0YXJ0LnN0cmZ0aW1lKCIlbS0lZCIpLCByYW5rLCBhbW91bnQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGluZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudFsndGl0bGUnXSA9IHRlbXBsYXRlWyd0aXRsZSddLmZvcm1hdCgqKmluZm8pCiAgICAgICAgICAgIGNvbnRlbnRbJ2JvZHknXSA9IHRlbXBsYXRlWydib2R5J10uZm9ybWF0KCoqaW5mbykKICAgICAgICAgICAgY29udGVudFsndGFnJ10gPSB0ZW1wbGF0ZVsndGFnJ10K</text>
       </register>
       <register name=":" type="4">
         <text>132</text>
