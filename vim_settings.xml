@@ -83,12 +83,12 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/jobs.py" timestamp="1520584210930">
+      <file name="$USER_HOME$/workspace/loki_bot/jobs.py" timestamp="1520585662624">
         <mark key="'" line="83" column="4" />
-        <mark key="[" line="85" column="37" />
-        <mark key="]" line="85" column="55" />
-        <mark key="." line="85" column="55" />
-        <mark key="^" line="85" column="55" />
+        <mark key="[" line="86" column="47" />
+        <mark key="]" line="86" column="51" />
+        <mark key="." line="86" column="51" />
+        <mark key="^" line="86" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/loki_bot/db.py" timestamp="1520581541215">
         <mark key="'" line="13" column="36" />
@@ -427,11 +427,11 @@
         <mark key="]" line="9" column="53" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/main.py" timestamp="1520584174786">
-        <mark key="'" line="58" column="24" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/workspace/loki_bot/main.py" timestamp="1520585705121">
+        <mark key="'" line="57" column="48" />
+        <mark key="[" line="57" column="64" />
+        <mark key="]" line="57" column="64" />
+        <mark key="." line="57" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/payservice/deploy/release/deploy.yaml" timestamp="1520215915935">
         <mark key="[" line="2" column="8" />
@@ -461,9 +461,9 @@
         <mark key="[" line="53" column="9" />
         <mark key="]" line="53" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" timestamp="1520584114618">
+      <file name="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" timestamp="1520585770501">
         <mark key="'" line="35" column="13" />
-        <mark key="[" line="15" column="24" />
+        <mark key="[" line="15" column="25" />
         <mark key="]" line="15" column="25" />
         <mark key="." line="15" column="25" />
         <mark key="^" line="15" column="25" />
@@ -690,7 +690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="11" filename="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" />
       <jump line="65" column="3" filename="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" />
       <jump line="104" column="20" filename="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" />
@@ -790,13 +789,14 @@
       <jump line="60" column="24" filename="$USER_HOME$/workspace/loki_bot/main.py" />
       <jump line="91" column="9" filename="$USER_HOME$/workspace/loki_bot/text_templates.py" />
       <jump line="35" column="13" filename="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" />
+      <jump line="58" column="48" filename="$USER_HOME$/workspace/loki_bot/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RElTUEFUQ0hFUi5hZGRfaGFuZGxlcihwYXlfaGFuZGxlcikK</text>
+      <register name="&quot;" type="4">
+        <text>0.</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>0.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RpZmljYXRpb25fZGJcPg==</text>
