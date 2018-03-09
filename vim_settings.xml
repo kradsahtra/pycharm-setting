@@ -447,12 +447,12 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" timestamp="1520577838983">
-        <mark key="'" line="111" column="21" />
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="17" column="21" />
-        <mark key="." line="17" column="21" />
-        <mark key="^" line="17" column="21" />
+      <file name="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" timestamp="1520578778115">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="205" column="8" />
+        <mark key="]" line="205" column="13" />
+        <mark key="." line="205" column="13" />
+        <mark key="^" line="205" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/payservice/deploy/requirement.txt" timestamp="1520221748607">
         <mark key="'" line="2" column="0" />
@@ -680,7 +680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="33" filename="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" />
       <jump line="16" column="2" filename="$USER_HOME$/workspace/loki_bot/text_templates.py" />
       <jump line="23" column="30" filename="$USER_HOME$/workspace/loki_bot/main.py" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/loki_bot/commands.py" />
@@ -780,13 +779,14 @@
       <jump line="33" column="26" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/manual_award.py" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/manual_award.py" />
       <jump line="32" column="62" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/manual_award.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/loki_bot/bussiness_logic.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>amount</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>amount</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RpZmljYXRpb25fZGJcPg==</text>
