@@ -370,7 +370,6 @@
         <mark key="^" line="52" column="10" />
         <mark key="." line="56" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/stats/device_track.py" timestamp="1520670190463" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/create_daily_report.py" timestamp="1520670571454">
         <mark key="'" line="609" column="7" />
       </file>
@@ -432,12 +431,12 @@
         <mark key="]" line="9" column="53" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/loki_bot/main.py" timestamp="1520594219407">
+      <file name="$USER_HOME$/workspace/loki_bot/main.py" timestamp="1520818815101">
         <mark key="'" line="45" column="40" />
-        <mark key="[" line="59" column="46" />
-        <mark key="]" line="59" column="45" />
-        <mark key="." line="59" column="45" />
-        <mark key="^" line="59" column="45" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="50" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/payservice/deploy/release/deploy.yaml" timestamp="1520215915935">
         <mark key="[" line="2" column="8" />
@@ -445,7 +444,6 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/base/settings.py" timestamp="1520667579326" />
       <file name="$USER_HOME$/workspace/heimdall/heimdall/validators.py" timestamp="1517994542543">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="17" />
@@ -546,7 +544,6 @@
         <mark key="." line="83" column="30" />
         <mark key="^" line="83" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/third/sms/submail.py" timestamp="1520593080600" />
       <file name="$USER_HOME$/workspace/devops/dev_host" timestamp="1515999694564">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -803,8 +800,8 @@
       <jump line="609" column="7" filename="$USER_HOME$/workspace/bigbang-server/bigbang/tools/create_daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -819,7 +816,7 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">6Z2Z5oCB5paH5Lu2ICVzIOaXoOazleiuv+mXrgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -828,28 +825,28 @@
         <text encoding="base64">6Z2Z5oCB5paH5Lu2ICVzIOaXoOazleiuv+mXrgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">6Z2Z5oCB5paH5Lu2ICVzIOaXoOazleiuv+mXrgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kX2FsYXJtKGJvdCwgQ0ROX0FMQVJNX1RFTVBMQVRFICUgQ0ROX1RFU1RfRklMRSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBnZXRfY2RuX3N0YXRpY19maWxlKENETl9URVNUX0ZJTEUpOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZW5kX2FsYXJtKGJvdCwgQ0ROX0FMQVJNX1RFTVBMQVRFICUgQ0ROX1RFU1RfRklMRSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBnZXRfY2RuX3N0YXRpY19maWxlKENETl9URVNUX0ZJTEUpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">5bey57uPIDxjb2RlPiVzPC9jb2RlPiDliIbpkp/msqHmnInmiJDlip/mlK/ku5jorrDlvZXvvIzor7fmo4Dmn6XmlK/ku5jpgJrpgZPmmK/lkKblj6/nlKggCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVybCA9ICdodHRwOi8vb3c4eGN0ZTN6LmJrdC5jbG91ZGRuLmNvbS9hbGFybS5qcGcnCg==</text>
+        <text encoding="base64">5bey57uPIDxjb2RlPiVzPC9jb2RlPiDliIbpkp/msqHmnInmiJDlip/mlK/ku5jorrDlvZXvvIzor7fmo4Dmn6XmlK/ku5jpgJrpgZPmmK/lkKblj6/nlKggCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCdsYXRlc3Q6ICVzLCBub3c6ICVzJyAlIChsYXRlc3QsIG5vdykpCg==</text>
+        <text encoding="base64">ICAgIHVybCA9ICdodHRwOi8vb3c4eGN0ZTN6LmJrdC5jbG91ZGRuLmNvbS9hbGFybS5qcGcnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>132</text>
+        <text>98</text>
       </register>
     </registers>
     <search>
@@ -885,7 +882,6 @@
         <entry encoding="base64">XDxmcmVzaF9yZWNoYXJnZV9yZXBvcnRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>24</entry>
         <entry>52</entry>
         <entry>81</entry>
         <entry>188</entry>
@@ -905,6 +901,7 @@
         <entry>27</entry>
         <entry>w</entry>
         <entry>132</entry>
+        <entry>98</entry>
       </history-cmd>
       <history-expr />
       <history-input />
