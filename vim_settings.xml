@@ -58,6 +58,10 @@
         <mark key="^" line="0" column="416" />
         <mark key="." line="0" column="416" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/base/settings_online.py" timestamp="1520925998947">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="25" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/FinanceService/finweb/templates/bank/BankOrderList.html" timestamp="1519722510483">
         <mark key="[" line="57" column="75" />
         <mark key="]" line="57" column="86" />
@@ -124,6 +128,7 @@
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/base/settings_release.py" timestamp="1520925930610" />
       <file name="$USER_HOME$/workspace/deploy/config_files/kfc.nginx.conf" timestamp="1516013609040">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="24" />
@@ -299,6 +304,12 @@
         <mark key="." line="5" column="41" />
         <mark key="^" line="5" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/base/settings_test.py" timestamp="1520926020286">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="34" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="21" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/handler.py" timestamp="1516088611709">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="49" />
@@ -337,6 +348,11 @@
         <mark key="]" line="37" column="51" />
         <mark key="." line="37" column="51" />
         <mark key="^" line="37" column="51" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/uwsgi.ini" timestamp="1520926158766">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="36" />
+        <mark key="." line="15" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/campaign/view.py" timestamp="1518160452839">
         <mark key="[" line="48" column="0" />
@@ -600,6 +616,12 @@
       <file name="$USER_HOME$/workspace/BigBangService/bot/utils/interface.py" timestamp="1520844400213">
         <mark key="'" line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/uwsgi-admin.ini" timestamp="1520926228052">
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="15" column="36" />
+        <mark key="^" line="15" column="36" />
+        <mark key="." line="15" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/devops/public_keys/ranky.pub" timestamp="1517297801059">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="398" />
@@ -740,50 +762,50 @@
       <jump line="48" column="24" filename="$USER_HOME$/workspace/deploy/config.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BheS13ZWInOiBbJzE5Mi4xNjguMS41OScsIF0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>bigbangsocket</text>
       </register>
       <register name="-" type="4">
-        <text>kfc</text>
+        <text>bigbangsocket</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmVzaF9yZWNoYXJnZV9yZXBvcnRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>loki-bigbang-admin-web</text>
+        <text>tbsocket_bigbang</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BheS13ZWInOiBbJzE5Mi4xNjguMS41OScsIF0sCg==</text>
+        <text encoding="base64">dmVudj0vaG9tZS91YnVudHUvYWYtZW52LwpkaXJlY3Rvcnk9L2hvbWUvdWJ1bnR1L2FmLWVudi9iaWdiYW5nLwp3c2dpLWZpbGUgPS9ob21lL3VidW50dS9hZi1lbnYvYmlnYmFuZy9iYXNlL3dzZ2kucHkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BheSc6IFsnMTkyLjE2OC4xLjU5JywgXSwK</text>
+        <text encoding="base64">UkVESVNfUE9SVCA9IDYzNzkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2xva2ktbG90dGVyeSc6IFsnNDUuMTIxLjQ4LjE1MTo5NDc4JywgXSwKICAgICAgICAgICAgJ2xva2kta2ZjJzogWyc0NS4xMjEuNDguMTUxOjk0NzgnLCBdLAo=</text>
+        <text encoding="base64">UkVESVNfSE9TVCA9ICcxMDMuMjMwLjI0My4yMzMnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Zpbi13ZWInOiBbJzQ1LjEyMS40OC4xNTE6OTQ3OCcsIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BheS13ZWInOiBbJzE5Mi4xNjguMS41OScsIF0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Zpbic6IFsnNDUuMTIxLjQ4LjE1MTo5NDc4JywgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BheSc6IFsnMTkyLjE2OC4xLjU5JywgXSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BheS13ZWInOiBbJzQ1LjEyMS40OC4xNTE6OTQ3OCcsIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2xva2ktbG90dGVyeSc6IFsnNDUuMTIxLjQ4LjE1MTo5NDc4JywgXSwKICAgICAgICAgICAgJ2xva2kta2ZjJzogWyc0NS4xMjEuNDguMTUxOjk0NzgnLCBdLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BheSc6IFsnNDUuMTIxLjQ4LjE1MTo5NDc4JywgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Zpbi13ZWInOiBbJzQ1LjEyMS40OC4xNTE6OTQ3OCcsIF0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Zpbi13ZWInOiBbJzE0LjI5LjQ3LjE5MycsIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Zpbic6IFsnNDUuMTIxLjQ4LjE1MTo5NDc4JywgXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Zpbic6IFsnMTgzLjU2LjE3My40NScsIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BheS13ZWInOiBbJzQ1LjEyMS40OC4xNTE6OTQ3OCcsIF0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>118</text>
