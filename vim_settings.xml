@@ -152,12 +152,12 @@
         <mark key="^" line="26" column="22" />
         <mark key="." line="26" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1520944080250">
+      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1520992745859">
         <mark key="'" line="232" column="39" />
-        <mark key="[" line="231" column="37" />
-        <mark key="]" line="231" column="44" />
-        <mark key="^" line="231" column="44" />
-        <mark key="." line="231" column="44" />
+        <mark key="[" line="215" column="96" />
+        <mark key="]" line="215" column="103" />
+        <mark key="^" line="215" column="103" />
+        <mark key="." line="215" column="103" />
       </file>
       <file name="$USER_HOME$/workspace/Heimdall/shared/models.py" timestamp="1517905655937">
         <mark key="[" line="27" column="18" />
@@ -371,9 +371,6 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/latency_test/shared/models.py" timestamp="1520826967812">
-        <mark key="^" line="20" column="48" />
-      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/tools/recharge_test.py" timestamp="1515226304560">
         <mark key="[" line="22" column="16" />
         <mark key="]" line="22" column="21" />
@@ -500,6 +497,12 @@
         <mark key="." line="95" column="18" />
         <mark key="^" line="95" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/base/settings.py" timestamp="1520992967094">
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="39" column="30" />
+        <mark key="." line="39" column="30" />
+        <mark key="^" line="39" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbangweb/templates/preset/BannerList.html" timestamp="1513221940488">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="47" column="93" />
@@ -566,7 +569,7 @@
       <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/juchengpay.py" timestamp="1520238299480">
         <mark key="'" line="151" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520820696246">
+      <file name="/Dummy.txt" timestamp="1520992950900">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -740,10 +743,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_ROLE</text>
+        <text>af-env/data</text>
       </register>
       <register name="-" type="4">
-        <text>_ROLE</text>
+        <text>af-env/data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfUk9MRVw+</text>
