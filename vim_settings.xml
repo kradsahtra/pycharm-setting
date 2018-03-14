@@ -34,6 +34,7 @@
         <mark key="." line="12" column="22" />
         <mark key="^" line="12" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbangweb/js/frame/settings_online.js" timestamp="1520994578526" />
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/common/lottery/cyclical/ff_pk10/logic/order.py" timestamp="1516959157360">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="30" />
@@ -80,11 +81,11 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/config_files/bigbang-admin.supervisor.conf" timestamp="1512119475619">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="21" />
-        <mark key="." line="1" column="21" />
-        <mark key="^" line="1" column="21" />
+      <file name="$USER_HOME$/workspace/deploy/config_files/bigbang-admin.supervisor.conf" timestamp="1520994004053">
+        <mark key="[" line="16" column="113" />
+        <mark key="]" line="16" column="113" />
+        <mark key="." line="16" column="113" />
+        <mark key="^" line="16" column="113" />
       </file>
       <file name="$USER_HOME$/workspace/bigbang-server/bigbang/api/preset/view.py" timestamp="1517987906562">
         <mark key="[" line="215" column="28" />
@@ -109,11 +110,6 @@
         <mark key="]" line="32" column="28" />
         <mark key="." line="32" column="28" />
         <mark key="^" line="32" column="28" />
-      </file>
-      <file name="$USER_HOME$/workspace/latency_test/settings.py" timestamp="1520824113615">
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="32" />
-        <mark key="." line="13" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/bagent/common/utils/logs.py" timestamp="1514602275017">
         <mark key="[" line="11" column="32" />
@@ -152,12 +148,12 @@
         <mark key="^" line="26" column="22" />
         <mark key="." line="26" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1520992745859">
-        <mark key="'" line="232" column="39" />
-        <mark key="[" line="215" column="96" />
-        <mark key="]" line="215" column="103" />
+      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1520993898094">
+        <mark key="'" line="234" column="39" />
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="227" column="14" />
         <mark key="^" line="215" column="103" />
-        <mark key="." line="215" column="103" />
+        <mark key="." line="226" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Heimdall/shared/models.py" timestamp="1517905655937">
         <mark key="[" line="27" column="18" />
@@ -395,11 +391,6 @@
         <mark key="^" line="191" column="40" />
         <mark key="." line="191" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/latency_test/shared/controllers.py" timestamp="1520835982107">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/loki_bot/settings_prod.py" timestamp="1519892345678">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="67" />
@@ -569,7 +560,7 @@
       <file name="$USER_HOME$/workspace/payservice/payservice/common/channel/pay/juchengpay.py" timestamp="1520238299480">
         <mark key="'" line="151" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520992950900">
+      <file name="/Dummy.txt" timestamp="1520994579075">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -742,8 +733,8 @@
       <jump line="232" column="39" filename="$USER_HOME$/workspace/deploy/fabfile.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>af-env/data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmICctd2ViJyBpbiBfUk9MRToKICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="-" type="4">
         <text>af-env/data</text>
@@ -752,7 +743,7 @@
         <text encoding="base64">XDxfUk9MRVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICd3aXRjaC1sb3R0ZXJ5JzogJ2JpZ2JhbmcnLAogICAgJ3dpdGNoLWtmYyc6ICdiaWdiYW5nJywKICAgICd3aXRjaC1iaWdiYW5nJzogJ2JpZ2JhbmcnLAogICAgJ3dpdGNoLWJpZ2JhbmctYWRtaW4nOiAnYmlnYmFuZycsCg==</text>
+        <text encoding="base64">ICAgIGlmICctd2ViJyBpbiBfUk9MRToKICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="p" type="4">
         <text />
