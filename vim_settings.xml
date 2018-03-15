@@ -60,10 +60,10 @@
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" timestamp="1521081684521">
         <mark key="'" line="16" column="70" />
       </file>
-      <file name="/bigbang_production.sql" timestamp="1521106223308">
+      <file name="/bigbang_production.sql" timestamp="1521107433021">
         <mark key="'" line="177" column="33" />
-        <mark key="[" line="1304" column="0" />
-        <mark key="]" line="1304" column="67" />
+        <mark key="[" line="1460" column="0" />
+        <mark key="]" line="1460" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/sh_11x5/order/handler.py" timestamp="1521099905220">
         <mark key="[" line="24" column="44" />
@@ -85,6 +85,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/cache/redis_cache.py" timestamp="1521018790785">
+        <mark key="'" line="10" column="17" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/admin/views/recharge.py" timestamp="1521008755609">
         <mark key="[" line="14" column="0" />
@@ -142,7 +148,7 @@
         <mark key="^" line="19" column="9" />
       </file>
       <file name="/recharge.py" timestamp="1521008788999" />
-      <file name="/Dummy.txt" timestamp="1521106226620">
+      <file name="/Dummy.txt" timestamp="1521111533998">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -176,6 +182,12 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/transaction/view.py" timestamp="1521016498307">
+        <mark key="'" line="152" column="20" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="51" />
+        <mark key="." line="196" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/fix_user_stats.py" timestamp="1521098460065">
         <mark key="[" line="9" column="25" />
@@ -295,11 +307,11 @@
         <mark key="]" line="4" column="64" />
         <mark key="." line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/scripts/sql/bigbang_production.sql" timestamp="1521106134470">
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/scripts/sql/bigbang_production.sql" timestamp="1521111501048">
         <mark key="'" line="516" column="14" />
-        <mark key="[" line="1882" column="0" />
-        <mark key="]" line="1882" column="0" />
-        <mark key="." line="1882" column="0" />
+        <mark key="[" line="1956" column="0" />
+        <mark key="]" line="1956" column="0" />
+        <mark key="." line="1956" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -406,7 +418,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBgbWlzc18xNGAgdGV4dCBDT0xMQVRFIHV0ZjhtYjRfdW5pY29kZV9jaSBOT1QgTlVMTCwKICBgbWlzc18xNWAgdGV4dCBDT0xMQVRFIHV0ZjhtYjRfdW5pY29kZV9jaSBOT1QgTlVMTCwK</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="-" type="4">
         <text>_V4</text>
@@ -421,34 +433,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBgbWlzc18xNGAgdGV4dCBDT0xMQVRFIHV0ZjhtYjRfdW5pY29kZV9jaSBOT1QgTlVMTCwKICBgbWlzc18xNWAgdGV4dCBDT0xMQVRFIHV0ZjhtYjRfdW5pY29kZV9jaSBOT1QgTlVMTCwK</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBEdW1wIG9mIHRhYmxlIHJlY29yZAojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKQ1JFQVRFIFRBQkxFIGByZWNvcmRgICgKICBgaWRgIGJpZ2ludCgyMCkgdW5zaWduZWQgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCiAgYHJlc291cmNlYCB2YXJjaGFyKDY0KSBDT0xMQVRFIHV0ZjhtYjRfdW5pY29kZV9jaSBOT1QgTlVMTCwKICBgcmVzb3VyY2VfaWRgIGJpZ2ludCgyMCkgdW5zaWduZWQgREVGQVVMVCBOVUxMLAogIGBhY3Rpb25gIHRpbnlpbnQoNCkgTk9UIE5VTEwsCiAgYGNvbnRlbnRgIHRleHQgQ09MTEFURSB1dGY4bWI0X3VuaWNvZGVfY2ksCiAgYG9wZXJhdG9yYCBiaWdpbnQoMjApIHVuc2lnbmVkIE5PVCBOVUxMLAogIGBjcmVhdGVkX2F0YCB0aW1lc3RhbXAgTk9UIE5VTEwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCwKICBQUklNQVJZIEtFWSAoYGlkYCksCiAgS0VZIGBpbmRleF9yZXNgIChgcmVzb3VyY2VgLGByZXNvdXJjZV9pZGApCik7CgoKCg==</text>
+        <text encoding="base64">CiMgRHVtcCBvZiB0YWJsZSB0YWIKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCkNSRUFURSBUQUJMRSBgdGFiYCAoCiAgYGlkYCBpbnQoMTEpIE5PVCBOVUxMIEFVVE9fSU5DUkVNRU5ULAogIGBuYW1lYCB2YXJjaGFyKDMyKSBDSEFSQUNURVIgU0VUIHV0ZjhtYjQgQ09MTEFURSB1dGY4bWI0X3VuaWNvZGVfY2kgTk9UIE5VTEwsCiAgYHByaW9yaXR5YCBpbnQoMTEpIERFRkFVTFQgJzAnLAogIFBSSU1BUlkgS0VZIChgaWRgKQopOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBEdW1wIG9mIHRhYmxlIHJldHVybl9yYXRlCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpDUkVBVEUgVEFCTEUgYHJldHVybl9yYXRlYCAoCiAgYGlkYCBiaWdpbnQoMjApIE5PVCBOVUxMIEFVVE9fSU5DUkVNRU5ULAogIGBvd25lcl9pZGAgYmlnaW50KDIwKSBERUZBVUxUIE5VTEwsCiAgYHVzZXJfaWRgIGJpZ2ludCgyMCkgREVGQVVMVCBOVUxMLAogIGBhbW91bnRgIGRlY2ltYWwoMTAsMSkgREVGQVVMVCBOVUxMLAogIGBzdGF0dXNgIHZhcmNoYXIoMjApIENIQVJBQ1RFUiBTRVQgdXRmOG1iNCBDT0xMQVRFIHV0ZjhtYjRfdW5pY29kZV9jaSBERUZBVUxUIE5VTEwsCiAgUFJJTUFSWSBLRVkgKGBpZGApLAogIFVOSVFVRSBLRVkgYHVzZXJfaWRgIChgdXNlcl9pZGApCik7CgoKCg==</text>
+        <text encoding="base64">ICBgbWlzc18xNGAgdGV4dCBDT0xMQVRFIHV0ZjhtYjRfdW5pY29kZV9jaSBOT1QgTlVMTCwKICBgbWlzc18xNWAgdGV4dCBDT0xMQVRFIHV0ZjhtYjRfdW5pY29kZV9jaSBOT1QgTlVMTCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">IyBEdW1wIG9mIHRhYmxlIHJlY29yZAojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKQ1JFQVRFIFRBQkxFIGByZWNvcmRgICgKICBgaWRgIGJpZ2ludCgyMCkgdW5zaWduZWQgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCiAgYHJlc291cmNlYCB2YXJjaGFyKDY0KSBDT0xMQVRFIHV0ZjhtYjRfdW5pY29kZV9jaSBOT1QgTlVMTCwKICBgcmVzb3VyY2VfaWRgIGJpZ2ludCgyMCkgdW5zaWduZWQgREVGQVVMVCBOVUxMLAogIGBhY3Rpb25gIHRpbnlpbnQoNCkgTk9UIE5VTEwsCiAgYGNvbnRlbnRgIHRleHQgQ09MTEFURSB1dGY4bWI0X3VuaWNvZGVfY2ksCiAgYG9wZXJhdG9yYCBiaWdpbnQoMjApIHVuc2lnbmVkIE5PVCBOVUxMLAogIGBjcmVhdGVkX2F0YCB0aW1lc3RhbXAgTk9UIE5VTEwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCwKICBQUklNQVJZIEtFWSAoYGlkYCksCiAgS0VZIGBpbmRleF9yZXNgIChgcmVzb3VyY2VgLGByZXNvdXJjZV9pZGApCik7CgoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBgY29sdW1uX3R5cGVgIGludCgxMSkgREVGQVVMVCBOVUxMLAogIGBzb3J0X2lkYCBpbnQoMTEpIERFRkFVTFQgTlVMTCwK</text>
+        <text encoding="base64">IyBEdW1wIG9mIHRhYmxlIHJldHVybl9yYXRlCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpDUkVBVEUgVEFCTEUgYHJldHVybl9yYXRlYCAoCiAgYGlkYCBiaWdpbnQoMjApIE5PVCBOVUxMIEFVVE9fSU5DUkVNRU5ULAogIGBvd25lcl9pZGAgYmlnaW50KDIwKSBERUZBVUxUIE5VTEwsCiAgYHVzZXJfaWRgIGJpZ2ludCgyMCkgREVGQVVMVCBOVUxMLAogIGBhbW91bnRgIGRlY2ltYWwoMTAsMSkgREVGQVVMVCBOVUxMLAogIGBzdGF0dXNgIHZhcmNoYXIoMjApIENIQVJBQ1RFUiBTRVQgdXRmOG1iNCBDT0xMQVRFIHV0ZjhtYjRfdW5pY29kZV9jaSBERUZBVUxUIE5VTEwsCiAgUFJJTUFSWSBLRVkgKGBpZGApLAogIFVOSVFVRSBLRVkgYHVzZXJfaWRgIChgdXNlcl9pZGApCik7CgoKCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBgc3RhdHVzYCB0aW55aW50KDQpIERFRkFVTFQgJzAnLAo=</text>
+        <text encoding="base64">ICBgY29sdW1uX3R5cGVgIGludCgxMSkgREVGQVVMVCBOVUxMLAogIGBzb3J0X2lkYCBpbnQoMTEpIERFRkFVTFQgTlVMTCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBgY21kYCB2YXJjaGFyKDEwMCkgQ09MTEFURSB1dGY4bWI0X3VuaWNvZGVfY2kgREVGQVVMVCBOVUxMLAo=</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBgYmV0X3R5cGVgIGludCgxMSkgREVGQVVMVCBOVUxMLAo=</text>
+        <text encoding="base64">ICBgc3RhdHVzYCB0aW55aW50KDQpIERFRkFVTFQgJzAnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>118</text>
