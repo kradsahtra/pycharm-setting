@@ -123,18 +123,6 @@
         <mark key="^" line="27" column="34" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/fc3d/order/handler.py" timestamp="1521115307292">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/cq_ssc/order/handler.py" timestamp="1521114702827">
-        <mark key="'" line="70" column="16" />
-        <mark key="[" line="27" column="36" />
-        <mark key="]" line="27" column="44" />
-        <mark key="." line="27" column="36" />
-      </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/bigbang.nginx.conf" timestamp="1520927360354">
         <mark key="'" line="139" column="0" />
         <mark key="[" line="11" column="16" />
@@ -168,12 +156,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/cache/redis_cache.py" timestamp="1521018790785">
-        <mark key="'" line="10" column="17" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/admin/views/recharge.py" timestamp="1521008755609">
         <mark key="[" line="14" column="0" />
@@ -210,6 +192,7 @@
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/base/urls.py" timestamp="1520907525590" />
       <file name="$USER_HOME$/workspace/loki-bigbang/bigbang/api/lottery/handler.py" timestamp="1521277466465" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbangweb/js/apps/op/withdraw.js" timestamp="1521278789659" />
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/jx_11x5/order/handler.py" timestamp="1521114288859">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -232,6 +215,7 @@
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/parse_track_log.py" timestamp="1521099139995">
         <mark key="'" line="10" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbangweb/templates/op/Withdraws.html" timestamp="1521278685059" />
       <file name="$USER_HOME$/workspace/loki_bot/text_templates.py" timestamp="1520819879652">
         <mark key="'" line="109" column="0" />
         <mark key="[" line="25" column="6" />
@@ -240,7 +224,7 @@
         <mark key="^" line="19" column="9" />
       </file>
       <file name="/recharge.py" timestamp="1521008788999" />
-      <file name="/Dummy.txt" timestamp="1521278404236">
+      <file name="/Dummy.txt" timestamp="1521278790155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="11" />
@@ -302,12 +286,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/transaction/view.py" timestamp="1521016498307">
-        <mark key="'" line="152" column="20" />
-        <mark key="[" line="196" column="0" />
-        <mark key="]" line="196" column="51" />
-        <mark key="." line="196" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/fix_user_stats.py" timestamp="1521098460065">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="9" column="40" />
@@ -346,12 +324,6 @@
         <mark key="]" line="70" column="16" />
         <mark key="." line="70" column="16" />
         <mark key="^" line="70" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/logic/order.py" timestamp="1521187096859">
-        <mark key="'" line="281" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/loki-lottery/luckycommon/timer/handler.py" timestamp="1521251315268" />
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/account/handler.py" timestamp="1521010317794" />
@@ -431,12 +403,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/model/order.py" timestamp="1521187073124">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="18" column="2" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/loki_bot/main.py" timestamp="1520819799949">
         <mark key="'" line="47" column="40" />
@@ -520,12 +486,6 @@
         <mark key="[" line="1" column="64" />
         <mark key="]" line="1" column="64" />
         <mark key="." line="1" column="64" />
-      </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/scripts/sql/bigbang_production.sql" timestamp="1521113572920">
-        <mark key="'" line="516" column="14" />
-        <mark key="[" line="2024" column="0" />
-        <mark key="]" line="2024" column="0" />
-        <mark key="." line="2024" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/cq_lf/model/order.py" timestamp="1521115121548">
         <mark key="[" line="3" column="0" />
