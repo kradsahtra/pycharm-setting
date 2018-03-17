@@ -64,6 +64,12 @@
         <mark key="'" line="13" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/withdraw/__init__.py" timestamp="1521097615542" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/pls/order.py" timestamp="1521253476140">
+        <mark key="[" line="368" column="40" />
+        <mark key="]" line="368" column="50" />
+        <mark key="." line="368" column="50" />
+        <mark key="^" line="368" column="50" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/handler.py" timestamp="1521188572844">
         <mark key="'" line="7" column="16" />
         <mark key="[" line="34" column="0" />
@@ -373,7 +379,7 @@
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/cq_lf/logic/test_order.py" timestamp="1521163731947">
         <mark key="'" line="170" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/loki-kfc/luckycommon/bulltimer/handler.py" timestamp="1521250833902" />
+      <file name="$USER_HOME$/workspace/loki-kfc/luckycommon/bulltimer/handler.py" timestamp="1521253643989" />
       <file name="/create_daily_report.py" timestamp="1521098221064">
         <mark key="'" line="824" column="31" />
       </file>
@@ -647,11 +653,11 @@
       <jump line="14" column="23" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/preset/view.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>number_set</text>
       </register>
       <register name="-" type="4">
-        <text>MG</text>
+        <text>number_set</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwazEwX2dldF9hdmFsaWFibGVfdHlwZVw+</text>
