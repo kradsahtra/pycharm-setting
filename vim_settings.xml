@@ -52,6 +52,7 @@
       <file name="/create_daily_report.py" timestamp="1521098221064">
         <mark key="'" line="824" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbangweb/js/apps/preset/lottery.js" timestamp="1521446191957" />
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/scrolling/logic.py" timestamp="1521113679039">
         <mark key="'" line="15" column="0" />
       </file>
@@ -95,6 +96,9 @@
         <mark key="." line="4" column="42" />
         <mark key="^" line="4" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/loki-bigbang/bigbangweb/js/apps/preset/lottery.js" timestamp="1521446083079">
+        <mark key="'" line="106" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/base/settings.py" timestamp="1520992967094">
         <mark key="[" line="39" column="24" />
         <mark key="]" line="39" column="30" />
@@ -122,7 +126,7 @@
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/sd_11x5/logic/order.py" timestamp="1521026424651">
         <mark key="'" line="106" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521443372316">
+      <file name="/Dummy.txt" timestamp="1521446211080">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="35" />
@@ -145,7 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="4" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/stats/report.py" />
       <jump line="193" column="19" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/cyclical_handler.py" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
       <jump line="581" column="23" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
@@ -245,6 +248,7 @@
       <jump line="9" column="0" filename="/custom.css" />
       <jump line="32" column="21" filename="$USER_HOME$/workspace/witch-bigbang/bigbangweb/css/custom.css" />
       <jump line="199" column="25" filename="/Recharge.html" />
+      <jump line="106" column="22" filename="$USER_HOME$/workspace/loki-bigbang/bigbangweb/js/apps/preset/lottery.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -254,7 +258,7 @@
         <text>运</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfYXZhbGlhYmxlX2xvdHRlcnlfdHlwZXNcPg==</text>
+        <text encoding="base64">XDxzdGFydF9zdG9wX2xvdHRlcnlcPg==</text>
       </register>
       <register name="0" type="4">
         <text>MG_BIGBANG_COLL</text>
@@ -297,9 +301,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfYXZhbGlhYmxlX2xvdHRlcnlfdHlwZXNcPg==</last-search>
+      <last-search encoding="base64">XDxzdGFydF9zdG9wX2xvdHRlcnlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfYXZhbGlhYmxlX2xvdHRlcnlfdHlwZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydF9zdG9wX2xvdHRlcnlcPg==</last-pattern>
       <last-replace>fruit</last-replace>
       <last-substitute>lottery</last-substitute>
       <last-dir>1</last-dir>
@@ -307,7 +311,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBY2NvdW50Q291cG9uXD4=</entry>
         <entry encoding="base64">XDxmaXhfdXNlcl90cmFuc2FjdGlvblw+</entry>
         <entry encoding="base64">XDxTRVFfTkVYVF9URVJNXD4=</entry>
         <entry encoding="base64">XDxORVhUX1RFUk1cPg==</entry>
@@ -327,6 +330,7 @@
         <entry encoding="base64">XDxnZXRfYXZhbGlhYmxlX2JldF90eXBlc192M1w+</entry>
         <entry encoding="base64">XDxzc2NfZ2V0X2F2YWlsYWJsZV9iZXRfdHlwZXNfdjNcPg==</entry>
         <entry encoding="base64">XDxnZXRfYXZhbGlhYmxlX2xvdHRlcnlfdHlwZXNcPg==</entry>
+        <entry encoding="base64">XDxzdGFydF9zdG9wX2xvdHRlcnlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>81</entry>
