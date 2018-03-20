@@ -20,6 +20,7 @@
         <mark key="." line="384" column="30" />
         <mark key="^" line="384" column="29" />
       </file>
+      <file name="/perm.js" timestamp="1521442829882" />
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/campaign/wheel.py" timestamp="1521533503442">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="61" />
@@ -44,12 +45,6 @@
         <mark key="]" line="368" column="50" />
         <mark key="." line="368" column="50" />
         <mark key="^" line="368" column="50" />
-      </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/handler.py" timestamp="1521441378544">
-        <mark key="'" line="57" column="11" />
-        <mark key="[" line="116" column="11" />
-        <mark key="]" line="116" column="11" />
-        <mark key="." line="116" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/admin/urls.py" timestamp="1521451436064">
         <mark key="'" line="30" column="112" />
@@ -109,6 +104,7 @@
         <mark key="^" line="27" column="34" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbangweb/js/apps/preset/lottery.js" timestamp="1521446191957" />
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/sh_11x5/crawler.py" timestamp="1521095748339">
         <mark key="'" line="54" column="33" />
         <mark key="[" line="38" column="28" />
@@ -142,6 +138,7 @@
         <mark key="^" line="31" column="46" />
         <mark key="." line="36" column="31" />
       </file>
+      <file name="/index.html" timestamp="1521444831818" />
       <file name="$USER_HOME$/workspace/deploy/config_files/witch-bigbang.supervisor.conf" timestamp="1520942468859">
         <mark key="'" line="21" column="14" />
         <mark key="[" line="5" column="68" />
@@ -155,12 +152,7 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/cache/redis_cache.py" timestamp="1521451094109">
-        <mark key="'" line="574" column="0" />
-        <mark key="[" line="345" column="0" />
-        <mark key="]" line="345" column="0" />
-        <mark key="." line="345" column="0" />
-      </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ks/crawler.py" timestamp="1521535599883" />
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/__init__.py" timestamp="1521531426624">
         <mark key="[" line="28" column="5" />
         <mark key="]" line="28" column="9" />
@@ -244,11 +236,12 @@
         <mark key="^" line="3" column="46" />
         <mark key="." line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" timestamp="1521529650942">
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" timestamp="1521535665468">
         <mark key="'" line="57" column="8" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+        <mark key="[" line="114" column="25" />
+        <mark key="]" line="114" column="25" />
+        <mark key="." line="114" column="25" />
+        <mark key="^" line="114" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/cyclical_handler.py" timestamp="1521276901032">
         <mark key="'" line="143" column="51" />
@@ -362,7 +355,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICA=</text>
+        <text>LOTTERY_TYPE.get_label(LOTTERY_TYPE.FF_SSC)</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICA=</text>
@@ -371,7 +364,7 @@
         <text encoding="base64">XDxjcmF3bF9mcm9tX29mZmljaWFsX25vd1w+</text>
       </register>
       <register name="0" type="4">
-        <text>http://datachart.500.com/sd/history/history.shtml</text>
+        <text>LOTTERY_TYPE.get_label(LOTTERY_TYPE.FF_SSC)</text>
       </register>
       <register name="p" type="4">
         <text />
