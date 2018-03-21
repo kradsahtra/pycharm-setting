@@ -30,6 +30,7 @@
         <mark key="." line="145" column="20" />
         <mark key="^" line="145" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/xj_ssc/logic/order.py" timestamp="1521617993876" />
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/campaign/wheel.py" timestamp="1521533503442">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="61" />
@@ -109,6 +110,11 @@
         <mark key="]" line="81" column="24" />
         <mark key="^" line="81" column="24" />
         <mark key="." line="81" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/__init__.py" timestamp="1521617616968">
+        <mark key="[" line="105" column="5" />
+        <mark key="]" line="105" column="9" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1520943883658">
         <mark key="'" line="34" column="35" />
@@ -251,7 +257,7 @@
         <mark key="." line="247" column="53" />
         <mark key="^" line="247" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521614126327">
+      <file name="/Dummy.txt" timestamp="1521617994441">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="35" />
@@ -288,12 +294,12 @@
         <mark key="." line="246" column="94" />
         <mark key="^" line="246" column="94" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" timestamp="1521616996160">
-        <mark key="'" line="22" column="31" />
-        <mark key="[" line="59" column="70" />
-        <mark key="]" line="59" column="82" />
-        <mark key="." line="59" column="70" />
-        <mark key="^" line="59" column="69" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" timestamp="1521617743916">
+        <mark key="'" line="23" column="31" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="44" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/cyclical_handler.py" timestamp="1521276901032">
         <mark key="'" line="143" column="51" />
@@ -406,50 +412,50 @@
       <jump line="38" column="29" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>INFO</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2JldF90eXBlJzogaW50KG9yZGVyLmJldF90eXBlKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>INFO</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQUk9YWV9VUkxcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>DIY_LOTTERY</text>
+        <text>user_id</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmRlYnVnKHUnbm8nICUgbG90dGVyeV90eXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2JldF90eXBlJzogaW50KG9yZGVyLmJldF90eXBlKSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvdHRlcnlfdHlwZSA9IExPVFRFUllfVFlQRS5GRl9TU0MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RpbWVzJzogZmxvYXQob3JkZXIudGltZXMpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGF0ZXN0X3VucHVibGlzaGVkX3Rlcm0gPSBnZXRfbGF0ZXN0X3VucHVibGlzaGVkX3RlbShMT1RURVJZX1RZUEUuRkZfU1NDKQogICAgICAgICAgICBpZiBsYXRlc3RfdW5wdWJsaXNoZWRfdGVybToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3VuaXQnOiBmbG9hdChvcmRlci51bml0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcnNlX2FuZF9maWxsX2ZmX3NzYyhMT1RURVJZX1RZUEUuRkZfU1NDKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvdHRlcnlfdHlwZSA9IExPVFRFUllfVFlQRS5GRl9TU0MK</text>
+        <text encoding="base64">ICAgICMg5Yid5aeL5YyWCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFjdGl2aXR5X3R5cGUgPSBLRVlXT1JEX1RZUEVfRENUW2tleV0K</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmRlYnVnKHUnbm8nICUgbG90dGVyeV90eXBlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBudW1iZXIgPSBudW0K</text>
+        <text encoding="base64">ICAgIGxvdHRlcnlfdHlwZSA9IExPVFRFUllfVFlQRS5GRl9TU0MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGp1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGF0ZXN0X3VucHVibGlzaGVkX3Rlcm0gPSBnZXRfbGF0ZXN0X3VucHVibGlzaGVkX3RlbShMT1RURVJZX1RZUEUuRkZfU1NDKQogICAgICAgICAgICBpZiBsYXRlc3RfdW5wdWJsaXNoZWRfdGVybToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dpbmcuaW5mbyh1J2NhbGN1bGF0aW5nICVzIDwlcz4nICUgKAogICAgICAgICAgICAgICAgICAgIExPVFRFUllfVFlQRS5nZXRfbGFiZWwoTE9UVEVSWV9UWVBFLkZGX1NTQyksIGxhdGVzdF91bnB1Ymxpc2hlZF90ZXJtLnRlcm0pKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcnNlX2FuZF9maWxsX2ZmX3NzYyhMT1RURVJZX1RZUEUuRkZfU1NDKQo=</text>
       </register>
       <register name=":" type="4">
         <text>118</text>
