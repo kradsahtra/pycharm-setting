@@ -19,6 +19,10 @@
         <mark key="]" line="1" column="64" />
         <mark key="." line="1" column="64" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/gx_ks/db/activity.py" timestamp="1521531391975">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="51" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/fc3d/model/order.py" timestamp="1521115283388">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="21" column="2" />
@@ -59,6 +63,7 @@
         <mark key="]" line="9" column="40" />
         <mark key="." line="9" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/loki-bigbang/bigbang/common/transaction/db.py" timestamp="1521712674129" />
       <file name="/perm.js" timestamp="1521442829882" />
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/tj_ssc/crawler.py" timestamp="1521622258137">
         <mark key="'" line="51" column="19" />
@@ -291,6 +296,10 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/loki-bigbang/bigbang/common/account/model/account.py" timestamp="1521712578666">
+        <mark key="[" line="63" column="4" />
+        <mark key="]" line="63" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/latency_test/shared/controllers.py" timestamp="1520835982107">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -342,6 +351,10 @@
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbangweb/lib/plugins/Highcharts/api/css/ref.css" timestamp="1521103297712">
         <mark key="'" line="321" column="65" />
+      </file>
+      <file name="$USER_HOME$/workspace/loki-bigbang/bigbang/common/cache/redis_cache.py" timestamp="1521450934449">
+        <mark key="[" line="346" column="0" />
+        <mark key="]" line="355" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/admin/views/preset.py" timestamp="1521451397391">
         <mark key="[" line="637" column="0" />
@@ -413,6 +426,10 @@
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/parse_track_log.py" timestamp="1521099139995">
         <mark key="'" line="10" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/gd_11x5/order/handler.py" timestamp="1521623625960">
+        <mark key="[" line="66" column="78" />
+        <mark key="]" line="67" column="85" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbangweb/css/custom.css" timestamp="1521442733667">
         <mark key="'" line="32" column="21" />
       </file>
@@ -439,7 +456,7 @@
         <mark key="." line="247" column="53" />
         <mark key="^" line="247" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521705733321">
+      <file name="/Dummy.txt" timestamp="1521712641061">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="35" />
@@ -615,8 +632,8 @@
       <jump line="22" column="20" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVzdF9wcm9maXRfcmF0ZSA9IDAuNQo=</text>
+      <register name="&quot;" type="4">
+        <text>agent_balance</text>
       </register>
       <register name="-" type="4">
         <text>max(candidate_dict, key=candidate_dict.get)</text>
@@ -625,7 +642,7 @@
         <text encoding="base64">XDxpdGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>DEST_PROFIT_RATE</text>
+        <text>agent_balance</text>
       </register>
       <register name="p" type="4">
         <text />
