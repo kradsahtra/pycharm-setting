@@ -536,12 +536,12 @@
         <mark key="." line="44" column="63" />
         <mark key="^" line="44" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" timestamp="1521710052232">
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" timestamp="1521768973094">
         <mark key="'" line="22" column="20" />
-        <mark key="[" line="192" column="51" />
-        <mark key="]" line="192" column="64" />
-        <mark key="." line="192" column="64" />
-        <mark key="^" line="192" column="64" />
+        <mark key="[" line="204" column="127" />
+        <mark key="]" line="204" column="137" />
+        <mark key="." line="204" column="137" />
+        <mark key="^" line="204" column="137" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/jx_11x5/model/order.py" timestamp="1521099883084">
         <mark key="[" line="1" column="64" />
@@ -670,7 +670,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>(total_bet + bet_this_term)</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICA=</text>
@@ -679,7 +679,7 @@
         <text encoding="base64">XDxpdGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>agent_balance</text>
+        <text>(total_bet + bet_this_term)</text>
       </register>
       <register name="p" type="4">
         <text />
