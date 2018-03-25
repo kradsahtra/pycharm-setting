@@ -69,12 +69,12 @@
         <mark key="." line="296" column="7" />
         <mark key="^" line="296" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/crawler.py" timestamp="1521955857549">
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/crawler.py" timestamp="1521957406575">
         <mark key="'" line="20" column="62" />
-        <mark key="[" line="60" column="15" />
-        <mark key="]" line="60" column="15" />
-        <mark key="." line="60" column="15" />
-        <mark key="^" line="60" column="15" />
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="35" column="37" />
+        <mark key="." line="35" column="37" />
+        <mark key="^" line="35" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1520993898094">
         <mark key="'" line="234" column="39" />
@@ -149,8 +149,8 @@
         <mark key="^" line="61" column="28" />
         <mark key="." line="61" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/handler.py" timestamp="1521884836868">
-        <mark key="'" line="220" column="99" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/handler.py" timestamp="1521956984497">
+        <mark key="'" line="195" column="13" />
         <mark key="[" line="165" column="0" />
         <mark key="]" line="166" column="51" />
         <mark key="." line="165" column="0" />
@@ -410,14 +410,13 @@
         <mark key="." line="122" column="3" />
         <mark key="^" line="122" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" timestamp="1521879387063">
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" timestamp="1521957211745">
         <mark key="[" line="16" column="32" />
         <mark key="]" line="16" column="38" />
         <mark key="." line="16" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="54" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" />
       <jump line="60" column="12" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" />
       <jump line="31" column="46" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" />
       <jump line="24" column="4" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" />
@@ -517,13 +516,14 @@
       <jump line="46" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/bj_pk10/order/handler.py" />
       <jump line="43" column="8" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/tc_pls/order/handler.py" />
       <jump line="149" column="12" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ssc/model.py" />
+      <jump line="195" column="13" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/handler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.sort()</text>
+        <text>DEBUG</text>
       </register>
       <register name="-" type="4">
-        <text>.sort()</text>
+        <text>DEBUG</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxESVlfTE9UVEVSWVw+</text>
