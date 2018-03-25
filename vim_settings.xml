@@ -405,12 +405,12 @@
         <mark key="." line="22" column="61" />
         <mark key="^" line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/loki-bigbang/bigbang/tools/fix_diy_lottery_announce.py" timestamp="1521959223270">
+      <file name="$USER_HOME$/workspace/loki-bigbang/bigbang/tools/fix_diy_lottery_announce.py" timestamp="1521964138774">
         <mark key="'" line="35" column="60" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="39" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="35" column="58" />
+        <mark key="[" line="27" column="119" />
+        <mark key="]" line="27" column="121" />
+        <mark key="." line="27" column="121" />
+        <mark key="^" line="27" column="121" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/preset/view.py" timestamp="1521877046669">
         <mark key="'" line="41" column="76" />
@@ -535,11 +535,11 @@
       <jump line="35" column="60" filename="$USER_HOME$/workspace/loki-bigbang/bigbang/tools/fix_diy_lottery_announce.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24ubG90dGVyeSBpbXBvcnQgTE9UVEVSWV9UWVBFCg==</text>
+      <register name="&quot;" type="4">
+        <text>all</text>
       </register>
       <register name="-" type="4">
-        <text>ssc</text>
+        <text>all</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxESVlfTE9UVEVSWVw+</text>
@@ -581,7 +581,7 @@
         <text encoding="base64">ICAgICAgICBvcmRlciA9IE5vbmUKICAgICAgICBoYXNfb3JkZXIgPSBGYWxzZQogICAgICAgIGZvciB0ZXJtIGluIHhyYW5nZV90ZXJtKHN0YXJ0X3Rlcm0sIGNvdW50KToKICAgICAgICAgICAgaW5mb1sndGVybSddID0gdGVybQogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBvcmRlciA9IGRiLk9yZGVyUGF5ZXIucGF5KGluZm8pCiAgICAgICAgICAgICAgICBpZiBvcmRlcjoKICAgICAgICAgICAgICAgICAgICBoYXNfb3JkZXIgPSBUcnVlCiAgICAgICAgICAgIGV4Y2VwdCBlcnIuVGVybUV4cGlyZWQ6CiAgICAgICAgICAgICAgICAjIOWvueS6jui/veWPt++8jOWmguaenOW3sue7j+W8gOS6hu+8jOWwsei3s+i/h+i/meS4gOacnwogICAgICAgICAgICAgICAgcGFzcwogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICBwYXNzCiAgICAgICAgaWYgaGFzX29yZGVyOgogICAgICAgICAgICBjcmVhdGVfdHJhY2tfaW5kZXgoTE9UVEVSWV9UWVBFLlRDX1BMUywgdXNlcl9pZCwgaW5mb1sndHJhY2tfaWQnXSkK</text>
       </register>
       <register name=":" type="4">
-        <text>437</text>
+        <text>191</text>
       </register>
     </registers>
     <search>
@@ -617,7 +617,6 @@
         <entry encoding="base64">XDxESVlfTE9UVEVSWVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>188</entry>
         <entry>108</entry>
         <entry>193</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
@@ -637,6 +636,7 @@
         <entry>98</entry>
         <entry>118</entry>
         <entry>437</entry>
+        <entry>191</entry>
       </history-cmd>
       <history-expr />
       <history-input />
