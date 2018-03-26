@@ -47,6 +47,12 @@
         <mark key="[" line="31" column="5" />
         <mark key="]" line="31" column="11" />
       </file>
+      <file name="$USER_HOME$/config/bullws.nginx.conf" timestamp="1522046635156">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="7" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/deploy/config_files/bigbang-admin.supervisor.conf" timestamp="1521875946606">
         <mark key="[" line="16" column="113" />
         <mark key="]" line="16" column="113" />
@@ -87,17 +93,6 @@
         <mark key="." line="95" column="47" />
         <mark key="^" line="95" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/async/async_job.py" timestamp="1521629679103">
-        <mark key="[" line="152" column="24" />
-        <mark key="]" line="152" column="24" />
-        <mark key="." line="152" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/fc3d/order/handler.py" timestamp="1521880910887">
-        <mark key="[" line="64" column="44" />
-        <mark key="]" line="64" column="47" />
-        <mark key="." line="64" column="47" />
-        <mark key="^" line="64" column="47" />
-      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/tc_pls/crawler.py" timestamp="1521598632722">
         <mark key="'" line="63" column="54" />
         <mark key="[" line="63" column="74" />
@@ -105,11 +100,11 @@
         <mark key="." line="63" column="75" />
         <mark key="^" line="63" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbangweb/templates/preset/PannelWrapper.html" timestamp="1521790536685">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="35" />
-        <mark key="^" line="75" column="35" />
-        <mark key="." line="75" column="35" />
+      <file name="$USER_HOME$/config/lottery.nginx.conf" timestamp="1522046648508">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/handler.py" timestamp="1522030987312">
         <mark key="'" line="195" column="13" />
@@ -163,16 +158,11 @@
         <mark key="^" line="330" column="7" />
         <mark key="." line="330" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/loki-bigbang/bigbang/tools/fix_pay.py" timestamp="1521957628105">
-        <mark key="'" line="1" column="9" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="19" column="17" />
-      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/gd_11x5/order/handler.py" timestamp="1521623625960">
         <mark key="[" line="66" column="78" />
         <mark key="]" line="67" column="85" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521965607366">
+      <file name="/Dummy.txt" timestamp="1522046571309">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -191,6 +181,12 @@
         <mark key="]" line="132" column="7" />
         <mark key="^" line="132" column="7" />
         <mark key="." line="132" column="7" />
+      </file>
+      <file name="$USER_HOME$/config/lotteryws.nginx.conf" timestamp="1522046655956">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+        <mark key="^" line="7" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/loki-bigbang/bigbang/common/lottery/cyclical/crawler_ffc.py" timestamp="1521957923874">
         <mark key="[" line="11" column="0" />
@@ -222,22 +218,6 @@
         <mark key="." line="73" column="66" />
         <mark key="^" line="73" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/ff_11x5/order/handler.py" timestamp="1521882325601">
-        <mark key="[" line="65" column="49" />
-        <mark key="]" line="65" column="50" />
-        <mark key="." line="65" column="50" />
-        <mark key="^" line="65" column="50" />
-      </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/treasure/model.py" timestamp="1521894569449">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/loki-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" timestamp="1521957737969">
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="15" column="38" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/model.py" timestamp="1522035779999">
         <mark key="'" line="87" column="6" />
       </file>
@@ -253,11 +233,6 @@
         <mark key="]" line="296" column="7" />
         <mark key="^" line="296" column="7" />
         <mark key="." line="296" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/admin/views/show.py" timestamp="1521796246973">
-        <mark key="[" line="58" column="103" />
-        <mark key="]" line="58" column="103" />
-        <mark key="." line="58" column="103" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/__init__.py" timestamp="1521788058459">
         <mark key="'" line="0" column="0" />
@@ -278,18 +253,6 @@
         <mark key="^" line="31" column="46" />
         <mark key="." line="36" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/ff_pk10/order/handler.py" timestamp="1521881049742">
-        <mark key="[" line="64" column="44" />
-        <mark key="]" line="64" column="45" />
-        <mark key="." line="64" column="45" />
-        <mark key="^" line="64" column="45" />
-      </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/ff_ks/order/handler.py" timestamp="1521880996147">
-        <mark key="[" line="64" column="44" />
-        <mark key="]" line="64" column="48" />
-        <mark key="." line="64" column="48" />
-        <mark key="^" line="64" column="48" />
-      </file>
       <file name="$USER_HOME$/workspace/loki-bigbang/bigbang/common/account/model/account.py" timestamp="1521712578666">
         <mark key="[" line="63" column="4" />
         <mark key="]" line="63" column="16" />
@@ -307,6 +270,18 @@
         <mark key="]" line="29" column="73" />
         <mark key="^" line="29" column="73" />
         <mark key="." line="29" column="73" />
+      </file>
+      <file name="$USER_HOME$/config/kfc.nginx.conf" timestamp="1522046642724">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+      </file>
+      <file name="$USER_HOME$/config/bigbang.nginx.conf" timestamp="1522046616501">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="29" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="11" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/show/db.py" timestamp="1521441145463">
         <mark key="'" line="130" column="24" />
@@ -330,21 +305,17 @@
         <mark key="]" line="66" column="85" />
         <mark key="." line="8" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/manual_apply_winner.py" timestamp="1521687548866">
-        <mark key="'" line="4" column="8" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="34" column="34" />
-      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_pk10/crawler.py" timestamp="1522028809685">
         <mark key="'" line="17" column="38" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="18" column="14" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/urls_v3.py" timestamp="1521856006566">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/config/pay.nginx.conf" timestamp="1522046661671">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/cq_ssc/crawler.py" timestamp="1522028496806">
         <mark key="'" line="178" column="29" />
@@ -366,6 +337,12 @@
         <mark key="]" line="27" column="121" />
         <mark key="." line="27" column="121" />
         <mark key="^" line="27" column="121" />
+      </file>
+      <file name="$USER_HOME$/config/bigbang-admin.nginx.conf" timestamp="1522046626404">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" timestamp="1522028773369">
         <mark key="[" line="16" column="0" />
@@ -478,16 +455,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DEBUG</text>
+        <text>192.168.1.59</text>
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>192.168.1.59</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW5jZWxfb3JkZXJzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIGRhdGU6CiAgICAgICAgcmV0dXJuCg==</text>
+      <register name="0" type="4">
+        <text>54.179.189.155</text>
       </register>
       <register name="p" type="4">
         <text />
