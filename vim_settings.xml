@@ -210,6 +210,12 @@
         <mark key="." line="533" column="22" />
         <mark key="^" line="561" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/__init__.py" timestamp="1522056774326">
+        <mark key="'" line="62" column="45" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/xj_ssc/db/activity.py" timestamp="1522051993704">
         <mark key="'" line="15" column="18" />
         <mark key="[" line="11" column="18" />
@@ -272,7 +278,7 @@
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbangweb/css/custom.css" timestamp="1521442733667">
         <mark key="'" line="32" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522051150411">
+      <file name="/Dummy.txt" timestamp="1522057668364">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
@@ -293,12 +299,12 @@
         <mark key="]" line="11" column="40" />
         <mark key="." line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1522052212633">
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1522057667787">
         <mark key="'" line="350" column="30" />
-        <mark key="[" line="352" column="29" />
-        <mark key="]" line="352" column="40" />
-        <mark key="^" line="352" column="28" />
-        <mark key="." line="352" column="29" />
+        <mark key="[" line="450" column="73" />
+        <mark key="]" line="451" column="27" />
+        <mark key="^" line="451" column="27" />
+        <mark key="." line="451" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/preset/model/preset.py" timestamp="1521787281229">
         <mark key="'" line="216" column="6" />
@@ -331,8 +337,8 @@
         <mark key="." line="84" column="4" />
         <mark key="^" line="84" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/cyclical_handler.py" timestamp="1521687863411">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/cyclical_handler.py" timestamp="1522056765733">
+        <mark key="'" line="162" column="95" />
         <mark key="[" line="107" column="23" />
         <mark key="]" line="107" column="33" />
         <mark key="." line="120" column="33" />
@@ -405,6 +411,12 @@
       </file>
       <file name="/create_daily_report.py" timestamp="1521098221064">
         <mark key="'" line="824" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/__init__.py" timestamp="1521788058459">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="99" column="5" />
+        <mark key="]" line="99" column="11" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbangweb/js/apps/preset/lottery.js" timestamp="1521446191957" />
       <file name="$USER_HOME$/workspace/loki-bigbang/bigbang/common/lottery/cyclical/bj_pk10/logic/order.py" timestamp="1522050640718">
@@ -520,10 +532,28 @@
       <file name="$USER_HOME$/workspace/loki-bigbang/bigbangweb/js/apps/preset/lottery.js" timestamp="1521446083079">
         <mark key="'" line="106" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/ff_ssc/order/handler.py" timestamp="1521623638393">
+        <mark key="'" line="57" column="52" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/bj_pk10/order/handler.py" timestamp="1521881090004">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="66" column="85" />
+        <mark key="." line="8" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/manual_apply_winner.py" timestamp="1521687548866">
         <mark key="'" line="4" column="8" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="34" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_pk10/crawler.py" timestamp="1522028809685">
+        <mark key="'" line="17" column="38" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="14" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/config/pay.nginx.conf" timestamp="1522046661671">
         <mark key="[" line="6" column="16" />
@@ -606,7 +636,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="56" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" />
       <jump line="152" column="62" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" />
       <jump line="144" column="71" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" />
       <jump line="145" column="11" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" />
@@ -706,19 +735,20 @@
       <jump line="4" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/handler.py" />
       <jump line="18" column="35" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/handler.py" />
       <jump line="350" column="30" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
+      <jump line="162" column="95" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/cyclical_handler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sql_wrapper(</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>fullfill_result(lottery_type, term, final_number, None)</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcWxfd3JhcHBlclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>sql_wrapper(</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG9yZGVyLnR5cGUgPT0gT1JERVJfVFlQRS5QUkVfU1RPUF9XSU46CiAgICAgICAgICAgICAgICAgICAgaWRzID0gb3JtLnNlc3Npb24ucXVlcnkoc2VsZi5vcmRlcl90YWJsZS5pZCkuZmlsdGVyKAogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLm9yZGVyX3RhYmxlLnRlcm0gPiBvcmRlci50ZXJtKS5maWx0ZXIoCiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYub3JkZXJfdGFibGUuc3RhdHVzID09IE9SREVSX1NUQVRVUy5SRUFEWSkuZmlsdGVyKAogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLm9yZGVyX3RhYmxlLnVzZXJfaWQgPT0gb3JkZXIudXNlcl9pZCkuZmlsdGVyKAogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLm9yZGVyX3RhYmxlLnRyYWNrX2lkID09IG9yZGVyLnRyYWNrX2lkKS5maWx0ZXIoCiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYub3JkZXJfdGFibGUudHlwZSA9PSBPUkRFUl9UWVBFLlBSRV9TVE9QX1dJTikuYWxsKCkKICAgICAgICAgICAgICAgICAgICBzZWxmLl9fcmVmdW5kKFtpWzBdIGZvciBpIGluIGlkc10pCiAgICAgICAgICAgICAgICAgICAgdHJhY2tfaW5kZXggPSBUcmFja0luZGV4LnF1ZXJ5LndpdGhfZm9yX3VwZGF0ZSgpLmZpbHRlcigKICAgICAgICAgICAgICAgICAgICAgICAgVHJhY2tJbmRleC50cmFja19pZCA9PSBvcmRlci50cmFja19pZCkuZmlyc3QoKQogICAgICAgICAgICAgICAgICAgIGlmIHRyYWNrX2luZGV4OgogICAgICAgICAgICAgICAgICAgICAgICB0cmFja19pbmRleC5zdGF0dXMgPSBUUkFDS19TVEFUVVMuVFJBQ0tFRAogICAgICAgICAgICAgICAgICAgICAgICB0cmFja19pbmRleC5zYXZlKGF1dG9fY29tbWl0PUZhbHNlKQogICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgIF9MT0dHRVIud2FybigndHJhY2sgaW5kZXgge30gaXMgbG9zdCcuZm9ybWF0KG9yZGVyLnRyYWNrX2lkKSkK</text>
       </register>
       <register name="p" type="4">
         <text />
