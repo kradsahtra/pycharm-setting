@@ -456,8 +456,8 @@
         <mark key="." line="73" column="66" />
         <mark key="^" line="73" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/ff_ssc/activity/view.py" timestamp="1522137409975">
-        <mark key="'" line="22" column="37" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/ff_ssc/activity/view.py" timestamp="1522138600997">
+        <mark key="'" line="15" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/fix_user_stats.py" timestamp="1521098460065">
         <mark key="[" line="9" column="25" />
@@ -688,6 +688,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/cq_ssc/activity/view.py" timestamp="1522138704470">
+        <mark key="[" line="18" column="103" />
+        <mark key="]" line="18" column="103" />
+        <mark key="^" line="18" column="103" />
+        <mark key="." line="18" column="103" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/cq_ssc/crawler.py" timestamp="1522133100470">
         <mark key="'" line="38" column="64" />
         <mark key="[" line="70" column="33" />
@@ -768,9 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="38" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/campaign/daily_treasure_return.py" />
-      <jump line="163" column="33" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/preset/handler.py" />
-      <jump line="164" column="10" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/preset/handler.py" />
       <jump line="165" column="10" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/preset/handler.py" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/handler.py" />
       <jump line="10" column="20" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/handler.py" />
@@ -868,16 +871,19 @@
       <jump line="2" column="13" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/db/activity.py" />
       <jump line="21" column="36" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/ff_ssc/activity/view.py" />
       <jump line="22" column="37" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/ff_ssc/activity/view.py" />
+      <jump line="25" column="50" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/ff_ssc/activity/view.py" />
+      <jump line="14" column="4" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/ff_ssc/activity/view.py" />
+      <jump line="15" column="17" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/ff_ssc/activity/view.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICcnJyDorqHnrpfpgZfmvI/lgLzvvIzlhbbku5bml7bml7blvankuI7mraTnsbvkvLzvvIznm7TmjqXlvJXnlKgKICAgICcnJwo=</text>
+      <register name="&quot;" type="4">
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>.info</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx4XD4=</text>
+        <text encoding="base64">XDxxdWVyeV9kY3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnZmlyc3QgdHJlbmQ6ICVzLCBzYXZlOiAlcycgJSAodHJlbmQsIHNhdmUpKQo=</text>
@@ -920,9 +926,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx4XD4=</last-search>
+      <last-search encoding="base64">XDxxdWVyeV9kY3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx4XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxxdWVyeV9kY3RcPg==</last-pattern>
       <last-replace>fruit</last-replace>
       <last-substitute>lottery</last-substitute>
       <last-dir>1</last-dir>
@@ -930,7 +936,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyYW5kb21fbnVtXD4=</entry>
         <entry encoding="base64">XDxfZ2V0X2RpZ2l0c193ZWlnaHRcPg==</entry>
         <entry encoding="base64">XDx3aW5fdGhpc190ZXJtXD4=</entry>
         <entry encoding="base64">XDxuZXdfcHJvZml0X3JhdGVcPg==</entry>
@@ -950,6 +955,7 @@
         <entry encoding="base64">XDxPTkVfQU5ZXD4=</entry>
         <entry encoding="base64">XDxkYlw+</entry>
         <entry encoding="base64">XDx4XD4=</entry>
+        <entry encoding="base64">XDxxdWVyeV9kY3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>170</entry>
