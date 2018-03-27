@@ -311,11 +311,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/db/activity.py" timestamp="1522149274373">
-        <mark key="[" line="92" column="39" />
-        <mark key="]" line="92" column="49" />
-        <mark key="." line="92" column="39" />
-        <mark key="^" line="90" column="48" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/db/activity.py" timestamp="1522150491052">
+        <mark key="[" line="94" column="7" />
+        <mark key="]" line="94" column="16" />
+        <mark key="." line="94" column="16" />
+        <mark key="^" line="94" column="16" />
       </file>
       <file name="/custom.css" timestamp="1521442723931">
         <mark key="'" line="9" column="0" />
@@ -332,7 +332,7 @@
         <mark key="^" line="80" column="7" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522149369665">
+      <file name="/Dummy.txt" timestamp="1522151020680">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
@@ -841,16 +841,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.as_dict()</text>
+        <text>save</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRyZW5k</text>
+        <text>save</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeV9kY3RcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>.as_dict()</text>
+        <text>index_save</text>
       </register>
       <register name="p" type="4">
         <text />
