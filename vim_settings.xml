@@ -152,11 +152,10 @@
         <mark key="]" line="1" column="64" />
         <mark key="." line="1" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/activity.py" timestamp="1522289807369">
-        <mark key="[" line="71" column="4" />
-        <mark key="]" line="71" column="30" />
-        <mark key="^" line="75" column="46" />
-        <mark key="." line="75" column="46" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/activity.py" timestamp="1522293436398">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/requirements.txt" timestamp="1521703241972">
         <mark key="'" line="21" column="4" />
@@ -164,6 +163,11 @@
         <mark key="]" line="82" column="6" />
         <mark key="^" line="82" column="6" />
         <mark key="." line="82" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/async/async_job.py" timestamp="1521629679103">
+        <mark key="[" line="152" column="24" />
+        <mark key="]" line="152" column="24" />
+        <mark key="." line="152" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1522219066881">
         <mark key="'" line="34" column="35" />
@@ -368,8 +372,8 @@
         <mark key="." line="84" column="4" />
         <mark key="^" line="84" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/cyclical_handler.py" timestamp="1522291796724">
-        <mark key="'" line="105" column="38" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/cyclical_handler.py" timestamp="1522293324313">
+        <mark key="'" line="108" column="39" />
         <mark key="[" line="107" column="23" />
         <mark key="]" line="107" column="33" />
         <mark key="." line="120" column="33" />
@@ -405,6 +409,16 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/treasure/model.py" timestamp="1521894569449">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/loki-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" timestamp="1521957737969">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="15" column="38" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/preset/handler.py" timestamp="1522063722486">
         <mark key="'" line="165" column="10" />
@@ -445,6 +459,11 @@
         <mark key="]" line="296" column="7" />
         <mark key="^" line="296" column="7" />
         <mark key="." line="296" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/admin/views/show.py" timestamp="1521796246973">
+        <mark key="[" line="58" column="103" />
+        <mark key="]" line="58" column="103" />
+        <mark key="." line="58" column="103" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/tc_pls/model/order.py" timestamp="1521115054545">
         <mark key="[" line="3" column="0" />
@@ -600,6 +619,11 @@
         <mark key="." line="6" column="29" />
         <mark key="^" line="6" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/urls_v3.py" timestamp="1521856006566">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/tj_ssc/db/order.py" timestamp="1522119132631">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -683,7 +707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="12" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/handler.py" />
       <jump line="212" column="48" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/handler.py" />
       <jump line="220" column="51" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/handler.py" />
       <jump line="224" column="56" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/handler.py" />
@@ -783,13 +806,14 @@
       <jump line="12" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/cq_ssc/logic/activity.py" />
       <jump line="19" column="17" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/xj_ssc/logic/activity.py" />
       <jump line="105" column="38" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/cyclical_handler.py" />
+      <jump line="108" column="39" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/cyclical_handler.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>24</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIF9XT1JLRVIuaW5mbygnbG90dGVyeTogJXMsIHRlcm06ICVzLCBudW1iZXI6ICVzJyAlIChhY3Rpdml0eV90eXBlLCB0ZXJtLCBudW1iZXIpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>24</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9iYWJpbGl0eV9yYW5kb21cPg==</text>
@@ -801,34 +825,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciB1bnB1Ymxpc2hlZF9kYXRlIGluIHVucHVibGlzaGVkX2RhdGVzOgo=</text>
+        <text encoding="base64">ICAgIF9XT1JLRVIuaW5mbygnbG90dGVyeTogJXMsIHRlcm06ICVzLCBudW1iZXI6ICVzJyAlIChhY3Rpdml0eV90eXBlLCB0ZXJtLCBudW1iZXIpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0YXJ0X2RhdGUK</text>
+        <text encoding="base64">ICAgIGZvciB1bnB1Ymxpc2hlZF9kYXRlIGluIHVucHVibGlzaGVkX2RhdGVzOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgdGVybToKICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0YXJ0X2RhdGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXJtID0gZ2V0X2xhdGVzdF91bnB1Ymxpc2hlZF90ZXJtKGFjdGl2aXR5X3R5cGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgdGVybToKICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXJtID0gZ2V0X2xhdGVzdF91bnB1Ymxpc2hlZF90ZXJtKGFjdGl2aXR5X3R5cGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIF90cnlfZ2V0X2RhdGVfZnJvbV90ZXJtKHRlcm0pOgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkYXRlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGVmIF90cnlfZ2V0X2RhdGVfZnJvbV90ZXJtKHRlcm0pOgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBkYXRlCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1pbl9kaWdpdCA9IE1JTl9ESUdJVF9DT05GSUcuZ2V0KGxvdHRlcnlfdHlwZSkKICAgIG1heF9kaWdpdCA9IE1BWF9ESUdJVF9DT05GSUcuZ2V0KGxvdHRlcnlfdHlwZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>442</text>
