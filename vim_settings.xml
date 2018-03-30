@@ -104,6 +104,9 @@
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbangweb/js/apps/op/order.js" timestamp="1522314396369">
         <mark key="'" line="110" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/utils/db.py" timestamp="1522377662394">
+        <mark key="'" line="138" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/lottery/handler.py" timestamp="1522311317598">
         <mark key="'" line="57" column="11" />
         <mark key="[" line="25" column="29" />
@@ -298,11 +301,11 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/pay/db.py" timestamp="1522376169629">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="59" />
-        <mark key="." line="104" column="59" />
-        <mark key="^" line="104" column="59" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/pay/db.py" timestamp="1522378005108">
+        <mark key="[" line="105" column="58" />
+        <mark key="]" line="105" column="60" />
+        <mark key="." line="105" column="60" />
+        <mark key="^" line="105" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/xj_ssc/crawler.py" timestamp="1522226633312">
         <mark key="'" line="46" column="59" />
@@ -509,7 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="13" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ks/logic/order.py" />
       <jump line="65" column="30" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ks/logic/order.py" />
       <jump line="103" column="25" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/generate_cyclical_trend.py" />
       <jump line="17" column="36" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/generate_cyclical_trend.py" />
@@ -609,6 +611,7 @@
       <jump line="21" column="4" filename="$USER_HOME$/workspace/loki-bigbang/bigbang/tools/fix_ffc.py" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/loki-bigbang/bigbang/tools/fix_ffc.py" />
       <jump line="31" column="13" filename="$USER_HOME$/workspace/loki-bigbang/bigbang/tools/fix_ffc.py" />
+      <jump line="138" column="17" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/utils/db.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -618,7 +621,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2RlbHNcPg==</text>
+        <text encoding="base64">XDxPUlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4cG9ydHMuT3JkZXIgPSBiYXNlLk1vZGVsLmV4dGVuZCh7CiAgICAgICAgZGVmYXVsdHM6IHsKICAgICAgICAgICAgdXNlcl9pZDogJycsCiAgICAgICAgICAgIGFjdGl2aXR5X3R5cGU6IDEsCiAgICAgICAgICAgIG9yZGVyX2lkOiAxLAogICAgICAgICAgICBzdGF0dXM6IDAsCiAgICAgICAgICAgIGRldGFpbDoge30sCiAgICAgICAgICAgIGNyZWF0ZWRfYXQ6ICcnLAogICAgICAgICAgICB1cGRhdGVkX2F0OiAnJwogICAgICAgIH0sCiAgICAgICAgdXJsUm9vdDogIi9hZG1pbi9vcmRlci8iLAogICAgfSk7CiAgICBleHBvcnRzLk9yZGVyQ29sbGVjdGlvbiA9IGJhc2UuQ29sbGVjdGlvbi5leHRlbmQoewogICAgICAgIG1vZGVsOiBleHBvcnRzLk9yZGVyLAogICAgICAgIHVybDogJy9hZG1pbi9vcmRlci8nLAogICAgfSk7Cg==</text>
@@ -661,9 +664,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb2RlbHNcPg==</last-search>
+      <last-search encoding="base64">XDxPUlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2RlbHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxPUlw+</last-pattern>
       <last-replace>fruit</last-replace>
       <last-substitute>lottery</last-substitute>
       <last-dir>1</last-dir>
@@ -671,7 +674,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxESVlfTE9UVEVSWVw+</entry>
         <entry encoding="base64">XDxjYW5jZWxfb3JkZXJzXD4=</entry>
         <entry encoding="base64">XDxTU0NfUkFURV9DT05GSUdcPg==</entry>
         <entry encoding="base64">XDxzcWxfd3JhcHBlclw+</entry>
@@ -691,6 +693,7 @@
         <entry encoding="base64">XDxuZWVkX2RvdFw+</entry>
         <entry encoding="base64">XDxwcm9iYWJpbGl0eV9yYW5kb21cPg==</entry>
         <entry encoding="base64">XDxtb2RlbHNcPg==</entry>
+        <entry encoding="base64">XDxPUlw+</entry>
       </history-search>
       <history-cmd>
         <entry>170</entry>
