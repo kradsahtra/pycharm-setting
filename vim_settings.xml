@@ -157,6 +157,12 @@
         <mark key="]" line="99" column="11" />
         <mark key="." line="83" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" timestamp="1522373306289">
+        <mark key="[" line="112" column="57" />
+        <mark key="]" line="112" column="69" />
+        <mark key="." line="112" column="57" />
+        <mark key="^" line="112" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1522219066881">
         <mark key="'" line="34" column="35" />
         <mark key="[" line="31" column="0" />
@@ -412,7 +418,7 @@
         <mark key="." line="262" column="19" />
         <mark key="^" line="262" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522316396490">
+      <file name="/Dummy.txt" timestamp="1522373249674">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="^" line="0" column="32" />
@@ -602,10 +608,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>final_amount</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>final_amount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbHNcPg==</text>
