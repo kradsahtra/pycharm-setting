@@ -234,6 +234,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/lucky_farm/order.py" timestamp="1522460993982">
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ks/logic/order.py" timestamp="1522308513998">
         <mark key="'" line="69" column="39" />
         <mark key="[" line="77" column="43" />
@@ -282,6 +287,11 @@
         <mark key="^" line="27" column="34" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/cq_lf/logic/activity.py" timestamp="1522461113230">
+        <mark key="[" line="25" column="38" />
+        <mark key="]" line="25" column="39" />
+        <mark key="." line="25" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_11x5/crawler.py" timestamp="1522309148276">
         <mark key="'" line="21" column="11" />
         <mark key="[" line="24" column="20" />
@@ -309,7 +319,7 @@
         <mark key="." line="262" column="19" />
         <mark key="^" line="262" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522459927827">
+      <file name="/Dummy.txt" timestamp="1522461270380">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
         <mark key="^" line="0" column="38" />
@@ -428,8 +438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="35" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/generate_cyclical_trend.py" />
-      <jump line="19" column="36" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/generate_cyclical_trend.py" />
       <jump line="95" column="5" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/db/activity.py" />
       <jump line="8" column="58" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/db/activity.py" />
       <jump line="96" column="4" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/db/activity.py" />
@@ -528,10 +536,12 @@
       <jump line="713" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
       <jump line="83" column="29" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
       <jump line="85" column="12" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/activity.py" />
+      <jump line="216" column="4" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/lucky_farm/order.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/cq_lf/logic/activity.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Decimal</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q09ORklHUyA9IFsgICMgc3RhbmRhcmQgdGltZSwgbm8gb2Zmc2V0CiAgICB7J2ludGVybmFsJzogNjAwLCAnc3RhcnQnOiAxMCwgJ2VuZCc6IDIyfSwKICAgIHsnaW50ZXJuYWwnOiAzMDAsICdzdGFydCc6IDIyLCAnZW5kJzogMjR9LAogICAgeydpbnRlcm5hbCc6IDMwMCwgJ3N0YXJ0JzogMCwgJ2VuZCc6IDJ9LApdCgo=</text>
       </register>
       <register name="-" type="4">
         <text>Decimal</text>
@@ -546,34 +556,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGg+5Y2g5q+UPC90aD4K</text>
+        <text encoding="base64">Q09ORklHUyA9IFsgICMgc3RhbmRhcmQgdGltZSwgbm8gb2Zmc2V0CiAgICB7J2ludGVybmFsJzogNjAwLCAnc3RhcnQnOiAxMCwgJ2VuZCc6IDIyfSwKICAgIHsnaW50ZXJuYWwnOiAzMDAsICdzdGFydCc6IDIyLCAnZW5kJzogMjR9LAogICAgeydpbnRlcm5hbCc6IDMwMCwgJ3N0YXJ0JzogMCwgJ2VuZCc6IDJ9LApdCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjwlPSBpdGVtLmRldGFpbC5ib251cyAlPjwvdGQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkIHN0eWxlPSJ3aGl0ZS1zcGFjZTogbm9ybWFsOyB3aWR0aDogNTBweCI+PCU9IGl0ZW0uZGV0YWlsLm51bWJlciAlPjwvdGQ+Cg==</text>
+        <text encoding="base64">ZGVmIGxmX2NhbGNfbWlzcyh0cmVuZCwgc2F2ZSwgbnVtYmVyLCBsYXN0X3N0YXRzKToKICAgICMgc2F2ZSAKICAgICMgbGFzdF9zdGF0czrkuIrkuIDmnJ8KCiAgICBwYXNzCiAgICAjIGRlZiBjYWxjX2Z1bmMobGFzdCwgaSk6CiAgICAjICAgICByZXR1cm4gc3RyKGludChsYXN0W2ldKSArIDEpIGlmIGxhc3RbaV0gIT0gJ3gnIGVsc2UgJ3gnCgogICAgIyAjIOe7hOmAiQogICAgIyBjb25maWcgPSB7CiAgICAjICAgICAnbWlzc18lcycgJSBCRVRfVFlQRS5UV09fQkFDS19HUk9VUDogKC0yLCA1KSwgICMgKC0yLCA1KSDmmK9udW1iZXLliIfniYflpLTlsL4KICAgICMgICAgICdtaXNzXyVzJyAlIEJFVF9UWVBFLlRIUkVFX0JBQ0tfR1JPVVBfVEhSRUU6ICgtMywgNSksCiAgICAjICAgICAnbWlzc18lcycgJSBCRVRfVFlQRS5USFJFRV9CQUNLX0dST1VQX1NJWDogKC0zLCA1KSwKICAgICMgICAgICdtaXNzXyVzJyAlIEJFVF9UWVBFLlRIUkVFX01JRERMRV9HUk9VUF9USFJFRTogKDEsIDQpLAogICAgIyAgICAgJ21pc3NfJXMnICUgQkVUX1RZUEUuVEhSRUVfTUlERExFX0dST1VQX1NJWDogKDEsIDQpLAogICAgIyAgICAgJ21pc3NfJXMnICUgQkVUX1RZUEUuVEhSRUVfRlJPTlRfR1JPVVBfVEhSRUU6ICgwLCAzKSwKICAgICMgICAgICdtaXNzXyVzJyAlIEJFVF9UWVBFLlRIUkVFX0ZST05UX0dST1VQX1NJWDogKDAsIDMpCiAgICAjIH0KICAgICMgZm9yIGssIHYgaW4gY29uZmlnLml0ZXJpdGVtcygpOgogICAgIyAgICAgbGFzdCA9IGdldGF0dHIobGFzdF9zdGF0cywgaykuc3BsaXQoJywnKQogICAgIyAgICAgaGl0ID0gbnVtYmVyW3ZbMF06IHZbMV1dCiAgICAjICAgICBmb3IgaSBpbiB4cmFuZ2UobGVuKGxhc3QpKToKICAgICMgICAgICAgICBsYXN0W2ldID0gY2FsY19mdW5jKGxhc3QsIGkpCiAgICAjICAgICBmb3IgeCBpbiBoaXQ6CiAgICAjICAgICAgICAgbGFzdFtpbnQoeCldID0gJzAnCiAgICAjICAgICBpZiAneCcgaW4gbGFzdDoKICAgICMgICAgICAgICBzYXZlID0gRmFsc2UKICAgICMgICAgIHNldGF0dHIodHJlbmQsIGssICcsJy5qb2luKGxhc3QpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjwlPSBpdGVtLmRldGFpbC5udW1iZXIgJT48L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGg+5Y2g5q+UPC90aD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGg+5pON5L2cPC90aD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjwlPSBpdGVtLmRldGFpbC5ib251cyAlPjwvdGQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZXh0LWxlZnQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPCUgaWYgKGl0ZW0uc3RhdHVzID09IDUpIHsgJT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBvbmNsaWNrPSJjaGVja19vcmRlcig8JT0gaXRlbS5pZCAlPiwgMykiPuWuoeaguOmAmui/hzwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBvbmNsaWNrPSJjaGVja19vcmRlcig8JT0gaXRlbS5pZCAlPiwgNikiPuS4jemAmui/hzwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwlIH0gJT4KICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkIHN0eWxlPSJ3aGl0ZS1zcGFjZTogbm9ybWFsOyB3aWR0aDogNTBweCI+PCU9IGl0ZW0uZGV0YWlsLm51bWJlciAlPjwvdGQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjwlPSBpdGVtLmRldGFpbC5udW1iZXIgJT48L3RkPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5X2RjdCA9IHJlcS5HRVQuZGljdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGg+5pON5L2cPC90aD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAgPSBwYXJzZV9wKHF1ZXJ5X2RjdC5nZXQoJ3AnKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZXh0LWxlZnQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPCUgaWYgKGl0ZW0uc3RhdHVzID09IDUpIHsgJT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBvbmNsaWNrPSJjaGVja19vcmRlcig8JT0gaXRlbS5pZCAlPiwgMykiPuWuoeaguOmAmui/hzwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBvbmNsaWNrPSJjaGVja19vcmRlcig8JT0gaXRlbS5pZCAlPiwgNikiPuS4jemAmui/hzwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwlIH0gJT4KICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4K</text>
       </register>
       <register name=":" type="4">
         <text>442</text>
