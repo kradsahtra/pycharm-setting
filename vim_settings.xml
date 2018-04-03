@@ -39,12 +39,12 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/handler.py" timestamp="1522310084442">
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/handler.py" timestamp="1522754089522">
         <mark key="'" line="78" column="37" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-        <mark key="^" line="142" column="24" />
+        <mark key="[" line="129" column="27" />
+        <mark key="]" line="129" column="38" />
+        <mark key="." line="129" column="27" />
+        <mark key="^" line="129" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbangweb/templates/op/Orders.html" timestamp="1522484938639">
         <mark key="'" line="128" column="38" />
@@ -354,6 +354,12 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_ssc/crawler.py" timestamp="1522754058537">
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="29" />
+        <mark key="." line="21" column="29" />
+        <mark key="^" line="23" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/tc_pls/logic/activity.py" timestamp="1522749327819" />
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/handler.py" timestamp="1522635066070">
         <mark key="'" line="56" column="29" />
@@ -490,10 +496,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>float</text>
+        <text>order.price</text>
       </register>
       <register name="-" type="4">
-        <text>float</text>
+        <text>order.price</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmF3bF9mcm9tX29wZW5jYWlcPg==</text>
