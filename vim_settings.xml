@@ -162,7 +162,7 @@
         <mark key="." line="296" column="7" />
         <mark key="^" line="296" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/base/settings_release.py" timestamp="1522724364878">
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/base/settings_release.py" timestamp="1522725880410">
         <mark key="'" line="21" column="77" />
         <mark key="[" line="28" column="22" />
         <mark key="]" line="28" column="22" />
@@ -379,6 +379,9 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/scripts/sql/bigbang_production.sql" timestamp="1522726289769">
+        <mark key="'" line="122" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/cyclical_handler.py" timestamp="1522632785008">
         <mark key="'" line="205" column="19" />
         <mark key="[" line="107" column="23" />
@@ -388,8 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="24" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/cq_ssc/crawler.py" />
-      <jump line="157" column="31" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/xj_ssc/crawler.py" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/xj_ssc/crawler.py" />
       <jump line="134" column="26" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/xj_ssc/crawler.py" />
       <jump line="135" column="10" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/xj_ssc/crawler.py" />
@@ -488,6 +489,8 @@
       <jump line="205" column="19" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/cyclical_handler.py" />
       <jump line="75" column="37" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/cq_lf/logic/activity.py" />
       <jump line="21" column="77" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/base/settings_release.py" />
+      <jump line="2142" column="50" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/scripts/sql/bigbang_production.sql" />
+      <jump line="122" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/scripts/sql/bigbang_production.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
