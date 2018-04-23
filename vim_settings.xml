@@ -209,6 +209,12 @@
         <mark key="." line="33" column="42" />
         <mark key="^" line="33" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/deploy/fabfile.py" timestamp="1524472072858">
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="32" column="29" />
+        <mark key="." line="32" column="29" />
+        <mark key="^" line="32" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/deploy/requirement.txt" timestamp="1522739926077">
         <mark key="[" line="28" column="14" />
         <mark key="]" line="30" column="12" />
@@ -269,7 +275,7 @@
         <mark key="." line="262" column="19" />
         <mark key="^" line="262" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524469314407">
+      <file name="/Dummy.txt" timestamp="1524472258456">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
         <mark key="^" line="0" column="38" />
@@ -504,11 +510,11 @@
       <jump line="146" column="49" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAnbG9raS1sb3R0ZXJ5JzogWycxNjIuMjIyLjE2NS4yNDQ6OTQ3OCcsIF0sCiAgICAgICAgICAgICMgJ2xva2kta2ZjJzogWycxNjIuMjIyLjE2NS4yNDQ6OTQ3OCcsIF0sCiAgICAgICAgICAgICMgJ2xva2ktYmlnYmFuZyc6IFsnNDUuMTIxLjQ4LjEzODo5NDc4JywgJzQ1LjEyMS40OC4xMzk6OTQ3OCcsIF0sCiAgICAgICAgICAgICMgJ2xva2ktYmlnYmFuZy1hZG1pbic6IFsnMTYyLjIyMi4xNjUuMjQ3Ojk0NzgnLCBdLAogICAgICAgICAgICAjICdsb2tpLWJpZ2JhbmctYWRtaW4td2ViJzogWycxNjIuMjIyLjE2NS4yNDc6OTQ3OCcsIF0sCiAgICAgICAgICAgICMgJ2xva2ktYm90JzogWycxNjIuMjIyLjE2NS4yNDc6OTQ3OCcsIF0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>[5:]</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>[5:]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmF3bF9mcm9tX29wZW5jYWlcPg==</text>
