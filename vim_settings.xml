@@ -185,11 +185,12 @@
         <mark key="." line="137" column="73" />
         <mark key="^" line="137" column="73" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/send_potato.py" timestamp="1524623758767">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="29" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/send_potato.py" timestamp="1524625264862">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="101" />
+        <mark key="]" line="7" column="101" />
         <mark key="^" line="11" column="29" />
-        <mark key="." line="11" column="29" />
+        <mark key="." line="7" column="101" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/admin/urls.py" timestamp="1524570548494">
         <mark key="'" line="97" column="11" />
@@ -527,8 +528,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/loki-bigbang/bigbang/tools/fix_ffc.py" />
-      <jump line="31" column="13" filename="$USER_HOME$/workspace/loki-bigbang/bigbang/tools/fix_ffc.py" />
       <jump line="138" column="17" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/utils/db.py" />
       <jump line="713" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
       <jump line="83" column="29" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
@@ -627,16 +626,18 @@
       <jump line="14" column="10" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/admin/views/feedback.py" />
       <jump line="37" column="29" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/send_potato.py" />
       <jump line="27" column="4" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/send_potato.py" />
+      <jump line="34" column="29" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/send_potato.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/send_potato.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-309387912</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>-309387912</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kX2lubGluZV9tYXJrdXBfbXNnXD4=</text>
+        <text encoding="base64">XDxfU0VORF9URVhUX0FQSV9URUxFXD4=</text>
       </register>
       <register name="0" type="4">
         <text>597397891:AAGExppImc2eYIv4yMJ-fOAoZTkKyIsg1Sk</text>
@@ -679,9 +680,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5kX2lubGluZV9tYXJrdXBfbXNnXD4=</last-search>
+      <last-search encoding="base64">XDxfU0VORF9URVhUX0FQSV9URUxFXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kX2lubGluZV9tYXJrdXBfbXNnXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfU0VORF9URVhUX0FQSV9URUxFXD4=</last-pattern>
       <last-replace>fruit</last-replace>
       <last-substitute>lottery</last-substitute>
       <last-dir>1</last-dir>
@@ -689,7 +690,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxrc19nZXRfYXZhaWxhYmxlX3R5cGVfdjNcPg==</entry>
         <entry encoding="base64">XDxGSVZFX0FOWVw+</entry>
         <entry encoding="base64">XDxjcDExeDVfZ2V0X2F2YWlsYWJsZV9iZXRfdHlwZXNfdjNcPg==</entry>
         <entry encoding="base64">XDxnZXRfYXZhbGlhYmxlX2JldF90eXBlX3YzXD4=</entry>
@@ -709,6 +709,7 @@
         <entry encoding="base64">XDxmZWVkYmFja19jb250ZW50XD4=</entry>
         <entry encoding="base64">XDxfU0VORF9JTkxJTkVfQVBJXD4=</entry>
         <entry encoding="base64">XDxzZW5kX2lubGluZV9tYXJrdXBfbXNnXD4=</entry>
+        <entry encoding="base64">XDxfU0VORF9URVhUX0FQSV9URUxFXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>121</entry>
