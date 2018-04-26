@@ -56,11 +56,12 @@
         <mark key="^" line="38" column="54" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/account/db/account.py" timestamp="1524640597835">
-        <mark key="'" line="340" column="0" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="115" column="18" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/account/db/account.py" timestamp="1524730920994">
+        <mark key="'" line="342" column="0" />
+        <mark key="[" line="102" column="28" />
+        <mark key="]" line="102" column="28" />
+        <mark key="." line="102" column="28" />
+        <mark key="^" line="102" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/bj_pk10/crawler.py" timestamp="1522228400191">
         <mark key="'" line="30" column="29" />
@@ -651,16 +652,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGVmIGhhbmRsZShzZWxmLCA=</text>
+        <text>info['user_name']</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGVmIGhhbmRsZShzZWxmLCA=</text>
+        <text>info['user_name']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwoKaW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICAgICBhY2NvdW50LnVzZXJfbmFtZSA9IGluZm9bJ3VzZXJfbmFtZSddCg==</text>
       </register>
       <register name="p" type="4">
         <text />
