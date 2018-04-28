@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/bj_pk10/logic/order.py" timestamp="1524904489406">
+        <mark key="[" line="66" column="92" />
+        <mark key="]" line="66" column="95" />
+        <mark key="." line="66" column="95" />
+        <mark key="^" line="66" column="95" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/xj_ssc/logic/activity.py" timestamp="1522291394689">
         <mark key="'" line="19" column="17" />
         <mark key="[" line="94" column="28" />
@@ -170,11 +176,11 @@
         <mark key="." line="167" column="17" />
         <mark key="^" line="167" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/admin/views/preset.py" timestamp="1524897514335">
-        <mark key="[" line="342" column="66" />
-        <mark key="]" line="342" column="71" />
-        <mark key="^" line="342" column="71" />
-        <mark key="." line="342" column="71" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/admin/views/preset.py" timestamp="1524903447688">
+        <mark key="[" line="324" column="39" />
+        <mark key="]" line="324" column="49" />
+        <mark key="^" line="343" column="71" />
+        <mark key="." line="324" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/utils/exceptions.py" timestamp="1524571977023">
         <mark key="'" line="122" column="0" />
@@ -363,6 +369,12 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="111" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_pk10/logic/order.py" timestamp="1524903895245">
+        <mark key="[" line="66" column="92" />
+        <mark key="]" line="66" column="96" />
+        <mark key="." line="66" column="96" />
+        <mark key="^" line="66" column="95" />
+      </file>
       <file name="$USER_HOME$/workspace/deploy/config.py" timestamp="1524728710792">
         <mark key="'" line="34" column="35" />
         <mark key="[" line="40" column="0" />
@@ -396,7 +408,7 @@
         <mark key="]" line="359" column="16" />
         <mark key="." line="359" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524883526255">
+      <file name="/Dummy.txt" timestamp="1524904607696">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
         <mark key="^" line="0" column="38" />
@@ -669,16 +681,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>R</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>R</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NhdmVPckNyZWF0ZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>highlight</text>
+        <text>, BET_TYPE.FOUR_FRONT</text>
       </register>
       <register name="p" type="4">
         <text />
