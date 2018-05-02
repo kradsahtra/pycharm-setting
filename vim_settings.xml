@@ -75,6 +75,10 @@
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/account/db/account.py" timestamp="1525244082377">
+        <mark key="[" line="400" column="8" />
+        <mark key="]" line="400" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/__init__.py" timestamp="1525054809080">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="16" column="9" />
@@ -103,7 +107,7 @@
         <mark key="]" line="359" column="16" />
         <mark key="." line="359" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525156587603">
+      <file name="/Dummy.txt" timestamp="1525244410759">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
         <mark key="^" line="0" column="38" />
@@ -176,6 +180,12 @@
         <mark key="[" line="46" column="66" />
         <mark key="]" line="46" column="67" />
         <mark key="." line="46" column="67" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/cyclical_handler.py" timestamp="1525244113530">
+        <mark key="[" line="223" column="29" />
+        <mark key="]" line="223" column="44" />
+        <mark key="^" line="223" column="44" />
+        <mark key="." line="223" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -281,8 +291,8 @@
       <jump line="75" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/db.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygnbnVtczogJXMnICUgbnVtcykK</text>
+      <register name="&quot;" type="4">
+        <text>'reward_push'</text>
       </register>
       <register name="-" type="4">
         <text>40</text>
@@ -290,8 +300,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVfdHJhY2tfaW5kZXhcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">X0xPR0dFUiA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCdiaWdiYW5nJykK</text>
+      <register name="0" type="4">
+        <text>'reward_push'</text>
       </register>
       <register name="p" type="4">
         <text />
