@@ -31,11 +31,12 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="69" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/processor.py" timestamp="1525315328126">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="66" />
-        <mark key="." line="113" column="66" />
-        <mark key="^" line="113" column="66" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/processor.py" timestamp="1525316248425">
+        <mark key="'" line="33" column="4" />
+        <mark key="[" line="111" column="34" />
+        <mark key="]" line="111" column="42" />
+        <mark key="." line="111" column="34" />
+        <mark key="^" line="104" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/bj_pk10/model/order.py" timestamp="1525141017762">
         <mark key="'" line="110" column="54" />
@@ -86,6 +87,10 @@
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="73" />
         <mark key="." line="188" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/__init__.py" timestamp="1525315984710">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/account/db/account.py" timestamp="1525244082377">
         <mark key="[" line="400" column="8" />
@@ -198,7 +203,8 @@
         <mark key="." line="117" column="0" />
         <mark key="^" line="149" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/cyclical_handler.py" timestamp="1525315157130">
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/cyclical_handler.py" timestamp="1525315964478">
+        <mark key="'" line="296" column="4" />
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="16" />
         <mark key="^" line="230" column="44" />
@@ -212,11 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="13" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/sd_11x5/model/order.py" />
-      <jump line="316" column="16" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/preset/view.py" />
-      <jump line="366" column="16" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/preset/view.py" />
-      <jump line="29" column="56" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/preset/view.py" />
-      <jump line="18" column="85" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/preset/view.py" />
       <jump line="206" column="20" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/preset/view.py" />
       <jump line="363" column="39" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/preset/view.py" />
       <jump line="65" column="23" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/__init__.py" />
@@ -312,61 +313,66 @@
       <jump line="55" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/transaction/handler.py" />
       <jump line="23" column="18" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/manual_cancel_order.py" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/uwsgi.ini" />
+      <jump line="296" column="4" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/cyclical_handler.py" />
+      <jump line="100" column="29" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/processor.py" />
+      <jump line="138" column="34" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/processor.py" />
+      <jump line="18" column="25" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/processor.py" />
+      <jump line="33" column="4" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/processor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+        <text encoding="base64">I2RlYnVnIyA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+        <text>success</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfSEFORExFUl9EQ1RcPg==</text>
+        <text encoding="base64">XDxUSU1FUl9FVkVOVF9UWVBFXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIE1BWF9UUlkgPSAxMwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">I2RlYnVnIyA=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGV2ZW50X3R5cGUgPT0gVElNRVJfRVZFTlRfVFlQRS5BQ1RJVklUWV9TVE9QOgogICAgICAgICAgICAgICAgICAgIF9MT0dHRVIuaW5mbygnbm90IHN1Y2Nlc3MsIHRyeV9jb3VudDogJXMsIG1heF90cnk6ICVzJyAlICh0cnlfY291bnQsIG1heF90cnkpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0b3RhbF9kYXkgPSBzeXMuYXJndlszXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0b3RhbF9kYXk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfZGF0ZSA9IGRhdGV0aW1lLmRhdGV0aW1lLnN0cnB0aW1lKHRlcm1bOjhdLCAnJVklbSVkJykKICAgICAgICAgICAgX2RhdGUgPSBkYXRldGltZS5kYXRldGltZS5zdHJwdGltZSh0ZXJtWzo4XSwgJyVZJW0lZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICB0b3RhbF9kYXkgPSBzeXMuYXJndlszXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDE4My42MC4yMTEuMTUxOgogICAgICBiYXNoOgogICAgICAgICAgLSBtdiBiYXNlL3NldHRpbmdzX29ubGluZS5weSBiYXNlL2Vudl9zZXR0aW5ncy5weQogICAgICAgICAgLSBybSAtcmYgYmlnYmFuZ3dlYgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiB0b3RhbF9kYXk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygnbnVtczogJXMnICUgbnVtcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfZGF0ZSA9IGRhdGV0aW1lLmRhdGV0aW1lLnN0cnB0aW1lKHRlcm1bOjhdLCAnJVklbSVkJykKICAgICAgICAgICAgX2RhdGUgPSBkYXRldGltZS5kYXRldGltZS5zdHJwdGltZSh0ZXJtWzo4XSwgJyVZJW0lZCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBfTE9HR0VSCg==</text>
+        <text encoding="base64">ICAgIDE4My42MC4yMTEuMTUxOgogICAgICBiYXNoOgogICAgICAgICAgLSBtdiBiYXNlL3NldHRpbmdzX29ubGluZS5weSBiYXNlL2Vudl9zZXR0aW5ncy5weQogICAgICAgICAgLSBybSAtcmYgYmlnYmFuZ3dlYgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygnbnVtczogJXMnICUgbnVtcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBfTE9HR0VSCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3dpbi90cmFjay9nYw==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfSEFORExFUl9EQ1RcPg==</last-search>
+      <last-search encoding="base64">XDxUSU1FUl9FVkVOVF9UWVBFXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfSEFORExFUl9EQ1RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxUSU1FUl9FVkVOVF9UWVBFXD4=</last-pattern>
       <last-replace>track</last-replace>
       <last-substitute>win</last-substitute>
       <last-dir>1</last-dir>
@@ -374,7 +380,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzc2NfZ2V0X2F2YWlsYWJsZV9iZXRfdHlwZXNfdjRcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVMaW1pdFw+</entry>
         <entry encoding="base64">XDx3aXRoZHJhd0xpbWl0RGlhbG9nXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50bGltaXRDYXNoXD4=</entry>
@@ -394,6 +399,7 @@
         <entry>win</entry>
         <entry encoding="base64">XDxjcmVhdGVfdHJhY2tfaW5kZXhcPg==</entry>
         <entry encoding="base64">XDxfSEFORExFUl9EQ1RcPg==</entry>
+        <entry encoding="base64">XDxUSU1FUl9FVkVOVF9UWVBFXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>77</entry>
