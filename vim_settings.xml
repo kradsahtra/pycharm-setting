@@ -31,6 +31,12 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="69" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/processor.py" timestamp="1525315328126">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="66" />
+        <mark key="." line="113" column="66" />
+        <mark key="^" line="113" column="66" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/bj_pk10/model/order.py" timestamp="1525141017762">
         <mark key="'" line="110" column="54" />
         <mark key="[" line="113" column="47" />
@@ -80,10 +86,6 @@
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="73" />
         <mark key="." line="188" column="6" />
-      </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/__init__.py" timestamp="1525141114114">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/account/db/account.py" timestamp="1525244082377">
         <mark key="[" line="400" column="8" />
@@ -196,11 +198,11 @@
         <mark key="." line="117" column="0" />
         <mark key="^" line="149" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/cyclical_handler.py" timestamp="1525244113530">
-        <mark key="[" line="223" column="29" />
-        <mark key="]" line="223" column="44" />
-        <mark key="^" line="223" column="44" />
-        <mark key="." line="223" column="44" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/cyclical_handler.py" timestamp="1525315157130">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="16" />
+        <mark key="^" line="230" column="44" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/manual_cancel_order.py" timestamp="1525257117456">
         <mark key="'" line="23" column="18" />
@@ -312,17 +314,17 @@
       <jump line="13" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/uwsgi.ini" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfSEFORExFUl9EQ1RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfZGF0ZSA9IGRhdGV0aW1lLmRhdGV0aW1lLnN0cnB0aW1lKHRlcm1bOjhdLCAnJVklbSVkJykK</text>
+        <text encoding="base64">ICAgIE1BWF9UUlkgPSAxMwo=</text>
       </register>
       <register name="p" type="4">
         <text />
