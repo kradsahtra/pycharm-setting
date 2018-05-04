@@ -85,10 +85,12 @@
         <mark key="^" line="259" column="17" />
         <mark key="." line="259" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/manual_apply_winner.py" timestamp="1525419614432">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="45" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/manual_apply_winner.py" timestamp="1525421083136">
+        <mark key="'" line="15" column="65" />
+        <mark key="[" line="35" column="105" />
+        <mark key="]" line="35" column="114" />
+        <mark key="." line="35" column="105" />
+        <mark key="^" line="35" column="104" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/urls.py" timestamp="1525338618423">
         <mark key="[" line="197" column="0" />
@@ -102,9 +104,9 @@
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/back.py" timestamp="1525339318611">
         <mark key="'" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/__init__.py" timestamp="1525416671624">
-        <mark key="[" line="105" column="5" />
-        <mark key="]" line="105" column="9" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/__init__.py" timestamp="1525421072488">
+        <mark key="[" line="101" column="5" />
+        <mark key="]" line="101" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_pk10/logic/order.py" timestamp="1524903895245">
         <mark key="[" line="66" column="92" />
@@ -167,8 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/gx_ks/crawler.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/js_ks/crawler.py" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/gx_ks/crawler.py" />
       <jump line="80" column="4" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/js_ks/crawler.py" />
       <jump line="191" column="26" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/cache/redis_cache.py" />
@@ -267,10 +267,12 @@
       <jump line="42" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/manual_apply_winner.py" />
       <jump line="40" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/manual_apply_winner.py" />
       <jump line="154" column="45" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/js_ks/logic/order.py" />
+      <jump line="35" column="104" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/manual_apply_winner.py" />
+      <jump line="15" column="65" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/manual_apply_winner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2FwcGx5ICVzIC4uLicgJSBpdGVtLnRlcm0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>ANNOUNCED</text>
       </register>
       <register name="-" type="4">
         <text>lottery_term</text>
@@ -279,7 +281,7 @@
         <text encoding="base64">XDx0ZXJtXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>item.term</text>
+        <text>ANNOUNCED</text>
       </register>
       <register name="p" type="4">
         <text />
