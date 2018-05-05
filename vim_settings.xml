@@ -77,6 +77,12 @@
         <mark key="^" line="83" column="31" />
         <mark key="." line="83" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/game/db.py" timestamp="1525506696827">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="84" column="99" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/update/update.py" timestamp="1525428850870" />
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/model.py" timestamp="1525502523171">
         <mark key="'" line="192" column="18" />
@@ -120,12 +126,12 @@
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/apply_daily_recharge_return.py" timestamp="1525339484276">
         <mark key="'" line="44" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/coupon/db.py" timestamp="1525492076097">
-        <mark key="'" line="228" column="46" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="62" />
-        <mark key="." line="8" column="62" />
-        <mark key="^" line="8" column="62" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/coupon/db.py" timestamp="1525506469201">
+        <mark key="'" line="226" column="46" />
+        <mark key="[" line="136" column="47" />
+        <mark key="]" line="136" column="47" />
+        <mark key="." line="136" column="47" />
+        <mark key="^" line="136" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/manual_apply_winner.py" timestamp="1525421083136">
         <mark key="'" line="15" column="65" />
@@ -164,10 +170,10 @@
         <mark key="[" line="101" column="5" />
         <mark key="]" line="101" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" timestamp="1525504798961">
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" timestamp="1525506518833">
         <mark key="'" line="561" column="15" />
-        <mark key="[" line="526" column="4" />
-        <mark key="]" line="526" column="4" />
+        <mark key="[" line="526" column="0" />
+        <mark key="]" line="531" column="52" />
         <mark key="." line="526" column="4" />
         <mark key="^" line="218" column="63" />
       </file>
@@ -186,8 +192,8 @@
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/management/commands/backup_data.py" timestamp="1525401124179">
         <mark key="'" line="68" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1525330334901">
-        <mark key="'" line="658" column="64" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1525506211040">
+        <mark key="'" line="221" column="16" />
         <mark key="[" line="279" column="62" />
         <mark key="]" line="279" column="65" />
         <mark key="." line="279" column="65" />
@@ -234,9 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/uwsgi.ini" />
-      <jump line="296" column="4" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/cyclical_handler.py" />
-      <jump line="100" column="29" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/processor.py" />
       <jump line="138" column="34" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/processor.py" />
       <jump line="33" column="4" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/processor.py" />
       <jump line="84" column="25" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/processor.py" />
@@ -334,52 +337,55 @@
       <jump line="311" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
       <jump line="234" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
       <jump line="561" column="15" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
+      <jump line="119" column="16" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
+      <jump line="171" column="20" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
+      <jump line="221" column="16" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0cmFucyA9IFRyYW5zYWN0aW9uKCkKICAgICAgICB0cmFucy51c2VyX2lkID0gdXNlcl9pZAogICAgICAgIHRyYW5zLnR5cGUgPSBUUkFOU0FDVElPTl9UWVBFLkFXQVJECiAgICAgICAgdHJhbnMuc3RhdHVzID0gVFJBTlNBQ1RJT05fU1RBVFVTLkRPTkUKICAgICAgICB0cmFucy50aXRsZSA9IHUn5aSn6L2s55uY6KGl5Y+RJwogICAgICAgIHRyYW5zLnByaWNlID0gbWFrZXVwX2F3YXJkCiAgICAgICAgdHJhbnMuYmFsYW5jZSA9IGFjY291bnQuYmFsYW5jZQogICAgICAgIHRyYW5zLmV4dGVuZCA9IGpzb24uZHVtcHMoeyd0ZXJtX251bWJlcic6IHRlcm1fbnVtYmVyfSkKICAgICAgICB0cmFucy5zYXZlKGF1dG9fY29tbWl0PUZhbHNlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">ZXh0ZW5kIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUcmFuc2FjdGlvblw+</text>
       </register>
-      <register name="0" type="4">
-        <text>withdraw.price</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0cmFucy5leHRlbmQgPSBqc29uLmR1bXBzKHsndGVybV9udW1iZXInOiB0ZXJtX251bWJlcn0pCg==</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyYW5zID0gVHJhbnNhY3Rpb24oKQogICAgdHJhbnMudXNlcl9pZCA9IHdpdGhkcmF3LnVzZXJfaWQKICAgIHRyYW5zLnR5cGUgPSBUUkFOU0FDVElPTl9UWVBFLlJFRlVORAogICAgdHJhbnMuc3RhdHVzID0gVFJBTlNBQ1RJT05fU1RBVFVTLkRPTkUKICAgIHRyYW5zLnRpdGxlID0gdSfmj5DnjrDlpLHotKXov5TmrL4nCiAgICB0cmFucy5wcmljZSA9IHdpdGhkcmF3LnByaWNlCiAgICB0cmFucy5iYWxhbmNlID0gYWNjb3VudC5iYWxhbmNlCiAgICB0cmFucy5zYXZlKGF1dG9fY29tbWl0PUZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cmFucyA9IFRyYW5zYWN0aW9uKCkKICAgICAgICB0cmFucy51c2VyX2lkID0gdXNlcl9pZAogICAgICAgIHRyYW5zLnR5cGUgPSBUUkFOU0FDVElPTl9UWVBFLkFXQVJECiAgICAgICAgdHJhbnMuc3RhdHVzID0gVFJBTlNBQ1RJT05fU1RBVFVTLkRPTkUKICAgICAgICB0cmFucy50aXRsZSA9IHUn5aSn6L2s55uY6KGl5Y+RJwogICAgICAgIHRyYW5zLnByaWNlID0gbWFrZXVwX2F3YXJkCiAgICAgICAgdHJhbnMuYmFsYW5jZSA9IGFjY291bnQuYmFsYW5jZQogICAgICAgIHRyYW5zLmV4dGVuZCA9IGpzb24uZHVtcHMoeyd0ZXJtX251bWJlcic6IHRlcm1fbnVtYmVyfSkKICAgICAgICB0cmFucy5zYXZlKGF1dG9fY29tbWl0PUZhbHNlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFucy5pZCA9IGlkX2dlbmVyYXRvci5nZW5lcmF0ZV9sb25nX2lkKCd0cmFuc2FjdGlvbicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyYW5zID0gVHJhbnNhY3Rpb24oKQogICAgdHJhbnMudXNlcl9pZCA9IHdpdGhkcmF3LnVzZXJfaWQKICAgIHRyYW5zLnR5cGUgPSBUUkFOU0FDVElPTl9UWVBFLlJFRlVORAogICAgdHJhbnMuc3RhdHVzID0gVFJBTlNBQ1RJT05fU1RBVFVTLkRPTkUKICAgIHRyYW5zLnRpdGxlID0gdSfmj5DnjrDlpLHotKXov5TmrL4nCiAgICB0cmFucy5wcmljZSA9IHdpdGhkcmF3LnByaWNlCiAgICB0cmFucy5iYWxhbmNlID0gYWNjb3VudC5iYWxhbmNlCiAgICB0cmFucy5zYXZlKGF1dG9fY29tbWl0PUZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2FjdGlvbiA9IFRyYW5zYWN0aW9uKCkKICAgICAgICB0cmFuc2FjdGlvbi51c2VyX2lkID0gYWNjb3VudC5pZAogICAgICAgIHRyYW5zYWN0aW9uLnR5cGUgPSBUUkFOU0FDVElPTl9UWVBFLkFXQVJECiAgICAgICAgdHJhbnNhY3Rpb24udGl0bGUgPSB1J+e6ouWMheaKteaJoy0lcycgJSBjb3Vwb24udGl0bGUKICAgICAgICB0cmFuc2FjdGlvbi5wcmljZSA9IGNvdXBvbi5wcmljZQogICAgICAgIHRyYW5zYWN0aW9uLmJhbGFuY2UgPSBhY2NvdW50LmJhbGFuY2UKICAgICAgICB0cmFuc2FjdGlvbi5zdGF0dXMgPSBUUkFOU0FDVElPTl9TVEFUVVMuRE9ORQogICAgICAgIHRyYW5zYWN0aW9uLnNhdmUoYXV0b19jb21taXQ9RmFsc2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyYW5zID0gVHJhbnNhY3Rpb24oKQogICAgdHJhbnMuc3RhdHVzID0gVFJBTlNBQ1RJT05fU1RBVFVTLkRPTkUKICAgIHRyYW5zLnVzZXJfaWQgPSB1c2VyX2lkCiAgICB0cmFucy50eXBlID0gVFJBTlNBQ1RJT05fVFlQRS5XSVRIRFJBVwogICAgdHJhbnMudGl0bGUgPSB1J+aPkOeOsCcKICAgIHRyYW5zLnByaWNlID0gLWFtb3VudAogICAgdHJhbnMuYmFsYW5jZSA9IGFjY291bnQuYmFsYW5jZQogICAgdHJhbnMuc2F2ZShhdXRvX2NvbW1pdD1GYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2FjdGlvbi5pZCA9IGlkX2dlbmVyYXRvci5nZW5lcmF0ZV9sb25nX2lkKCd0cmFuc2FjdGlvbicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnb3JkZXJfaWQnOiBvcmRlcl9pZCwK</text>
+        <text encoding="base64">ICAgIHRyYW5zID0gVHJhbnNhY3Rpb24oKQogICAgdHJhbnMudXNlcl9pZCA9IHdpdGhkcmF3LnVzZXJfaWQKICAgIHRyYW5zLnR5cGUgPSBUUkFOU0FDVElPTl9UWVBFLlJFRlVORAogICAgdHJhbnMuc3RhdHVzID0gVFJBTlNBQ1RJT05fU1RBVFVTLkRPTkUKICAgIHRyYW5zLnRpdGxlID0gdSfmj5DnjrDlpLHotKXov5TmrL4nCiAgICB0cmFucy5wcmljZSA9IHdpdGhkcmF3LnByaWNlCiAgICB0cmFucy5iYWxhbmNlID0gYWNjb3VudC5iYWxhbmNlCiAgICB0cmFucy5zYXZlKGF1dG9fY29tbWl0PUZhbHNlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyYW5zID0gVHJhbnNhY3Rpb24oKQogICAgdHJhbnMudXNlcl9pZCA9IHVzZXJfaWQKICAgIHRyYW5zLnR5cGUgPSBUUkFOU0FDVElPTl9UWVBFLkJBTEFOQ0VfQlVZCiAgICB0cmFucy50aXRsZSA9IHRpdGxlCiAgICB0cmFucy5wcmljZSA9IC1wcmljZQogICAgdHJhbnMuYmFsYW5jZSA9IGFjY291bnQuYmFsYW5jZQogICAgdHJhbnMub3JkZXJfaWQgPSBvcmRlcl9pZAogICAgdHJhbnMuc3RhdHVzID0gVFJBTlNBQ1RJT05fU1RBVFVTLkRPTkUKICAgIHRyYW5zLnNhdmUoYXV0b19jb21taXQ9RmFsc2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyYW5zID0gVHJhbnNhY3Rpb24oKQogICAgdHJhbnMudXNlcl9pZCA9IGFjY291bnQuaWQKICAgIHRyYW5zLnR5cGUgPSBUUkFOU0FDVElPTl9UWVBFLkFXQVJECiAgICB0cmFucy50aXRsZSA9IHRpdGxlCiAgICB0cmFucy5wcmljZSA9IGF3YXJkX2Ftb3VudAogICAgdHJhbnMuYmFsYW5jZSA9IGFjY291bnQuYmFsYW5jZQogICAgdHJhbnMuc3RhdHVzID0gVFJBTlNBQ1RJT05fU1RBVFVTLkRPTkUKICAgIHRyYW5zLnNhdmUoYXV0b19jb21taXQ9RmFsc2UpCg==</text>
+        <text encoding="base64">ICAgIHRyYW5zID0gVHJhbnNhY3Rpb24oKQogICAgdHJhbnMudXNlcl9pZCA9IHdpdGhkcmF3LnVzZXJfaWQKICAgIHRyYW5zLnR5cGUgPSBUUkFOU0FDVElPTl9UWVBFLlJFRlVORAogICAgdHJhbnMuc3RhdHVzID0gVFJBTlNBQ1RJT05fU1RBVFVTLkRPTkUKICAgIHRyYW5zLnRpdGxlID0gdSfmj5DnjrDlpLHotKXov5TmrL4nCiAgICB0cmFucy5wcmljZSA9IHdpdGhkcmF3LnByaWNlCiAgICB0cmFucy5iYWxhbmNlID0gYWNjb3VudC5iYWxhbmNlCiAgICB0cmFucy5zYXZlKGF1dG9fY29tbWl0PUZhbHNlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2V4dGVuZCc6IGpzb24uZHVtcHMoZXh0ZW5kLmdldCgnZXh0JyksIGVuc3VyZV9hc2NpaT1GYWxzZSksCg==</text>
+        <text encoding="base64">ICAgIHRyYW5zID0gVHJhbnNhY3Rpb24oKQogICAgdHJhbnMuc3RhdHVzID0gVFJBTlNBQ1RJT05fU1RBVFVTLkRPTkUKICAgIHRyYW5zLnVzZXJfaWQgPSB1c2VyX2lkCiAgICB0cmFucy50eXBlID0gVFJBTlNBQ1RJT05fVFlQRS5XSVRIRFJBVwogICAgdHJhbnMudGl0bGUgPSB1J+aPkOeOsCcKICAgIHRyYW5zLnByaWNlID0gLWFtb3VudAogICAgdHJhbnMuYmFsYW5jZSA9IGFjY291bnQuYmFsYW5jZQogICAgdHJhbnMuc2F2ZShhdXRvX2NvbW1pdD1GYWxzZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFucyA9IFRyYW5zYWN0aW9uKCkKICAgICAgICB0cmFucy5wYXlfaWQgPSBwYXlfaWQKICAgICAgICB0cmFucy51c2VyX2lkID0gdXNlcl9pZAogICAgICAgIHRyYW5zLnR5cGUgPSBUUkFOU0FDVElPTl9UWVBFLklOCiAgICAgICAgdHJhbnMudGl0bGUgPSB1J+WFheWAvOWksei0pScKICAgICAgICB0cmFucy5leHRlbmQgPSBqc29uLmR1bXBzKGV4dGVuZC5nZXQoJ2V4dCcpLCBlbnN1cmVfYXNjaWk9RmFsc2UpCiAgICAgICAgdHJhbnMucHJpY2UgPSAwIGlmIG5vdCBwYXlfYW1vdW50IGVsc2UgRGVjaW1hbChwYXlfYW1vdW50KQogICAgICAgIHRyYW5zLmJhbGFuY2UgPSBOb25lCiAgICAgICAgdHJhbnMuc3RhdHVzID0gVFJBTlNBQ1RJT05fU1RBVFVTLkZBSUwKICAgICAgICB0cmFucy5zYXZlKGF1dG9fY29tbWl0PUZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnb3JkZXJfaWQnOiBvcmRlcl9pZCwK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3dpbi90cmFjay9nYw==</text>
