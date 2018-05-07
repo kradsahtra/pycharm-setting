@@ -184,6 +184,12 @@
         <mark key="^" line="250" column="15" />
         <mark key="." line="250" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/base/settings_test.py" timestamp="1525682957667">
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="31" column="44" />
+        <mark key="." line="31" column="44" />
+        <mark key="^" line="31" column="44" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/timer/cyclical_handler.py" timestamp="1525329881385">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="195" column="22" />
@@ -296,16 +302,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>13.229.103.33</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>13.229.103.33</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUcmFuc2FjdGlvbjBcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRGJFcnJvcignaWxsZWdhbCB0cmFuc2FjdGlvbiBhdHRyaWJ1dGU6ICVzJyAlIGspCg==</text>
+      <register name="0" type="4">
+        <text>13.229.103.33</text>
       </register>
       <register name="p" type="4">
         <text />
