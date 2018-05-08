@@ -27,6 +27,9 @@
         <mark key="^" line="100" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/handler.py" timestamp="1525313849483" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bot/send_daily_report.py" timestamp="1525749228343">
+        <mark key="'" line="205" column="49" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/recover_daily_from_db.py" timestamp="1525401483677">
         <mark key="'" line="286" column="15" />
       </file>
@@ -145,6 +148,9 @@
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/utils/db.py" timestamp="1525659383694">
         <mark key="'" line="53" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/stats/ks_report.py" timestamp="1525749156815">
+        <mark key="'" line="112" column="65" />
+      </file>
       <file name="$USER_HOME$/workspace/loki-bigbang/bigbang/common/lottery/cyclical/ff_11x5/logic/activity.py" timestamp="1525675428895">
         <mark key="'" line="85" column="0" />
       </file>
@@ -237,7 +243,7 @@
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_11x5/logic/activity.py" timestamp="1525675660686">
         <mark key="'" line="85" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525693904827">
+      <file name="/Dummy.txt" timestamp="1525749374497">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -335,9 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="539" column="12" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
-      <jump line="77" column="20" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
-      <jump line="566" column="4" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
       <jump line="79" column="26" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
       <jump line="14" column="38" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
       <jump line="38" column="34" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
@@ -435,6 +438,9 @@
       <jump line="378" column="41" filename="$USER_HOME$/workspace/witch-kfc/luckycommon/account/model/transaction.py" />
       <jump line="100" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/model.py" />
       <jump line="555" column="4" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
+      <jump line="112" column="65" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/stats/ks_report.py" />
+      <jump line="328" column="13" filename="$USER_HOME$/workspace/witch-bigbang/bot/send_daily_report.py" />
+      <jump line="205" column="49" filename="$USER_HOME$/workspace/witch-bigbang/bot/send_daily_report.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
