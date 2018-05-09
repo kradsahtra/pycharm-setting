@@ -33,11 +33,6 @@
         <mark key="." line="105" column="34" />
         <mark key="^" line="100" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-kfc/uwsgi-test.ini" timestamp="1525768430000">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/transaction/view.py" timestamp="1525679062002">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="88" column="0" />
@@ -99,11 +94,6 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-lottery/luckycommon/coupon/db/coupon.py" timestamp="1525764467101">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="84" column="43" />
-        <mark key="." line="79" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/transaction/handler.py" timestamp="1525255213496">
         <mark key="'" line="55" column="0" />
         <mark key="[" line="83" column="31" />
@@ -134,6 +124,9 @@
         <mark key="]" line="93" column="43" />
         <mark key="." line="150" column="0" />
         <mark key="^" line="155" column="71" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/model.py" timestamp="1525853449838">
+        <mark key="]" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/fix_order_term_number.py" timestamp="1525417793182">
         <mark key="[" line="13" column="8" />
@@ -252,12 +245,12 @@
         <mark key="[" line="101" column="5" />
         <mark key="]" line="101" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" timestamp="1525764242685">
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" timestamp="1525853586997">
         <mark key="'" line="551" column="4" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="63" />
-        <mark key="^" line="437" column="27" />
-        <mark key="." line="471" column="43" />
+        <mark key="[" line="53" column="45" />
+        <mark key="]" line="53" column="54" />
+        <mark key="^" line="53" column="54" />
+        <mark key="." line="53" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/witch-kfc/bullapi/longconnect/settings.py" timestamp="1525768529908">
         <mark key="[" line="2" column="0" />
@@ -393,7 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="52" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/utils/db.py" />
       <jump line="144" column="30" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/utils/db.py" />
       <jump line="204" column="11" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/utils/db.py" />
       <jump line="206" column="26" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/utils/db.py" />
@@ -493,13 +485,14 @@
       <jump line="13" column="33" filename="$USER_HOME$/workspace/witch-kfc/bullapi/longconnect/broadcast.py" />
       <jump line="104" column="29" filename="$USER_HOME$/workspace/witch-kfc/bullapi/longconnect/broadcast.py" />
       <jump line="14" column="12" filename="$USER_HOME$/workspace/witch-lottery/requirements.txt" />
+      <jump line="84" column="35" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWxvZz09MC45LjEzCmFtcXA9PTEuNC43CmFueWpzb249PTAuMy4zCmFycm93PT0wLjEwLjAKYXNuMWNyeXB0bz09MC4yMi4wCmJhY2twb3J0cy1hYmM9PTAuNQpiYWNrcG9ydHMuc2h1dGlsLWdldC10ZXJtaW5hbC1zaXplPT0xLjAuMApCZWF1dGlmdWxTb3VwPT0zLjIuMQpiZWF1dGlmdWxzb3VwND09NC42LjAKYmlsbGlhcmQ9PTMuMy4wLjIxCmJzND09MC4wLjEKY2VsZXJ5PT0zLjEuMTkKY2VydGlmaT09MjAxNy40LjE3CmNmZmk9PTEuMTAuMApjaGFyZGV0PT0zLjAuNApjb2xvcmFtYT09MC4zLjYKY3J5cHRvZ3JhcGh5PT0yLjAKZGVjb3JhdG9yPT00LjAuMTAKZGljdHRveG1sPT0xLjYuNgpEamFuZ289PTEuOC4xMwpkamFuZ28tY29ycy1oZWFkZXJzPT0xLjEuMAplbnVtMzQ9PTEuMS42CmV0LXhtbGZpbGU9PTEuMC4xCmZ1dHVyZT09MC4xNS4yCkdlb0lQPT0xLjMuMgpnZW9pcDI9PTIuMi4wCmdldmVudD09MS4yLjIKZ3JlZW5sZXQ9PTAuNC4xMgpodG1sNWxpYj09MC45OTk5OTk5OTkKaWRuYT09Mi41CmlwYWRkcj09Mi4xLjExCmlwYWRkcmVzcz09MS4wLjE4CmlweXRob249PTUuNC4xCmlweXRob24tZ2VudXRpbHM9PTAuMi4wCmpkY2FsPT0xLjMKa29tYnU9PTMuMC4zNwpseG1sPT0zLjguMAptYXhtaW5kZGI9PTEuMy4wCk15U1FMLXB5dGhvbj09MS4yLjUKb2RmcHk9PTEuMy41Cm9sZWZpbGU9PTAuNDQKb3BlbnB5eGw9PTIuNC44CnBhdGhsaWIyPT0yLjMuMApwZXhwZWN0PT00LjIuMQpwaWNrbGVzaGFyZT09MC43LjQKUGlsbG93PT00LjIuMQpwcm9tcHQtdG9vbGtpdD09MS4wLjE0CnB0dnNkPT0zLjAuMApwdHlwcm9jZXNzPT0wLjUuMgpweWFzbjE9PTAuMi4zCnB5Y3BhcnNlcj09Mi4xOApweURlcz09Mi4wLjEKUHlnbWVudHM9PTIuMi4wCnB5bW9uZ289PTMuNC4wCnB5dGhvbi1kYXRldXRpbD09Mi40LjIKcHl0aG9uLWdlb2lwPT0xLjIKcHl0aG9uLWdlb2lwLWdlb2xpdGUyPT0yMDE1LjMwMwpweXR6PT0yMDE3LjIKUHlZQU1MPT0zLjEyCnFpbml1PT03LjEuNApyZWRpcz09Mi4xMC41CnJlcXVlc3RzPT0yLjE4LjEKc2NhbmRpcj09MS41CnNpbXBsZWdlbmVyaWM9PTAuOC4xCnNpbmdsZWRpc3BhdGNoPT0zLjQuMC4zCnNpeD09MS4xMC4wClNRTEFsY2hlbXk9PTEuMC4xMgp0YWJsaWI9PTAuMTEuNQp0b3JuYWRvPT00LjUuMQp0b3JuYWRvLXJlZGlzPT0yLjQuMTgKdHJhaXRsZXRzPT00LjMuMgp1YS1wYXJzZXI9PTAuNy4zCnVuaWNvZGVjc3Y9PTAuMTQuMQp1cmxsaWIzPT0xLjIxLjEKdXNlci1hZ2VudHM9PTEuMS4wCnVXU0dJPT0yLjAuMTQKd2N3aWR0aD09MC4xLjcKd2ViZW5jb2RpbmdzPT0wLjUuMQp4bHJkPT0wLjkuNAp4bHd0PT0xLjIuMAo=</text>
+      <register name="&quot;" type="4">
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNSU5fQkFMQU5DRV9CUk9BRENBU1RcPg==</text>
