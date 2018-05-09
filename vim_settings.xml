@@ -229,12 +229,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" timestamp="1525855785540">
-        <mark key="'" line="551" column="4" />
-        <mark key="[" line="565" column="0" />
-        <mark key="]" line="568" column="16" />
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" timestamp="1525856157294">
+        <mark key="'" line="556" column="35" />
+        <mark key="[" line="557" column="0" />
+        <mark key="]" line="560" column="16" />
         <mark key="^" line="53" column="54" />
-        <mark key="." line="565" column="0" />
+        <mark key="." line="557" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/witch-kfc/bullapi/longconnect/settings.py" timestamp="1525768529908">
         <mark key="[" line="2" column="0" />
@@ -252,18 +252,18 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525772824564">
+      <file name="/Dummy.txt" timestamp="1525856316896">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/migrate_sharding_transaction.py" timestamp="1525677354718">
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/migrate_sharding_transaction.py" timestamp="1525856906898">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="39" column="94" />
-        <mark key="]" line="39" column="107" />
-        <mark key="." line="39" column="107" />
-        <mark key="^" line="39" column="107" />
+        <mark key="[" line="12" column="48" />
+        <mark key="]" line="12" column="48" />
+        <mark key="." line="12" column="48" />
+        <mark key="^" line="12" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/witch-lottery/luckycommon/account/model/transaction.py" timestamp="1525855537215">
         <mark key="'" line="405" column="0" />
@@ -362,7 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="11" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/utils/db.py" />
       <jump line="53" column="26" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/utils/db.py" />
       <jump line="70" column="16" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/model.py" />
       <jump line="552" column="10" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
@@ -462,19 +461,20 @@
       <jump line="551" column="4" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
       <jump line="80" column="43" filename="$USER_HOME$/workspace/witch-lottery/luckycommon/account/db/transaction.py" />
       <jump line="7" column="4" filename="$USER_HOME$/workspace/witch-kfc/luckycommon/account/db/transaction.py" />
+      <jump line="564" column="35" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDI6IFRyYW5zYWN0aW9uMiwK</text>
+      <register name="&quot;" type="4">
+        <text>transaction_query</text>
       </register>
       <register name="-" type="4">
-        <text>illegal transaction attribute</text>
+        <text>transaction_query</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNSU5fQkFMQU5DRV9CUk9BRENBU1RcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDI6IFRyYW5zYWN0aW9uMiwK</text>
+      <register name="0" type="4">
+        <text>transaction_table</text>
       </register>
       <register name="p" type="4">
         <text />
