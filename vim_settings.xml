@@ -20,6 +20,13 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-kfc/deploy/deploy.sh" timestamp="1525936462204">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="24" column="25" />
+        <mark key="." line="24" column="25" />
+        <mark key="^" line="24" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-kfc/uwsgi-test.ini" timestamp="1525768430000">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -105,7 +112,6 @@
         <mark key="]" line="30" column="57" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/loki-lottery/uwsgi.ini" timestamp="1525772927100" />
       <file name="$USER_HOME$/workspace/witch-lottery/luckycommon/account/db/transaction.py" timestamp="1525859706780">
         <mark key="'" line="80" column="43" />
         <mark key="[" line="81" column="48" />
@@ -182,13 +188,15 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="74" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-kfc/deploy/fabfile.py" timestamp="1525936373931">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/base/settings_test.py" timestamp="1525766710279">
         <mark key="[" line="31" column="33" />
         <mark key="]" line="31" column="44" />
         <mark key="." line="31" column="44" />
         <mark key="^" line="31" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-lottery/uwsgi-test.ini" timestamp="1525772930764" />
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/js_ks/logic/activity.py" timestamp="1525055163469">
         <mark key="[" line="46" column="66" />
         <mark key="]" line="46" column="67" />
@@ -202,6 +210,9 @@
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/uwsgi.ini" timestamp="1525691303092">
         <mark key="'" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch-kfc/deploy/online/deploy.json" timestamp="1525936251696">
+        <mark key="'" line="46" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/recover_daily_from_db.py" timestamp="1525401483677">
         <mark key="'" line="286" column="15" />
@@ -328,25 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="16" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/model.py" />
-      <jump line="552" column="10" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
-      <jump line="75" column="8" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
-      <jump line="12" column="38" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
-      <jump line="74" column="63" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
-      <jump line="221" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
-      <jump line="17" column="38" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/account/db/account.py" />
-      <jump line="365" column="32" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/account/db/account.py" />
-      <jump line="21" column="68" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
-      <jump line="20" column="27" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
-      <jump line="710" column="6" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/migrate_sharding_transaction.py" />
-      <jump line="72" column="6" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/model.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/workspace/loki-bigbang/bigbang/common/lottery/cyclical/ff_11x5/logic/activity.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/ff_11x5/logic/activity.py" />
-      <jump line="69" column="6" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/model.py" />
-      <jump line="15" column="4" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/migrate_sharding_transaction.py" />
       <jump line="38" column="4" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/migrate_sharding_transaction.py" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/migrate_sharding_transaction.py" />
       <jump line="16" column="16" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/migrate_transaction_sharding.sql" />
@@ -428,16 +420,35 @@
       <jump line="7" column="4" filename="$USER_HOME$/workspace/witch-kfc/luckycommon/account/db/transaction.py" />
       <jump line="564" column="35" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/requirements.txt" />
+      <jump line="46" column="26" filename="$USER_HOME$/workspace/witch-kfc/deploy/online/deploy.json" />
+      <jump line="93" column="33" filename="$USER_HOME$/workspace/witch-kfc/deploy/fabfile.py" />
+      <jump line="96" column="45" filename="$USER_HOME$/workspace/witch-kfc/deploy/fabfile.py" />
+      <jump line="98" column="50" filename="$USER_HOME$/workspace/witch-kfc/deploy/fabfile.py" />
+      <jump line="110" column="16" filename="$USER_HOME$/workspace/witch-kfc/deploy/fabfile.py" />
+      <jump line="115" column="37" filename="$USER_HOME$/workspace/witch-kfc/deploy/fabfile.py" />
+      <jump line="116" column="61" filename="$USER_HOME$/workspace/witch-kfc/deploy/fabfile.py" />
+      <jump line="118" column="36" filename="$USER_HOME$/workspace/witch-kfc/deploy/fabfile.py" />
+      <jump line="119" column="31" filename="$USER_HOME$/workspace/witch-kfc/deploy/fabfile.py" />
+      <jump line="123" column="18" filename="$USER_HOME$/workspace/witch-kfc/deploy/fabfile.py" />
+      <jump line="124" column="11" filename="$USER_HOME$/workspace/witch-kfc/deploy/fabfile.py" />
+      <jump line="126" column="43" filename="$USER_HOME$/workspace/witch-kfc/deploy/fabfile.py" />
+      <jump line="131" column="50" filename="$USER_HOME$/workspace/witch-kfc/deploy/fabfile.py" />
+      <jump line="133" column="32" filename="$USER_HOME$/workspace/witch-kfc/deploy/fabfile.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/witch-kfc/deploy/fabfile.py" />
+      <jump line="24" column="12" filename="$USER_HOME$/workspace/witch-kfc/deploy/deploy.sh" />
+      <jump line="30" column="12" filename="$USER_HOME$/workspace/witch-kfc/deploy/deploy.sh" />
+      <jump line="50" column="23" filename="$USER_HOME$/workspace/witch-kfc/deploy/deploy.sh" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/witch-kfc/deploy/deploy.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHktdHJhY2ViYWNrZXI9L3RtcC9iaWdiYW5nc29ja2V0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>KFCService</text>
       </register>
       <register name="-" type="4">
-        <text>, e</text>
+        <text>KFCService</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTUUxBbGNoZW15XD4=</text>
+        <text encoding="base64">XDxFTlZSXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIF93cmFwMmpzb24oZnVuYyhyZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpKQo=</text>
@@ -476,13 +487,13 @@
         <text encoding="base64">ICAgIGlmIGlzX2FwcGxlX3BheV91c2VyKHJlcXVlc3QudXNlcl9pZCk6CiAgICAgICAgcmFpc2UgZXJyLlBlcm1pc3Npb25FcnJvcignYXBwbGUgcGF5IHVzZXIgbm90IGFjY2VzcyAhJykK</text>
       </register>
       <register name=":" type="4">
-        <text>80</text>
+        <text>94</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTUUxBbGNoZW15XD4=</last-search>
+      <last-search encoding="base64">XDxFTlZSXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTUUxBbGNoZW15XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxFTlZSXD4=</last-pattern>
       <last-replace>track</last-replace>
       <last-substitute>win</last-substitute>
       <last-dir>1</last-dir>
@@ -490,8 +501,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVfdHJhY2tfaW5kZXhcPg==</entry>
-        <entry encoding="base64">XDxfSEFORExFUl9EQ1RcPg==</entry>
         <entry encoding="base64">XDxUSU1FUl9FVkVOVF9UWVBFXD4=</entry>
         <entry encoding="base64">XDxORVhUX1RFUk1cPg==</entry>
         <entry encoding="base64">XDxUcmFuc2FjdGlvbjFcPg==</entry>
@@ -510,9 +519,10 @@
         <entry encoding="base64">XDxUcmFuc2FjdGlvblw+</entry>
         <entry encoding="base64">XDxNSU5fQkFMQU5DRV9CUk9BRENBU1RcPg==</entry>
         <entry encoding="base64">XDxTUUxBbGNoZW15XD4=</entry>
+        <entry encoding="base64">XDxwcm9qZWN0X25hbWVcPg==</entry>
+        <entry encoding="base64">XDxFTlZSXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>303</entry>
         <entry>69</entry>
         <entry encoding="base64">JzwsJz4lcy9rZmMvbG90dGVyeS9nYw==</entry>
@@ -532,6 +542,7 @@
         <entry>91</entry>
         <entry encoding="base64">JzwsJz5zL3dpbi90cmFjay9nYw==</entry>
         <entry>80</entry>
+        <entry>94</entry>
       </history-cmd>
       <history-expr />
       <history-input />
