@@ -422,6 +422,12 @@
         <mark key="^" line="250" column="15" />
         <mark key="." line="250" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/base/middleware.py" timestamp="1526033687850">
+        <mark key="[" line="22" column="50" />
+        <mark key="]" line="22" column="62" />
+        <mark key="^" line="22" column="62" />
+        <mark key="." line="22" column="62" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-kfc/deploy/fabfile.py" timestamp="1525936373931">
         <mark key="'" line="0" column="0" />
       </file>
@@ -567,16 +573,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>limit(100).</text>
+        <text>url_array, perm, role, user_perm</text>
       </register>
       <register name="-" type="4">
-        <text>limit(100).</text>
+        <text>url_array</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFTlZSXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>10000000</text>
+        <text>url_array, perm, role, user_perm</text>
       </register>
       <register name="p" type="4">
         <text />
