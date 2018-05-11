@@ -344,12 +344,12 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/migrate_sharding_transaction.py" timestamp="1525944463270">
+      <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/migrate_sharding_transaction.py" timestamp="1526020754471">
         <mark key="'" line="30" column="38" />
-        <mark key="[" line="13" column="51" />
-        <mark key="]" line="13" column="51" />
-        <mark key="." line="13" column="51" />
-        <mark key="^" line="12" column="12" />
+        <mark key="[" line="13" column="74" />
+        <mark key="]" line="13" column="85" />
+        <mark key="." line="13" column="74" />
+        <mark key="^" line="13" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/management/commands/backup_data.py" timestamp="1525401124179">
         <mark key="'" line="68" column="8" />
@@ -567,10 +567,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>limit(100).</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>limit(100).</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFTlZSXD4=</text>
