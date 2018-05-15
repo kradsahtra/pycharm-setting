@@ -435,7 +435,7 @@
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbangweb/js/apps/op/withdraw.js" timestamp="1525688745119">
         <mark key="'" line="22" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/KFCService/luckycommon/cache/bull_cache.py" timestamp="1526373079939">
+      <file name="$USER_HOME$/workspace/witch/KFCService/luckycommon/cache/bull_cache.py" timestamp="1526379283449">
         <mark key="[" line="182" column="0" />
         <mark key="]" line="182" column="0" />
         <mark key="." line="182" column="0" />
@@ -565,6 +565,13 @@
         <mark key="." line="102" column="31" />
         <mark key="^" line="102" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/KFCService/deploy/online/deploy.json" timestamp="1526379622884">
+        <mark key="'" line="46" column="26" />
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/cpstats/cpsservice/service/settings_test.py" timestamp="1526285583838">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -591,7 +598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="39" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/transaction/view.py" />
       <jump line="89" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/transaction/view.py" />
       <jump line="64" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/transaction/view.py" />
       <jump line="465" column="7" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/model.py" />
@@ -691,13 +697,14 @@
       <jump line="41" column="0" filename="$USER_HOME$/workspace/witch/LotteryService/luckycommon/event/handler.py" />
       <jump line="12" column="58" filename="$USER_HOME$/workspace/witch/LotteryService/luckycommon/timer/handler.py" />
       <jump line="28" column="35" filename="$USER_HOME$/workspace/witch/LotteryService/luckycommon/timer/processor.py" />
+      <jump line="46" column="26" filename="$USER_HOME$/workspace/witch/KFCService/deploy/online/deploy.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ubuntu</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ubuntu</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYW5kb21fYWdlbnRfaW5mb1w+</text>
