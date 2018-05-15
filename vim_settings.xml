@@ -88,8 +88,8 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="81" column="99" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/deploy/fabfile.py" timestamp="1526287638561">
-        <mark key="'" line="97" column="36" />
+      <file name="$USER_HOME$/workspace/witch/deploy/fabfile.py" timestamp="1526351406660">
+        <mark key="'" line="239" column="0" />
         <mark key="[" line="32" column="11" />
         <mark key="]" line="32" column="15" />
         <mark key="." line="32" column="15" />
@@ -324,6 +324,7 @@
         <mark key="^" line="91" column="45" />
         <mark key="." line="91" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_prod.py" timestamp="1526351398980" />
       <file name="$USER_HOME$/workspace/witch-kfc/luckycommon/bull/db/bull.py" timestamp="1525764525001">
         <mark key="[" line="10" column="97" />
         <mark key="]" line="10" column="97" />
@@ -512,7 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="26" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/migrate_transaction_sharding.sql" />
       <jump line="182" column="27" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/migrate_transaction_sharding.sql" />
       <jump line="199" column="27" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/migrate_transaction_sharding.sql" />
       <jump line="216" column="27" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/migrate_transaction_sharding.sql" />
@@ -612,6 +612,7 @@
       <jump line="191" column="26" filename="$USER_HOME$/workspace/witch/deploy/fabfile.py" />
       <jump line="213" column="52" filename="$USER_HOME$/workspace/witch/deploy/fabfile.py" />
       <jump line="96" column="36" filename="$USER_HOME$/workspace/witch/deploy/fabfile.py" />
+      <jump line="239" column="0" filename="$USER_HOME$/workspace/witch/deploy/fabfile.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
