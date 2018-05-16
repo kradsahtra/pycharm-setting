@@ -228,11 +228,6 @@
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/back.py" timestamp="1525339318611">
         <mark key="'" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/KFCService/luckycommon/bulltimer/handler.py" timestamp="1526359770933">
-        <mark key="[" line="136" column="19" />
-        <mark key="]" line="136" column="19" />
-        <mark key="." line="136" column="19" />
-      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" timestamp="1525859416808">
         <mark key="'" line="555" column="35" />
         <mark key="[" line="564" column="48" />
@@ -263,6 +258,9 @@
       </file>
       <file name="$USER_HOME$/workspace/witch/LotteryService/luckycommon/async/async_job.py" timestamp="1526374789693">
         <mark key="'" line="4" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/bj_pk10/logic/order.py" timestamp="1526441034466">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/witch-kfc/luckycommon/fruit/model/fruit.py" timestamp="1525917297726">
         <mark key="[" line="11" column="21" />
@@ -603,10 +601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/api/transaction/view.py" />
-      <jump line="465" column="7" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/model.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/migrate_transaction_sharding.sql" />
-      <jump line="344" column="0" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/migrate_transaction_sharding.sql" />
       <jump line="22" column="30" filename="$USER_HOME$/workspace/witch-bigbang/bigbangweb/js/apps/op/withdraw.js" />
       <jump line="442" column="15" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
       <jump line="391" column="4" filename="$USER_HOME$/workspace/witch-bigbang/bigbang/common/transaction/db.py" />
@@ -703,6 +697,10 @@
       <jump line="28" column="35" filename="$USER_HOME$/workspace/witch/LotteryService/luckycommon/timer/processor.py" />
       <jump line="46" column="26" filename="$USER_HOME$/workspace/witch/KFCService/deploy/online/deploy.json" />
       <jump line="66" column="45" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/timer/__init__.py" />
+      <jump line="73" column="23" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/bj_pk10/logic/order.py" />
+      <jump line="108" column="20" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/bj_pk10/logic/order.py" />
+      <jump line="96" column="31" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/bj_pk10/logic/order.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/bj_pk10/logic/order.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -712,7 +710,7 @@
         <text>id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyYW5kb21fYWdlbnRfaW5mb1w+</text>
+        <text encoding="base64">XDxlbnVtZXJhdGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyOiAnLWNyZWF0ZWRfYXQnCg==</text>
@@ -755,9 +753,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyYW5kb21fYWdlbnRfaW5mb1w+</last-search>
+      <last-search encoding="base64">XDxlbnVtZXJhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyYW5kb21fYWdlbnRfaW5mb1w+</last-pattern>
+      <last-pattern encoding="base64">XDxlbnVtZXJhdGVcPg==</last-pattern>
       <last-replace>track</last-replace>
       <last-substitute>win</last-substitute>
       <last-dir>1</last-dir>
@@ -765,7 +763,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUcmFuc2FjdGlvbjFcPg==</entry>
         <entry encoding="base64">XDx0cmFuc2FjdGlvbl8xXD4=</entry>
         <entry encoding="base64">XDx0ZXJtXD4=</entry>
         <entry encoding="base64">XDx2XD4=</entry>
@@ -785,6 +782,7 @@
         <entry encoding="base64">XDxFTlZSXD4=</entry>
         <entry encoding="base64">XDxfUFJPSkVDVFw+</entry>
         <entry encoding="base64">XDxyYW5kb21fYWdlbnRfaW5mb1w+</entry>
+        <entry encoding="base64">XDxlbnVtZXJhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9sb3R0ZXJ5L2J1bGwvZ2M=</entry>
