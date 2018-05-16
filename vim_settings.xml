@@ -152,6 +152,12 @@
         <mark key="." line="117" column="0" />
         <mark key="^" line="149" column="56" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/ff_pk10/logic/order.py" timestamp="1526442715699">
+        <mark key="[" line="110" column="15" />
+        <mark key="]" line="110" column="15" />
+        <mark key="." line="110" column="15" />
+        <mark key="^" line="110" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/apply_daily_recharge_return.py" timestamp="1525339484276">
         <mark key="'" line="44" column="27" />
       </file>
@@ -259,8 +265,11 @@
       <file name="$USER_HOME$/workspace/witch/LotteryService/luckycommon/async/async_job.py" timestamp="1526374789693">
         <mark key="'" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/bj_pk10/logic/order.py" timestamp="1526441034466">
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/bj_pk10/logic/order.py" timestamp="1526442329490">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="110" column="18" />
+        <mark key="]" line="110" column="18" />
+        <mark key="." line="110" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/witch-kfc/luckycommon/fruit/model/fruit.py" timestamp="1525917297726">
         <mark key="[" line="11" column="21" />
@@ -268,12 +277,12 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/deploy/config.py" timestamp="1526374629508">
+      <file name="$USER_HOME$/workspace/witch/deploy/config.py" timestamp="1526442931278">
         <mark key="'" line="67" column="0" />
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="1" column="47" />
-        <mark key="." line="1" column="47" />
-        <mark key="^" line="1" column="47" />
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="43" />
+        <mark key="." line="5" column="37" />
+        <mark key="^" line="4" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/witch-lottery/luckycommon/activity/db/activity.py" timestamp="1525764080052">
         <mark key="[" line="156" column="0" />
@@ -507,7 +516,7 @@
         <mark key="." line="66" column="96" />
         <mark key="^" line="66" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526437801164">
+      <file name="/Dummy.txt" timestamp="1526442332721">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
@@ -704,16 +713,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>/witch</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>bigbang</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbnVtZXJhdGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyOiAnLWNyZWF0ZWRfYXQnCg==</text>
+      <register name="0" type="4">
+        <text>/witch</text>
       </register>
       <register name="p" type="4">
         <text />
