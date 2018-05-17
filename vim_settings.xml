@@ -191,6 +191,7 @@
         <mark key="." line="167" column="42" />
         <mark key="^" line="167" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_test.py" timestamp="1526541143802" />
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/utils/respcode.py" timestamp="1526293520665" />
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/notification/view.py" timestamp="1526459211703">
         <mark key="[" line="15" column="0" />
@@ -269,12 +270,12 @@
         <mark key="]" line="34" column="23" />
         <mark key="." line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/handler.py" timestamp="1526538346187">
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/handler.py" timestamp="1526540601803">
         <mark key="'" line="77" column="24" />
-        <mark key="[" line="84" column="42" />
-        <mark key="]" line="84" column="53" />
-        <mark key="^" line="84" column="41" />
-        <mark key="." line="84" column="42" />
+        <mark key="[" line="84" column="26" />
+        <mark key="]" line="84" column="39" />
+        <mark key="^" line="91" column="70" />
+        <mark key="." line="84" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/stats/account.py" timestamp="1526529047731">
         <mark key="[" line="22" column="13" />
@@ -340,11 +341,11 @@
         <mark key="." line="66" column="96" />
         <mark key="^" line="66" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526524247646">
+      <file name="/Dummy.txt" timestamp="1526540628104">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/apps/stats/account.js" timestamp="1526437793960">
         <mark key="[" line="401" column="38" />
@@ -482,16 +483,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>active_days</text>
+        <text>user_stats</text>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>user_stats</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b19zYXZlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>active_days</text>
+        <text>account__aggr</text>
       </register>
       <register name="p" type="4">
         <text />
