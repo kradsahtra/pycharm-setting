@@ -251,7 +251,7 @@
       <file name="$USER_HOME$/workspace/witch-kfc/deploy/online/deploy.json" timestamp="1525936251696">
         <mark key="'" line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_online.py" timestamp="1526542757977">
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_online.py" timestamp="1526546871449">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="76" />
@@ -266,7 +266,9 @@
         <mark key="^" line="91" column="45" />
         <mark key="." line="91" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_prod.py" timestamp="1526542003607" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_prod.py" timestamp="1526546882482">
+        <mark key="'" line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/witch-kfc/luckycommon/bull/db/bull.py" timestamp="1525764525001">
         <mark key="[" line="10" column="97" />
         <mark key="]" line="10" column="97" />
@@ -294,7 +296,7 @@
         <mark key="]" line="34" column="23" />
         <mark key="." line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/handler.py" timestamp="1526540601803">
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/handler.py" timestamp="1526546305767">
         <mark key="'" line="77" column="24" />
         <mark key="[" line="84" column="26" />
         <mark key="]" line="84" column="39" />
@@ -365,7 +367,7 @@
         <mark key="." line="66" column="96" />
         <mark key="^" line="66" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526545318124">
+      <file name="/Dummy.txt" timestamp="1526546927536">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -404,7 +406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="6" filename="$USER_HOME$/workspace/witch-kfc/luckycommon/account/model/transaction.py" />
       <jump line="16" column="48" filename="$USER_HOME$/workspace/witch-lottery/luckycommon/account/db/transaction.py" />
       <jump line="156" column="20" filename="$USER_HOME$/workspace/witch-lottery/luckycommon/activity/db/activity.py" />
       <jump line="6" column="4" filename="$USER_HOME$/workspace/witch-kfc/luckycommon/account/db/transaction.py" />
@@ -504,10 +505,11 @@
       <jump line="76" column="24" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/handler.py" />
       <jump line="16" column="75" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/management/commands/query_pay_types.py" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_online.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_prod.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>res</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UVVFUllfVVJMID0gJ2h0dHA6Ly8xODMuNjAuMjExLjE5NTo5MDAzL3BheS9hcGkvY2hhbm5lbC9nZXRfdmFpbGRfcGF5X3R5cGUvJwo=</text>
       </register>
       <register name="-" type="4">
         <text>res</text>
@@ -516,7 +518,7 @@
         <text encoding="base64">XDxRVUVSWV9VUkxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygianVzdHBheSBkYXRhIGFmdGVyIGNoYXJnZTogJXMiLCByZXMpCg==</text>
+        <text encoding="base64">UVVFUllfVVJMID0gJ2h0dHA6Ly8xODMuNjAuMjExLjE5NTo5MDAzL3BheS9hcGkvY2hhbm5lbC9nZXRfdmFpbGRfcGF5X3R5cGUvJwo=</text>
       </register>
       <register name="p" type="4">
         <text />
