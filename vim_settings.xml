@@ -205,6 +205,9 @@
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/timer/__init__.py" timestamp="1526438549108">
         <mark key="'" line="66" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/LotteryService/luckyplatform/settings.py" timestamp="1526464324550">
+        <mark key="'" line="80" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/admin/report/daily.py" timestamp="1526458894137">
         <mark key="'" line="20" column="33" />
       </file>
@@ -260,7 +263,9 @@
         <mark key="^" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/utils/respcode.py" timestamp="1526293520665" />
-      <file name="$USER_HOME$/workspace/witch/bigbang/deploy/online/deploy.yaml" timestamp="1526719722363" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/deploy/online/deploy.yaml" timestamp="1526721112328">
+        <mark key="'" line="12" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/third/pay/justpay.py" timestamp="1526545379392">
         <mark key="[" line="54" column="45" />
         <mark key="]" line="54" column="58" />
@@ -348,6 +353,9 @@
         <mark key="]" line="183" column="42" />
         <mark key="." line="191" column="10" />
         <mark key="^" line="191" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_prod.py" timestamp="1526546882482">
+        <mark key="'" line="49" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/__init__.py" timestamp="1526700699326">
         <mark key="[" line="28" column="5" />
@@ -460,6 +468,7 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/apps/op/models.js" timestamp="1526702750947" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/__init__.py" timestamp="1526721168488" />
       <file name="$USER_HOME$/workspace/witch-kfc/bullapi/longconnect/settings.py" timestamp="1525768529908">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -547,7 +556,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="34" filename="$USER_HOME$/workspace/witch/deploy/fabfile.py" />
       <jump line="38" column="27" filename="$USER_HOME$/workspace/witch/deploy/fabfile.py" />
       <jump line="191" column="26" filename="$USER_HOME$/workspace/witch/deploy/fabfile.py" />
       <jump line="213" column="52" filename="$USER_HOME$/workspace/witch/deploy/fabfile.py" />
@@ -647,6 +655,7 @@
       <jump line="168" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/admin/views/withdraw.py" />
       <jump line="120" column="52" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/admin/views/withdraw.py" />
       <jump line="68" column="38" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/admin/views/withdraw.py" />
+      <jump line="12" column="15" filename="$USER_HOME$/workspace/witch/bigbang/deploy/online/deploy.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
