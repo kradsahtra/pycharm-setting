@@ -139,11 +139,11 @@
         <mark key="^" line="110" column="32" />
         <mark key="." line="113" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bot/settings.py" timestamp="1527146005807">
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="26" column="2" />
+      <file name="$USER_HOME$/workspace/witch/bot/settings.py" timestamp="1527148509902">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="29" />
         <mark key="^" line="21" column="17" />
-        <mark key="." line="21" column="17" />
+        <mark key="." line="11" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/witch-lottery/luckycommon/account/db/transaction.py" timestamp="1525859706780">
         <mark key="'" line="80" column="43" />
@@ -600,21 +600,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'http://54.179.186.218:3128'</text>
+        <text>537911005</text>
       </register>
       <register name="-" type="4">
-        <text>'http://54.179.186.218:3128'</text>
+        <text>537911005</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxib3RcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>random.choice([
-    'http://54.179.186.218:3128',
-    'http://54.169.207.42:3128',
-    # 'http://47.97.121.48:3128/',
-    # 'http://47.97.121.105:3128/',
-])</text>
+        <text>472803259</text>
       </register>
       <register name="p" type="4">
         <text />
