@@ -139,11 +139,11 @@
         <mark key="^" line="110" column="32" />
         <mark key="." line="113" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bot/settings.py" timestamp="1527144985133">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="66" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/workspace/witch/bot/settings.py" timestamp="1527146005807">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="26" column="2" />
+        <mark key="^" line="21" column="17" />
+        <mark key="." line="21" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/witch-lottery/luckycommon/account/db/transaction.py" timestamp="1525859706780">
         <mark key="'" line="80" column="43" />
@@ -335,6 +335,10 @@
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_prod.py" timestamp="1526546882482">
         <mark key="'" line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/__init__.py" timestamp="1527145999579">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="10" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/management/commands/query_pay_types.py" timestamp="1526545313458">
         <mark key="'" line="16" column="75" />
         <mark key="[" line="27" column="0" />
@@ -449,6 +453,13 @@
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1525660917977">
         <mark key="'" line="709" column="6" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/bot/main.py" timestamp="1527145925212">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="15" column="73" />
+        <mark key="]" line="15" column="87" />
+        <mark key="^" line="15" column="72" />
+        <mark key="." line="15" column="73" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/LotteryService/luckycommon/event/handler.py" timestamp="1526374847419">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="43" column="0" />
@@ -486,7 +497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/witch/LotteryService/scripts/heka/bigbang_lotterydecoder.lua" />
       <jump line="50" column="8" filename="$USER_HOME$/workspace/witch/LotteryService/scripts/heka/bigbang_lotterydecoder.lua" />
       <jump line="51" column="8" filename="$USER_HOME$/workspace/witch/LotteryService/scripts/heka/bigbang_lotterydecoder.lua" />
       <jump line="52" column="8" filename="$USER_HOME$/workspace/witch/LotteryService/scripts/heka/bigbang_lotterydecoder.lua" />
@@ -586,19 +596,25 @@
       <jump line="217" column="42" filename="$USER_HOME$/workspace/witch/bot/bussiness_logic.py" />
       <jump line="180" column="4" filename="$USER_HOME$/workspace/witch/bot/bussiness_logic.py" />
       <jump line="246" column="35" filename="$USER_HOME$/workspace/witch/bot/bussiness_logic.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/workspace/witch/bot/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>597397891:AAGExppImc2eYIv4yMJ-fOAoZTkKyIsg1Sk</text>
+        <text>'http://54.179.186.218:3128'</text>
       </register>
       <register name="-" type="4">
-        <text>9.0.0</text>
+        <text>'http://54.179.186.218:3128'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxib3RcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>597397891:AAGExppImc2eYIv4yMJ-fOAoZTkKyIsg1Sk</text>
+        <text>random.choice([
+    'http://54.179.186.218:3128',
+    'http://54.169.207.42:3128',
+    # 'http://47.97.121.48:3128/',
+    # 'http://47.97.121.105:3128/',
+])</text>
       </register>
       <register name="p" type="4">
         <text />
