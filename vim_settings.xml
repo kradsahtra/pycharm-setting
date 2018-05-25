@@ -138,11 +138,11 @@
         <mark key="'" line="128" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/force/apps/main/main_view.py" timestamp="1527238410020">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="34" />
-        <mark key="^" line="22" column="34" />
-        <mark key="." line="22" column="34" />
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="34" />
+        <mark key="^" line="17" column="34" />
+        <mark key="." line="17" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/management/commands/backup_data.py" timestamp="1525401124179">
         <mark key="'" line="68" column="8" />
@@ -280,11 +280,11 @@
         <mark key="^" line="62" column="66" />
         <mark key="." line="62" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/force/shared/models.py" timestamp="1527239965831">
-        <mark key="[" line="96" column="27" />
-        <mark key="]" line="96" column="34" />
-        <mark key="^" line="97" column="10" />
-        <mark key="." line="96" column="27" />
+      <file name="$USER_HOME$/workspace/force/shared/models.py" timestamp="1527241796905">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="11" />
+        <mark key="." line="29" column="11" />
+        <mark key="^" line="29" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/force/apps/admin/admin_view.py" timestamp="1527238146019">
         <mark key="[" line="16" column="0" />
@@ -299,7 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="47" filename="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/apps/op/withdraw_account.js" />
       <jump line="24" column="48" filename="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/apps/op/withdraw_account.js" />
       <jump line="88" column="8" filename="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/apps/op/withdraw_account.js" />
       <jump line="110" column="33" filename="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/apps/op/withdraw_account.js" />
@@ -399,52 +398,53 @@
       <jump line="51" column="11" filename="$USER_HOME$/workspace/force/apps/main/main_view.py" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/force/apps/main/main_view.py" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/force/apps/main/main_view.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/force/shared/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Integer</text>
+        <text>user</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text>rechar</text>
       </register>
-      <register name="0" type="4">
-        <text>Boolean</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEJJTkRfUEhPTkUgPSAxIDw8IDIK</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXR1cyA9IERCLkNvbHVtbihEQi5JbnRlZ2VyLCBkZWZhdWx0PTApCg==</text>
+        <text encoding="base64">ICAgIFNFVF9QQVNTV09SRCA9IDEgPDwgNAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4dGVuZCA9IERCLkNvbHVtbihEQi5URVhUKQo=</text>
+        <text encoding="base64">CmNsYXNzIFRyYW5zYWN0aW9uU3RhdHVzKEVudW0pOgogICAgV0FJVCA9IDAKICAgIERPTkUgPSAxCiAgICBGQUlMID0gMgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNldHRpbmdzID0gREIuQ29sdW1uKERCLlRFWFQpICAjIOeUqOaIt+iuvue9rgo=</text>
+        <text encoding="base64">Y2xhc3MgUmV0dXJuUmF0ZVN0YXR1cyhFbnVtKToKICAgIEFWQUlMQUJMRSA9ICdhdmFpbGFibGUnCiAgICBJTl9VU0UgPSAnaW5fdXNlJwogICAgUkVTRVJWRUQgPSAncmVzZXJ2ZWQnCgoKICAgIFVOTElNSVRFRCA9ICd1bmxpbWl0ZWQnCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFnZW50X2JhbGFuY2UgPSBEQi5Db2x1bW4oREIuRkxPQVQsIGRlZmF1bHQ9MC4wKSAgIyDlj6/nlKjmj5DnjrDpop3luqYK</text>
+        <text encoding="base64">Y2xhc3MgSW52aXRhdGlvblR5cGUoRW51bSk6CiAgICBPTkVfVElNRSA9ICdvbmVfdGltZScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWwgPSBEQi5Db2x1bW4oREIuVkFSQ0hBUikgCg==</text>
+        <text encoding="base64">Y2xhc3MgSW52aXRhdGlvblN0YXR1cyhFbnVtKToKICAgIEFWQUlMQUJMRSA9ICdhdmFpbGFibGUnCiAgICBOT1RfQVZBSUxBQkxFID0gJ25vdF9hdmFpbGFibGUnCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF2YXRhciA9IERCLkNvbHVtbihEQi5WQVJDSEFSKQo=</text>
+        <text encoding="base64">Y2xhc3MgVHJhbnNmZXJUeXBlKEVudW0pOgogICAgUExBVEZPUk0gPSAncGxhdGZvcm0nCiAgICBNT05USExZX0JPTlVTID0gJ21vbnRobHlfYm9udXMnCiAgICBVU0VSID0gJ3VzZXInCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNpZ24gPSBEQi5Db2x1bW4oREIuVkFSQ0hBUikgICMg55So5oi3562+5ZCN77yI5qyi6L+O6K+t77yJCg==</text>
+        <text encoding="base64">Y2xhc3MgVHJhbnNmZXJTdGF0dXMoRW51bSk6CiAgICBQRU5ESU5HID0gJ3BlbmRpbmcnCiAgICBBUFBST1ZFRCA9ICdhcHByb3ZlZCcKICAgIFJFSkVDVEVEID0gJ3JlamVjdGVkJwoKCmNsYXNzIEFkbWluUm9sZShFbnVtKToKICAgIEZPUkJJRERFTiA9IDAKICAgIFVTRVIgPSAxCiAgICBTRU5JT1JfVVNFUiA9IDIKICAgIE1BTkFHRVIgPSAzCiAgICBTRU5JT1JfTUFOQUdFUiA9IDQKICAgIEFETUlOID0gNQoKCmNsYXNzIEFkbWluUGVybWlzc2lvblR5cGUoRW51bSk6CiAgICBOT05FID0gMAogICAgUkVBRCA9IDEKICAgIFdSSVRFID0gMgoKCmNsYXNzIFRyYW5zYWN0aW9uVHlwZShFbnVtKToKICAgIElOID0gMQogICAgQVdBUkQgPSAyCiAgICBCQUxBTkNFX0JVWSA9IDQKICAgIFJFRlVORCA9IDgKICAgIFdJVEhEUkFXID0gMTYKICAgIFBBWV9PRkYgPSAzMgogICAgQUdFTlRfUkVUVVJOID0gMzMKICAgIEFHRU5UX0JPTlVTID0gMzQKICAgIEFHRU5UX1RSQU5TRkVSID0gMzUKICAgIFBMQVRGT1JNX1RSQU5TRkVSID0gMzYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNpdGl6ZW5faWQgPSBEQi5Db2x1bW4oREIuVkFSQ0hBUikgICMg6Lqr5Lu96K+B5Y+356CBCg==</text>
+        <text encoding="base64">ICAgIERFRkFVTFQgPSAxIDw8IDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIFdSSVRFID0gMgo=</text>
       </register>
       <register name=":" type="4">
         <text>250</text>
