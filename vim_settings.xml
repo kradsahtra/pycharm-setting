@@ -19,6 +19,7 @@
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/db.py" timestamp="1526716075891">
         <mark key="'" line="253" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/admin/views/recharge.py" timestamp="1527233481509" />
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings.py" timestamp="1527144612186">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="88" column="51" />
@@ -161,6 +162,9 @@
         <mark key="[" line="5" column="12" />
         <mark key="]" line="10" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/urls.py" timestamp="1527233231389">
+        <mark key="'" line="87" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/third/pay/unionagency.py" timestamp="1526886641901">
         <mark key="'" line="94" column="0" />
       </file>
@@ -206,9 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="722" column="26" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
-      <jump line="25" column="67" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
-      <jump line="25" column="13" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/ff_ssc/logic/order.py" />
       <jump line="45" column="36" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/ff_ssc/logic/order.py" />
       <jump line="88" column="30" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/ff_ssc/logic/order.py" />
       <jump line="137" column="30" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/ff_ssc/logic/order.py" />
@@ -306,6 +307,9 @@
       <jump line="11" column="13" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_test.py" />
       <jump line="21" column="14" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_test.py" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/model.py" />
+      <jump line="81" column="35" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/urls.py" />
+      <jump line="86" column="6" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/urls.py" />
+      <jump line="87" column="33" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -315,7 +319,7 @@
         <text>183.60.211.195:9001</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1bmlvbl9jbGllbnRcPg==</text>
+        <text>rechar</text>
       </register>
       <register name="0" type="4">
         <text>13.250.105.3</text>
@@ -358,9 +362,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1bmlvbl9jbGllbnRcPg==</last-search>
+      <last-search>rechar</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1bmlvbl9jbGllbnRcPg==</last-pattern>
+      <last-pattern>rechar</last-pattern>
       <last-replace>track</last-replace>
       <last-substitute>win</last-substitute>
       <last-dir>1</last-dir>
@@ -368,7 +372,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxESVNBQkxFX0JFVF9UWVBFU1w+</entry>
         <entry encoding="base64">XDxjaGVja19idXlfbGlzdF9iZXRfdHlwZVw+</entry>
         <entry encoding="base64">XDxzaWRlYmFyX3JpZ2h0XD4=</entry>
         <entry encoding="base64">XDxyZW5kZXJXaXRoRGF0YVw+</entry>
@@ -388,6 +391,7 @@
         <entry encoding="base64">XDxnZXRfY2RuX3N0YXRpY19maWxlXD4=</entry>
         <entry encoding="base64">XDxNQVhfR0FNRV9QUk9GSVRcPg==</entry>
         <entry encoding="base64">XDx1bmlvbl9jbGllbnRcPg==</entry>
+        <entry>rechar</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
