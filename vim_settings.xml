@@ -117,6 +117,11 @@
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/back.py" timestamp="1525339318611">
         <mark key="'" line="18" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/db.py" timestamp="1527320330656">
+        <mark key="'" line="16" column="45" />
+        <mark key="[" line="177" column="4" />
+        <mark key="]" line="177" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/timer/__init__.py" timestamp="1526438549108">
         <mark key="'" line="66" column="45" />
       </file>
@@ -181,6 +186,11 @@
         <mark key="]" line="44" column="39" />
         <mark key="." line="44" column="27" />
         <mark key="^" line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/loki/agency_pay/common/store/cache.py" timestamp="1527300761394">
+        <mark key="'" line="20" column="23" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/deploy/online/deploy.yaml" timestamp="1526979974703">
         <mark key="'" line="12" column="15" />
@@ -251,6 +261,16 @@
       <file name="$USER_HOME$/.pyenv/versions/force/lib/python3.6/site-packages/flask_inputs/inputs.py" timestamp="1527324488405">
         <mark key="'" line="38" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/force/settings_test.py" timestamp="1527301011187">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/handler.py" timestamp="1527491497886">
+        <mark key="'" line="9" column="44" />
+        <mark key="[" line="88" column="25" />
+        <mark key="]" line="88" column="65" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/urls.py" timestamp="1527233231389">
         <mark key="'" line="87" column="33" />
       </file>
@@ -289,12 +309,12 @@
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/ff_ssc/logic/order.py" timestamp="1526701032962">
         <mark key="'" line="279" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/cache/redis_cache.py" timestamp="1527478389526">
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/cache/redis_cache.py" timestamp="1527491816735">
         <mark key="'" line="391" column="0" />
-        <mark key="[" line="647" column="4" />
-        <mark key="]" line="647" column="26" />
-        <mark key="." line="647" column="5" />
-        <mark key="^" line="643" column="42" />
+        <mark key="[" line="648" column="10" />
+        <mark key="]" line="648" column="10" />
+        <mark key="." line="648" column="10" />
+        <mark key="^" line="648" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/loki/agency_pay/requirements.txt" timestamp="1527300410646">
         <mark key="[" line="6" column="0" />
@@ -306,11 +326,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/preset/handler.py" timestamp="1527489640853">
-        <mark key="[" line="172" column="19" />
-        <mark key="]" line="173" column="15" />
-        <mark key="." line="173" column="15" />
-        <mark key="^" line="173" column="15" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/preset/handler.py" timestamp="1527491641671">
+        <mark key="'" line="170" column="17" />
+        <mark key="[" line="190" column="38" />
+        <mark key="]" line="190" column="38" />
+        <mark key="." line="190" column="38" />
+        <mark key="^" line="190" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/admin/urls.py" timestamp="1527303072652">
         <mark key="'" line="180" column="18" />
@@ -333,7 +354,7 @@
         <mark key="." line="24" column="27" />
         <mark key="^" line="24" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527474830057">
+      <file name="/Dummy.txt" timestamp="1527491937939">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
@@ -375,9 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="6" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/urls.py" />
-      <jump line="87" column="33" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/urls.py" />
-      <jump line="18" column="28" filename="$USER_HOME$/workspace/force/apps/main/main_view.py" />
       <jump line="43" column="4" filename="$USER_HOME$/workspace/force/apps/main/main_view.py" />
       <jump line="47" column="0" filename="$USER_HOME$/workspace/force/apps/main/main_view.py" />
       <jump line="51" column="11" filename="$USER_HOME$/workspace/force/apps/main/main_view.py" />
@@ -475,19 +493,22 @@
       <jump line="379" column="4" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/preset/view.py" />
       <jump line="601" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/cache/redis_cache.py" />
       <jump line="391" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/cache/redis_cache.py" />
+      <jump line="76" column="21" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/handler.py" />
+      <jump line="168" column="17" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/preset/handler.py" />
+      <jump line="9" column="44" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/handler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>103.230.243.40</text>
+        <text>allow_game_channels</text>
       </register>
       <register name="-" type="4">
-        <text>get_available_pays</text>
+        <text encoding="base64">PiAxMDA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
+        <text encoding="base64">XDxtZ1w+</text>
       </register>
       <register name="0" type="4">
-        <text>103.230.243.40</text>
+        <text>allow_game_channels</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -527,9 +548,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXF1ZXN0XD4=</last-search>
+      <last-search encoding="base64">XDxtZ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXF1ZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtZ1w+</last-pattern>
       <last-replace>track</last-replace>
       <last-substitute>win</last-substitute>
       <last-dir>1</last-dir>
@@ -537,7 +558,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEZWNpbWFsXD4=</entry>
         <entry encoding="base64">XDx6ZmlsbFw+</entry>
         <entry encoding="base64">XDxzaF8xMXg1X29yZGVyXD4=</entry>
         <entry encoding="base64">XDxzZF8xMXg1X29yZGVyXD4=</entry>
@@ -557,6 +577,7 @@
         <entry encoding="base64">XDxfZm9ybXNcPg==</entry>
         <entry encoding="base64">XDxmYWxjb25cPg==</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxtZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
