@@ -122,8 +122,8 @@
         <mark key="[" line="177" column="4" />
         <mark key="]" line="177" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/timer/__init__.py" timestamp="1526438549108">
-        <mark key="'" line="66" column="45" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/timer/__init__.py" timestamp="1527495728307">
+        <mark key="'" line="49" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/witch/LotteryService/luckyplatform/settings.py" timestamp="1526464324550">
         <mark key="'" line="80" column="40" />
@@ -391,9 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="4" filename="$USER_HOME$/workspace/force/apps/main/main_view.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/workspace/force/apps/main/main_view.py" />
-      <jump line="51" column="11" filename="$USER_HOME$/workspace/force/apps/main/main_view.py" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/force/apps/main/main_view.py" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/force/apps/main/main_view.py" />
       <jump line="69" column="0" filename="$USER_HOME$/workspace/force/shared/models.py" />
@@ -491,6 +488,9 @@
       <jump line="76" column="21" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/handler.py" />
       <jump line="168" column="17" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/preset/handler.py" />
       <jump line="9" column="44" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/handler.py" />
+      <jump line="25" column="58" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/timer/__init__.py" />
+      <jump line="4" column="7" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/timer/__init__.py" />
+      <jump line="49" column="20" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/timer/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -500,7 +500,7 @@
         <text encoding="base64">PiAxMDA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZ1w+</text>
+        <text encoding="base64">XDxqc29uXD4=</text>
       </register>
       <register name="0" type="4">
         <text>allow_game_channels</text>
@@ -543,9 +543,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZ1w+</last-search>
+      <last-search encoding="base64">XDxqc29uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZ1w+</last-pattern>
+      <last-pattern encoding="base64">XDxqc29uXD4=</last-pattern>
       <last-replace>track</last-replace>
       <last-substitute>win</last-substitute>
       <last-dir>1</last-dir>
@@ -553,7 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx6ZmlsbFw+</entry>
         <entry encoding="base64">XDxzaF8xMXg1X29yZGVyXD4=</entry>
         <entry encoding="base64">XDxzZF8xMXg1X29yZGVyXD4=</entry>
         <entry encoding="base64">XDxqeF8xMXg1X29yZGVyXD4=</entry>
@@ -573,6 +572,7 @@
         <entry encoding="base64">XDxmYWxjb25cPg==</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxtZ1w+</entry>
+        <entry encoding="base64">XDxqc29uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
