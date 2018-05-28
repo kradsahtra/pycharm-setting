@@ -238,6 +238,12 @@
       <file name="$USER_HOME$/workspace/witch-kfc/deploy/online/deploy.json" timestamp="1525936251696">
         <mark key="'" line="46" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_online.py" timestamp="1527231532220">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="48" column="46" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/fix_missing_track_index.py" timestamp="1527321121085">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="41" column="30" />
@@ -326,12 +332,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/preset/handler.py" timestamp="1527491641671">
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/preset/handler.py" timestamp="1527502702938">
         <mark key="'" line="170" column="17" />
-        <mark key="[" line="190" column="38" />
-        <mark key="]" line="190" column="38" />
-        <mark key="." line="190" column="38" />
-        <mark key="^" line="190" column="38" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/admin/urls.py" timestamp="1527303072652">
         <mark key="'" line="180" column="18" />
@@ -349,7 +354,7 @@
         <mark key="." line="24" column="27" />
         <mark key="^" line="24" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527491937939">
+      <file name="/Dummy.txt" timestamp="1527502706793">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
@@ -497,47 +502,47 @@
       <jump line="8" column="4" filename="$USER_HOME$/workspace/force/shared/utils/authentication.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>AuthenticatorType</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygKICAgICAgICAiI2RlYnVnIyByZWNoYXJnZV9hbW91bnQ6ICVzLCBhY3RpdmVfZGF5czogJXMsIGJ1eV9jb3VudDogJXMiICUgKHJlY2hhcmdlX2Ftb3VudCwgYWN0aXZlX2RheXMsIGJ1eV9jb3VudCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>AuthenticatorType</text>
+        <text>ac</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc29uXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>VerifyCodeUsage</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG90dGVyeV9wcmlvcml0eVtlYWNoLnR5cGVdID0gZWFjaC5wcmlvcml0eQo=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXV0aGVudGljYXRvcl90eXBlID0gCg==</text>
+        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygKICAgICAgICAiI2RlYnVnIyByZWNoYXJnZV9hbW91bnQ6ICVzLCBhY3RpdmVfZGF5czogJXMsIGJ1eV9jb3VudDogJXMiICUgKHJlY2hhcmdlX2Ftb3VudCwgYWN0aXZlX2RheXMsIGJ1eV9jb3VudCkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlY2hhZ2VfY291bnQgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmluZm8oJyNkZWJ1ZyMgdXNlcl9pZDogJXMsIGVhY2gudHlwZTogJXMnICUgKHVzZXJfaWQsIGVhY2gudHlwZSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFByb3h5QWdlbnQoKS5kZWxldGUoa2V5KQo=</text>
+        <text encoding="base64">YXV0aGVudGljYXRvcl90eXBlID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJlY2hhZ2VfY291bnQgPSAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFByb3h5QWdlbnQoKS5kZWxldGUoa2V5KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVxdWVzdF92ZXJpZnlfY29kZV9zY2hlbWEgPSB7CiAgICAidHlwZSI6ICJvYmplY3QiLAogICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgImF1dGhlbnRpY2F0b3IiOiB7InR5cGUiOiAic3RyaW5nIn0sCiAgICAgICAgInVzYWdlIjogeyJ0eXBlIjogInN0cmluZyJ9LAogICAgfSwKICAgICJyZXF1aXJlZCI6IFsiYXV0aGVudGljYXRvciIsICJ1c2FnZSJdCn0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWVzdF92ZXJpZnlfY29kZV9zY2hlbWEgPSB7CiAgICAidHlwZSI6ICJvYmplY3QiLAogICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgImF1dGhlbnRpY2F0b3IiOiB7InR5cGUiOiAic3RyaW5nIn0sCiAgICAgICAgInVzYWdlIjogeyJ0eXBlIjogInN0cmluZyJ9LAogICAgfSwKICAgICJyZXF1aXJlZCI6IFsiYXV0aGVudGljYXRvciIsICJ1c2FnZSJdCn0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
