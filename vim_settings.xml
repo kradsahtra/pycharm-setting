@@ -157,11 +157,11 @@
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/sh_11x5/crawler.py" timestamp="1527151851361">
         <mark key="'" line="128" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/force/apps/main/main_view.py" timestamp="1527474784415">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="26" column="36" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/workspace/force/apps/main/main_view.py" timestamp="1527498934655">
+        <mark key="[" line="41" column="24" />
+        <mark key="]" line="41" column="28" />
+        <mark key="^" line="41" column="28" />
+        <mark key="." line="41" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/management/commands/backup_data.py" timestamp="1525401124179">
         <mark key="'" line="68" column="8" />
@@ -355,8 +355,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/force/shared/utils/authentication.py" timestamp="1527321918019">
-        <mark key="'" line="24" column="0" />
+      <file name="$USER_HOME$/workspace/force/shared/utils/authentication.py" timestamp="1527499132162">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="9" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/force/shared/cache.py" timestamp="1527300775810">
         <mark key="'" line="41" column="0" />
@@ -375,10 +379,10 @@
         <mark key="^" line="62" column="66" />
         <mark key="." line="62" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/force/shared/models.py" timestamp="1527322024777">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="30" column="34" />
-        <mark key="]" line="30" column="49" />
+      <file name="$USER_HOME$/workspace/force/shared/models.py" timestamp="1527499127552">
+        <mark key="'" line="16" column="25" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="21" />
         <mark key="." line="30" column="49" />
         <mark key="^" line="30" column="49" />
       </file>
@@ -391,10 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/workspace/force/apps/main/main_view.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/force/apps/main/main_view.py" />
-      <jump line="69" column="0" filename="$USER_HOME$/workspace/force/shared/models.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/workspace/force/shared/models.py" />
       <jump line="57" column="20" filename="$USER_HOME$/workspace/witch/bot/main.py" />
       <jump line="8" column="17" filename="$USER_HOME$/workspace/witch/bot/main.py" />
       <jump line="15" column="12" filename="$USER_HOME$/workspace/witch/bot/main.py" />
@@ -491,43 +491,47 @@
       <jump line="25" column="58" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/timer/__init__.py" />
       <jump line="4" column="7" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/timer/__init__.py" />
       <jump line="49" column="20" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/timer/__init__.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/force/shared/utils/authentication.py" />
+      <jump line="37" column="4" filename="$USER_HOME$/workspace/force/shared/utils/authentication.py" />
+      <jump line="16" column="25" filename="$USER_HOME$/workspace/force/shared/models.py" />
+      <jump line="8" column="4" filename="$USER_HOME$/workspace/force/shared/utils/authentication.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>allow_game_channels</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBlbnVtIGltcG9ydCBFbnVtCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PiAxMDA=</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc29uXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>allow_game_channels</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSBlbnVtIGltcG9ydCBFbnVtCg==</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlY2hhZ2VfY291bnQgPSAwCg==</text>
+        <text encoding="base64">YXV0aGVudGljYXRvcl90eXBlID0gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFByb3h5QWdlbnQoKS5kZWxldGUoa2V5KQo=</text>
+        <text encoding="base64">ICAgIHJlY2hhZ2VfY291bnQgPSAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFByb3h5QWdlbnQoKS5kZWxldGUoa2V5KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVxdWVzdF92ZXJpZnlfY29kZV9zY2hlbWEgPSB7CiAgICAidHlwZSI6ICJvYmplY3QiLAogICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgImF1dGhlbnRpY2F0b3IiOiB7InR5cGUiOiAic3RyaW5nIn0sCiAgICAgICAgInVzYWdlIjogeyJ0eXBlIjogInN0cmluZyJ9LAogICAgfSwKICAgICJyZXF1aXJlZCI6IFsiYXV0aGVudGljYXRvciIsICJ1c2FnZSJdCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWVzdF92ZXJpZnlfY29kZV9zY2hlbWEgPSB7CiAgICAidHlwZSI6ICJvYmplY3QiLAogICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgImF1dGhlbnRpY2F0b3IiOiB7InR5cGUiOiAic3RyaW5nIn0sCiAgICAgICAgInVzYWdlIjogeyJ0eXBlIjogInN0cmluZyJ9LAogICAgfSwKICAgICJyZXF1aXJlZCI6IFsiYXV0aGVudGljYXRvciIsICJ1c2FnZSJdCn0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
