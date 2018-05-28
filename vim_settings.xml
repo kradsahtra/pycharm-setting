@@ -157,11 +157,11 @@
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/sh_11x5/crawler.py" timestamp="1527151851361">
         <mark key="'" line="128" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/force/apps/main/main_view.py" timestamp="1527498934655">
-        <mark key="[" line="41" column="24" />
-        <mark key="]" line="41" column="28" />
-        <mark key="^" line="41" column="28" />
-        <mark key="." line="41" column="28" />
+      <file name="$USER_HOME$/workspace/force/apps/main/main_view.py" timestamp="1527501091109">
+        <mark key="[" line="32" column="62" />
+        <mark key="]" line="32" column="77" />
+        <mark key="^" line="30" column="68" />
+        <mark key="." line="32" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/management/commands/backup_data.py" timestamp="1525401124179">
         <mark key="'" line="68" column="8" />
@@ -355,12 +355,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/force/shared/utils/authentication.py" timestamp="1527499132162">
+      <file name="$USER_HOME$/workspace/force/shared/utils/authentication.py" timestamp="1527501089875">
         <mark key="'" line="9" column="4" />
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="9" />
-        <mark key="^" line="10" column="18" />
-        <mark key="." line="10" column="9" />
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="13" column="20" />
+        <mark key="^" line="15" column="37" />
+        <mark key="." line="15" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/force/shared/cache.py" timestamp="1527300775810">
         <mark key="'" line="41" column="0" />
@@ -497,17 +497,17 @@
       <jump line="8" column="4" filename="$USER_HOME$/workspace/force/shared/utils/authentication.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBlbnVtIGltcG9ydCBFbnVtCg==</text>
+      <register name="&quot;" type="4">
+        <text>AuthenticatorType</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>AuthenticatorType</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc29uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBlbnVtIGltcG9ydCBFbnVtCg==</text>
+      <register name="0" type="4">
+        <text>VerifyCodeUsage</text>
       </register>
       <register name="p" type="4">
         <text />
