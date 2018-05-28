@@ -117,11 +117,6 @@
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/tools/back.py" timestamp="1525339318611">
         <mark key="'" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/db.py" timestamp="1527320330656">
-        <mark key="'" line="16" column="45" />
-        <mark key="[" line="177" column="4" />
-        <mark key="]" line="177" column="24" />
-      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/timer/__init__.py" timestamp="1526438549108">
         <mark key="'" line="66" column="45" />
       </file>
@@ -169,11 +164,11 @@
       <file name="$USER_HOME$/workspace/witch/LotteryService/luckycommon/async/async_job.py" timestamp="1526374789693">
         <mark key="'" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/deploy/config.py" timestamp="1527150128119">
+      <file name="$USER_HOME$/workspace/witch/deploy/config.py" timestamp="1527489687387">
         <mark key="'" line="35" column="13" />
-        <mark key="[" line="35" column="21" />
-        <mark key="]" line="35" column="34" />
-        <mark key="." line="35" column="34" />
+        <mark key="[" line="34" column="35" />
+        <mark key="]" line="34" column="49" />
+        <mark key="." line="34" column="35" />
         <mark key="^" line="35" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/model.py" timestamp="1527317675791">
@@ -186,11 +181,6 @@
         <mark key="]" line="44" column="39" />
         <mark key="." line="44" column="27" />
         <mark key="^" line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/loki/agency_pay/common/store/cache.py" timestamp="1527300761394">
-        <mark key="'" line="20" column="23" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/deploy/online/deploy.yaml" timestamp="1526979974703">
         <mark key="'" line="12" column="15" />
@@ -261,11 +251,6 @@
       <file name="$USER_HOME$/.pyenv/versions/force/lib/python3.6/site-packages/flask_inputs/inputs.py" timestamp="1527324488405">
         <mark key="'" line="38" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/force/settings_test.py" timestamp="1527301011187">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="10" column="31" />
-      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/urls.py" timestamp="1527233231389">
         <mark key="'" line="87" column="33" />
       </file>
@@ -321,11 +306,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/preset/handler.py" timestamp="1527478487316">
-        <mark key="[" line="169" column="4" />
-        <mark key="]" line="169" column="20" />
-        <mark key="." line="169" column="20" />
-        <mark key="^" line="169" column="20" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/preset/handler.py" timestamp="1527489640853">
+        <mark key="[" line="172" column="19" />
+        <mark key="]" line="173" column="15" />
+        <mark key="." line="173" column="15" />
+        <mark key="^" line="173" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/admin/urls.py" timestamp="1527303072652">
         <mark key="'" line="180" column="18" />
@@ -493,7 +478,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get_allow_game_channels</text>
+        <text>103.230.243.40</text>
       </register>
       <register name="-" type="4">
         <text>get_available_pays</text>
@@ -502,28 +487,28 @@
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>get_allow_game_channels</text>
+        <text>103.230.243.40</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFByb3h5QWdlbnQoKS5kZWxldGUoa2V5KQo=</text>
+        <text encoding="base64">ICAgIHJlY2hhZ2VfY291bnQgPSAwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFByb3h5QWdlbnQoKS5kZWxldGUoa2V5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVxdWVzdF92ZXJpZnlfY29kZV9zY2hlbWEgPSB7CiAgICAidHlwZSI6ICJvYmplY3QiLAogICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgImF1dGhlbnRpY2F0b3IiOiB7InR5cGUiOiAic3RyaW5nIn0sCiAgICAgICAgInVzYWdlIjogeyJ0eXBlIjogInN0cmluZyJ9LAogICAgfSwKICAgICJyZXF1aXJlZCI6IFsiYXV0aGVudGljYXRvciIsICJ1c2FnZSJdCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWVzdF92ZXJpZnlfY29kZV9zY2hlbWEgPSB7CiAgICAidHlwZSI6ICJvYmplY3QiLAogICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgImF1dGhlbnRpY2F0b3IiOiB7InR5cGUiOiAic3RyaW5nIn0sCiAgICAgICAgInVzYWdlIjogeyJ0eXBlIjogInN0cmluZyJ9LAogICAgfSwKICAgICJyZXF1aXJlZCI6IFsiYXV0aGVudGljYXRvciIsICJ1c2FnZSJdCn0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -535,7 +520,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgUmVxdWVzdFZlcmlmeUNvZGVWYWxpZGF0b3IoSW5wdXRzKToKICAgIGpzb24gPSBbSnNvblNjaGVtYShzY2hlbWE9cmVxdWVzdF92ZXJpZnlfY29kZV9zY2hlbWEpXQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>250</text>
