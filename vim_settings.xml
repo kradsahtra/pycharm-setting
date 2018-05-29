@@ -61,6 +61,12 @@
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/stats/ks_report.py" timestamp="1525749156815">
         <mark key="'" line="112" column="65" />
       </file>
+      <file name="$USER_HOME$/workspace/force/shared/utils/email.py" timestamp="1527561846133">
+        <mark key="'" line="29" column="22" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/loki-bigbang/bigbang/common/lottery/cyclical/ff_11x5/logic/activity.py" timestamp="1525675428895">
         <mark key="'" line="85" column="0" />
       </file>
@@ -157,11 +163,15 @@
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/sh_11x5/crawler.py" timestamp="1527151851361">
         <mark key="'" line="128" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/force/apps/main/main_view.py" timestamp="1527501091109">
-        <mark key="[" line="32" column="62" />
-        <mark key="]" line="32" column="77" />
-        <mark key="^" line="30" column="68" />
-        <mark key="." line="32" column="62" />
+      <file name="$USER_HOME$/workspace/force/apps/main/main_view.py" timestamp="1527561442336">
+        <mark key="[" line="44" column="58" />
+        <mark key="]" line="44" column="65" />
+        <mark key="^" line="44" column="65" />
+        <mark key="." line="44" column="65" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/cache/account.py" timestamp="1527560126130">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="67" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/api/management/commands/backup_data.py" timestamp="1525401124179">
         <mark key="'" line="68" column="8" />
@@ -228,6 +238,13 @@
         <mark key="]" line="201" column="33" />
         <mark key="^" line="201" column="33" />
         <mark key="." line="201" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/force/shared/utils/limits.py" timestamp="1527561436720">
+        <mark key="a" line="12" column="18" />
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="12" column="11" />
+        <mark key="^" line="12" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/coupon/db.py" timestamp="1527059691246">
         <mark key="'" line="33" column="12" />
@@ -370,12 +387,12 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/force/shared/cache.py" timestamp="1527300775810">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="35" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="30" column="15" />
+      <file name="$USER_HOME$/workspace/force/shared/cache.py" timestamp="1527560482485">
+        <mark key="'" line="11" column="12" />
+        <mark key="[" line="70" column="10" />
+        <mark key="]" line="70" column="20" />
+        <mark key="^" line="70" column="20" />
+        <mark key="." line="70" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/witch-bigbang/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1525660917977">
         <mark key="'" line="709" column="6" />
@@ -403,37 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="17" filename="$USER_HOME$/workspace/witch/bot/main.py" />
-      <jump line="15" column="12" filename="$USER_HOME$/workspace/witch/bot/main.py" />
-      <jump line="0" column="11" filename="$USER_HOME$/workspace/force/requirements.txt" />
-      <jump line="11" column="28" filename="$USER_HOME$/workspace/force/shared/cache.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/force/settings.py" />
-      <jump line="92" column="0" filename="$USER_HOME$/workspace/force/settings.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/workspace/force/settings_env.py" />
-      <jump line="20" column="23" filename="$USER_HOME$/workspace/loki/agency_pay/common/store/cache.py" />
-      <jump line="19" column="11" filename="$USER_HOME$/workspace/force/shared/cache.py" />
-      <jump line="38" column="4" filename="$USER_HOME$/workspace/force/shared/cache.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/workspace/force/shared/cache.py" />
-      <jump line="12" column="35" filename="$USER_HOME$/workspace/force/shared/utils/authentication.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/workspace/force/shared/utils/authentication.py" />
-      <jump line="28" column="27" filename="$USER_HOME$/workspace/force/main_app.py" />
-      <jump line="8" column="31" filename="$USER_HOME$/workspace/force/settings_test.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/force/settings_test.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/force/settings_env.py" />
-      <jump line="65" column="15" filename="$USER_HOME$/workspace/force/shared/utils/authentication.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/force/shared/utils/authentication.py" />
-      <jump line="37" column="5" filename="$USER_HOME$/workspace/force/settings.py" />
-      <jump line="180" column="18" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/admin/urls.py" />
-      <jump line="3" column="18" filename="$USER_HOME$/workspace/force/apps/main/main_view.py" />
-      <jump line="14" column="13" filename="$USER_HOME$/workspace/force/apps/main/main_view.py" />
-      <jump line="21" column="4" filename="$USER_HOME$/workspace/force/apps/main/main_view.py" />
-      <jump line="54" column="4" filename="$USER_HOME$/workspace/force/shared/models.py" />
-      <jump line="12" column="31" filename="$USER_HOME$/workspace/force/shared/utils/auth.py" />
-      <jump line="32" column="4" filename="$USER_HOME$/workspace/force/shared/utils/auth.py" />
-      <jump line="7" column="6" filename="$USER_HOME$/workspace/force/requirements.txt" />
-      <jump line="19" column="52" filename="$USER_HOME$/workspace/force/main_app.py" />
-      <jump line="7" column="29" filename="$USER_HOME$/workspace/force/main_app.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/force/shared/models.py" />
       <jump line="26" column="0" filename="$USER_HOME$/workspace/force/shared/controllers.py" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/force/shared/controllers.py" />
       <jump line="30" column="0" filename="$USER_HOME$/workspace/force/shared/controllers.py" />
@@ -503,49 +489,80 @@
       <jump line="16" column="25" filename="$USER_HOME$/workspace/force/shared/models.py" />
       <jump line="8" column="4" filename="$USER_HOME$/workspace/force/shared/utils/authentication.py" />
       <jump line="105" column="15" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/account/view.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="72" column="21" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="81" column="11" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="12" column="45" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="15" column="12" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="16" column="23" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="19" column="17" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="20" column="35" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="37" column="15" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="39" column="24" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="42" column="15" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="43" column="31" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="48" column="4" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="49" column="15" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="53" column="4" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="54" column="24" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="59" column="4" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="60" column="15" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="64" column="4" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="65" column="24" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="69" column="16" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="70" column="18" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="71" column="22" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="73" column="19" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="77" column="25" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="82" column="20" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="11" column="12" filename="$USER_HOME$/workspace/force/shared/cache.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/force/shared/utils/email.py" />
+      <jump line="14" column="49" filename="$USER_HOME$/workspace/force/shared/utils/email.py" />
+      <jump line="29" column="22" filename="$USER_HOME$/workspace/force/shared/utils/email.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygKICAgICAgICAiI2RlYnVnIyByZWNoYXJnZV9hbW91bnQ6ICVzLCBhY3RpdmVfZGF5czogJXMsIGJ1eV9jb3VudDogJXMiICUgKHJlY2hhcmdlX2Ftb3VudCwgYWN0aXZlX2RheXMsIGJ1eV9jb3VudCkpCg==</text>
+        <text encoding="base64">ICAgICIiIlNlbmQgYW4gZW1haWwgdG8gYSBzcGVjaWZpZWQgdXNlciBvciB1c2Vycy4KCiAgICBUaGlzIGlzIGEgYmFzaWMgd3JhcHBlciBhcm91bmQgcHl0aG9uJ3MgU1RNUExJQiBsaWJyYXJ5IHRoYXQgYWxsb3dzIHVzIHRvCiAgICBzZW5kIGVtYWlscyB0byB0aGUgdXNlcnMgaW4gY2FzZSBpdCdzIG5lY2Vzc2FyeS4gQW55IGZhaWx1cmUgb2YgdGhpcwogICAgc2NyaXB0IGlzIGNvbnNpZGVyZWQgZmF0YWwuCiAgICAiIiIK</text>
       </register>
       <register name="-" type="4">
-        <text>ac</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kX2F1dGhfY29kZVw+</text>
+        <text encoding="base64">XDxmcm9tX2FkZHJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG90dGVyeV9wcmlvcml0eVtlYWNoLnR5cGVdID0gZWFjaC5wcmlvcml0eQo=</text>
+      <register name="0" type="4">
+        <text>check_identity_count</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygKICAgICAgICAiI2RlYnVnIyByZWNoYXJnZV9hbW91bnQ6ICVzLCBhY3RpdmVfZGF5czogJXMsIGJ1eV9jb3VudDogJXMiICUgKHJlY2hhcmdlX2Ftb3VudCwgYWN0aXZlX2RheXMsIGJ1eV9jb3VudCkpCg==</text>
+        <text encoding="base64">ICAgICIiIlNlbmQgYW4gZW1haWwgdG8gYSBzcGVjaWZpZWQgdXNlciBvciB1c2Vycy4KCiAgICBUaGlzIGlzIGEgYmFzaWMgd3JhcHBlciBhcm91bmQgcHl0aG9uJ3MgU1RNUExJQiBsaWJyYXJ5IHRoYXQgYWxsb3dzIHVzIHRvCiAgICBzZW5kIGVtYWlscyB0byB0aGUgdXNlcnMgaW4gY2FzZSBpdCdzIG5lY2Vzc2FyeS4gQW55IGZhaWx1cmUgb2YgdGhpcwogICAgc2NyaXB0IGlzIGNvbnNpZGVyZWQgZmF0YWwuCiAgICAiIiIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmluZm8oJyNkZWJ1ZyMgdXNlcl9pZDogJXMsIGVhY2gudHlwZTogJXMnICUgKHVzZXJfaWQsIGVhY2gudHlwZSkpCg==</text>
+        <text encoding="base64">ZnJvbSBjb21tb24udXRpbHMubG9ncyBpbXBvcnQgQVBJX0xPR0dFUgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXV0aGVudGljYXRvcl90eXBlID0gCg==</text>
+        <text encoding="base64">IiIiRW1haWwgc2VuZGVyLgoKQmFzaWMgbW9kdWxlIHRvIHNlbmQgZW1haWxzIGZyb20gdGhlIHBsYXRmb3JtIHVzaW5nIHRoZSBzdGFuZGFyZCBQeXRob24gU01UUAptZWNoYW5pc2htLgoiIiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlY2hhZ2VfY291bnQgPSAwCg==</text>
+        <text encoding="base64">ICAgIEFQSV9MT0dHRVIuaW5mbygnaXA6ICVzJyAlIGlwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFByb3h5QWdlbnQoKS5kZWxldGUoa2V5KQo=</text>
+        <text encoding="base64">ICAgIHBhcmFtcyA9IHJlcXVlc3QuZ2V0X2pzb24oKQogICAgYXV0aGVudGljYXRvciA9IHBhcmFtcy5nZXQoJ2F1dGhlbnRpY2F0b3InKQogICAgaWRlbnRpdHkgPSBwYXJhbXMuZ2V0KCdpZGVudGl0eScpCiAgICB1c2FnZSA9IHBhcmFtcy5nZXQoJ3VzYWdlJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QGNhY2hlX3dyYXBwZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmRlZiBjaGVja19pcF9jb3VudChpcCk6CiAgICBsb25nX2tleSA9IHByZWZpeF9rZXkoJ2lwY291bnQ6JXMnICUgaXApCiAgICBsb25nX2NoZWNrID0gY2hlY2tfY291bnQobG9uZ19rZXksIDIsIDUsIDM2MDAsIDM2MDApCiAgICByZXR1cm4gbG9uZ19jaGVjawoKCkBjYWNoZV93cmFwcGVyCmRlZiBjaGVja19waG9uZV9jb3VudChwaG9uZSk6CiAgICBrZXkgPSBwcmVmaXhfa2V5KCdwaG9uZWNvdW50OiVzJyAlIHBob25lKQogICAgcGhvbmVfY2hlY2sgPSBjaGVja19jb3VudChrZXksIDIsIDUsIDEyICogMzYwMCwgMTIgKiAzNjAwKQogICAgcmV0dXJuIHBob25lX2NoZWNrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWVzdF92ZXJpZnlfY29kZV9zY2hlbWEgPSB7CiAgICAidHlwZSI6ICJvYmplY3QiLAogICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgImF1dGhlbnRpY2F0b3IiOiB7InR5cGUiOiAic3RyaW5nIn0sCiAgICAgICAgInVzYWdlIjogeyJ0eXBlIjogInN0cmluZyJ9LAogICAgfSwKICAgICJyZXF1aXJlZCI6IFsiYXV0aGVudGljYXRvciIsICJ1c2FnZSJdCn0K</text>
+        <text encoding="base64">ZGVmIGNoZWNrX2lwX2NvdW50KGlwKToKICAgIGxvbmdfa2V5ID0gcHJlZml4X2tleSgnaXBjb3VudDolcycgJSBpcCkKICAgIGxvbmdfY2hlY2sgPSBjaGVja19jb3VudChsb25nX2tleSwgMiwgNSwgMzYwMCwgMzYwMCkKICAgIHJldHVybiBsb25nX2NoZWNrCgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -555,9 +572,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5kX2F1dGhfY29kZVw+</last-search>
+      <last-search encoding="base64">XDxmcm9tX2FkZHJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kX2F1dGhfY29kZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxmcm9tX2FkZHJcPg==</last-pattern>
       <last-replace>track</last-replace>
       <last-substitute>win</last-substitute>
       <last-dir>1</last-dir>
@@ -565,10 +582,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZF8xMXg1X29yZGVyXD4=</entry>
-        <entry encoding="base64">XDxqeF8xMXg1X29yZGVyXD4=</entry>
-        <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
-        <entry encoding="base64">XDxzbGF2ZVw+</entry>
         <entry encoding="base64">XDxib3RcPg==</entry>
         <entry encoding="base64">XDxnZXRfY2RuX3N0YXRpY19maWxlXD4=</entry>
         <entry encoding="base64">XDxNQVhfR0FNRV9QUk9GSVRcPg==</entry>
@@ -585,6 +598,10 @@
         <entry encoding="base64">XDxtZ1w+</entry>
         <entry encoding="base64">XDxqc29uXD4=</entry>
         <entry encoding="base64">XDxzZW5kX2F1dGhfY29kZVw+</entry>
+        <entry encoding="base64">XDxpbmNyXD4=</entry>
+        <entry encoding="base64">XDxrZXlcPg==</entry>
+        <entry encoding="base64">XDxERUZBVUxUX0VNQUlMX0ZST01cPg==</entry>
+        <entry encoding="base64">XDxmcm9tX2FkZHJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
