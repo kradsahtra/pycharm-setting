@@ -250,12 +250,12 @@
         <mark key="[" line="201" column="62" />
         <mark key="]" line="201" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/force/shared/models.py" timestamp="1527564091417">
+      <file name="$USER_HOME$/workspace/force/shared/models.py" timestamp="1527580107561">
         <mark key="'" line="27" column="20" />
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="27" column="24" />
-        <mark key="." line="27" column="24" />
-        <mark key="^" line="27" column="24" />
+        <mark key="[" line="29" column="34" />
+        <mark key="]" line="29" column="36" />
+        <mark key="." line="29" column="36" />
+        <mark key="^" line="29" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bot/jobs.py" timestamp="1527577954493">
         <mark key="'" line="24" column="39" />
@@ -368,11 +368,11 @@
       <jump line="33" column="0" filename="$USER_HOME$/workspace/force/main_app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>VARCHAR</text>
       </register>
       <register name="-" type="4">
-        <text>datetime.utcnow()</text>
+        <text>VARCHAR</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9maXRfcmF0ZVw+</text>
