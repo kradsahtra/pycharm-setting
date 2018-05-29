@@ -358,8 +358,8 @@
         <mark key="[" line="106" column="5" />
         <mark key="]" line="106" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1527566005182">
-        <mark key="'" line="718" column="54" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1527576421861">
+        <mark key="'" line="731" column="24" />
         <mark key="[" line="721" column="17" />
         <mark key="]" line="721" column="18" />
         <mark key="." line="721" column="18" />
@@ -416,10 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="21" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/fix_missing_track_index.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/fix_missing_track_index.py" />
-      <jump line="27" column="49" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/fix_missing_track_index.py" />
-      <jump line="25" column="23" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/fix_missing_track_index.py" />
       <jump line="35" column="24" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/fix_missing_track_index.py" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/fix_missing_track_index.py" />
       <jump line="28" column="8" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/manual_apply_winner.py" />
@@ -516,6 +512,10 @@
       <jump line="717" column="26" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
       <jump line="24" column="58" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
       <jump line="718" column="54" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
+      <jump line="207" column="20" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
+      <jump line="737" column="62" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
+      <jump line="712" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
+      <jump line="731" column="24" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -525,7 +525,7 @@
         <text>J</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDUV9TU0NfQkVUX1RZUEVcPg==</text>
+        <text encoding="base64">XDxESVNBQkxFX0JFVF9UWVBFU1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIExPVFRFUllfVFlQRS5YSl9TU0M6IFtTU0NfQkVUX1RZUEUuVFdPX0JBQ0tfU1VNLCBdLAo=</text>
@@ -568,9 +568,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDUV9TU0NfQkVUX1RZUEVcPg==</last-search>
+      <last-search encoding="base64">XDxESVNBQkxFX0JFVF9UWVBFU1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDUV9TU0NfQkVUX1RZUEVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxESVNBQkxFX0JFVF9UWVBFU1w+</last-pattern>
       <last-replace>track</last-replace>
       <last-substitute>win</last-substitute>
       <last-dir>1</last-dir>
@@ -578,7 +578,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1bmlvbl9jbGllbnRcPg==</entry>
         <entry>rechar</entry>
         <entry encoding="base64">XDxvdmVydmlld19qb2JcPg==</entry>
         <entry encoding="base64">XDxDYWNoZVw+</entry>
@@ -598,6 +597,7 @@
         <entry encoding="base64">XDxpZGVudGl0eVw+</entry>
         <entry encoding="base64">XDxGRl9LU19CRVRfVFlQRVw+</entry>
         <entry encoding="base64">XDxDUV9TU0NfQkVUX1RZUEVcPg==</entry>
+        <entry encoding="base64">XDxESVNBQkxFX0JFVF9UWVBFU1w+</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
