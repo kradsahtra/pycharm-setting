@@ -161,11 +161,11 @@
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/sh_11x5/crawler.py" timestamp="1527151851361">
         <mark key="'" line="128" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/force/apps/main/main_view.py" timestamp="1527564059957">
+      <file name="$USER_HOME$/workspace/force/apps/main/main_view.py" timestamp="1527583226203">
         <mark key="[" line="48" column="57" />
-        <mark key="]" line="48" column="81" />
-        <mark key="^" line="48" column="81" />
-        <mark key="." line="48" column="81" />
+        <mark key="]" line="48" column="63" />
+        <mark key="^" line="48" column="63" />
+        <mark key="." line="48" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/cache/account.py" timestamp="1527560126130">
         <mark key="[" line="57" column="0" />
@@ -281,12 +281,12 @@
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/third/pay/unionagency.py" timestamp="1526886641901">
         <mark key="'" line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/force/shared/utils/exceptions.py" timestamp="1527564051438">
-        <mark key="'" line="19" column="8" />
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="14" />
-        <mark key="." line="7" column="23" />
-        <mark key="^" line="7" column="22" />
+      <file name="$USER_HOME$/workspace/force/shared/utils/exceptions.py" timestamp="1527583163292">
+        <mark key="'" line="20" column="8" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="10" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/force/main_app.py" timestamp="1527581728718">
         <mark key="'" line="29" column="15" />
@@ -505,28 +505,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>DUPLICATED_IDENTITY</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>DUPLICATED_IDENTITY</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>datetime.utcnow()</text>
+        <text>ErrorCode.DUPLICATED_IDENTITY.value</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBjaGVja19pcF9jb3VudChpcCkgb3Igbm90IGNoZWNrX2lkZW50aXR5X2NvdW50KGlkZW50aXR5KToKICAgICAgICByZXR1cm4ganNvbmlmeShjYXB0Y2hhPVRydWUpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -535,13 +535,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBhcHAucnVuKGRlYnVnPVRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmNsYXNzIEFjY291bnRUb2tlbihEQi5Nb2RlbCk6CiAgICBfX3RhYmxlbmFtZV9fID0gImFjY291bnRfdG9rZW4iCiAgICBfX2JpbmRfa2V5X18gPSAnYmlnYmFuZycKICAgIHVzZXJfaWQgPSBEQi5Db2x1bW4oREIuQmlnSW50ZWdlciwgcHJpbWFyeV9rZXk9VHJ1ZSkKICAgIHRva2VuID0gREIuQ29sdW1uKERCLlZBUkNIQVIsIHByaW1hcnlfa2V5PVRydWUpICAjIHV1aWQKICAgIGNobiA9IERCLkNvbHVtbihEQi5WQVJDSEFSKQogICAgY3ZjID0gREIuQ29sdW1uKERCLlZBUkNIQVIpCiAgICBkZWxldGVkID0gREIuQ29sdW1uKERCLlNNQUxMSU5UKQogICAgZXh0ZW5kID0gREIuQ29sdW1uKERCLlZBUkNIQVIpCiAgICBjcmVhdGVkX2F0ID0gREIuQ29sdW1uKERCLkRBVEVUSU1FKQogICAgdXBkYXRlZF9hdCA9IERCLkNvbHVtbihEQi5EQVRFVElNRSkKCgpjbGFzcyBBZ2VudChEQi5Nb2RlbCwgQmFzZU5lc3RlZFNldHMpOgogICAgX190YWJsZW5hbWVfXyA9ICdhZ2VudCcKICAgIF9fYmluZF9rZXlfXyA9ICdiaWdiYW5nJwogICAgaWQgPSBEQi5Db2x1bW4oREIuQmlnSW50ZWdlciwgcHJpbWFyeV9rZXk9VHJ1ZSwgYXV0b2luY3JlbWVudD1UcnVlKQogICAgdXNlcl9pZCA9IERCLkNvbHVtbihEQi5CaWdJbnRlZ2VyKQogICAgYm9udXNfcmF0ZSA9IERCLkNvbHVtbihEQi5GbG9hdCwgZGVmYXVsdD0wKQogICAgam9pbl9kYXRlID0gREIuQ29sdW1uKERCLkRBVEVUSU1FLCBkZWZhdWx0PWRhdGV0aW1lLmRhdGV0aW1lLm5vdykKICAgIGlzX2xvY2tlZCA9IERCLkNvbHVtbihEQi5Cb29sZWFuLCBkZWZhdWx0PUZhbHNlKQo=</text>
+        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBhcHAucnVuKGRlYnVnPVRydWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNsYXNzIEFjY291bnRUb2tlbihEQi5Nb2RlbCk6CiAgICBfX3RhYmxlbmFtZV9fID0gImFjY291bnRfdG9rZW4iCiAgICBfX2JpbmRfa2V5X18gPSAnYmlnYmFuZycKICAgIHVzZXJfaWQgPSBEQi5Db2x1bW4oREIuQmlnSW50ZWdlciwgcHJpbWFyeV9rZXk9VHJ1ZSkKICAgIHRva2VuID0gREIuQ29sdW1uKERCLlZBUkNIQVIsIHByaW1hcnlfa2V5PVRydWUpICAjIHV1aWQKICAgIGNobiA9IERCLkNvbHVtbihEQi5WQVJDSEFSKQogICAgY3ZjID0gREIuQ29sdW1uKERCLlZBUkNIQVIpCiAgICBkZWxldGVkID0gREIuQ29sdW1uKERCLlNNQUxMSU5UKQogICAgZXh0ZW5kID0gREIuQ29sdW1uKERCLlZBUkNIQVIpCiAgICBjcmVhdGVkX2F0ID0gREIuQ29sdW1uKERCLkRBVEVUSU1FKQogICAgdXBkYXRlZF9hdCA9IERCLkNvbHVtbihEQi5EQVRFVElNRSkKCgpjbGFzcyBBZ2VudChEQi5Nb2RlbCwgQmFzZU5lc3RlZFNldHMpOgogICAgX190YWJsZW5hbWVfXyA9ICdhZ2VudCcKICAgIF9fYmluZF9rZXlfXyA9ICdiaWdiYW5nJwogICAgaWQgPSBEQi5Db2x1bW4oREIuQmlnSW50ZWdlciwgcHJpbWFyeV9rZXk9VHJ1ZSwgYXV0b2luY3JlbWVudD1UcnVlKQogICAgdXNlcl9pZCA9IERCLkNvbHVtbihEQi5CaWdJbnRlZ2VyKQogICAgYm9udXNfcmF0ZSA9IERCLkNvbHVtbihEQi5GbG9hdCwgZGVmYXVsdD0wKQogICAgam9pbl9kYXRlID0gREIuQ29sdW1uKERCLkRBVEVUSU1FLCBkZWZhdWx0PWRhdGV0aW1lLmRhdGV0aW1lLm5vdykKICAgIGlzX2xvY2tlZCA9IERCLkNvbHVtbihEQi5Cb29sZWFuLCBkZWZhdWx0PUZhbHNlKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
