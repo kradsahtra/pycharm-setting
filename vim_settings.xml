@@ -66,12 +66,12 @@
       <file name="$USER_HOME$/workspace/loki-bigbang/bigbang/common/lottery/cyclical/ff_11x5/logic/activity.py" timestamp="1525675428895">
         <mark key="'" line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/force/requirements.txt" timestamp="1527673059241">
+      <file name="$USER_HOME$/workspace/force/requirements.txt" timestamp="1527738718669">
         <mark key="'" line="7" column="6" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="18" column="9" />
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="19" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/utils/decorator.py" timestamp="1527473526235">
         <mark key="'" line="113" column="0" />
@@ -158,8 +158,8 @@
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/sh_11x5/crawler.py" timestamp="1527151851361">
         <mark key="'" line="128" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/force/apps/main/main_view.py" timestamp="1527737831233">
-        <mark key="'" line="152" column="11" />
+      <file name="$USER_HOME$/workspace/force/apps/main/main_view.py" timestamp="1527738837718">
+        <mark key="'" line="154" column="36" />
         <mark key="[" line="157" column="11" />
         <mark key="]" line="157" column="44" />
         <mark key="." line="157" column="44" />
@@ -389,12 +389,12 @@
       <file name="$USER_HOME$/.pyenv/versions/force/lib/python3.6/site-packages/flask_jwt/__init__.py" timestamp="1527672005170">
         <mark key="'" line="121" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/force/shared/models.py" timestamp="1527737872313">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="48" column="22" />
-        <mark key="]" line="48" column="21" />
-        <mark key="." line="48" column="21" />
-        <mark key="^" line="48" column="21" />
+      <file name="$USER_HOME$/workspace/force/shared/models.py" timestamp="1527738855319">
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="46" column="6" />
+        <mark key="]" line="46" column="10" />
+        <mark key="." line="49" column="5" />
+        <mark key="^" line="49" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bot/jobs.py" timestamp="1527577954493">
         <mark key="'" line="24" column="39" />
@@ -405,7 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="24" filename="$USER_HOME$/workspace/witch/bot/bussiness_logic.py" />
       <jump line="43" column="21" filename="$USER_HOME$/workspace/force/shared/utils/authentication.py" />
       <jump line="67" column="21" filename="$USER_HOME$/workspace/force/shared/utils/authentication.py" />
       <jump line="68" column="21" filename="$USER_HOME$/workspace/force/shared/utils/authentication.py" />
@@ -505,19 +504,20 @@
       <jump line="22" column="6" filename="$USER_HOME$/workspace/force/shared/models.py" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/force/shared/models.py" />
       <jump line="29" column="4" filename="$USER_HOME$/workspace/force/shared/models.py" />
+      <jump line="154" column="36" filename="$USER_HOME$/workspace/force/apps/main/main_view.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BigInteger</text>
+        <text>Token</text>
       </register>
       <register name="-" type="4">
-        <text>BigInteger</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhYm9ydF9qc29uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlkID0gREIuQ29sdW1uKERCLkJpZ0ludGVnZXIsIHByaW1hcnlfa2V5PVRydWUpCg==</text>
+      <register name="0" type="4">
+        <text>Token</text>
       </register>
       <register name="p" type="4">
         <text />
