@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/model.py" timestamp="1527822780472">
+        <mark key="[" line="75" column="28" />
+        <mark key="]" line="75" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/admin/stats/account.py" timestamp="1527819401027">
         <mark key="[" line="49" column="39" />
         <mark key="]" line="49" column="46" />
@@ -237,6 +241,12 @@
       </file>
       <file name="$USER_HOME$/workspace/witch-kfc/deploy/online/deploy.json" timestamp="1525936251696">
         <mark key="'" line="46" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/preset/model/preset.py" timestamp="1527822781777">
+        <mark key="[" line="133" column="30" />
+        <mark key="]" line="133" column="37" />
+        <mark key="." line="133" column="30" />
+        <mark key="^" line="133" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/fix_missing_track_index.py" timestamp="1527321121085">
         <mark key="'" line="14" column="0" />
@@ -538,17 +548,17 @@
       <jump line="392" column="13" filename="$USER_HOME$/workspace/witch/bigbang/bigbangweb/templates/stats/AccountDetail.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8JSBpZihhbGlwYXkpeyAlPgogICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tZGVmYXVsdCBidG4tc20iIG9uY2xpY2s9InVuYmluZF9maW5hbmNpYWxfYWNjb3VudCg8JT0gaWQgJT4sICdhbGlwYXknKTsiPuino+e7keaUr+S7mOWunTwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgIDwlIH0gJT4KICAgICAgICAgICAgICAgICAgICA8JSBpZihiYW5rX2NhcmQpeyAlPgogICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tZGVmYXVsdCBidG4tc20iIG9uY2xpY2s9InVuYmluZF9maW5hbmNpYWxfYWNjb3VudCg8JT0gaWQgJT4sICdiYW5rX2NhcmQnKTsiPuino+e7kemTtuihjOWNoTwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgIDwlIH0gJT4KICAgICAgICAgICAgICAgICAgICA8JSBpZih3ZWNoYXQpeyAlPgogICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tZGVmYXVsdCBidG4tc20iIG9uY2xpY2s9InVuYmluZF9maW5hbmNpYWxfYWNjb3VudCg8JT0gaWQgJT4sICd3ZWNoYXQnKTsiPuino+e7keW+ruS/oTwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgIDwlIH0gJT4K</text>
+      <register name="&quot;" type="4">
+        <text>VARCHAR</text>
       </register>
       <register name="-" type="4">
-        <text>json.loads(req.body)</text>
+        <text>TEXT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1bmJpbmRfZmluYW5jaWFsX2FjY291bnRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8JSBpZihiYW5rX2NhcmQpeyAlPgogICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tZGVmYXVsdCBidG4tc20iIG9uY2xpY2s9InVuYmluZF9maW5hbmNpYWxfYWNjb3VudCg8JT0gaWQgJT4sICdiYW5rX2NhcmQnKTsiPuino+e7kemTtuihjOWNoTwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgIDwlIH0gJT4K</text>
+      <register name="0" type="4">
+        <text>VARCHAR</text>
       </register>
       <register name="p" type="4">
         <text />
