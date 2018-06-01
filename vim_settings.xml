@@ -377,8 +377,12 @@
         <mark key="." line="14" column="17" />
         <mark key="^" line="14" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/preset/handler.py" timestamp="1527502702938">
-        <mark key="'" line="170" column="17" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/preset/handler.py" timestamp="1527836189271">
+        <mark key="'" line="171" column="17" />
+        <mark key="[" line="128" column="30" />
+        <mark key="]" line="128" column="38" />
+        <mark key="." line="128" column="30" />
+        <mark key="^" line="128" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/admin/urls.py" timestamp="1527820314834">
         <mark key="'" line="204" column="50" />
@@ -551,16 +555,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BACK</text>
+        <text>highlight</text>
       </register>
       <register name="-" type="4">
-        <text>BACK</text>
+        <text>highlight</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1bmJpbmRfZmluYW5jaWFsX2FjY291bnRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>SUBMIT_TO_THIRD</text>
+        <text>category</text>
       </register>
       <register name="p" type="4">
         <text />
