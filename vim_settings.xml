@@ -3,9 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/model.py" timestamp="1527822780472">
-        <mark key="[" line="75" column="28" />
-        <mark key="]" line="75" column="34" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/model.py" timestamp="1527824590433">
+        <mark key="[" line="41" column="37" />
+        <mark key="]" line="41" column="38" />
+        <mark key="." line="41" column="38" />
+        <mark key="^" line="40" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/admin/stats/account.py" timestamp="1527819401027">
         <mark key="[" line="49" column="39" />
@@ -190,7 +192,7 @@
         <mark key="." line="44" column="27" />
         <mark key="^" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/deploy/online/deploy.yaml" timestamp="1526979974703">
+      <file name="$USER_HOME$/workspace/witch/bigbang/deploy/online/deploy.yaml" timestamp="1527824311998">
         <mark key="'" line="12" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/utils/respcode.py" timestamp="1527759766778">
@@ -401,7 +403,7 @@
         <mark key="." line="721" column="18" />
         <mark key="^" line="721" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527818577642">
+      <file name="/Dummy.txt" timestamp="1527824593041">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
@@ -549,16 +551,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>VARCHAR</text>
+        <text>BACK</text>
       </register>
       <register name="-" type="4">
-        <text>TEXT</text>
+        <text>BACK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1bmJpbmRfZmluYW5jaWFsX2FjY291bnRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>VARCHAR</text>
+        <text>SUBMIT_TO_THIRD</text>
       </register>
       <register name="p" type="4">
         <text />
