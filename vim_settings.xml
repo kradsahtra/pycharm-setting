@@ -136,11 +136,11 @@
         <mark key="." line="55" column="66" />
         <mark key="^" line="55" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/handler.py" timestamp="1526979241715">
-        <mark key="[" line="97" column="72" />
-        <mark key="]" line="98" column="27" />
-        <mark key="^" line="98" column="27" />
-        <mark key="." line="98" column="27" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/handler.py" timestamp="1527904409242">
+        <mark key="[" line="52" column="49" />
+        <mark key="]" line="53" column="33" />
+        <mark key="^" line="53" column="33" />
+        <mark key="." line="53" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/migrate_sharding_transaction.py" timestamp="1527839407395">
         <mark key="[" line="13" column="42" />
@@ -158,6 +158,12 @@
         <mark key="]" line="201" column="33" />
         <mark key="^" line="201" column="33" />
         <mark key="." line="201" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/lottery/view.py" timestamp="1527904538951">
+        <mark key="[" line="249" column="60" />
+        <mark key="]" line="249" column="71" />
+        <mark key="^" line="249" column="71" />
+        <mark key="." line="249" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/preset/model/preset.py" timestamp="1527822781777">
         <mark key="[" line="133" column="30" />
@@ -346,6 +352,12 @@
         <mark key="^" line="55" column="43" />
         <mark key="." line="55" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/lottery/cq_ssc/order/handler.py" timestamp="1527904684274">
+        <mark key="[" line="46" column="39" />
+        <mark key="]" line="47" column="38" />
+        <mark key="^" line="47" column="38" />
+        <mark key="." line="47" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/pay/model.py" timestamp="1527842239810">
         <mark key="'" line="8" column="5" />
         <mark key="[" line="8" column="5" />
@@ -470,10 +482,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>total_amount</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>total_amount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNoYXJnZUFwcGx5XD4=</text>
