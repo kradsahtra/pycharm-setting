@@ -9,7 +9,7 @@
         <mark key="]" line="66" column="43" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/model.py" timestamp="1527910573649">
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/model.py" timestamp="1528250777600">
         <mark key="[" line="25" column="5" />
         <mark key="]" line="25" column="8" />
         <mark key="." line="41" column="38" />
@@ -71,8 +71,8 @@
         <mark key="^" line="573" column="7" />
         <mark key="." line="573" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/account/model/account.py" timestamp="1527761346576">
-        <mark key="'" line="59" column="6" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/account/model/account.py" timestamp="1528250939546">
+        <mark key="'" line="54" column="19" />
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="^" line="66" column="7" />
@@ -120,6 +120,10 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="68" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/third/pay/unionagency.py" timestamp="1528251119315">
+        <mark key="'" line="119" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/preset/view.py" timestamp="1528251275405" />
       <file name="$USER_HOME$/workspace/force/README.md" timestamp="1527587228093">
         <mark key="[" line="8" column="38" />
         <mark key="]" line="8" column="79" />
@@ -255,6 +259,9 @@
         <mark key="." line="94" column="0" />
         <mark key="^" line="93" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_test.py" timestamp="1528251536822">
+        <mark key="'" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/utils/respcode.py" timestamp="1527759766778">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="55" column="5" />
@@ -318,9 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="27" filename="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/apps/stats/models.js" />
-      <jump line="11" column="12" filename="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/apps/stats/models.js" />
-      <jump line="67" column="68" filename="$USER_HOME$/workspace/witch/bigbang/bigbangweb/templates/stats/AccountDetail.html" />
       <jump line="376" column="13" filename="$USER_HOME$/workspace/witch/bigbang/bigbangweb/templates/stats/AccountDetail.html" />
       <jump line="378" column="32" filename="$USER_HOME$/workspace/witch/bigbang/bigbangweb/templates/stats/AccountDetail.html" />
       <jump line="70" column="102" filename="$USER_HOME$/workspace/witch/bigbang/bigbangweb/templates/stats/AccountDetail.html" />
@@ -418,6 +422,9 @@
       <jump line="135" column="12" filename="$USER_HOME$/workspace/witch/KFCService/luckyapi/views/kfc.py" />
       <jump line="138" column="75" filename="$USER_HOME$/workspace/witch/KFCService/luckyapi/views/kfc.py" />
       <jump line="140" column="33" filename="$USER_HOME$/workspace/witch/KFCService/luckyapi/views/kfc.py" />
+      <jump line="54" column="19" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/account/model/account.py" />
+      <jump line="119" column="32" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/third/pay/unionagency.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -427,7 +434,7 @@
         <text>cash_price</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhd2FyZF9jb2luXD4=</text>
+        <text encoding="base64">XDxiYW5rX2NhcmRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>int(cash_price)</text>
@@ -470,9 +477,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhd2FyZF9jb2luXD4=</last-search>
+      <last-search encoding="base64">XDxiYW5rX2NhcmRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhd2FyZF9jb2luXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxiYW5rX2NhcmRcPg==</last-pattern>
       <last-replace>track</last-replace>
       <last-substitute>win</last-substitute>
       <last-dir>1</last-dir>
@@ -480,7 +487,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdXRoX3VybF9ydWxlXD4=</entry>
         <entry encoding="base64">XDxKV1RfQVVUSF9VUkxfUlVMRVw+</entry>
         <entry encoding="base64">XDxjdXJyZW50X2FwcFw+</entry>
         <entry encoding="base64">XDxhdXRoZW50aWNhdGlvbl9jYWxsYmFja1w+</entry>
@@ -500,6 +506,7 @@
         <entry encoding="base64">XDxjb29raWVcPg==</entry>
         <entry encoding="base64">XDxPcmRlckluZGV4XD4=</entry>
         <entry encoding="base64">XDxhd2FyZF9jb2luXD4=</entry>
+        <entry encoding="base64">XDxiYW5rX2NhcmRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
