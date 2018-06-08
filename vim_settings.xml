@@ -109,10 +109,10 @@
         <mark key="." line="45" column="80" />
         <mark key="^" line="45" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/account/db/account.py" timestamp="1528424123195">
-        <mark key="[" line="338" column="19" />
-        <mark key="]" line="338" column="23" />
-        <mark key="." line="338" column="23" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/account/db/account.py" timestamp="1528424929349">
+        <mark key="[" line="343" column="30" />
+        <mark key="]" line="343" column="50" />
+        <mark key="." line="343" column="30" />
         <mark key="^" line="338" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/account/view.py" timestamp="1528424171815">
@@ -153,7 +153,7 @@
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/apps/stats/feedback.js" timestamp="1527930517100">
         <mark key="'" line="61" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528267120835">
+      <file name="/Dummy.txt" timestamp="1528425762488">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
@@ -186,12 +186,12 @@
         <mark key="^" line="40" column="82" />
         <mark key="." line="40" column="82" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/utils/respcode.py" timestamp="1527759766778">
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/utils/respcode.py" timestamp="1528425240072">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="55" column="5" />
-        <mark key="]" line="55" column="27" />
-        <mark key="." line="55" column="45" />
-        <mark key="^" line="55" column="45" />
+        <mark key="[" line="34" column="31" />
+        <mark key="]" line="34" column="32" />
+        <mark key="." line="34" column="32" />
+        <mark key="^" line="34" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/third/pay/unionagency.py" timestamp="1528254275513">
         <mark key="'" line="139" column="16" />
@@ -363,16 +363,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user_name</text>
+        <text>WRONG_USERNAME_PASSWORD</text>
       </register>
       <register name="-" type="4">
-        <text>user_name</text>
+        <text>WRONG_USERNAME_PASSWORD</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDSEFSR0VfVVJMXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwaG9uZSA9ICc4NicgKyB1c2VyX25hbWUKICAgICAgICB1c2VyID0gQWNjb3VudC5xdWVyeS5maWx0ZXIoQWNjb3VudC5waG9uZSA9PSBwaG9uZSkgXAogICAgICAgICAgICAuZmlsdGVyKEFjY291bnQucGFzc3dvcmQgPT0gcGFzc3dvcmQpLmZpcnN0KCkK</text>
+      <register name="0" type="4">
+        <text>WRONG_PHONE_PASSWORD</text>
       </register>
       <register name="p" type="4">
         <text />
