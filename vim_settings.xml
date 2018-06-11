@@ -96,6 +96,12 @@
       <file name="$USER_HOME$/workspace/witch/KFCService/luckyapi/views/kfc.py" timestamp="1528106567707">
         <mark key="'" line="140" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/__init__.py" timestamp="1528707600835">
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="28" column="23" />
+        <mark key="." line="28" column="23" />
+        <mark key="^" line="28" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bot/requirements.txt" timestamp="1527144728069">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="26" />
@@ -304,11 +310,18 @@
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/apps/stats/feedback.js" timestamp="1527930517100">
         <mark key="'" line="61" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528705222059">
+      <file name="/Dummy.txt" timestamp="1528707605882">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_release.py" timestamp="1528707068584">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="71" />
+        <mark key="." line="22" column="71" />
+        <mark key="^" line="22" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/model.py" timestamp="1528704026523">
         <mark key="[" line="31" column="4" />
@@ -397,7 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="34" filename="$USER_HOME$/workspace/witch/KFCService/luckyapi/views/kfc.py" />
       <jump line="100" column="16" filename="$USER_HOME$/workspace/witch/KFCService/luckyapi/views/kfc.py" />
       <jump line="102" column="16" filename="$USER_HOME$/workspace/witch/KFCService/luckyapi/views/kfc.py" />
       <jump line="109" column="20" filename="$USER_HOME$/workspace/witch/KFCService/luckyapi/views/kfc.py" />
@@ -497,13 +509,14 @@
       <jump line="20" column="13" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/utils/types.py" />
       <jump line="21" column="7" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/manual_recharge.py" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/fix_track_status.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_release.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvWydjcmVhdGVkX2F0J10gPSB0ei51dGNfc3RyX3RvX2xvY2FsX3N0cihpbmZvWydjcmVhdGVkX2F0J10pCg==</text>
+      <register name="&quot;" type="4">
+        <text>运</text>
       </register>
       <register name="-" type="4">
-        <text>sys.argv[1]</text>
+        <text>运</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZV9saXN0XD4=</text>
