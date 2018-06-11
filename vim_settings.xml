@@ -225,6 +225,12 @@
         <mark key="." line="67" column="13" />
         <mark key="^" line="67" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/fix_track_status.py" timestamp="1528701860109">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/preset/handler.py" timestamp="1528257536211">
         <mark key="'" line="130" column="42" />
         <mark key="[" line="135" column="86" />
@@ -381,7 +387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="16" filename="$USER_HOME$/workspace/witch/KFCService/luckyapi/views/kfc.py" />
       <jump line="84" column="34" filename="$USER_HOME$/workspace/witch/KFCService/luckyapi/views/kfc.py" />
       <jump line="100" column="16" filename="$USER_HOME$/workspace/witch/KFCService/luckyapi/views/kfc.py" />
       <jump line="102" column="16" filename="$USER_HOME$/workspace/witch/KFCService/luckyapi/views/kfc.py" />
@@ -481,10 +486,11 @@
       <jump line="32" column="20" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/utils/types.py" />
       <jump line="20" column="13" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/utils/types.py" />
       <jump line="21" column="7" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/manual_recharge.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/fix_track_status.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sys.argv[1]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpdGVtLmFjdGl2aXR5X3R5cGUK</text>
       </register>
       <register name="-" type="4">
         <text>sys.argv[1]</text>
@@ -499,34 +505,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KFBBWV9UWVBFLnZhbHVlX2xpc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICBpdGVtLmFjdGl2aXR5X3R5cGUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgIHByaW50KFBBWV9UWVBFLnZhbHVlX2xpc3QpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KDApCg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBheV90eXBlID0gc3lzLmFyZ3ZbMV0KICAgIHVpZCA9IHN5cy5hcmd2WzJdCiAgICBwYXlfYW1vdW50ID0gc3lzLmFyZ3ZbM10K</text>
+        <text encoding="base64">ICAgICAgICBleGl0KDApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCUgdmFyIG1vbWVudCA9IHJlcXVpcmUoJ21vbWVudCcpOyAlPgo=</text>
+        <text encoding="base64">ICAgIHBheV90eXBlID0gc3lzLmFyZ3ZbMV0KICAgIHVpZCA9IHN5cy5hcmd2WzJdCiAgICBwYXlfYW1vdW50ID0gc3lzLmFyZ3ZbM10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NoYW5nZSAjaW5wdXRBbGVydCc6ICd0b2dnbGVBbGVydCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCUgdmFyIG1vbWVudCA9IHJlcXVpcmUoJ21vbWVudCcpOyAlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NsaWNrIC5zaG9ydGN1dCc6ICdxdWlja0FkZCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NoYW5nZSAjaW5wdXRBbGVydCc6ICd0b2dnbGVBbGVydCcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NsaWNrIC5zd2l0Y2gta2V5JzogJ3N3aXRjaEtleScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NsaWNrIC5zaG9ydGN1dCc6ICdxdWlja0FkZCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NsaWNrICNhZGRGaWx0ZXInOiAnYWRkRmlsdGVyJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NsaWNrIC5zd2l0Y2gta2V5JzogJ3N3aXRjaEtleScsCg==</text>
       </register>
       <register name=":" type="4">
         <text>98</text>
