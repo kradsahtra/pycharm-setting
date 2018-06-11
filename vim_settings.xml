@@ -287,7 +287,7 @@
         <mark key="." line="112" column="28" />
         <mark key="^" line="112" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1528103466582">
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1528703812865">
         <mark key="'" line="695" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/apps/preset/models.js" timestamp="1528448393492">
@@ -303,6 +303,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/model.py" timestamp="1528704026523">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/frame/const.js" timestamp="1528449332917">
         <mark key="[" line="109" column="29" />
@@ -489,8 +493,8 @@
       <jump line="14" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/fix_track_status.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtLmFjdGl2aXR5X3R5cGUK</text>
+      <register name="&quot;" type="4">
+        <text>detail</text>
       </register>
       <register name="-" type="4">
         <text>sys.argv[1]</text>
@@ -499,7 +503,7 @@
         <text encoding="base64">XDx2YWx1ZV9saXN0XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>PAY_TYPE.value_list</text>
+        <text>detail</text>
       </register>
       <register name="p" type="4">
         <text />
