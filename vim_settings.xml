@@ -299,12 +299,12 @@
         <mark key="." line="112" column="28" />
         <mark key="^" line="112" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1528791792138">
-        <mark key="'" line="336" column="87" />
-        <mark key="[" line="467" column="0" />
-        <mark key="]" line="467" column="36" />
-        <mark key="." line="467" column="0" />
-        <mark key="^" line="461" column="88" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1528793913551">
+        <mark key="'" line="337" column="87" />
+        <mark key="[" line="272" column="43" />
+        <mark key="]" line="272" column="53" />
+        <mark key="." line="272" column="53" />
+        <mark key="^" line="272" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/apps/preset/models.js" timestamp="1528448393492">
         <mark key="'" line="107" column="22" />
@@ -330,6 +330,9 @@
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/model.py" timestamp="1528704026523">
         <mark key="[" line="31" column="4" />
         <mark key="]" line="31" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/timer/cyclical_handler.py" timestamp="1528793242352">
+        <mark key="'" line="176" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/frame/const.js" timestamp="1528449332917">
         <mark key="[" line="109" column="29" />
@@ -414,8 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="15" filename="$USER_HOME$/workspace/witch/KFCService/luckyapi/views/kfc.py" />
-      <jump line="134" column="51" filename="$USER_HOME$/workspace/witch/KFCService/luckyapi/views/kfc.py" />
       <jump line="135" column="12" filename="$USER_HOME$/workspace/witch/KFCService/luckyapi/views/kfc.py" />
       <jump line="138" column="75" filename="$USER_HOME$/workspace/witch/KFCService/luckyapi/views/kfc.py" />
       <jump line="140" column="33" filename="$USER_HOME$/workspace/witch/KFCService/luckyapi/views/kfc.py" />
@@ -514,16 +515,18 @@
       <jump line="311" column="12" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
       <jump line="312" column="12" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
       <jump line="336" column="87" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
+      <jump line="117" column="22" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/timer/cyclical_handler.py" />
+      <jump line="176" column="22" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/timer/cyclical_handler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9ybS5zZXNzaW9uLmNvbW1pdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG9yZGVyIGFuZCBvcmRlci50cmFja19pZDoKICAgICAgICAgICAgICAgICAgICBhc3luY19qb2IuZ2VuZXJhdGVfdHJhY2tfZGV0YWlsLmRlbGF5KG9yZGVyLnRyYWNrX2lkKQo=</text>
       </register>
       <register name="-" type="4">
         <text>ids</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWZ1bmRfaWRzXD4=</text>
+        <text encoding="base64">XDxtb3ZlX3RvX3RyYWNrZWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCcjZGVidWcjIGlkczogJXMnICUgaWRzKQo=</text>
@@ -532,43 +535,43 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9ybS5zZXNzaW9uLmNvbW1pdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG9yZGVyIGFuZCBvcmRlci50cmFja19pZDoKICAgICAgICAgICAgICAgICAgICBhc3luY19qb2IuZ2VuZXJhdGVfdHJhY2tfZGV0YWlsLmRlbGF5KG9yZGVyLnRyYWNrX2lkKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCcjZGVidWcjIGluZGV4IGluIHJlZnVuZDogJXMnICUgaW5kZXgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfTE9HR0VSLmluZm8oJyNkZWJ1ZyMgaWRzOiAlcycgJSBpZHMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCcjZGVidWcjIGluZGV4IGluIHJlZnVuZDogJXMnICUgaW5kZXgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9MT0dHRVIuaW5mbygnI2RlYnVnIyBlbHNlIG9yZGVyLnN0YXR1czogJXMnICUgb3JkZXIuc3RhdHVzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCcjZGVidWcjIGluZGV4IGluIHJlZnVuZDogJXMnICUgaW5kZXgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9MT0dHRVIuaW5mbygnI2RlYnVnIyB0cmFja19pbmRleDogJXMnICUgdHJhY2tfaW5kZXgudHJhY2tfaWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCcjZGVidWcjIG9yZGVyIGluIHJlZnVuZDogJXMnICUgb3JkZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCcjZGVidWcjIGlkczogJXMnICUgaWRzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9MT0dHRVIuaW5mbygnI2RlYnVnIyBvcmRlcl9pZDogJXMnICUgb3JkZXIuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfTE9HR0VSLmluZm8oJyNkZWJ1ZyMgb3JkZXIuc3RhdHVzOiAlcyAsIG9yZGVyLnR5cGU6ICVzJyAlIChvcmRlci5zdGF0dXMsIG9yZGVyLnR5cGUpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9MT0dHRVIuaW5mbygnI2RlYnVnIyBpZiBvcmRlci5zdGF0dXM6ICVzJyAlIG9yZGVyLnN0YXR1cykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtLmFjdGl2aXR5X3R5cGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCcjZGVidWcjIG9yZGVyX2lkOiAlcycgJSBvcmRlci5pZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KFBBWV9UWVBFLnZhbHVlX2xpc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX0xPR0dFUi5pbmZvKCcjZGVidWcjIG9yZGVyX2lkOiAlcycgJSBvcmRlci5pZCkK</text>
       </register>
       <register name=":" type="4">
         <text>98</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWZ1bmRfaWRzXD4=</last-search>
+      <last-search encoding="base64">XDxtb3ZlX3RvX3RyYWNrZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWZ1bmRfaWRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtb3ZlX3RvX3RyYWNrZWRcPg==</last-pattern>
       <last-replace>track</last-replace>
       <last-substitute>win</last-substitute>
       <last-dir>1</last-dir>
@@ -576,7 +579,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZWNoYXJnZUFwcGx5XD4=</entry>
         <entry encoding="base64">XDxPUkRFUl9IQU5ETEVSXD4=</entry>
         <entry encoding="base64">XDx1c2VyX2lkXD4=</entry>
         <entry encoding="base64">XDxjb29raWVcPg==</entry>
@@ -596,6 +598,7 @@
         <entry encoding="base64">XDxfTE9HR0VSXD4=</entry>
         <entry encoding="base64">XDxyZWZ1bmRfb3JkZXJfaWRzXD4=</entry>
         <entry encoding="base64">XDxyZWZ1bmRfaWRzXD4=</entry>
+        <entry encoding="base64">XDxtb3ZlX3RvX3RyYWNrZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
