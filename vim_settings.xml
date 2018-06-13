@@ -225,6 +225,11 @@
         <mark key="." line="67" column="13" />
         <mark key="^" line="67" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/LotteryService/tools/recovery_stats.py" timestamp="1528882261343">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/lottery/handler.py" timestamp="1528855146814">
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="64" />
@@ -406,7 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="32" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/third/pay/unionagency.py" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_test.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings.py" />
       <jump line="288" column="8" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings.py" />
@@ -506,19 +510,20 @@
       <jump line="17" column="74" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/urls_v2.py" />
       <jump line="15" column="61" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/urls_v2.py" />
       <jump line="102" column="4" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/lottery/view.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/witch/LotteryService/tools/recovery_stats.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>info.user_name[2:]</text>
+        <text>mg = MongoClient(settings.MONGO_ADDR).lucky</text>
       </register>
       <register name="-" type="4">
         <text>info.user_name[2:]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfb3JkZXJfaGlzdG9yeV9ieV90eXBlX3YyXD4=</text>
+        <text encoding="base64">XDxtZ1w+</text>
       </register>
       <register name="0" type="4">
-        <text>account['user_name']</text>
+        <text>mg = MongoClient(settings.MONGO_ADDR).lucky</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -558,9 +563,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfb3JkZXJfaGlzdG9yeV9ieV90eXBlX3YyXD4=</last-search>
+      <last-search encoding="base64">XDxtZ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfb3JkZXJfaGlzdG9yeV9ieV90eXBlX3YyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtZ1w+</last-pattern>
       <last-replace>track</last-replace>
       <last-substitute>win</last-substitute>
       <last-dir>1</last-dir>
@@ -568,7 +573,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb29raWVcPg==</entry>
         <entry encoding="base64">XDxPcmRlckluZGV4XD4=</entry>
         <entry encoding="base64">XDxhd2FyZF9jb2luXD4=</entry>
         <entry encoding="base64">XDxiYW5rX2NhcmRcPg==</entry>
@@ -588,6 +592,7 @@
         <entry encoding="base64">XDxtb3ZlX3RvX3RyYWNrZWRcPg==</entry>
         <entry encoding="base64">XDxnZXRfdHJhY2tfZGV0YWlsX2J5X3R5cGVfdjJcPg==</entry>
         <entry encoding="base64">XDxnZXRfb3JkZXJfaGlzdG9yeV9ieV90eXBlX3YyXD4=</entry>
+        <entry encoding="base64">XDxtZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
