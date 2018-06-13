@@ -397,12 +397,12 @@
         <mark key="." line="17" column="47" />
         <mark key="^" line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/export_account.py" timestamp="1528883652520">
-        <mark key="'" line="38" column="64" />
-        <mark key="[" line="38" column="50" />
-        <mark key="]" line="38" column="52" />
-        <mark key="^" line="38" column="52" />
-        <mark key="." line="38" column="52" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/export_account.py" timestamp="1528884565658">
+        <mark key="'" line="20" column="25" />
+        <mark key="[" line="15" column="84" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/model.py" timestamp="1528873742403">
         <mark key="'" line="38" column="0" />
@@ -424,8 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="4" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/third/pay/unionagency_v2.py" />
-      <jump line="141" column="23" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/handler.py" />
       <jump line="142" column="71" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/handler.py" />
       <jump line="43" column="27" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/handler.py" />
       <jump line="69" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/urls.py" />
@@ -524,55 +522,54 @@
       <jump line="15" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/export_account.py" />
       <jump line="38" column="64" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/export_account.py" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/third/pay/unionagency.py" />
+      <jump line="23" column="26" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/export_account.py" />
+      <jump line="20" column="25" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/export_account.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxweW15c3FsXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>item.get(&quot;lottery&quot;, {}).get(&quot;bet_amount&quot;, 0) + \
-                        item.get(&quot;kfc&quot;, {}).get(&quot;bet_amount&quot;, 0) + \
-                        item.get(&quot;fruit&quot;, {}).get(&quot;bet_amount&quot;, 0) + \
-                        item.get(&quot;bull&quot;, {}).get(&quot;bet_amount&quot;, 0)</text>
+        <text>updated_at</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbGF0ZXN0X3JlY2hhcmdlX3RpbWUK</text>
+        <text encoding="base64">ICAgIGVsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbm5lY3Rpb24gPSBweW15c3FsLmNvbm5lY3QoaG9zdD0nMTI3LjAuMC4xJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcj0ncm9vdCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhc3N3b3JkPScxMjM0NTYnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYj0nbG9jYWwnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaGFyc2V0PSd1dGY4JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3Vyc29yY2xhc3M9cHlteXNxbC5jdXJzb3JzLkRpY3RDdXJzb3IpCg==</text>
+        <text encoding="base64">ICAgIHByaW50IHR5cGUocmVnaXN0ZXJfYXQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbmFsbHk6CiAgICAgICAgY29ubmVjdGlvbi5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbGF0ZXN0X3JlY2hhcmdlX3RpbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIGNvbm5lY3Rpb24gPSBweW15c3FsLmNvbm5lY3QoaG9zdD0nMTI3LjAuMC4xJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcj0ncm9vdCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhc3N3b3JkPScxMjM0NTYnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYj0nbG9jYWwnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaGFyc2V0PSd1dGY4JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3Vyc29yY2xhc3M9cHlteXNxbC5jdXJzb3JzLkRpY3RDdXJzb3IpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIGZpbmFsbHk6CiAgICAgICAgY29ubmVjdGlvbi5jbG9zZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBSZWFkIGEgc2luZ2xlIHJlY29yZAo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YmlnYmFuZ19sLnNxbAo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHRhYmxpYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBSZWFkIGEgc2luZ2xlIHJlY29yZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">YmlnYmFuZ19sLnNxbAo=</text>
       </register>
       <register name=":" type="4">
         <text>98</text>
