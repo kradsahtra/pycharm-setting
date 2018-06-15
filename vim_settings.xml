@@ -183,10 +183,10 @@
         <mark key="^" line="7" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/cache/redis_cache.py" timestamp="1529046807172">
-        <mark key="[" line="478" column="79" />
-        <mark key="]" line="478" column="92" />
-        <mark key="." line="478" column="92" />
-        <mark key="^" line="478" column="92" />
+        <mark key="[" line="477" column="79" />
+        <mark key="]" line="477" column="92" />
+        <mark key="." line="477" column="92" />
+        <mark key="^" line="477" column="92" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/apps/op/router.js" timestamp="1528448273154">
         <mark key="[" line="26" column="13" />
@@ -293,8 +293,8 @@
         <mark key="." line="112" column="28" />
         <mark key="^" line="112" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1529050309284">
-        <mark key="'" line="730" column="4" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" timestamp="1529051293823">
+        <mark key="'" line="730" column="56" />
         <mark key="[" line="318" column="108" />
         <mark key="]" line="319" column="38" />
         <mark key="." line="319" column="38" />
@@ -312,7 +312,7 @@
         <mark key="." line="23" column="24" />
         <mark key="^" line="23" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529034815544">
+      <file name="/Dummy.txt" timestamp="1529051261776">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
@@ -411,8 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="50" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/view.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/notification/model.py" />
       <jump line="104" column="40" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/urls.py" />
       <jump line="201" column="25" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/urls.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/urls.py" />
@@ -511,6 +509,8 @@
       <jump line="390" column="15" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/account/db/account.py" />
       <jump line="41" column="42" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/export_account.py" />
       <jump line="724" column="4" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
+      <jump line="317" column="57" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
+      <jump line="730" column="56" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
