@@ -373,12 +373,12 @@
         <mark key="." line="17" column="47" />
         <mark key="^" line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/export_account.py" timestamp="1529030708786">
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/export_account.py" timestamp="1529031582605">
         <mark key="'" line="20" column="25" />
-        <mark key="[" line="48" column="30" />
-        <mark key="]" line="48" column="31" />
-        <mark key="^" line="48" column="31" />
-        <mark key="." line="48" column="31" />
+        <mark key="[" line="45" column="22" />
+        <mark key="]" line="45" column="22" />
+        <mark key="^" line="45" column="22" />
+        <mark key="." line="45" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/model.py" timestamp="1528873742403">
         <mark key="'" line="38" column="0" />
@@ -503,10 +503,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>100</text>
+        <text>'-'</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>'-'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxweW15c3FsXD4=</text>
