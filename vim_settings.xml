@@ -34,12 +34,12 @@
         <mark key="^" line="46" column="57" />
         <mark key="." line="46" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/view.py" timestamp="1528276491969">
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/view.py" timestamp="1529120581303">
         <mark key="'" line="182" column="50" />
-        <mark key="[" line="270" column="4" />
-        <mark key="]" line="270" column="28" />
-        <mark key="." line="282" column="140" />
-        <mark key="^" line="282" column="140" />
+        <mark key="[" line="171" column="17" />
+        <mark key="]" line="171" column="17" />
+        <mark key="." line="171" column="17" />
+        <mark key="^" line="171" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/__init__.py" timestamp="1527910788085">
         <mark key="'" line="24" column="0" />
@@ -330,9 +330,9 @@
         <mark key="." line="22" column="71" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/frame/const.js" timestamp="1528449332917">
-        <mark key="[" line="109" column="29" />
-        <mark key="]" line="109" column="30" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/frame/const.js" timestamp="1529120577303">
+        <mark key="[" line="93" column="8" />
+        <mark key="]" line="93" column="14" />
         <mark key="." line="109" column="30" />
         <mark key="^" line="109" column="30" />
       </file>
@@ -396,7 +396,7 @@
         <mark key="^" line="48" column="42" />
         <mark key="." line="48" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/model.py" timestamp="1528873742403">
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/model.py" timestamp="1529120551231">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="76" column="29" />
         <mark key="]" line="76" column="40" />
@@ -519,7 +519,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DUPLICATE_PHONE</text>
+        <text>'VIP支付'</text>
       </register>
       <register name="-" type="4">
         <text>DUPLICATE_PHONE</text>
@@ -528,7 +528,7 @@
         <text encoding="base64">XDwxMTBcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>DUPLICATE_USERNAME</text>
+        <text>'VIP支付'</text>
       </register>
       <register name="p" type="4">
         <text />
