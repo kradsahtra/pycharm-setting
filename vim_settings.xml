@@ -261,12 +261,12 @@
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/timer/__init__.py" timestamp="1529054892487">
         <mark key="'" line="30" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/account/db/account.py" timestamp="1529114721958">
-        <mark key="'" line="398" column="15" />
-        <mark key="[" line="98" column="4" />
-        <mark key="]" line="98" column="18" />
-        <mark key="." line="118" column="19" />
-        <mark key="^" line="118" column="19" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/account/db/account.py" timestamp="1529404459990">
+        <mark key="'" line="406" column="15" />
+        <mark key="[" line="101" column="56" />
+        <mark key="]" line="101" column="63" />
+        <mark key="." line="101" column="63" />
+        <mark key="^" line="101" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/utils/api.py" timestamp="1527819225634">
         <mark key="[" line="170" column="4" />
@@ -493,17 +493,17 @@
       <jump line="27" column="32" filename="$USER_HOME$/workspace/hera/showhand/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZXhpc3RzX3VzZXJuYW1lKHBhcmFtc1sndXNlcl9uYW1lJ10pOgogICAgICAgICAgICAgICAgcmFpc2UgZXJyLkF1dGhlbnRpY2F0ZUVycm9yKHN0YXR1cz1TdGF0dXNDb2RlLkRVUExJQ0FURV9VU0VSTkFNRSkK</text>
+      <register name="&quot;" type="4">
+        <text>phone_num</text>
       </register>
       <register name="-" type="4">
-        <text>DUPLICATE_PHONE</text>
+        <text>phone_num</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxMTBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZXhpc3RzX3VzZXJuYW1lKHBhcmFtc1sndXNlcl9uYW1lJ10pOgogICAgICAgICAgICAgICAgcmFpc2UgZXJyLkF1dGhlbnRpY2F0ZUVycm9yKHN0YXR1cz1TdGF0dXNDb2RlLkRVUExJQ0FURV9VU0VSTkFNRSkK</text>
+        <text encoding="base64">QHNxbF93cmFwcGVyCmRlZiBleGlzdHNfcGhvbmUocGhvbmVfbnVtKToKICAgIGFjY291bnQgPSBBY2NvdW50LnF1ZXJ5LmZpbHRlcihBY2NvdW50LnBob25lID09IHBob25lX251bSkuZmlyc3QoKQogICAgcmV0dXJuIGFjY291bnQK</text>
       </register>
       <register name="p" type="4">
         <text />
