@@ -81,11 +81,21 @@
         <mark key="." line="190" column="0" />
         <mark key="^" line="130" column="58" />
       </file>
+      <file name="$USER_HOME$/workspace/hera/deploy/config.py" timestamp="1529476179680">
+        <mark key="'" line="100" column="35" />
+        <mark key="[" line="76" column="22" />
+        <mark key="]" line="76" column="35" />
+        <mark key="." line="76" column="35" />
+        <mark key="^" line="76" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/hera/hera/hera/apps/users/urls.py" timestamp="1529462603532">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="6" column="26" />
         <mark key="]" line="6" column="26" />
         <mark key="." line="6" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/hera/hera/hera/base/settings_hera_prod1.py" timestamp="1529476091600">
+        <mark key="'" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/account/view.py" timestamp="1529392041372">
         <mark key="'" line="357" column="11" />
@@ -407,10 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="43" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/urls.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/notification/view.py" />
-      <jump line="35" column="18" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/notification/handler.py" />
-      <jump line="51" column="4" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/notification/db.py" />
       <jump line="107" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/notification/db.py" />
       <jump line="56" column="23" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/notification/handler.py" />
       <jump line="105" column="37" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/notification/view.py" />
@@ -507,19 +513,23 @@
       <jump line="8" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/apps/users/urls.py" />
       <jump line="60" column="12" filename="$USER_HOME$/workspace/hera/hera/hera/apps/users/view/account.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/apps/users/view/account.py" />
+      <jump line="81" column="39" filename="$USER_HOME$/workspace/hera/deploy/config.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/hera/deploy/config.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/base/settings_hera_prod1.py" />
+      <jump line="100" column="35" filename="$USER_HOME$/workspace/hera/deploy/config.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>127.0.0.1</text>
+        <text>183.60.109.148</text>
       </register>
       <register name="-" type="4">
-        <text>127.0.0.1</text>
+        <text>183.60.109.148</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxMTBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QHNxbF93cmFwcGVyCmRlZiBleGlzdHNfcGhvbmUocGhvbmVfbnVtKToKICAgIGFjY291bnQgPSBBY2NvdW50LnF1ZXJ5LmZpbHRlcihBY2NvdW50LnBob25lID09IHBob25lX251bSkuZmlyc3QoKQogICAgcmV0dXJuIGFjY291bnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Jsb29kYnVsbCc6IFsnMTgzLjYwLjEwOS4xNDgnLCBdLAo=</text>
       </register>
       <register name="p" type="4">
         <text />
