@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/hera/hera/hera/requirements.txt" timestamp="1529478782865">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+        <mark key="^" line="4" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/model.py" timestamp="1529057151887">
         <mark key="[" line="48" column="5" />
         <mark key="]" line="48" column="13" />
@@ -16,12 +22,29 @@
         <mark key="^" line="79" column="52" />
         <mark key="." line="79" column="52" />
       </file>
+      <file name="/a.dummy" timestamp="1529478333431">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/hera/hera/hera/base/middleware.py" timestamp="1529466666188" />
+      <file name="$USER_HOME$/workspace/hera/deploy/fabfile.py" timestamp="1529479586190">
+        <mark key="'" line="15" column="9" />
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="0" />
+        <mark key="^" line="258" column="34" />
+        <mark key="." line="259" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/pay/db.py" timestamp="1528255787144">
         <mark key="[" line="137" column="40" />
         <mark key="]" line="137" column="44" />
         <mark key="^" line="137" column="44" />
         <mark key="." line="137" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/hera/deploy/user_config.py" timestamp="1529478505274">
+        <mark key="'" line="11" column="33" />
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="13" column="38" />
+        <mark key="." line="13" column="38" />
+        <mark key="^" line="13" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/preset/model/preset.py" timestamp="1528442363038">
         <mark key="[" line="83" column="0" />
@@ -81,12 +104,12 @@
         <mark key="." line="190" column="0" />
         <mark key="^" line="130" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/hera/deploy/config.py" timestamp="1529476179680">
-        <mark key="'" line="100" column="35" />
-        <mark key="[" line="76" column="22" />
-        <mark key="]" line="76" column="35" />
-        <mark key="." line="76" column="35" />
-        <mark key="^" line="76" column="35" />
+      <file name="$USER_HOME$/workspace/hera/deploy/config.py" timestamp="1529478554346">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="114" column="144" />
+        <mark key="]" line="114" column="150" />
+        <mark key="." line="114" column="150" />
+        <mark key="^" line="114" column="150" />
       </file>
       <file name="$USER_HOME$/workspace/hera/hera/hera/apps/users/urls.py" timestamp="1529462603532">
         <mark key="'" line="8" column="0" />
@@ -415,14 +438,9 @@
         <mark key="^" line="201" column="33" />
         <mark key="." line="201" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/hera/deploy/config_files/zshrc" timestamp="1529478173399" />
     </filemarks>
     <jumps>
-      <jump line="107" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/notification/db.py" />
-      <jump line="56" column="23" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/notification/handler.py" />
-      <jump line="105" column="37" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/notification/view.py" />
-      <jump line="9" column="38" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/notification/view.py" />
-      <jump line="31" column="19" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/notification/view.py" />
-      <jump line="54" column="18" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/notification/view.py" />
       <jump line="10" column="32" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/notification/view.py" />
       <jump line="61" column="37" filename="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/apps/op/models.js" />
       <jump line="78" column="44" filename="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/apps/op/in_app_announcement.js" />
@@ -517,61 +535,67 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/hera/deploy/config.py" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/base/settings_hera_prod1.py" />
       <jump line="100" column="35" filename="$USER_HOME$/workspace/hera/deploy/config.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/workspace/hera/deploy/fabfile.py" />
+      <jump line="15" column="9" filename="$USER_HOME$/workspace/hera/deploy/fabfile.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/workspace/hera/deploy/user_config.py" />
+      <jump line="11" column="33" filename="$USER_HOME$/workspace/hera/deploy/user_config.py" />
+      <jump line="104" column="57" filename="$USER_HOME$/workspace/hera/deploy/config.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/hera/deploy/config.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>183.60.109.148</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdWRvKCJzdXBlcnZpc29yY3RsIHN0YXJ0IGhlcmEtdXdzZ2kiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>183.60.109.148</text>
+        <text>stop</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwxMTBcPg==</text>
+        <text encoding="base64">XDx1c2VyX2NvbmZpZ1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Jsb29kYnVsbCc6IFsnMTgzLjYwLjEwOS4xNDgnLCBdLAo=</text>
+      <register name="0" type="4">
+        <text>hera-uwsgi</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnc29ydCc6IFt1J+W/q+aNt+aUr+S7mCcsIHUnVklQ5pSv5LuYJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICBzdWRvKCJzdXBlcnZpc29yY3RsIHN0YXJ0IGhlcmEtdXdzZ2kiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdWRvKCJjaG93biB1YnVudHU6dWJ1bnR1IC1SICVzIiAlIF9MT0dfRElSKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV0lUSERSQVdfVFlQRS5RUVBBWSwK</text>
+        <text encoding="base64">ICAgICAgICBzbGVlcCgxNSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5fb3JkZXIgPSB0YWJsZS5xdWVyeS5maWx0ZXIodGFibGUudHJhY2tfaWQgPT0gb3JkZXIudHJhY2tfaWQpLiBcCiAgICAgICAgICAgIGZpbHRlcih0YWJsZS5zdGF0dXMgaW4gKE9SREVSX1NUQVRVUy5XSU5ORUQsIE9SREVSX1NUQVRVUy5VTkNIRUNLLCkpLmZpcnN0KCkKICAgICAgICBpZiB3aW5fb3JkZXIgYW5kIG9yZGVyLnR5cGUgPT0gT1JERVJfVFlQRS5QUkVfU1RPUF9XSU46CiAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgIHByaW50IGVudi5zdGFnZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG9yZGVyLnR5cGUgIT0gT1JERVJfVFlQRS5QUkVfU1RPUF9XSU46Cg==</text>
+        <text encoding="base64">ICAgIHByaW50IF9TRVRUSU5HX0RJUgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgIHByaW50IF9TT1VSQ0VfQ09ERV9ESVIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50IGVudgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHVwZGF0ZSB0cmFjayBpbmZvIHRvIGNhY2hlCg==</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfTE9HR0VSLmluZm8oJyNkZWJ1ZyMgaW5jcmVhc2UgdHJhY2s8JXM+JyAlIG9yZGVyLnRyYWNrX2lkKQo=</text>
+        <text encoding="base64">ICAgIHByaW50IGVudi5rZXlfZmlsZW5hbWUK</text>
       </register>
       <register name=":" type="4">
         <text>98</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwxMTBcPg==</last-search>
+      <last-search encoding="base64">XDx1c2VyX2NvbmZpZ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwxMTBcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyX2NvbmZpZ1w+</last-pattern>
       <last-replace>track</last-replace>
       <last-substitute>win</last-substitute>
       <last-dir>1</last-dir>
@@ -579,7 +603,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXlfdHlwZVw+</entry>
         <entry encoding="base64">XDxDSEFSR0VfVVJMXD4=</entry>
         <entry encoding="base64">XDxub3RpZnlcPg==</entry>
         <entry encoding="base64">XDxkYlw+</entry>
@@ -599,6 +622,7 @@
         <entry encoding="base64">XDxDUV9TU0NcPg==</entry>
         <entry encoding="base64">XDxMT1RURVJZX1RZUEVcPg==</entry>
         <entry encoding="base64">XDwxMTBcPg==</entry>
+        <entry encoding="base64">XDx1c2VyX2NvbmZpZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
