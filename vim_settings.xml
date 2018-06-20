@@ -48,6 +48,7 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="34" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/hera/hera/hera/base/settings.py" timestamp="1529464133870" />
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/db.py" timestamp="1528948129897">
         <mark key="'" line="9" column="41" />
         <mark key="[" line="229" column="41" />
@@ -192,6 +193,12 @@
         <mark key="]" line="26" column="31" />
         <mark key="." line="26" column="31" />
         <mark key="^" line="26" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/hera/hera/hera/uwsgi.ini" timestamp="1529464049103">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/account/handler.py" timestamp="1528948523141">
         <mark key="[" line="59" column="0" />
@@ -503,10 +510,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxMTBcPg==</text>
