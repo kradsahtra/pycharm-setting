@@ -76,6 +76,12 @@
         <mark key="." line="190" column="0" />
         <mark key="^" line="130" column="58" />
       </file>
+      <file name="$USER_HOME$/workspace/hera/hera/hera/apps/users/urls.py" timestamp="1529462603532">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/account/view.py" timestamp="1529392041372">
         <mark key="'" line="357" column="11" />
         <mark key="[" line="246" column="0" />
@@ -394,7 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="56" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/urls.py" />
       <jump line="101" column="49" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/urls.py" />
       <jump line="102" column="40" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/urls.py" />
       <jump line="103" column="43" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/urls.py" />
@@ -494,13 +499,14 @@
       <jump line="35" column="24" filename="$USER_HOME$/workspace/hera/showhand/app.py" />
       <jump line="27" column="32" filename="$USER_HOME$/workspace/hera/showhand/app.py" />
       <jump line="73" column="55" filename="$USER_HOME$/workspace/hera/casiouser/casiouser/userapi/urls.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/apps/users/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>phone_num</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>phone_num</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxMTBcPg==</text>
