@@ -22,10 +22,21 @@
         <mark key="^" line="79" column="52" />
         <mark key="." line="79" column="52" />
       </file>
+      <file name="$USER_HOME$/workspace/hera/hera/hera/common/error/code.py" timestamp="1529481970901">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="34" />
+        <mark key="^" line="16" column="34" />
+      </file>
       <file name="/a.dummy" timestamp="1529478333431">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/hera/hera/hera/base/middleware.py" timestamp="1529466666188" />
+      <file name="$USER_HOME$/workspace/hera/hera/hera/base/middleware.py" timestamp="1529481974695">
+        <mark key="[" line="34" column="43" />
+        <mark key="]" line="34" column="57" />
+        <mark key="." line="34" column="43" />
+        <mark key="^" line="32" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/hera/deploy/fabfile.py" timestamp="1529479586190">
         <mark key="'" line="15" column="9" />
         <mark key="[" line="259" column="0" />
@@ -124,12 +135,12 @@
         <mark key="." line="114" column="150" />
         <mark key="^" line="114" column="150" />
       </file>
-      <file name="$USER_HOME$/workspace/hera/hera/hera/apps/users/urls.py" timestamp="1529481794703">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="7" column="18" />
+      <file name="$USER_HOME$/workspace/hera/hera/hera/apps/users/urls.py" timestamp="1529481853865">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/hera/hera/hera/base/settings_hera_prod1.py" timestamp="1529476091600">
         <mark key="'" line="15" column="0" />
@@ -584,16 +595,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>account.</text>
+        <text>OPCODE_ERROR</text>
       </register>
       <register name="-" type="4">
-        <text>account.</text>
+        <text>OPCODE_ERROR</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSRURJU19DT05GXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCgpmcm9tIGJhc2UuanNvbmxvZ2dlciBpbXBvcnQgSnNvbkZvcm1hdHRlcgoKQkFTRV9ESVIgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSkKCgojIFF1aWNrLXN0YXJ0IGRldmVsb3BtZW50IHNldHRpbmdzIC0gdW5zdWl0YWJsZSBmb3IgcHJvZHVjdGlvbgojIFNlZSBodHRwczovL2RvY3MuZGphbmdvcHJvamVjdC5jb20vZW4vMS42L2hvd3RvL2RlcGxveW1lbnQvY2hlY2tsaXN0LwoKIyBTRUNVUklUWSBXQVJOSU5HOiBrZWVwIHRoZSBzZWNyZXQga2V5IHVzZWQgaW4gcHJvZHVjdGlvbiBzZWNyZXQhClNFQ1JFVF9LRVkgPSAnIyp1MmxlempsJDV6QGhsXmZydHFvZmtxPWQ2di1pPStyeHM5eWZ5bCtAKGZoeGMpOW0nCgojIFNFQ1VSSVRZIFdBUk5JTkc6IGRvbid0IHJ1biB3aXRoIGRlYnVnIHR1cm5lZCBvbiBpbiBwcm9kdWN0aW9uIQpERUJVRyA9IFRydWUKClRFTVBMQVRFX0RFQlVHID0gVHJ1ZQoKQUxMT1dFRF9IT1NUUyA9IFsnKiddCgojCkdBTUVfVVJMX1BSRUZJWCA9ICdodHRwOi8vMTkyLjE2OC4wLjIyNicKClNFUlZJQ0VfSUQgPSAxMCAgIyDlupTor6XkuI5DYXNpb+mhueebruS4jeS4gOiHtO+8jOS7pemBv+WFjWlk55Sf5oiQ5Yay56qBCgojIEFwcGxpY2F0aW9uIGRlZmluaXRpb24KCklOU1RBTExFRF9BUFBTID0gKAogICAgJ2NvcnNoZWFkZXJzJwopCgpNSURETEVXQVJFX0NMQVNTRVMgPSAoCiAgICAnY29yc2hlYWRlcnMubWlkZGxld2FyZS5Db3JzTWlkZGxld2FyZScsCiAgICAnZGphbmdvLm1pZGRsZXdhcmUuY29tbW9uLkNvbW1vbk1pZGRsZXdhcmUnLAogICAgJ2Jhc2UubWlkZGxld2FyZS5DaGVja1NpZ25NaWRkbGV3YXJlJywKKQoKQ09SU19PUklHSU5fQUxMT1dfQUxMID0gVHJ1ZSAgIyDlhYHorrjmiYDmnInot6jln5/or7fmsYLvvIzmnInkuIDlrprpo47pmakKClJPT1RfVVJMQ09ORiA9ICdiYXNlLnVybHMnCgpXU0dJX0FQUExJQ0FUSU9OID0gJ2Jhc2Uud3NnaS5hcHBsaWNhdGlvbicKCiMgc2VydmljZSBjb25maWcKTVlTUUxfQ09ORiA9IHsKICAgICdkYic6ICdteXNxbDovL3Jvb3Q6MTIzNDU2QDEyNy4wLjAuMTozMzA2L2x1Y2t5P2NoYXJzZXQ9dXRmOCcsCiAgICAnREVCVUcnOiBERUJVRwp9ClNMQVZFX0NPTkYgPSBNWVNRTF9DT05GCgpSRURJU19DT05GID0gewogICAgJ2hvc3QnOiAnMTI3LjAuMC4xJywKICAgICdwb3J0JzogNjM3OQp9CgoKIyBJbnRlcm5hdGlvbmFsaXphdGlvbgojIGh0dHBzOi8vZG9jcy5kamFuZ29wcm9qZWN0LmNvbS9lbi8xLjYvdG9waWNzL2kxOG4vCgpMQU5HVUFHRV9DT0RFID0gJ2VuLXVzJwoKVElNRV9aT05FID0gJ1VUQycKClVTRV9JMThOID0gRmFsc2UKClVTRV9MMTBOID0gRmFsc2UKClVTRV9UWiA9IFRydWUKCgojIFN0YXRpYyBmaWxlcyAoQ1NTLCBKYXZhU2NyaXB0LCBJbWFnZXMpCiMgaHR0cHM6Ly9kb2NzLmRqYW5nb3Byb2plY3QuY29tL2VuLzEuNi9ob3d0by9zdGF0aWMtZmlsZXMvCgpTVEFUSUNfVVJMID0gJy9zdGF0aWMvJwoKdHJ5OgogICAgZnJvbSBzZXR0aW5nc19lbnYgaW1wb3J0ICoKZXhjZXB0IEltcG9ydEVycm9yOgogICAgaW1wb3J0IGxvZ2dpbmcKICAgIGxvZ2dpbmcud2Fybignbm8gZW52IHNwZWNpZmllZCBzZXR0aW5ncyBsb2FkZWQsIHVzZSBkZWZhdWx0LicpCgojIGxvZyBjb25maWcKCkxPR19ESVIgPSAiL3Zhci9sb2cvaGVyYS8iCkxPR19GSUxFID0gb3MucGF0aC5qb2luKExPR19ESVIsICJoZXJhLmxvZyIpCkxPR19FUlJfRklMRSA9IG9zLnBhdGguam9pbihMT0dfRElSLCAiaGVyYS5lcnIubG9nIikKVFJBQ0tfTE9HID0gb3MucGF0aC5qb2luKExPR19ESVIsICd0cmFjay5qc29uJykKCkxPR0dJTkcgPSB7CiAgICAndmVyc2lvbic6IDEsCiAgICAnZGlzYWJsZV9leGlzdGluZ19sb2dnZXJzJzogRmFsc2UsCiAgICAnZm9ybWF0dGVycyc6IHsKICAgICAgICAnanNvbl9zdGF0JzogewogICAgICAgICAgICAnKCknOiBKc29uRm9ybWF0dGVyLAogICAgICAgICAgICAnZm9ybWF0JzogJyUobWVzc2FnZSlzJwogICAgICAgIH0sCiAgICAgICAgJ3NpbXBsZSc6IHsKICAgICAgICAgICAgJ2Zvcm1hdCc6ICclKGxldmVsbmFtZSlzICUoYXNjdGltZSlzICUobWVzc2FnZSlzJwogICAgICAgIH0sCiAgICAgICAgJ2RldGFpbCc6IHsKICAgICAgICAgICAgJ2Zvcm1hdCc6ICclKGxldmVsbmFtZSlzICUoYXNjdGltZSlzIFslKG1vZHVsZSlzLiUoZnVuY05hbWUpcyBsaW5lOiUobGluZW5vKWRdICUobWVzc2FnZSlzJywKICAgICAgICB9LAogICAgfSwKICAgICdoYW5kbGVycyc6IHsKICAgICAgICAnY29uc29sZSc6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ0RFQlVHJywKICAgICAgICAgICAgJ2NsYXNzJzogJ2xvZ2dpbmcuU3RyZWFtSGFuZGxlcicsCiAgICAgICAgICAgICdmb3JtYXR0ZXInOiAnc2ltcGxlJwogICAgICAgIH0sCiAgICAgICAgJ2ZpbGUnOiB7CiAgICAgICAgICAgICdsZXZlbCc6ICdJTkZPJywKICAgICAgICAgICAgJ2Zvcm1hdHRlcic6ICdzaW1wbGUnLAogICAgICAgICAgICAnY2xhc3MnOiAnbG9nZ2luZy5oYW5kbGVycy5XYXRjaGVkRmlsZUhhbmRsZXInLAogICAgICAgICAgICAnZmlsZW5hbWUnOiBMT0dfRklMRSwKICAgICAgICB9LAogICAgICAgICdlcnJfZmlsZSc6IHsKICAgICAgICAgICAgJ2xldmVsJzogJ1dBUk4nLAogICAgICAgICAgICAnZm9ybWF0dGVyJzogJ2RldGFpbCcsCiAgICAgICAgICAgICdjbGFzcyc6ICdsb2dnaW5nLmhhbmRsZXJzLldhdGNoZWRGaWxlSGFuZGxlcicsCiAgICAgICAgICAgICdmaWxlbmFtZSc6IExPR19FUlJfRklMRSwKICAgICAgICB9LAogICAgICAgICd0cmFja19maWxlJzogewogICAgICAgICAgICAnbGV2ZWwnOiAnSU5GTycsCiAgICAgICAgICAgICdmb3JtYXR0ZXInOiAnanNvbl9zdGF0JywKICAgICAgICAgICAgJ2NsYXNzJzogJ2xvZ2dpbmcuaGFuZGxlcnMuV2F0Y2hlZEZpbGVIYW5kbGVyJywKICAgICAgICAgICAgJ2ZpbGVuYW1lJzogVFJBQ0tfTE9HCiAgICAgICAgfQogICAgfSwKICAgICdsb2dnZXJzJzogewogICAgICAgICd0cmFja2VyJzogewogICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ3RyYWNrX2ZpbGUnXSwKICAgICAgICAgICAgJ2xldmVsJzogJ0lORk8nLAogICAgICAgICAgICAncHJvcGFnYXRlJzogRmFsc2UKICAgICAgICB9LAogICAgfSwKICAgICdyb290JzogewogICAgICAgICdsZXZlbCc6ICdERUJVRycsCiAgICAgICAgJ2hhbmRsZXJzJzogWydjb25zb2xlJywgJ2ZpbGUnLCAnZXJyX2ZpbGUnXSBpZiBERUJVRyBlbHNlIFsnZmlsZScsICdlcnJfZmlsZSddCiAgICB9Cn0K</text>
+      <register name="0" type="4">
+        <text>MISSING_OPCODE</text>
       </register>
       <register name="p" type="4">
         <text />
