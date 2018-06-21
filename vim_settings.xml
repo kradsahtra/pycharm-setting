@@ -71,6 +71,7 @@
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/hera/blood/settings_hera_prod2.py" timestamp="1529567510308" />
       <file name="$USER_HOME$/workspace/hera/hera/hera/base/urls.py" timestamp="1529485465729">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="7" />
@@ -137,6 +138,9 @@
         <mark key="]" line="477" column="92" />
         <mark key="." line="477" column="92" />
         <mark key="^" line="477" column="92" />
+      </file>
+      <file name="$USER_HOME$/workspace/hera/showhand/settings_hera_prod1.py" timestamp="1529567337531">
+        <mark key="'" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/apps/op/router.js" timestamp="1528448273154">
         <mark key="[" line="26" column="13" />
@@ -300,7 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="25" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/export_account.py" />
       <jump line="402" column="48" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/account/db/account.py" />
       <jump line="390" column="15" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/account/db/account.py" />
       <jump line="41" column="42" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/export_account.py" />
@@ -400,6 +403,7 @@
       <jump line="51" column="0" filename="$USER_HOME$/workspace/hera/casiouser/casiouser/requirements.txt" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/hera/casiouser/casiouser/uwsgi_internal.ini" />
       <jump line="226" column="25" filename="$USER_HOME$/workspace/hera/deploy/fabfile.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/workspace/hera/showhand/settings_hera_prod1.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -409,7 +413,7 @@
         <text>casiouser-uwsgi</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYXNpb3VzZXJcPg==</text>
+        <text encoding="base64">XDxDQVNJT19TRUNSRVRfS0VZXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmICdjYXNpb3VzZXInID09IF9ST0xFOgogICAgICAgIHN1ZG8oInN1cGVydmlzb3JjdGwgcmVzdGFydCBjYXNpb3VzZXItdXdzZ2kiKQo=</text>
@@ -452,9 +456,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYXNpb3VzZXJcPg==</last-search>
+      <last-search encoding="base64">XDxDQVNJT19TRUNSRVRfS0VZXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYXNpb3VzZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxDQVNJT19TRUNSRVRfS0VZXD4=</last-pattern>
       <last-replace>track</last-replace>
       <last-substitute>win</last-substitute>
       <last-dir>1</last-dir>
@@ -462,7 +466,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfTE9HR0VSXD4=</entry>
         <entry encoding="base64">XDxyZWZ1bmRfb3JkZXJfaWRzXD4=</entry>
         <entry encoding="base64">XDxyZWZ1bmRfaWRzXD4=</entry>
         <entry encoding="base64">XDxtb3ZlX3RvX3RyYWNrZWRcPg==</entry>
@@ -482,6 +485,7 @@
         <entry encoding="base64">XDxTRVJWRVJfVFlQRVw+</entry>
         <entry encoding="base64">XDxpbnRlcm5hbFw+</entry>
         <entry encoding="base64">XDxjYXNpb3VzZXJcPg==</entry>
+        <entry encoding="base64">XDxDQVNJT19TRUNSRVRfS0VZXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
