@@ -28,12 +28,21 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/hera/hera/hera/common/model/kfc_model.py" timestamp="1529550464976">
+        <mark key="'" line="27" column="41" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/hera/hera/hera/base/middleware.py" timestamp="1529486011667">
         <mark key="'" line="61" column="34" />
         <mark key="[" line="50" column="15" />
         <mark key="]" line="50" column="19" />
         <mark key="." line="50" column="19" />
         <mark key="^" line="50" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/hera/hera/hera/common/game_cache.py" timestamp="1529550967514">
+        <mark key="'" line="141" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/hera/deploy/fabfile.py" timestamp="1529479586190">
         <mark key="'" line="15" column="9" />
@@ -92,11 +101,6 @@
         <mark key="]" line="34" column="30" />
         <mark key="^" line="34" column="24" />
         <mark key="." line="34" column="15" />
-      </file>
-      <file name="$USER_HOME$/workspace/hera/hera/hera/base/settings.py" timestamp="1529480945569">
-        <mark key="'" line="13" column="8" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="152" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/hera/hera/hera/base/urls.py" timestamp="1529485465729">
         <mark key="[" line="5" column="0" />
@@ -212,6 +216,12 @@
         <mark key="]" line="109" column="29" />
         <mark key="." line="95" column="31" />
         <mark key="^" line="95" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/hera/hera/hera/common/game_info_cache.py" timestamp="1529550813493">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="22" />
+        <mark key="." line="15" column="22" />
+        <mark key="^" line="15" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbangweb/templates/op/InAppAnnouncementList.html" timestamp="1528451225289">
         <mark key="'" line="4" column="0" />
@@ -378,6 +388,9 @@
         <mark key="." line="38" column="52" />
         <mark key="^" line="48" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/hera/casiouser/casiouser/usercommon/model/kfc_model.py" timestamp="1529550402753">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/db.py" timestamp="1528797045547">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="0" />
@@ -420,7 +433,7 @@
         <mark key="." line="23" column="24" />
         <mark key="^" line="23" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529549342095">
+      <file name="/Dummy.txt" timestamp="1529551044170">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
@@ -432,6 +445,12 @@
         <mark key="]" line="22" column="71" />
         <mark key="." line="22" column="71" />
         <mark key="^" line="22" column="71" />
+      </file>
+      <file name="$USER_HOME$/workspace/hera/hera/hera/common/server_type.py" timestamp="1529550553707">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/frame/const.js" timestamp="1529120577303">
         <mark key="[" line="93" column="8" />
@@ -466,6 +485,10 @@
         <mark key="]" line="37" column="53" />
         <mark key="^" line="4" column="62" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/hera/hera/hera/apps/users/model/account.py" timestamp="1529550462521">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/third/pay/justpay.py" timestamp="1527133031828">
         <mark key="[" line="55" column="66" />
@@ -532,18 +555,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="99" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
-      <jump line="458" column="28" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
-      <jump line="480" column="24" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
-      <jump line="548" column="8" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
-      <jump line="572" column="16" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
-      <jump line="674" column="12" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
-      <jump line="281" column="12" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
-      <jump line="299" column="8" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
-      <jump line="324" column="12" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
-      <jump line="298" column="8" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
       <jump line="311" column="12" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
       <jump line="312" column="12" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
       <jump line="336" column="87" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
@@ -632,61 +643,73 @@
       <jump line="60" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/tools/test_api.py" />
       <jump line="474" column="64" filename="$USER_HOME$/workspace/hera/casiouser_inner/userapi/views/user.py" />
       <jump line="361" column="42" filename="$USER_HOME$/workspace/hera/casiouser_inner/userapi/views/user.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/common/game_info_cache.py" />
+      <jump line="167" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/common/game_cache.py" />
+      <jump line="16" column="31" filename="$USER_HOME$/workspace/hera/hera/hera/common/game_cache.py" />
+      <jump line="171" column="8" filename="$USER_HOME$/workspace/hera/hera/hera/common/game_cache.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/hera/casiouser/casiouser/usercommon/model/kfc_model.py" />
+      <jump line="27" column="41" filename="$USER_HOME$/workspace/hera/hera/hera/common/model/kfc_model.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/common/server_type.py" />
+      <jump line="9" column="19" filename="$USER_HOME$/workspace/hera/hera/hera/common/game_info_cache.py" />
+      <jump line="12" column="19" filename="$USER_HOME$/workspace/hera/hera/hera/common/game_info_cache.py" />
+      <jump line="15" column="19" filename="$USER_HOME$/workspace/hera/hera/hera/common/game_info_cache.py" />
+      <jump line="2" column="41" filename="$USER_HOME$/workspace/hera/hera/hera/common/game_info_cache.py" />
+      <jump line="141" column="41" filename="$USER_HOME$/workspace/hera/hera/hera/common/game_cache.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>后</text>
+        <text>SERVER_TYPE.BAIRENNIUNIU, kfc_room</text>
       </register>
       <register name="-" type="4">
-        <text>后</text>
+        <text>SERVER_TYPE.BAIRENNIUNIU, kfc_room</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSRURJU19DT05GXD4=</text>
+        <text encoding="base64">XDxTRVJWRVJfVFlQRVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHUn5ri45oiP55m75b2VIFVSTDogJXMnICUgdGVzdF9sYXVuY2goKSkK</text>
+        <text encoding="base64">ZnJvbSBiYXNlIGltcG9ydCBvcm0K</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGV4dC9wbGFpbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlLnRleHQpCg==</text>
+        <text encoding="base64">ZnJvbSB1c2VyY29tbW9uLnV0aWxzLnNlcnZlcl90eXBlIGltcG9ydCBTRVJWRVJfVFlQRQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyYW5zLmlkID0gZ2VuZXJhdGVfbG9uZ19pZChJZEVudW0uVFJBTlMpCg==</text>
+        <text encoding="base64">ZnJvbSBjb21tb24uZW51bSBpbXBvcnQgRW51bQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnJwo=</text>
+        <text encoding="base64">ZnJvbSAudHlwZXMgaW1wb3J0IEVudW0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlLnRleHQpCg==</text>
+        <text encoding="base64">ZnJvbSB1c2VyY29tbW9uLm1vZGVsLmtmY19tb2RlbCBpbXBvcnQgQnVsbFBhcnQwLCBCdWxsUGFydDIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBsYXVuY2hfdXJsCg==</text>
+        <text encoding="base64">ZnJvbSBjb21tb24gaW1wb3J0IG9ybQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAndXNlcl9pZCc6IDEyMzQ1NiwKICAgICAgICAnbmlja19uYW1lJzogJ3RvbScsCiAgICAgICAgJ2dhbWVfaWQnOiA5Cg==</text>
+        <text encoding="base64">ZnJvbSB1c2VyY29tbW9uLm1vZGVsIGltcG9ydCBvcm0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlLnRleHQpCg==</text>
+        <text encoding="base64">ZnJvbSB1c2VyY29tbW9uLnV0aWxzLmRlY29yYXRvciBpbXBvcnQgY2FjaGVfd3JhcHBlciwgc3FsX3dyYXBwZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXJsID0gImh0dHA6Ly8xODMuNjAuMjAxLjQ4OjgwODAvYXBpL3YxL2hlcmEvbGF1bmNoIgo=</text>
+        <text encoding="base64">ZnJvbSB1c2VyY29tbW9uLmdhbWVfY2FjaGUgaW1wb3J0IFByb3h5QWdlbnRaSkgsIFByb3h5QWdlbnRaSkgyLCBQcm94eUFnZW50QkxPT0QsIFByb3h5QWdlbnRCTE9PRDIsIFByb3h5QWdlbnRLRkMK</text>
       </register>
       <register name=":" type="4">
         <text>98</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSRURJU19DT05GXD4=</last-search>
+      <last-search encoding="base64">XDxTRVJWRVJfVFlQRVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSRURJU19DT05GXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxTRVJWRVJfVFlQRVw+</last-pattern>
       <last-replace>track</last-replace>
       <last-substitute>win</last-substitute>
       <last-dir>1</last-dir>
@@ -694,7 +717,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb21lbnRcPg==</entry>
         <entry encoding="base64">XDxkYXRldGltZXBpY2tlclw+</entry>
         <entry encoding="base64">XDx2YWx1ZV9saXN0XD4=</entry>
         <entry encoding="base64">XDxfTE9HR0VSXD4=</entry>
@@ -714,6 +736,7 @@
         <entry encoding="base64">XDxTRVJWSUNFX0lEXD4=</entry>
         <entry encoding="base64">XDxNWVNRTF9DT05GXD4=</entry>
         <entry encoding="base64">XDxSRURJU19DT05GXD4=</entry>
+        <entry encoding="base64">XDxTRVJWRVJfVFlQRVw+</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
