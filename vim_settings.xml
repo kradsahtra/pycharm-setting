@@ -71,6 +71,12 @@
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/hera/hera/hera/apps/users/view/account.py" timestamp="1529568513391">
+        <mark key="[" line="72" column="26" />
+        <mark key="]" line="72" column="30" />
+        <mark key="." line="72" column="30" />
+        <mark key="^" line="72" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/hera/blood/settings_hera_prod2.py" timestamp="1529567510308" />
       <file name="$USER_HOME$/workspace/hera/hera/hera/base/urls.py" timestamp="1529485465729">
         <mark key="[" line="5" column="0" />
@@ -154,7 +160,7 @@
         <mark key="^" line="58" column="7" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/hera/casiouser/casiouser/internal_api/urls.py" timestamp="1529564957814">
+      <file name="$USER_HOME$/workspace/hera/casiouser/casiouser/internal_api/urls.py" timestamp="1529568817027">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="14" column="11" />
         <mark key="]" line="14" column="25" />
@@ -272,6 +278,13 @@
         <mark key="^" line="53" column="33" />
         <mark key="." line="53" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/hera/hera/hera/apps/users/service/account.py" timestamp="1529568819406">
+        <mark key="'" line="6" column="14" />
+        <mark key="[" line="81" column="68" />
+        <mark key="]" line="81" column="83" />
+        <mark key="." line="81" column="68" />
+        <mark key="^" line="81" column="66" />
+      </file>
       <file name="$USER_HOME$/workspace/hera/casiouser/casiouser/usercommon/game_cache/game_info_cache.py" timestamp="1529565830026">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="20" />
@@ -290,11 +303,11 @@
         <mark key="]" line="10" column="61" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/hera/casiouser/casiouser/userapi/views/game_info.py" timestamp="1529565886347">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="22" />
+      <file name="$USER_HOME$/workspace/hera/casiouser/casiouser/userapi/views/game_info.py" timestamp="1529568603883">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="3" />
+        <mark key="." line="24" column="3" />
+        <mark key="^" line="24" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/witch/LotteryService/luckycommon/activity/db/activity.py" timestamp="1526376026388">
         <mark key="[" line="201" column="33" />
@@ -304,10 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="402" column="48" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/account/db/account.py" />
-      <jump line="390" column="15" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/account/db/account.py" />
-      <jump line="41" column="42" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/tools/export_account.py" />
-      <jump line="724" column="4" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
       <jump line="317" column="57" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
       <jump line="730" column="56" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
       <jump line="30" column="61" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/timer/__init__.py" />
@@ -404,52 +413,56 @@
       <jump line="14" column="0" filename="$USER_HOME$/workspace/hera/casiouser/casiouser/uwsgi_internal.ini" />
       <jump line="226" column="25" filename="$USER_HOME$/workspace/hera/deploy/fabfile.py" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/hera/showhand/settings_hera_prod1.py" />
+      <jump line="76" column="66" filename="$USER_HOME$/workspace/hera/hera/hera/apps/users/service/account.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/apps/users/service/account.py" />
+      <jump line="79" column="4" filename="$USER_HOME$/workspace/hera/hera/hera/apps/users/service/account.py" />
+      <jump line="6" column="14" filename="$USER_HOME$/workspace/hera/hera/hera/apps/users/service/account.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>casiouser-uwsgi</text>
+        <text>user_login</text>
       </register>
       <register name="-" type="4">
-        <text>casiouser-uwsgi</text>
+        <text>user_login</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDQVNJT19TRUNSRVRfS0VZXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICdjYXNpb3VzZXInID09IF9ST0xFOgogICAgICAgIHN1ZG8oInN1cGVydmlzb3JjdGwgcmVzdGFydCBjYXNpb3VzZXItdXdzZ2kiKQo=</text>
+      <register name="0" type="4">
+        <text>is_user_playing</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHktdHJhY2ViYWNrZXI9L3Zhci9sb2cvY2FzaW91c2VyL3Ric29ja2V0X2Nhc2lvdXNlcgo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzbGVlcCgxNSkKICAgICAgICBzdWRvKCJjaG93biB1YnVudHU6dWJ1bnR1IC1SICVzIiAlIF9MT0dfRElSKQogICAgICAgIHN1ZG8oInN1cGVydmlzb3JjdGwgc3RhcnQgY2FzaW91c2VyLXV3c2dpIikK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Nhc2lvdXNlcic6IFsnMTgzLjYwLjIwMC4xMTUnLCBdLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICdjYXNpb3VzZXInOiAnfi9naXRjb2RlL2Nhc2lvdXNlcicsCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGV4Y2VwdAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRyeToK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlcnZlcl90eXBlLCByb29tX2luZGV4ID0gZ2V0X2dhbWVfaW5mbyh1c2VyX2lkKQo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCB1c2VyX2lkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVzZXJfaWQgPSBpbnQocmVxdWVzdC51c2VyX2lkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGtqcAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGtmY19yb29tID0gZ2V0X2tmY19pbmZvKHVzZXJfaWQpCg==</text>
+        <text encoding="base64">cHktdHJhY2ViYWNrZXI9L3Zhci9sb2cvY2FzaW91c2VyL3Ric29ja2V0X2Nhc2lvdXNlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>98</text>
