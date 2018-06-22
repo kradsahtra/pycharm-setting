@@ -74,7 +74,6 @@
         <mark key="." line="72" column="18" />
         <mark key="^" line="72" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/hera/blood/settings_hera_prod2.py" timestamp="1529567510308" />
       <file name="$USER_HOME$/workspace/hera/hera/hera/base/urls.py" timestamp="1529485465729">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="7" />
@@ -105,6 +104,10 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
+      <file name="/settings_test.py" timestamp="1529650298300">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="41" column="71" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/preset/view.py" timestamp="1529115275841">
         <mark key="[" line="143" column="0" />
         <mark key="]" line="143" column="0" />
@@ -129,7 +132,6 @@
         <mark key="." line="102" column="24" />
         <mark key="^" line="101" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/hera/casiouser_inner/uwsgi.ini" timestamp="1529631067700" />
       <file name="$USER_HOME$/workspace/force/shared/utils/logs.py" timestamp="1527302702697">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -148,7 +150,6 @@
         <mark key="." line="26" column="31" />
         <mark key="^" line="26" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/hera/hera/hera/uwsgi.ini" timestamp="1529570947887" />
       <file name="$USER_HOME$/workspace/hera/casiouser/casiouser/userplatform/settings_prod1.py" timestamp="1529649890985">
         <mark key="[" line="8" column="31" />
         <mark key="]" line="8" column="35" />
@@ -238,7 +239,7 @@
         <mark key="^" line="230" column="18" />
         <mark key="." line="230" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529572098440">
+      <file name="/Dummy.txt" timestamp="1529650571509">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
@@ -262,6 +263,11 @@
         <mark key="]" line="108" column="24" />
         <mark key="." line="108" column="0" />
         <mark key="^" line="56" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_test.py" timestamp="1529650569922">
+        <mark key="[" line="43" column="41" />
+        <mark key="]" line="43" column="63" />
+        <mark key="." line="43" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/hera/casiouser/casiouser/uwsgi_internal.ini" timestamp="1529570986135">
         <mark key="'" line="1" column="21" />
@@ -312,7 +318,6 @@
         <mark key="^" line="201" column="33" />
         <mark key="." line="201" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/hera/casiouser/casiouser/uwsgi.ini" timestamp="1529569868085" />
     </filemarks>
     <jumps>
       <jump line="35" column="24" filename="$USER_HOME$/workspace/hera/showhand/app.py" />
@@ -418,16 +423,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stosp</text>
+        <text>14.29.47.193:9003</text>
       </register>
       <register name="-" type="4">
-        <text>stosp</text>
+        <text>14.29.47.193:9003</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIT1NUVVJMMlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdWRvKCJzdXBlcnZpc29yY3RsIHN0b3AgY2FzaW91c2VyLXV3c2dpIikK</text>
+      <register name="0" type="4">
+        <text>test.maiunion.net:8084</text>
       </register>
       <register name="p" type="4">
         <text />
