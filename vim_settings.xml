@@ -9,11 +9,17 @@
         <mark key="." line="13" column="9" />
         <mark key="^" line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/model.py" timestamp="1529631607100">
-        <mark key="[" line="48" column="5" />
-        <mark key="]" line="48" column="13" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/model.py" timestamp="1529659191457">
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="46" column="10" />
         <mark key="." line="41" column="38" />
         <mark key="^" line="40" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/apps/op/withdraw.js" timestamp="1529660281381">
+        <mark key="[" line="193" column="31" />
+        <mark key="]" line="193" column="32" />
+        <mark key="^" line="193" column="32" />
+        <mark key="." line="193" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/hera/hera/hera/common/error/code.py" timestamp="1529569680419">
         <mark key="[" line="21" column="28" />
@@ -86,9 +92,17 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/db.py" timestamp="1529657901370">
-        <mark key="[" line="510" column="73" />
-        <mark key="]" line="510" column="98" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/management/commands/trans_alipay.py" timestamp="1529660417008">
+        <mark key="'" line="45" column="4" />
+        <mark key="[" line="48" column="40" />
+        <mark key="]" line="48" column="47" />
+        <mark key="^" line="47" column="63" />
+        <mark key="." line="48" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/db.py" timestamp="1529660329680">
+        <mark key="'" line="320" column="40" />
+        <mark key="[" line="341" column="0" />
+        <mark key="]" line="342" column="47" />
         <mark key="^" line="510" column="72" />
         <mark key="." line="510" column="73" />
       </file>
@@ -339,14 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="32" filename="$USER_HOME$/workspace/hera/showhand/app.py" />
-      <jump line="73" column="55" filename="$USER_HOME$/workspace/hera/casiouser/casiouser/userapi/urls.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/apps/users/urls.py" />
-      <jump line="60" column="12" filename="$USER_HOME$/workspace/hera/hera/hera/apps/users/view/account.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/apps/users/view/account.py" />
-      <jump line="81" column="39" filename="$USER_HOME$/workspace/hera/deploy/config.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/hera/deploy/config.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/base/settings_hera_prod1.py" />
       <jump line="100" column="35" filename="$USER_HOME$/workspace/hera/deploy/config.py" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/hera/deploy/fabfile.py" />
       <jump line="15" column="9" filename="$USER_HOME$/workspace/hera/deploy/fabfile.py" />
@@ -439,61 +445,69 @@
       <jump line="292" column="4" filename="$USER_HOME$/workspace/hera/deploy/fabfile.py" />
       <jump line="10" column="43" filename="$USER_HOME$/workspace/hera/casiouser/casiouser/userapi/views/serverinfo_hp.py" />
       <jump line="96" column="4" filename="$USER_HOME$/workspace/hera/showhand/submodules/commons/clients/user.py" />
+      <jump line="510" column="24" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/db.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/db.py" />
+      <jump line="320" column="40" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/db.py" />
+      <jump line="50" column="22" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/management/commands/trans_alipay.py" />
+      <jump line="58" column="27" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/management/commands/trans_alipay.py" />
+      <jump line="67" column="22" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/management/commands/trans_alipay.py" />
+      <jump line="124" column="4" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/management/commands/trans_alipay.py" />
+      <jump line="45" column="4" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/management/commands/trans_alipay.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_LOGGER</text>
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>check_argument</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxIT1NUVVJMMlw+</text>
+        <text encoding="base64">XDxjaGVja193YWl0X29yZGVyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>_LOGGER</text>
+        <text>item.id</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCdjaGVja19hcmd1bWVudCgpIGZpbmlzaGVkJykK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICMgYmFjayBkaXNhYmxlZCBvcmRlcnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdWRvKCJjaG93biB1YnVudHU6dWJ1bnR1IC1SICVzIiAlIF9MT0dfRElSKQo=</text>
+        <text encoding="base64">ICAgICMgYmFjayBkaXNhYmxlZCBvcmRlcnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGdldF96amhfaW5mbyh1c2VyX2lkKToKICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE1JU1NJTkdfT1BDT0RFID0gNywgdSLnvLrlsJEgb3Bjb2RlIGhlYWRlciIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCdjaGVja19hcmd1bWVudCgpIGZpbmlzaGVkJykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzdWRvKCJjaG93biB1YnVudHU6dWJ1bnR1IC1SICVzIiAlIF9MT0dfRElSKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdAo=</text>
+        <text encoding="base64">ICAgIGlmIGdldF96amhfaW5mbyh1c2VyX2lkKToKICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>98</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxIT1NUVVJMMlw+</last-search>
+      <last-search encoding="base64">XDxjaGVja193YWl0X29yZGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxIT1NUVVJMMlw+</last-pattern>
+      <last-pattern encoding="base64">XDxjaGVja193YWl0X29yZGVyXD4=</last-pattern>
       <last-replace>track</last-replace>
       <last-substitute>win</last-substitute>
       <last-dir>1</last-dir>
@@ -501,8 +515,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWZ1bmRfaWRzXD4=</entry>
-        <entry encoding="base64">XDxtb3ZlX3RvX3RyYWNrZWRcPg==</entry>
         <entry encoding="base64">XDxnZXRfdHJhY2tfZGV0YWlsX2J5X3R5cGVfdjJcPg==</entry>
         <entry encoding="base64">XDxnZXRfb3JkZXJfaGlzdG9yeV9ieV90eXBlX3YyXD4=</entry>
         <entry encoding="base64">XDxtZ1w+</entry>
@@ -521,6 +533,8 @@
         <entry encoding="base64">XDxjYXNpb3VzZXJcPg==</entry>
         <entry encoding="base64">XDxDQVNJT19TRUNSRVRfS0VZXD4=</entry>
         <entry encoding="base64">XDxIT1NUVVJMMlw+</entry>
+        <entry encoding="base64">XDxpbl9cPg==</entry>
+        <entry encoding="base64">XDxjaGVja193YWl0X29yZGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
