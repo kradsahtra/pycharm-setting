@@ -86,6 +86,12 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/db.py" timestamp="1529657901370">
+        <mark key="[" line="510" column="73" />
+        <mark key="]" line="510" column="98" />
+        <mark key="^" line="510" column="72" />
+        <mark key="." line="510" column="73" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/__init__.py" timestamp="1528707600835">
         <mark key="[" line="28" column="22" />
         <mark key="]" line="28" column="23" />
@@ -245,7 +251,7 @@
         <mark key="^" line="230" column="18" />
         <mark key="." line="230" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529650571509">
+      <file name="/Dummy.txt" timestamp="1529658119334">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
@@ -429,7 +435,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>open()</text>
+        <text>WITHDRAW_STATUS.FORBIDDEN</text>
       </register>
       <register name="-" type="4">
         <text>open()</text>
@@ -437,8 +443,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxIT1NUVVJMMlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCdlbnRlcmluZyBvcGVuKCknKQo=</text>
+      <register name="0" type="4">
+        <text>WITHDRAW_STATUS.FORBIDDEN</text>
       </register>
       <register name="p" type="4">
         <text />
