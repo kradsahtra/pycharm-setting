@@ -30,12 +30,12 @@
       <file name="$USER_HOME$/workspace/hera/hera/hera/common/game_cache.py" timestamp="1529550967514">
         <mark key="'" line="141" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/hera/deploy/fabfile.py" timestamp="1529636015054">
-        <mark key="'" line="294" column="4" />
-        <mark key="[" line="220" column="28" />
-        <mark key="]" line="220" column="32" />
-        <mark key="." line="220" column="32" />
-        <mark key="^" line="220" column="32" />
+      <file name="$USER_HOME$/workspace/hera/deploy/fabfile.py" timestamp="1529657038696">
+        <mark key="'" line="298" column="4" />
+        <mark key="[" line="226" column="48" />
+        <mark key="]" line="226" column="48" />
+        <mark key="." line="226" column="48" />
+        <mark key="^" line="226" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/pay/db.py" timestamp="1528255787144">
         <mark key="[" line="137" column="40" />
@@ -61,6 +61,12 @@
         <mark key="]" line="46" column="57" />
         <mark key="^" line="46" column="57" />
         <mark key="." line="46" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspace/hera/showhand/handlers/table.py" timestamp="1529657171701">
+        <mark key="[" line="74" column="42" />
+        <mark key="]" line="74" column="50" />
+        <mark key="^" line="74" column="50" />
+        <mark key="." line="74" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/hera/hera/hera/apps/auth/service/third_app.py" timestamp="1529480634790">
         <mark key="[" line="25" column="4" />
@@ -423,49 +429,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>14.29.47.193:9003</text>
+        <text>open()</text>
       </register>
       <register name="-" type="4">
-        <text>14.29.47.193:9003</text>
+        <text>open()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIT1NUVVJMMlw+</text>
       </register>
-      <register name="0" type="4">
-        <text>test.maiunion.net:8084</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCdlbnRlcmluZyBvcGVuKCknKQo=</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGdldF96amhfaW5mbyh1c2VyX2lkKToKICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE1JU1NJTkdfT1BDT0RFID0gNywgdSLnvLrlsJEgb3Bjb2RlIGhlYWRlciIK</text>
+        <text encoding="base64">ICAgICAgICBzdWRvKCJjaG93biB1YnVudHU6dWJ1bnR1IC1SICVzIiAlIF9MT0dfRElSKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIGlmIGdldF96amhfaW5mbyh1c2VyX2lkKToKICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgIE1JU1NJTkdfT1BDT0RFID0gNywgdSLnvLrlsJEgb3Bjb2RlIGhlYWRlciIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIHRyeToK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCB1c2VyX2lkCg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name=":" type="4">
         <text>98</text>
