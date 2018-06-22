@@ -30,12 +30,12 @@
       <file name="$USER_HOME$/workspace/hera/hera/hera/common/game_cache.py" timestamp="1529550967514">
         <mark key="'" line="141" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/hera/deploy/fabfile.py" timestamp="1529573012295">
-        <mark key="'" line="292" column="4" />
-        <mark key="[" line="220" column="36" />
-        <mark key="]" line="220" column="56" />
-        <mark key="." line="220" column="56" />
-        <mark key="^" line="220" column="56" />
+      <file name="$USER_HOME$/workspace/hera/deploy/fabfile.py" timestamp="1529636015054">
+        <mark key="'" line="294" column="4" />
+        <mark key="[" line="220" column="28" />
+        <mark key="]" line="220" column="32" />
+        <mark key="." line="220" column="32" />
+        <mark key="^" line="220" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/pay/db.py" timestamp="1528255787144">
         <mark key="[" line="137" column="40" />
@@ -149,6 +149,12 @@
         <mark key="^" line="26" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/hera/hera/hera/uwsgi.ini" timestamp="1529570947887" />
+      <file name="$USER_HOME$/workspace/hera/casiouser/casiouser/userplatform/settings_prod1.py" timestamp="1529635811057">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="35" />
+        <mark key="^" line="8" column="35" />
+        <mark key="." line="8" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/account/handler.py" timestamp="1528948523141">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -260,6 +266,9 @@
       <file name="$USER_HOME$/workspace/hera/casiouser/casiouser/uwsgi_internal.ini" timestamp="1529570986135">
         <mark key="'" line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/hera/casiouser/casiouser/userapi/views/serverinfo_hp.py" timestamp="1529635822884">
+        <mark key="'" line="10" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/third/pay/justpay.py" timestamp="1527133031828">
         <mark key="[" line="55" column="66" />
         <mark key="]" line="55" column="66" />
@@ -306,7 +315,6 @@
       <file name="$USER_HOME$/workspace/hera/casiouser/casiouser/uwsgi.ini" timestamp="1529569868085" />
     </filemarks>
     <jumps>
-      <jump line="40" column="27" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/utils/respcode.py" />
       <jump line="35" column="24" filename="$USER_HOME$/workspace/hera/showhand/app.py" />
       <jump line="27" column="32" filename="$USER_HOME$/workspace/hera/showhand/app.py" />
       <jump line="73" column="55" filename="$USER_HOME$/workspace/hera/casiouser/casiouser/userapi/urls.py" />
@@ -406,19 +414,20 @@
       <jump line="41" column="5" filename="$USER_HOME$/workspace/hera/hera/hera/tools/test_api.py" />
       <jump line="127" column="12" filename="$USER_HOME$/workspace/hera/deploy/fabfile.py" />
       <jump line="292" column="4" filename="$USER_HOME$/workspace/hera/deploy/fabfile.py" />
+      <jump line="10" column="43" filename="$USER_HOME$/workspace/hera/casiouser/casiouser/userapi/views/serverinfo_hp.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">SU5URVJOQUxfQUNDT1VOVF9GUkVFWkVfQVBJID0gJ2h0dHA6Ly8xODMuNjAuMjAxLjQ4OjgwODAvYXBpL2ludGVybmFsL2lzX2FjY291bnRfZnJlZXplJwo=</text>
+      <register name="&quot;" type="4">
+        <text>stosp</text>
       </register>
       <register name="-" type="4">
-        <text>'http://183.60.201.48:8080/api/internal/is_account_freeze'</text>
+        <text>stosp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDQVNJT19TRUNSRVRfS0VZXD4=</text>
+        <text encoding="base64">XDxIT1NUVVJMMlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SU5URVJOQUxfQUNDT1VOVF9GUkVFWkVfQVBJID0gJ2h0dHA6Ly8xODMuNjAuMjAxLjQ4OjgwODAvYXBpL2ludGVybmFsL2lzX2FjY291bnRfZnJlZXplJwo=</text>
+        <text encoding="base64">ICAgICAgICBzdWRvKCJzdXBlcnZpc29yY3RsIHN0b3AgY2FzaW91c2VyLXV3c2dpIikK</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -458,9 +467,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDQVNJT19TRUNSRVRfS0VZXD4=</last-search>
+      <last-search encoding="base64">XDxIT1NUVVJMMlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDQVNJT19TRUNSRVRfS0VZXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxIT1NUVVJMMlw+</last-pattern>
       <last-replace>track</last-replace>
       <last-substitute>win</last-substitute>
       <last-dir>1</last-dir>
@@ -468,7 +477,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWZ1bmRfb3JkZXJfaWRzXD4=</entry>
         <entry encoding="base64">XDxyZWZ1bmRfaWRzXD4=</entry>
         <entry encoding="base64">XDxtb3ZlX3RvX3RyYWNrZWRcPg==</entry>
         <entry encoding="base64">XDxnZXRfdHJhY2tfZGV0YWlsX2J5X3R5cGVfdjJcPg==</entry>
@@ -488,6 +496,7 @@
         <entry encoding="base64">XDxpbnRlcm5hbFw+</entry>
         <entry encoding="base64">XDxjYXNpb3VzZXJcPg==</entry>
         <entry encoding="base64">XDxDQVNJT19TRUNSRVRfS0VZXD4=</entry>
+        <entry encoding="base64">XDxIT1NUVVJMMlw+</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
