@@ -49,12 +49,12 @@
         <mark key="^" line="137" column="44" />
         <mark key="." line="137" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/hera/deploy/user_config.py" timestamp="1529720633292">
-        <mark key="'" line="78" column="45" />
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="20" column="12" />
-        <mark key="." line="20" column="12" />
-        <mark key="^" line="20" column="12" />
+      <file name="$USER_HOME$/workspace/hera/deploy/user_config.py" timestamp="1529736528221">
+        <mark key="'" line="79" column="45" />
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="17" />
+        <mark key="." line="20" column="17" />
+        <mark key="^" line="76" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/preset/model/preset.py" timestamp="1528442363038">
         <mark key="[" line="83" column="0" />
@@ -459,16 +459,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>casiouser</text>
+        <text>userplatform</text>
       </register>
       <register name="-" type="4">
-        <text>casiouser</text>
+        <text>userplatform</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBbGlQYXlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICdjYXNpb3VzZXInOiAndXNlcnBsYXRmb3JtJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Nhc2lvdXNlcl9pbm5lcic6IFsnMTgzLjYwLjExMC4yNDMnLCBdLAo=</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -504,7 +504,7 @@
         <text encoding="base64">ICAgICAgICBzdWRvKCJjaG93biB1YnVudHU6dWJ1bnR1IC1SICVzIiAlIF9MT0dfRElSKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>221</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -540,7 +540,6 @@
         <entry encoding="base64">XDxBbGlQYXlcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>132</entry>
         <entry>118</entry>
         <entry>437</entry>
@@ -560,6 +559,7 @@
         <entry>250</entry>
         <entry>98</entry>
         <entry>221</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
