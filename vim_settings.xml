@@ -69,10 +69,10 @@
         <mark key="." line="46" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/hera/showhand/handlers/table.py" timestamp="1529737901155">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="77" column="50" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="78" column="50" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/hera/hera/hera/apps/auth/service/third_app.py" timestamp="1529480634790">
         <mark key="[" line="25" column="4" />
@@ -267,7 +267,7 @@
       <file name="$USER_HOME$/workspace/hera/showhand/requirements.txt" timestamp="1529736595404">
         <mark key="'" line="51" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529738282847">
+      <file name="/Dummy.txt" timestamp="1529740387789">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
@@ -291,11 +291,15 @@
         <mark key="]" line="43" column="63" />
         <mark key="." line="43" column="41" />
       </file>
+      <file name="/table.py" timestamp="1529740494081" />
       <file name="$USER_HOME$/workspace/hera/casiouser/casiouser/uwsgi_internal.ini" timestamp="1529570986135">
         <mark key="'" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/hera/casiouser/casiouser/userapi/views/serverinfo_hp.py" timestamp="1529739014091">
-        <mark key="'" line="556" column="4" />
+      <file name="$USER_HOME$/workspace/hera/casiouser/casiouser/userapi/views/serverinfo_hp.py" timestamp="1529739921754">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/withdraw/group_withdraw_new.py" timestamp="1529661603253">
         <mark key="'" line="85" column="4" />
@@ -343,7 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="13" filename="$USER_HOME$/workspace/hera/hera/hera/base/settings_prod1.py" />
       <jump line="90" column="22" filename="$USER_HOME$/workspace/hera/hera/hera/base/settings_prod1.py" />
       <jump line="121" column="18" filename="$USER_HOME$/workspace/hera/hera/hera/base/settings_prod1.py" />
       <jump line="132" column="5" filename="$USER_HOME$/workspace/hera/hera/hera/base/settings_prod1.py" />
@@ -443,10 +446,11 @@
       <jump line="149" column="4" filename="$USER_HOME$/workspace/hera/showhand/cache/event.py" />
       <jump line="27" column="18" filename="$USER_HOME$/workspace/hera/casiouser/casiouser/userapi/views/serverinfo_hp.py" />
       <jump line="556" column="4" filename="$USER_HOME$/workspace/hera/casiouser/casiouser/userapi/views/serverinfo_hp.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/hera/casiouser/casiouser/userapi/views/serverinfo_hp.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNldHRpbmdzCg==</text>
+        <text encoding="base64">IyBmcm9tIHVzZXJjb21tb24udXBkYXRlLmRiLnVwZGF0ZSBpbXBvcnQgZ2V0X2Nobl91cGRhdGUK</text>
       </register>
       <register name="-" type="4">
         <text>userplatform</text>
@@ -461,31 +465,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNldHRpbmdzCg==</text>
+        <text encoding="base64">IyBmcm9tIHVzZXJjb21tb24udXBkYXRlLmRiLnVwZGF0ZSBpbXBvcnQgZ2V0X2Nobl91cGRhdGUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBfTE9HR0VSID0gbG9nZ2luZy5nZXRMb2dnZXIoJ3Nob3doYW5kJykKX0xPR0dFUiA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCkKZmlsZW5hbWUgPSBzZXR0aW5ncy5MT0dfRElSICsgImFwcC5sb2ciCmZvcm1hdHRlciA9IGxvZ2dpbmcuRm9ybWF0dGVyKCJbJShsZXZlbG5hbWUpMS4xcyAlKGFzY3RpbWUpcyAlKG1vZHVsZSlzOiUobGluZW5vKWRdICUobWVzc2FnZSlzIikKaGFuZGxlciA9IGxvZ2dpbmcuaGFuZGxlcnMuVGltZWRSb3RhdGluZ0ZpbGVIYW5kbGVyKGZpbGVuYW1lPWZpbGVuYW1lLCB3aGVuPSJtaWRuaWdodCIsIGJhY2t1cENvdW50PTcpCmhhbmRsZXIuc2V0Rm9ybWF0dGVyKGZvcm1hdHRlcikKX0xPR0dFUi5zZXRMZXZlbChsb2dnaW5nLkRFQlVHKQpfTE9HR0VSLmFkZEhhbmRsZXIoaGFuZGxlcikK</text>
+        <text encoding="base64">aW1wb3J0IHNldHRpbmdzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBpbXBvcnQganNvbgo=</text>
+        <text encoding="base64">IyBfTE9HR0VSID0gbG9nZ2luZy5nZXRMb2dnZXIoJ3Nob3doYW5kJykKX0xPR0dFUiA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCkKZmlsZW5hbWUgPSBzZXR0aW5ncy5MT0dfRElSICsgImFwcC5sb2ciCmZvcm1hdHRlciA9IGxvZ2dpbmcuRm9ybWF0dGVyKCJbJShsZXZlbG5hbWUpMS4xcyAlKGFzY3RpbWUpcyAlKG1vZHVsZSlzOiUobGluZW5vKWRdICUobWVzc2FnZSlzIikKaGFuZGxlciA9IGxvZ2dpbmcuaGFuZGxlcnMuVGltZWRSb3RhdGluZ0ZpbGVIYW5kbGVyKGZpbGVuYW1lPWZpbGVuYW1lLCB3aGVuPSJtaWRuaWdodCIsIGJhY2t1cENvdW50PTcpCmhhbmRsZXIuc2V0Rm9ybWF0dGVyKGZvcm1hdHRlcikKX0xPR0dFUi5zZXRMZXZlbChsb2dnaW5nLkRFQlVHKQpfTE9HR0VSLmFkZEhhbmRsZXIoaGFuZGxlcikK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">IyBpbXBvcnQganNvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBmcm9tIGZ1dHVyZS51dGlscyBpbXBvcnQgcmFpc2Vfd2l0aF90cmFjZWJhY2sK</text>
+        <text encoding="base64">IyBpbXBvcnQganNvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyBmcm9tIGZ1dHVyZS51dGlscyBpbXBvcnQgcmFpc2Vfd2l0aF90cmFjZWJhY2sK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgYmFjayBkaXNhYmxlZCBvcmRlcnMK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICMgYmFjayBkaXNhYmxlZCBvcmRlcnMK</text>
