@@ -71,6 +71,13 @@
         <mark key="^" line="46" column="57" />
         <mark key="." line="46" column="57" />
       </file>
+      <file name="$USER_HOME$/workspace/hera/showhand/handlers/table.py" timestamp="1529919515451">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="144" column="40" />
+        <mark key="]" line="145" column="50" />
+        <mark key="^" line="145" column="50" />
+        <mark key="." line="145" column="50" />
+      </file>
       <file name="$USER_HOME$/workspace/hera/hera/hera/apps/auth/service/third_app.py" timestamp="1529480634790">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="15" />
@@ -132,12 +139,12 @@
       <file name="$USER_HOME$/workspace/hera/casiouser/casiouser/requirements.txt" timestamp="1529566464245">
         <mark key="'" line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/hera/showhand/cache/event.py" timestamp="1529918630220">
-        <mark key="'" line="2034" column="43" />
-        <mark key="[" line="376" column="18" />
-        <mark key="]" line="376" column="25" />
-        <mark key="." line="376" column="25" />
-        <mark key="^" line="376" column="25" />
+      <file name="$USER_HOME$/workspace/hera/showhand/cache/event.py" timestamp="1529919792689">
+        <mark key="'" line="2035" column="43" />
+        <mark key="[" line="492" column="40" />
+        <mark key="]" line="492" column="45" />
+        <mark key="." line="492" column="45" />
+        <mark key="^" line="492" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/hera/hera/hera/common/game_info_cache.py" timestamp="1529550813493">
         <mark key="[" line="15" column="19" />
@@ -362,12 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/base/settings_prod1.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/base/settings_prod1.py" />
-      <jump line="120" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/base/settings_prod1.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/base/middleware.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/uwsgi.ini" />
-      <jump line="1" column="14" filename="$USER_HOME$/workspace/hera/hera/hera/tools/test_api.py" />
       <jump line="51" column="19" filename="$USER_HOME$/workspace/hera/hera/hera/base/middleware.py" />
       <jump line="20" column="7" filename="$USER_HOME$/workspace/hera/hera/hera/tools/test_api.py" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/tools/test_api.py" />
@@ -462,16 +463,22 @@
       <jump line="5" column="7" filename="$USER_HOME$/workspace/hera/showhand/scripts/test_showhand_ws.py" />
       <jump line="10" column="4" filename="$USER_HOME$/workspace/hera/showhand/scripts/test_showhand_ws.py" />
       <jump line="2034" column="43" filename="$USER_HOME$/workspace/hera/showhand/cache/event.py" />
+      <jump line="142" column="26" filename="$USER_HOME$/workspace/hera/showhand/handlers/table.py" />
+      <jump line="151" column="8" filename="$USER_HOME$/workspace/hera/showhand/handlers/table.py" />
+      <jump line="482" column="28" filename="$USER_HOME$/workspace/hera/showhand/handlers/table.py" />
+      <jump line="486" column="16" filename="$USER_HOME$/workspace/hera/showhand/handlers/table.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/hera/showhand/handlers/table.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/hera/showhand/handlers/table.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZSgzKToKICAgICAgICAgICAgdGltZS5zbGVlcCgxKQogICAgICAgICAgICB3cy5zZW5kKCJIZWxsbyAlZCIgJSBpKQogICAgICAgIHRpbWUuc2xlZXAoMSkKICAgICAgICB3cy5jbG9zZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>ws://echo.websocket.org/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbl9tZXNzYWdlXD4=</text>
+        <text encoding="base64">XDx1c2VyX2hhbmRsZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygicm9vbVslc10gdGFibGVbJXNdIGdhbWUgYmVnaW4gYmFua2VyWyVzXSB0dXJuWyVzXSJcCiAgICAgICAgICAgICAgICAgJSAocm9vbSwgdGFibGUsIGJhbmtlciwgZ2V0X3R1cm4ocm9vbSwgdGFibGUpKSkK</text>
@@ -515,9 +522,9 @@ rsa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbl9tZXNzYWdlXD4=</last-search>
+      <last-search encoding="base64">XDx1c2VyX2hhbmRsZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbl9tZXNzYWdlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyX2hhbmRsZXJcPg==</last-pattern>
       <last-replace>track</last-replace>
       <last-substitute>win</last-substitute>
       <last-dir>1</last-dir>
@@ -525,7 +532,6 @@ rsa</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwxMTBcPg==</entry>
         <entry encoding="base64">XDx1c2VyX2NvbmZpZ1w+</entry>
         <entry encoding="base64">XDxERUJVR1w+</entry>
         <entry encoding="base64">XDxHQU1FX1VSTF9QUkVGSVhcPg==</entry>
@@ -545,6 +551,7 @@ rsa</text>
         <entry encoding="base64">XDxEZWxheVRhc2tcPg==</entry>
         <entry encoding="base64">XDxEZWxheUJlZ2luXD4=</entry>
         <entry encoding="base64">XDxvbl9tZXNzYWdlXD4=</entry>
+        <entry encoding="base64">XDx1c2VyX2hhbmRsZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
