@@ -27,8 +27,8 @@
         <mark key="^" line="21" column="38" />
         <mark key="." line="21" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1529718157461">
-        <mark key="[" line="0" column="8" />
+      <file name="/a.dummy" timestamp="1529898190637">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="8" />
@@ -125,8 +125,12 @@
       <file name="$USER_HOME$/workspace/hera/casiouser/casiouser/requirements.txt" timestamp="1529566464245">
         <mark key="'" line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/hera/showhand/cache/event.py" timestamp="1529896215346">
-        <mark key="'" line="651" column="49" />
+      <file name="$USER_HOME$/workspace/hera/showhand/cache/event.py" timestamp="1529898286844">
+        <mark key="'" line="652" column="49" />
+        <mark key="[" line="376" column="18" />
+        <mark key="]" line="376" column="25" />
+        <mark key="." line="376" column="25" />
+        <mark key="^" line="376" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/hera/hera/hera/common/game_info_cache.py" timestamp="1529550813493">
         <mark key="[" line="15" column="19" />
@@ -179,6 +183,9 @@
         <mark key="]" line="477" column="92" />
         <mark key="." line="477" column="92" />
         <mark key="^" line="477" column="92" />
+      </file>
+      <file name="$USER_HOME$/workspace/hera/showhand/settings_hera_prod1.py" timestamp="1529897492486">
+        <mark key="'" line="53" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/apps/op/router.js" timestamp="1528448273154">
         <mark key="[" line="26" column="13" />
@@ -343,7 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/base/settings_prod1.py" />
       <jump line="122" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/base/settings_prod1.py" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/base/settings_prod1.py" />
       <jump line="124" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/base/settings_prod1.py" />
@@ -443,19 +449,20 @@
       <jump line="33" column="49" filename="$USER_HOME$/workspace/hera/showhand/proxy_client.py" />
       <jump line="113" column="4" filename="$USER_HOME$/workspace/hera/showhand/cache/event.py" />
       <jump line="651" column="49" filename="$USER_HOME$/workspace/hera/showhand/cache/event.py" />
+      <jump line="53" column="9" filename="$USER_HOME$/workspace/hera/showhand/settings_hera_prod1.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GAME_BEGIN</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>userplatform</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEZWxheUJlZ2luXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>GAME_BEGIN</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygicm9vbVslc10gdGFibGVbJXNdIGdhbWUgYmVnaW4gYmFua2VyWyVzXSB0dXJuWyVzXSJcCiAgICAgICAgICAgICAgICAgJSAocm9vbSwgdGFibGUsIGJhbmtlciwgZ2V0X3R1cm4ocm9vbSwgdGFibGUpKSkK</text>
       </register>
       <register name="p" type="4">
         <text />
