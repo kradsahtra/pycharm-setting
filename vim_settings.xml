@@ -9,11 +9,12 @@
         <mark key="." line="13" column="9" />
         <mark key="^" line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/model.py" timestamp="1529722669738">
-        <mark key="[" line="46" column="5" />
-        <mark key="]" line="46" column="10" />
-        <mark key="." line="41" column="38" />
-        <mark key="^" line="40" column="27" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/model.py" timestamp="1529998205913">
+        <mark key="'" line="93" column="6" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="17" />
+        <mark key="." line="51" column="17" />
+        <mark key="^" line="54" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbangweb/js/apps/op/withdraw.js" timestamp="1529660281381">
         <mark key="[" line="193" column="31" />
@@ -391,7 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="41" filename="$USER_HOME$/workspace/hera/hera/hera/common/model/kfc_model.py" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/hera/hera/hera/common/server_type.py" />
       <jump line="9" column="19" filename="$USER_HOME$/workspace/hera/hera/hera/common/game_info_cache.py" />
       <jump line="12" column="19" filename="$USER_HOME$/workspace/hera/hera/hera/common/game_info_cache.py" />
@@ -491,19 +491,20 @@
       <jump line="6" column="37" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/withdraw/__init__.py" />
       <jump line="71" column="17" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/withdraw/__init__.py" />
       <jump line="93" column="18" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/withdraw/__init__.py" />
+      <jump line="87" column="6" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>unionagency_bankcard</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZ1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZWFzb25fbGlzdC5hcHBlbmQodSfmlLbmrL7otKblj7fku4rml6Xmj5DnjrDotoXov4cgMyDmrKEnKQo=</text>
+      <register name="0" type="4">
+        <text>unionagency_bankcard</text>
       </register>
       <register name="p" type="4">
         <text />
