@@ -52,11 +52,11 @@
         <mark key="^" line="46" column="57" />
         <mark key="." line="46" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/view.py" timestamp="1530001666792">
-        <mark key="[" line="101" column="30" />
-        <mark key="]" line="101" column="30" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/view.py" timestamp="1530168476542">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
         <mark key="^" line="101" column="30" />
-        <mark key="." line="101" column="30" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/hera/hera/hera/apps/auth/service/third_app.py" timestamp="1529480634790">
         <mark key="[" line="25" column="4" />
@@ -329,19 +329,13 @@
         <mark key="." line="217" column="29" />
         <mark key="^" line="217" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/hera/hera/hera/apps/users/service/account.py" timestamp="1530000350398">
-        <mark key="'" line="11" column="32" />
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
-      </file>
       <file name="$USER_HOME$/workspace/hera/casiouser/casiouser/usercommon/game_cache/game_info_cache.py" timestamp="1529571618500">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="13" column="15" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/pay/model.py" timestamp="1528688266028">
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/pay/model.py" timestamp="1530168795811">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="18" column="16" />
         <mark key="." line="17" column="47" />
@@ -469,8 +463,8 @@
       <jump line="8" column="6" filename="$USER_HOME$/workspace/hera/hera/hera/apps/users/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>withdraw</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QHRva2VuX3JlcXVpcmVkCg==</text>
       </register>
       <register name="-" type="4">
         <text>withdraw</text>
@@ -485,34 +479,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">QHRva2VuX3JlcXVpcmVkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbihjWydsaXN0J10pID4gMDoK</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF2YWlsYWJsZV93aXRoZHJhd19jaGFubmVscyA9IAo=</text>
+        <text encoding="base64">ICAgIGlmIGxlbihjWydsaXN0J10pID4gMDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGMgPSBxdWVyeV93aXRoZHJhd19jaGFubmVscygpCg==</text>
+        <text encoding="base64">ICAgIGF2YWlsYWJsZV93aXRoZHJhd19jaGFubmVscyA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMg5LiJ5Liq5Liq5L2N5pWw5LmL5ZKM55qEIOiMg+WbtCAw772eMjcK</text>
+        <text encoding="base64">ICAgIGMgPSBxdWVyeV93aXRoZHJhd19jaGFubmVscygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvdW50ID0gc3VtKFtpbnQoaSkgZm9yIGkgaW4gc3RyKG9pZClbLTM6XV0pCg==</text>
+        <text encoding="base64">ICAgICMg5LiJ5Liq5Liq5L2N5pWw5LmL5ZKM55qEIOiMg+WbtCAw772eMjcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">X0RJU0FCTEVEX1dJVEhEUkFXX1RZUEVTID0gWwogICAgV0lUSERSQVdfVFlQRS5BTElQQVksCl0KCg==</text>
+        <text encoding="base64">ICAgIGNvdW50ID0gc3VtKFtpbnQoaSkgZm9yIGkgaW4gc3RyKG9pZClbLTM6XV0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">X0RJU0FCTEVEX1dJVEhEUkFXX1RZUEVTID0gWwogICAgV0lUSERSQVdfVFlQRS5BTElQQVksCl0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">X0FMTE9XRURfV0lUSERSQVdfVFlQRVMgPSBbCiAgICBXSVRIRFJBV19UWVBFLkJBTktDQVJELAogICAgIyBXSVRIRFJBV19UWVBFLkFMSVBBWSwKXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1727</text>
