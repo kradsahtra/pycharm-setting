@@ -83,12 +83,12 @@
         <mark key="^" line="77" column="60" />
         <mark key="." line="90" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/db.py" timestamp="1530172805639">
-        <mark key="'" line="320" column="40" />
-        <mark key="[" line="510" column="8" />
-        <mark key="]" line="510" column="99" />
-        <mark key="^" line="510" column="72" />
-        <mark key="." line="510" column="73" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/db.py" timestamp="1530174529802">
+        <mark key="'" line="325" column="40" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="32" column="3" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/hera/hera/hera/apps/users/urls.py" timestamp="1530158003602">
         <mark key="'" line="8" column="6" />
@@ -279,7 +279,7 @@
         <mark key="^" line="27" column="15" />
         <mark key="." line="27" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530171473651">
+      <file name="/Dummy.txt" timestamp="1530173960541">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
@@ -336,9 +336,9 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/pay/model.py" timestamp="1530172390934">
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="15" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/pay/model.py" timestamp="1530173495596">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="17" column="21" />
         <mark key="." line="17" column="47" />
         <mark key="^" line="17" column="47" />
       </file>
@@ -464,50 +464,50 @@
       <jump line="130" column="60" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/management/commands/trans_alipay.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SELF_WECHAT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFBBWV9UWVBFLlNFTEZfV0VDSEFULAo=</text>
       </register>
       <register name="-" type="4">
-        <text>SUBMIT_TO_THIRD</text>
+        <text>UNIONAGENCY</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXSVRIRFJBV19PUkRFUl9TVEFUVVNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>SELF_WECHAT</text>
+        <text>UNIONAGENCY_V2_WX</text>
       </register>
       <register name="p" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgIFBBWV9UWVBFLlNFTEZfV0VDSEFULAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoZHJhdy5zYXZlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QHRva2VuX3JlcXVpcmVkCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoZHJhdy5zYXZlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">QHRva2VuX3JlcXVpcmVkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbihjWydsaXN0J10pID4gMDoK</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF2YWlsYWJsZV93aXRoZHJhd19jaGFubmVscyA9IAo=</text>
+        <text encoding="base64">ICAgIGlmIGxlbihjWydsaXN0J10pID4gMDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGMgPSBxdWVyeV93aXRoZHJhd19jaGFubmVscygpCg==</text>
+        <text encoding="base64">ICAgIGF2YWlsYWJsZV93aXRoZHJhd19jaGFubmVscyA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>1727</text>
