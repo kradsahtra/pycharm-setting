@@ -104,10 +104,12 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbangweb/templates/op/Withdraws.html" timestamp="1530001868924">
-        <mark key="[" line="279" column="0" />
-        <mark key="]" line="279" column="0" />
-        <mark key="." line="279" column="0" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbangweb/templates/op/Withdraws.html" timestamp="1530149937213">
+        <mark key="'" line="11" column="72" />
+        <mark key="[" line="11" column="67" />
+        <mark key="]" line="11" column="72" />
+        <mark key="." line="11" column="72" />
+        <mark key="^" line="11" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/gx_ks/logic/activity.py" timestamp="1530091762783">
         <mark key="[" line="16" column="28" />
@@ -269,7 +271,7 @@
         <mark key="^" line="27" column="15" />
         <mark key="." line="27" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530092565944">
+      <file name="/Dummy.txt" timestamp="1530149939715">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
@@ -358,7 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="5" filename="$USER_HOME$/workspace/hera/deploy/user_config.py" />
       <jump line="35" column="13" filename="$USER_HOME$/workspace/hera/deploy/user_config.py" />
       <jump line="76" column="45" filename="$USER_HOME$/workspace/hera/deploy/user_config.py" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/hera/casiouser/casiouser/requirements.txt" />
@@ -458,13 +459,14 @@
       <jump line="15" column="79" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/management/commands/trans_alipay.py" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/timer/__init__.py" />
       <jump line="68" column="37" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/gx_ks/logic/activity.py" />
+      <jump line="11" column="72" filename="$USER_HOME$/workspace/witch/bigbang/bigbangweb/templates/op/Withdraws.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get_available_withdraw_channels()</text>
+        <text>支付方式</text>
       </register>
       <register name="-" type="4">
-        <text>get_available_withdraw_channels()</text>
+        <text>支付方式</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXSVRIRFJBV19DSEFOTkVMU1w+</text>
