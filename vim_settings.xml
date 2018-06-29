@@ -149,6 +149,9 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/hera/heka/externals/game_showhand/model.go" timestamp="1530256315486">
+        <mark key="'" line="19" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/preset/view.py" timestamp="1529999104786">
         <mark key="[" line="141" column="53" />
         <mark key="]" line="141" column="53" />
@@ -276,12 +279,12 @@
       <file name="$USER_HOME$/workspace/hera/showhand/cache/robot_event.py" timestamp="1529979713776">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/withdraw/unionagency_withdraw.py" timestamp="1530171308126">
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/withdraw/unionagency_withdraw.py" timestamp="1530256849138">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="74" column="13" />
-        <mark key="]" line="75" column="20" />
-        <mark key="." line="75" column="20" />
-        <mark key="^" line="75" column="20" />
+        <mark key="[" line="72" column="13" />
+        <mark key="]" line="72" column="25" />
+        <mark key="." line="72" column="13" />
+        <mark key="^" line="68" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/hera/showhand/logs/config.py" timestamp="1529737442500">
         <mark key="'" line="6" column="0" />
@@ -423,7 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="4" filename="$USER_HOME$/workspace/hera/deploy/fabfile.py" />
       <jump line="10" column="43" filename="$USER_HOME$/workspace/hera/casiouser/casiouser/userapi/views/serverinfo_hp.py" />
       <jump line="96" column="4" filename="$USER_HOME$/workspace/hera/showhand/submodules/commons/clients/user.py" />
       <jump line="510" column="24" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/db.py" />
@@ -523,19 +525,20 @@
       <jump line="136" column="23" filename="$USER_HOME$/workspace/hera/hera/hera/tools/test_api.py" />
       <jump line="99" column="19" filename="$USER_HOME$/workspace/hera/hera/hera/common/decorator.py" />
       <jump line="128" column="31" filename="$USER_HOME$/workspace/hera/hera/hera/tools/test_api.py" />
+      <jump line="19" column="48" filename="$USER_HOME$/workspace/hera/heka/externals/game_showhand/model.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>randint()</text>
+        <text>res_dict['order_status']</text>
       </register>
       <register name="-" type="4">
-        <text>randint()</text>
+        <text>res_dict['order_status']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2lkXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>16000000</text>
+        <text>order_status</text>
       </register>
       <register name="p" type="4">
         <text />
