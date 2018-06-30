@@ -19,11 +19,11 @@
         <mark key="]" line="13" column="33" />
         <mark key="." line="13" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/view.py" timestamp="1530267049895">
-        <mark key="[" line="185" column="6" />
-        <mark key="]" line="185" column="32" />
-        <mark key="." line="185" column="16" />
-        <mark key="^" line="185" column="16" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/view.py" timestamp="1530331093218">
+        <mark key="[" line="188" column="24" />
+        <mark key="]" line="188" column="34" />
+        <mark key="." line="188" column="24" />
+        <mark key="^" line="188" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/hera/hera/hera/apps/users/view/account.py" timestamp="1530237535187">
         <mark key="[" line="49" column="46" />
@@ -320,17 +320,17 @@
       <jump line="163" column="4" filename="$USER_HOME$/workspace/hera/hera/hera/tools/test_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAncmVjb3JkX2lkJzogMTAwLAo=</text>
+      <register name="&quot;" type="4">
+        <text>'pay_type'</text>
       </register>
       <register name="-" type="4">
-        <text>ref_id</text>
+        <text>['pay_type']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0X3F1ZXJ5X3VzZXJfYmV0X2xvZ1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAncmVjb3JkX2lkJzogMTAwLAo=</text>
+      <register name="0" type="4">
+        <text>'pay_type'</text>
       </register>
       <register name="p" type="4">
         <text />
