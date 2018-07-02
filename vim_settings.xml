@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/model.py" timestamp="1530170966468">
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/model.py" timestamp="1530496677466">
         <mark key="'" line="93" column="6" />
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="26" column="8" />
+        <mark key="[" line="108" column="4" />
+        <mark key="]" line="108" column="15" />
         <mark key="." line="51" column="17" />
         <mark key="^" line="54" column="69" />
       </file>
@@ -326,8 +326,8 @@
       <jump line="84" column="48" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/timer/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF9MT0dHRVIuaW5mbygndW5pb25hZ2VuY3kgY3JlYXRlIGNoYXJnZSBwYXJhbWV0ZXJzOiAlcycgJSBwYXJhbWV0ZXJfZGljdCkK</text>
+      <register name="&quot;" type="4">
+        <text>check_status</text>
       </register>
       <register name="-" type="4">
         <text>pay_type</text>
@@ -335,8 +335,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxfTE9HR0VSXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBlcnIuUGFyYW1FcnJvcigncGF5X3R5cGUgaW52YWxpZCcpCg==</text>
+      <register name="0" type="4">
+        <text>check_status</text>
       </register>
       <register name="p" type="4">
         <text />
