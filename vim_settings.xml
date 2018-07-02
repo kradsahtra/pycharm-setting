@@ -10,11 +10,11 @@
         <mark key="." line="51" column="17" />
         <mark key="^" line="54" column="69" />
       </file>
-      <file name="/a.dummy" timestamp="1530503227597">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="0" column="21" />
-        <mark key="." line="0" column="22" />
+      <file name="/a.dummy" timestamp="1530513961087">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/view.py" timestamp="1530345713529">
         <mark key="'" line="0" column="0" />
@@ -109,19 +109,19 @@
         <mark key="^" line="168" column="42" />
         <mark key="." line="169" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/hera/hera/hera/apps/users/view/transaction.py" timestamp="1530503391654">
-        <mark key="'" line="105" column="4" />
-        <mark key="[" line="90" column="57" />
-        <mark key="]" line="90" column="57" />
-        <mark key="^" line="106" column="21" />
-        <mark key="." line="90" column="57" />
+      <file name="$USER_HOME$/workspace/hera/hera/hera/apps/users/view/transaction.py" timestamp="1530514000495">
+        <mark key="'" line="8" column="65" />
+        <mark key="[" line="117" column="48" />
+        <mark key="]" line="117" column="51" />
+        <mark key="^" line="117" column="51" />
+        <mark key="." line="117" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/hera/hera/hera/apps/users/model/transaction.py" timestamp="1530503314068">
-        <mark key="'" line="64" column="6" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="21" />
-        <mark key="." line="24" column="15" />
-        <mark key="^" line="24" column="15" />
+      <file name="$USER_HOME$/workspace/hera/hera/hera/apps/users/model/transaction.py" timestamp="1530513975532">
+        <mark key="'" line="65" column="6" />
+        <mark key="[" line="29" column="7" />
+        <mark key="]" line="29" column="9" />
+        <mark key="." line="29" column="9" />
+        <mark key="^" line="29" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/common/withdraw/unionagency_withdraw.py" timestamp="1530256849138">
         <mark key="'" line="22" column="0" />
@@ -139,7 +139,7 @@
         <mark key="^" line="48" column="27" />
         <mark key="." line="48" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530346644549">
+      <file name="/Dummy.txt" timestamp="1530514350079">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="7" />
@@ -190,9 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="16" filename="$USER_HOME$/workspace/hera/showhand/settings_prod1.py" />
-      <jump line="16" column="49" filename="$USER_HOME$/workspace/hera/showhand/robot_processor.py" />
-      <jump line="33" column="49" filename="$USER_HOME$/workspace/hera/showhand/proxy_client.py" />
       <jump line="113" column="4" filename="$USER_HOME$/workspace/hera/showhand/cache/event.py" />
       <jump line="651" column="49" filename="$USER_HOME$/workspace/hera/showhand/cache/event.py" />
       <jump line="53" column="9" filename="$USER_HOME$/workspace/hera/showhand/settings_hera_prod1.py" />
@@ -290,19 +287,22 @@
       <jump line="97" column="26" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/transaction/model.py" />
       <jump line="56" column="15" filename="$USER_HOME$/workspace/hera/hera/hera/apps/users/service/transaction.py" />
       <jump line="168" column="24" filename="$USER_HOME$/workspace/hera/hera/hera/tools/test_api.py" />
+      <jump line="94" column="23" filename="$USER_HOME$/workspace/hera/hera/hera/apps/users/view/transaction.py" />
+      <jump line="117" column="23" filename="$USER_HOME$/workspace/hera/hera/hera/apps/users/view/transaction.py" />
+      <jump line="8" column="65" filename="$USER_HOME$/workspace/hera/hera/hera/apps/users/view/transaction.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1029325</text>
+        <text>title</text>
       </register>
       <register name="-" type="4">
-        <text>1029325</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfTE9HR0VSXD4=</text>
+        <text encoding="base64">XDxUWVBFX1RPX0dBTUVfSURcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>GAME_ID_TO_CREDIT_TYPE</text>
+        <text>801</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -342,9 +342,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfTE9HR0VSXD4=</last-search>
+      <last-search encoding="base64">XDxUWVBFX1RPX0dBTUVfSURcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfTE9HR0VSXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxUWVBFX1RPX0dBTUVfSURcPg==</last-pattern>
       <last-replace>track</last-replace>
       <last-substitute>win</last-substitute>
       <last-dir>1</last-dir>
@@ -352,7 +352,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
         <entry encoding="base64">XDxEZWxheVRhc2tcPg==</entry>
         <entry encoding="base64">XDxEZWxheUJlZ2luXD4=</entry>
         <entry encoding="base64">XDxvbl9tZXNzYWdlXD4=</entry>
@@ -372,6 +371,7 @@
         <entry encoding="base64">XDx1c2VyX2lkXD4=</entry>
         <entry encoding="base64">XDx0ZXN0X3F1ZXJ5X3VzZXJfYmV0X2xvZ1w+</entry>
         <entry encoding="base64">XDxfTE9HR0VSXD4=</entry>
+        <entry encoding="base64">XDxUWVBFX1RPX0dBTUVfSURcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>118</entry>
