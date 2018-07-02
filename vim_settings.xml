@@ -16,6 +16,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_online.py" timestamp="1530519572795">
+        <mark key="[" line="45" column="37" />
+        <mark key="]" line="45" column="56" />
+        <mark key="." line="45" column="37" />
+        <mark key="^" line="44" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/view.py" timestamp="1530345713529">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="301" column="43" />
@@ -155,6 +161,11 @@
         <mark key="^" line="167" column="24" />
         <mark key="." line="167" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_test.py" timestamp="1530519417693">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="41" column="71" />
+      </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/deploy/online/deploy.yaml" timestamp="1530519348507" />
       <file name="$USER_HOME$/workspace/hera/hera/hera/apps/users/model/account.py" timestamp="1530265973687">
         <mark key="[" line="43" column="6" />
         <mark key="]" line="43" column="17" />
@@ -185,11 +196,6 @@
         <mark key="]" line="15" column="30" />
         <mark key="." line="17" column="47" />
         <mark key="^" line="17" column="47" />
-      </file>
-      <file name="$USER_HOME$/workspace/hera/showhand/models/credit.py" timestamp="1530264305058">
-        <mark key="'" line="25" column="29" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="37" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -296,16 +302,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>title</text>
+        <text>13.250.105.3</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>13.250.105.3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUWVBFX1RPX0dBTUVfSURcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>801</text>
+        <text>183.60.211.195:9001</text>
       </register>
       <register name="p" type="4">
         <text />
