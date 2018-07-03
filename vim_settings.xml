@@ -145,10 +145,11 @@
         <mark key="." line="20" column="17" />
         <mark key="^" line="76" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_online.py" timestamp="1530525802420">
-        <mark key="[" line="53" column="27" />
-        <mark key="]" line="53" column="40" />
-        <mark key="." line="53" column="40" />
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_online.py" timestamp="1530611027583">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="45" column="37" />
+        <mark key="]" line="45" column="51" />
+        <mark key="." line="45" column="37" />
         <mark key="^" line="53" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/hera/showhand/handlers/table.py" timestamp="1529919515451">
@@ -239,6 +240,9 @@
         <mark key="." line="146" column="34" />
         <mark key="^" line="146" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/preset/handler.py" timestamp="1530611009885">
+        <mark key="'" line="135" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/admin/urls.py" timestamp="1530171932913">
         <mark key="[" line="169" column="48" />
         <mark key="]" line="169" column="69" />
@@ -285,7 +289,7 @@
         <mark key="." line="42" column="27" />
         <mark key="^" line="42" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530586878644">
+      <file name="/Dummy.txt" timestamp="1530611029285">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="7" />
@@ -312,10 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/hera/showhand/handlers/table.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/hera/showhand/handlers/table.py" />
-      <jump line="2052" column="33" filename="$USER_HOME$/workspace/hera/showhand/cache/event.py" />
-      <jump line="760" column="10" filename="$USER_HOME$/workspace/hera/showhand/cache/event.py" />
       <jump line="774" column="10" filename="$USER_HOME$/workspace/hera/showhand/cache/event.py" />
       <jump line="35" column="0" filename="$USER_HOME$/workspace/hera/showhand/cache/event.py" />
       <jump line="170" column="22" filename="$USER_HOME$/workspace/hera/showhand/cache/event.py" />
@@ -412,19 +412,23 @@
       <jump line="42" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/common/lottery/cyclical/abstract/order.py" />
       <jump line="32" column="12" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/admin/views/order.py" />
       <jump line="33" column="29" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/admin/views/order.py" />
+      <jump line="135" column="40" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/api/preset/handler.py" />
+      <jump line="41" column="72" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_online.py" />
+      <jump line="46" column="27" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_online.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/witch/bigbang/bigbang/base/settings_online.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>183.60.211.195</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>183.60.211.195</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcmRlcl9kZXRhaWxcPg==</text>
+        <text encoding="base64">XDxVTklPTkFHRU5DWV9HQVRFV0FZX1VSTF9WMlw+</text>
       </register>
       <register name="0" type="4">
-        <text>CAN_BE_BACK_STATUS</text>
+        <text>183.60.211.151</text>
       </register>
       <register name="p" type="4">
         <text />
@@ -464,9 +468,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcmRlcl9kZXRhaWxcPg==</last-search>
+      <last-search encoding="base64">XDxVTklPTkFHRU5DWV9HQVRFV0FZX1VSTF9WMlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcmRlcl9kZXRhaWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxVTklPTkFHRU5DWV9HQVRFV0FZX1VSTF9WMlw+</last-pattern>
       <last-replace>track</last-replace>
       <last-substitute>win</last-substitute>
       <last-dir>1</last-dir>
@@ -474,7 +478,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxST09NX0tFWVw+</entry>
         <entry encoding="base64">XDxBTExPQ19UQUJMRV9DT1VOVF9QRVJfUk9PTVw+</entry>
         <entry encoding="base64">XDxUQUJMRV9LRVlcPg==</entry>
         <entry encoding="base64">XDxVU0VSX1RBQkxFX0tFWVw+</entry>
@@ -494,6 +497,7 @@
         <entry encoding="base64">XDxPUkRFUl9TVEFUVVNcPg==</entry>
         <entry encoding="base64">XDxNQVhfUFJJWkVcPg==</entry>
         <entry encoding="base64">XDxvcmRlcl9kZXRhaWxcPg==</entry>
+        <entry encoding="base64">XDxVTklPTkFHRU5DWV9HQVRFV0FZX1VSTF9WMlw+</entry>
       </history-search>
       <history-cmd>
         <entry>118</entry>
