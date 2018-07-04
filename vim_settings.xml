@@ -159,12 +159,12 @@
         <mark key="^" line="145" column="50" />
         <mark key="." line="145" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/view.py" timestamp="1530345713529">
+      <file name="$USER_HOME$/workspace/witch/bigbang/bigbang/api/transaction/view.py" timestamp="1530676818329">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="301" column="43" />
-        <mark key="]" line="301" column="53" />
-        <mark key="." line="301" column="53" />
-        <mark key="^" line="301" column="53" />
+        <mark key="[" line="88" column="30" />
+        <mark key="]" line="88" column="37" />
+        <mark key="." line="88" column="37" />
+        <mark key="^" line="88" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/hera/hera/hera/apps/users/view/account.py" timestamp="1530237535187">
         <mark key="[" line="49" column="46" />
@@ -419,16 +419,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>183.60.211.195</text>
+        <text>提现金额需为10的整数倍</text>
       </register>
       <register name="-" type="4">
-        <text>183.60.211.195</text>
+        <text>提现金额需为10的整数倍</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVTklPTkFHRU5DWV9HQVRFV0FZX1VSTF9WMlw+</text>
       </register>
       <register name="0" type="4">
-        <text>183.60.211.151</text>
+        <text>max_withdraw</text>
       </register>
       <register name="p" type="4">
         <text />
